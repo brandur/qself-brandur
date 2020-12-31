@@ -1,21 +1,5 @@
 
 [[books]]
-  id = 838729
-  isbn = "0345240340"
-  isbn13 = "9780345240347"
-  num_pages = 385
-  published_year = 1974
-  rating = 4
-  read_at = 2018-11-26T00:00:00-08:00
-  review = ""
-  review_id = 3730827637
-  title = "The Return of the King (The Lord of the Rings, #3)"
-
-  [[books.authors]]
-    id = 656983
-    name = "J.R.R. Tolkien"
-
-[[books]]
   id = 41810276
   isbn = "1948226197"
   isbn13 = "9781948226196"
@@ -1062,7 +1046,7 @@
   num_pages = 404
   published_year = 2003
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-11-26T00:00:00-08:00
   review = ""
   review_id = 2612599286
   title = "The Return of the King (The Lord of the Rings, #3)"
@@ -1158,7 +1142,7 @@
   num_pages = 604
   published_year = 2006
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-10-24T00:00:00-07:00
   review = ""
   review_id = 2572469497
   title = "Dune (Dune Chronicles, #1)"
@@ -1174,7 +1158,7 @@
   num_pages = 0
   published_year = 2018
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-10-08T00:00:00-07:00
   review = ""
   review_id = 2557192390
   title = "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence"
@@ -1190,7 +1174,7 @@
   num_pages = 322
   published_year = 2003
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-09-26T00:00:00-07:00
   review = ""
   review_id = 2550482763
   title = "The Two Towers (The Lord of the Rings, #2)"
@@ -1206,7 +1190,7 @@
   num_pages = 352
   published_year = 2009
   rating = 1
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-10-20T00:00:00-07:00
   review = ""
   review_id = 2539728790
   title = "I'm Off Then: Losing and Finding Myself on the Camino de Santiago"
@@ -1238,7 +1222,7 @@
   num_pages = 422
   published_year = 2013
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-09-22T00:00:00-07:00
   review = ""
   review_id = 2539708262
   title = "A Tale for the Time Being"
@@ -1254,7 +1238,7 @@
   num_pages = 206
   published_year = 2005
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-09-11T00:00:00-07:00
   review = ""
   review_id = 2527152365
   title = "An Artist of the Floating World"
@@ -1286,7 +1270,7 @@
   num_pages = 398
   published_year = 2003
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-08-20T00:00:00-07:00
   review = ""
   review_id = 2501411282
   title = "The Fellowship of the Ring (The Lord of the Rings, #1)"
@@ -1302,7 +1286,7 @@
   num_pages = 402
   published_year = 2009
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-08-14T00:00:00-07:00
   review = ""
   review_id = 2494508357
   title = "The Magicians (The Magicians, #1)"
@@ -1318,7 +1302,7 @@
   num_pages = 231
   published_year = 2010
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-06-26T00:00:00-07:00
   review = ""
   review_id = 2437151843
   title = "The Three Stigmata of Palmer Eldritch"
@@ -1334,7 +1318,7 @@
   num_pages = 0
   published_year = 2017
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-05-31T00:00:00-07:00
   review = "Worth the read for the many historical anecdotes that it covers, both from ancient history and that which is much more recent. Ferguson is an expert historian and it really comes through. His take on more modern events is also refreshingly pragmatic — he doesn't fall into the trap of expressing undue optimism about everything to be more palatable to the general public and sell more book copies. For example, the chapter that shows how states trend toward becoming heavily bureaucratic and thus capture monstrous amounts of potential productivity in massive overhead should be mandatory reading for anyone living in a democratic country.<br /><br />My one complaint about the book is by going back through many key historical events in history and retrofitting the \"hierarchy versus network\" dichotomy onto them, the author ends up cheapening his own ideas. Many of the comparisons feel forced and/or unnecessary."
   review_id = 2409692727
   title = "The Square and the Tower: Networks, Hierarchies and the Struggle for Global Power"
@@ -1350,7 +1334,7 @@
   num_pages = 0
   published_year = 0
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-05-25T00:00:00-07:00
   review = ""
   review_id = 2408949114
   title = "Clans of the Alphane Moon"
@@ -1366,7 +1350,7 @@
   num_pages = 160
   published_year = 2017
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-05-25T00:00:00-07:00
   review = "A well-written overview on why the current brand of liberalism are failing America and leading to more division instead of cooperation. Maybe the most interesting insight is that like some other societal mistakes in the past, identity politics is built around a policy of individualism that encourages abdication from any responsibility towards helping to create a greater good for all of a country's citizens."
   review_id = 2402294518
   title = "The Once and Future Liberal: After Identity Politics"
@@ -1382,7 +1366,7 @@
   num_pages = 336
   published_year = 2010
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-05-12T00:00:00-07:00
   review = "The ideas in this book are substantial. It combines a lot of classic themes from fantasy and science-fiction, but mixes in a healthy dose of original thinking. Unfortunately, something about the pacing is a little off, and I never got to the point where I was a reading it fluently. Its worse fault is its obfuscated prose — about 50 manufactured words are thrown at the reader right from the beginning (gogol, q-dot, Sobornost, quptlink, phoboi, tzaddikim, Oubliette, zoku, gevulot, etc.), and entire paragraphs are unintelligble. By the end of the book you've built up a rough feeling as to what most of it means, but even by then, the majority have never really been adequately explained. It's possible for a book to do a great job with some artificial vocabulary, but there's too much of it."
   review_id = 2389545874
   title = "The Quantum Thief (Jean le Flambeur, #1)"
@@ -1398,7 +1382,7 @@
   num_pages = 447
   published_year = 2015
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-04-30T00:00:00-07:00
   review = "A nice account of a life well-spent (and with a lot of surfing). I was impressed by how much of the book really is about the technical aspects and day-to-day experiences while surfing — often for books in its the genre it's just used as a pretext to tell other stories and talk about its culture."
   review_id = 2383572667
   title = "Barbarian Days: A Surfing Life"
@@ -1414,7 +1398,7 @@
   num_pages = 127
   published_year = 2016
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-03-18T00:00:00-07:00
   review = "A nice tiny book on a trip to Japan. The art's entertaining and the author obviously has a sharp sense of humor.<br /><br />I wasn't sure how to rate this one — it's clever, but there's not very much content here (it's more like a zine than a book), so I'm trying to keep an absolutel baseline relative to other books."
   review_id = 2333712624
   title = "Diary of a Tokyo Teen: A Japanese-American Girl Draws Her Way Across the Land of Trendy Fashion, High-Tech Toilets and Maid Cafes"
@@ -1430,7 +1414,7 @@
   num_pages = 604
   published_year = 2016
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-03-15T00:00:00-07:00
   review = "There's a good case to be made that the writing and characterization is a little weak, but the ideas presented are so all-encompassing and powerful that it's still a clear 5/5."
   review_id = 2328574044
   title = "Death's End (Remembrance of Earth’s Past #3)"
@@ -1446,7 +1430,7 @@
   num_pages = 224
   published_year = 2018
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-03-11T00:00:00-08:00
   review = ""
   review_id = 2328573615
   title = "Awakening Your Ikigai: How the Japanese Wake Up to Joy and Purpose Every Day"
@@ -1462,7 +1446,7 @@
   num_pages = 467
   published_year = 2006
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-08-04T00:00:00-07:00
   review = ""
   review_id = 2321903062
   title = "Kafka on the Shore"
@@ -1478,7 +1462,7 @@
   num_pages = 353
   published_year = 2002
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-06-19T00:00:00-07:00
   review = ""
   review_id = 2321902926
   title = "A Wild Sheep Chase (The Rat, #3)"
@@ -1494,7 +1478,7 @@
   num_pages = 607
   published_year = 1997
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-03-09T00:00:00-08:00
   review = "Quite an involved and confusing book, but I liked it. Murakami weaves a tapestry of strange history leading to supernatural phenomena that's engrained over generations. There is a lot of subtle detail and I didn't get all of it down, but unlike say, Infinite Jest, the reader is at least given a fighting chance of being able to unwind the backstory and build themselves a model of what happened and what's going on. The prose is beautiful and the pacing a marvel."
   review_id = 2321897577
   title = "The Wind-Up Bird Chronicle"
@@ -1510,7 +1494,7 @@
   num_pages = 694
   published_year = 2010
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-07-08T00:00:00-07:00
   review = ""
   review_id = 2321858199
   title = "The Evolutionary Void"
@@ -1526,7 +1510,7 @@
   num_pages = 160
   published_year = 2011
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-03-30T00:00:00-07:00
   review = "This is more of a guide than a book, but it was well researched and well assembled. There was a lot of information codified here that I'd only found out about painstakingly by other means. Recommended read as a travel guide to anyone thinking about visiting."
   review_id = 2321855603
   title = "A Geek in Japan: Discovering the Land of Manga, Anime, Zen, and the Tea Ceremony"
@@ -1542,7 +1526,7 @@
   num_pages = 169
   published_year = 1987
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-02-27T00:00:00-08:00
   review = ""
   review_id = 2310957741
   title = "The Experience of Insight: A Simple & Direct Guide to Buddhist Meditation"
@@ -1558,7 +1542,7 @@
   num_pages = 192
   published_year = 0
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-02-15T00:00:00-08:00
   review = ""
   review_id = 2310957122
   title = "A Book of Five Rings: The Classic Guide to Strategy"
@@ -1574,7 +1558,7 @@
   num_pages = 512
   published_year = 2015
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-01-27T00:00:00-08:00
   review = "Unbelievably imaginative — I'm still reeling thinking about the repercussions of the universal axioms dictated in the book. As with some other hard science-fiction, characters can be somewhat one-dimensional, but this book is worth it for the ideas alone."
   review_id = 2274813871
   title = "The Dark Forest (Remembrance of Earth’s Past, #2)"
@@ -1590,7 +1574,7 @@
   num_pages = 399
   published_year = 2004
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2017-12-16T00:00:00-08:00
   review = ""
   review_id = 2216286839
   title = "Rising Sun"
@@ -1782,7 +1766,7 @@
   num_pages = 256
   published_year = 2016
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-02-03T00:00:00-08:00
   review = "Gravel does a nice job of framing the problem around urban sprawl and how it's going to become an increasingly important problem for North America in terms of greater commute times, worse physiological and psychological health, and producing places in abundance that no one wants to be.<br /><br />He walks through the history of the Atlantia BeltLine and how it was possible to generate the political will to get the project off the ground. He also goes into some interesting details around comparable projects in New York, Paris, and even Houston.<br /><br />I downrated it a little bit because while talking about specific projects was interesting and the despite the project's broad thesis, he doesn't present a cohesive strategy that will do anything than apply a few bandaids on a problem of true national scale."
   review_id = 2013790943
   title = "Where We Want to Live: Reclaiming Infrastructure for a New Generation of Cities"
@@ -2118,7 +2102,7 @@
   num_pages = 540
   published_year = 2006
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-06-08T00:00:00-07:00
   review = "Contrary to expectations, this one didn't really do much for me — it seems to require a much deeper appreciation of philosophy, or at least willingness to suspend disbelief and take large bodies of invented concepts as objective truth.<br /><br />The core idea of the book is one of \"quality\", which is a normal word that the author has adopted, counterintuitively redefined as a metaphysical concept that's impossible for science to measure (see a rundown at [1]), and then dives into at great length, building layer upon layer of new invented ideas and concreting them as philosophical absolutes. I suspect for most analytical minds, a lot of what's written here will be somewhat difficult to accept at face value.<br /><br />[1] <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Pirsig%27s_metaphysics_of_Quality\" rel=\"nofollow noopener\">https://en.wikipedia.org/wiki/Pirsig%...</a>"
   review_id = 1673469203
   title = "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)"
@@ -2230,7 +2214,7 @@
   num_pages = 801
   published_year = 2001
   rating = 1
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-05-16T00:00:00-07:00
   review = "Dhalgren has the special distinction of being the worst book I've ever read — and not even by a little bit, but by a lot. Twenty pages in I could tell that I wanted to quit, but kept going. Fifty pages in I was bored. A hundred pages in, my stomach was churning. Two hundred pages in, I was disgusted. Five hundred pages in, I'd reached a state of zen wherein my eyes skimmed hundreds of words per minute of the most contemptible prose ever committed to paper, while still maintaining some semblance of mental integrity.<br /><br />Dhalgren is proof that no matter how bad a book is, there will be self-proclaimed aficionados who will champion it as great literature only because it's so dense that it's inaccessible to the majority of the population. It's not about the quality of text, it's about how being in an appreciating minority unlocks access to a feeling of exclusive superiority. Dhalgren doesn't have a single redeeming quality — there's no cohesive plot, no moment of awe at it comes to a conclusion, not a single interesting character, and the only word that can be accurately applied to describe the dialog throughout is \"garbage\".<br /><br />Here's some of the most practical good advice that you'll get in your lifetime: read the plot synopsis in Wikipedia, and stop there. It's actually a little on the long side because every one of the book's original ideas can be easily summed up in three sentences. Use the dozens of hours you saved yourself from slogging through 800+ pages of one of the worst books ever written to do literally anything else: make love, write your novel, run a marathon, go to the gym. Or not. Spend the time playing video games, curating your bottle cap collection, watching mind-numbing reality TV, or just staring up at the sky and likening the shape of clouds to Simpsons characters, and it will still have been put to use infinitely more wisely than reading Dhalgren."
   review_id = 1657821848
   title = "Dhalgren"
@@ -2502,7 +2486,7 @@
   num_pages = 258
   published_year = 2005
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-09-18T00:00:00-07:00
   review = ""
   review_id = 1359194010
   title = "The Remains of the Day"
@@ -2870,7 +2854,7 @@
   num_pages = 1246
   published_year = 1975
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-08-12T00:00:00-07:00
   review = ""
   review_id = 865576237
   title = "The Power Broker: Robert Moses and the Fall of New York"
@@ -3302,7 +3286,7 @@
   num_pages = 467
   published_year = 2007
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2018-09-08T00:00:00-07:00
   review = "Almost certainly the most beautifully assembled book I've ever seen. I didn't find anything truly revolutionary in its pages, but there's detail on lots of great art projects, and some interesting deliberation on the nature, history, and future of design closer to the end."
   review_id = 486977923
   title = "Designing Design"
