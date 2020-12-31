@@ -1015,7 +1015,7 @@
   published_year = 2018
   rating = 3
   read_at = 2018-12-19T00:00:00-08:00
-  review = "Similar to previous Basecamp books — interesting, and with some very inspirational and thought-provoking ideas, but also mixed with some advice that's more dubious (sweeping generalizations for something that may be either not repeatable or not broadly applicable).<br /><br />Still, Fried and DHH seem to be some of the few corporate leaders in the world who are trying to build a company that aims to be efficient and sustainable. Most others seem to be chasing much more questionable values like maintaining an illusion of work that's really just frantic busy-ness, or hyper-growth-at-all-costs which leads to a top-heavy pyramid that's 95% communication and 5% productive progress. I, for one, appreciate that."
+  review = "Similar to previous Basecamp books — interesting, and with some very inspirational and thought-provoking ideas, but also mixed with some advice that's more dubious (sweeping generalizations for something that may be either not repeatable or not broadly applicable).\n\nStill, Fried and DHH seem to be some of the few corporate leaders in the world who are trying to build a company that aims to be efficient and sustainable. Most others seem to be chasing much more questionable values like maintaining an illusion of work that's really just frantic busy-ness, or hyper-growth-at-all-costs which leads to a top-heavy pyramid that's 95% communication and 5% productive progress. I, for one, appreciate that."
   review_id = 2632251535
   title = "It Doesn't Have to Be Crazy at Work"
 
@@ -1319,7 +1319,7 @@
   published_year = 2017
   rating = 3
   read_at = 2018-05-31T00:00:00-07:00
-  review = "Worth the read for the many historical anecdotes that it covers, both from ancient history and that which is much more recent. Ferguson is an expert historian and it really comes through. His take on more modern events is also refreshingly pragmatic — he doesn't fall into the trap of expressing undue optimism about everything to be more palatable to the general public and sell more book copies. For example, the chapter that shows how states trend toward becoming heavily bureaucratic and thus capture monstrous amounts of potential productivity in massive overhead should be mandatory reading for anyone living in a democratic country.<br /><br />My one complaint about the book is by going back through many key historical events in history and retrofitting the \"hierarchy versus network\" dichotomy onto them, the author ends up cheapening his own ideas. Many of the comparisons feel forced and/or unnecessary."
+  review = "Worth the read for the many historical anecdotes that it covers, both from ancient history and that which is much more recent. Ferguson is an expert historian and it really comes through. His take on more modern events is also refreshingly pragmatic — he doesn't fall into the trap of expressing undue optimism about everything to be more palatable to the general public and sell more book copies. For example, the chapter that shows how states trend toward becoming heavily bureaucratic and thus capture monstrous amounts of potential productivity in massive overhead should be mandatory reading for anyone living in a democratic country.\n\nMy one complaint about the book is by going back through many key historical events in history and retrofitting the \"hierarchy versus network\" dichotomy onto them, the author ends up cheapening his own ideas. Many of the comparisons feel forced and/or unnecessary."
   review_id = 2409692727
   title = "The Square and the Tower: Networks, Hierarchies and the Struggle for Global Power"
 
@@ -1399,7 +1399,7 @@
   published_year = 2016
   rating = 2
   read_at = 2018-03-18T00:00:00-07:00
-  review = "A nice tiny book on a trip to Japan. The art's entertaining and the author obviously has a sharp sense of humor.<br /><br />I wasn't sure how to rate this one — it's clever, but there's not very much content here (it's more like a zine than a book), so I'm trying to keep an absolutel baseline relative to other books."
+  review = "A nice tiny book on a trip to Japan. The art's entertaining and the author obviously has a sharp sense of humor.\n\nI wasn't sure how to rate this one — it's clever, but there's not very much content here (it's more like a zine than a book), so I'm trying to keep an absolutel baseline relative to other books."
   review_id = 2333712624
   title = "Diary of a Tokyo Teen: A Japanese-American Girl Draws Her Way Across the Land of Trendy Fashion, High-Tech Toilets and Maid Cafes"
 
@@ -1623,7 +1623,7 @@
   published_year = 2014
   rating = 3
   read_at = 2017-11-04T00:00:00-07:00
-  review = "Certainly a very important book: Harris describes the important concept that it's possible to tease the practical gems out of religions that also prescribe a lot of anti-intellectual mumbo jumbo. Meditation is discussed in depth, along with what we understand about how it affects the brain. There's a short part at the end where he talks about his experiences with LSD, and this sort of content always interesting.<br /><br />My only complaint about the book is that a fair bit of material that didn't really need to be in there was added so that it could hit the 200-page mark. It probably would have been more impacting as 50 pages worth of thematically-related essays."
+  review = "Certainly a very important book: Harris describes the important concept that it's possible to tease the practical gems out of religions that also prescribe a lot of anti-intellectual mumbo jumbo. Meditation is discussed in depth, along with what we understand about how it affects the brain. There's a short part at the end where he talks about his experiences with LSD, and this sort of content always interesting.\n\nMy only complaint about the book is that a fair bit of material that didn't really need to be in there was added so that it could hit the 200-page mark. It probably would have been more impacting as 50 pages worth of thematically-related essays."
   review_id = 2174061646
   title = "Waking Up: A Guide to Spirituality Without Religion"
 
@@ -1671,7 +1671,7 @@
   published_year = 2016
   rating = 4
   read_at = 2017-08-11T00:00:00-07:00
-  review = "The conclusions here are dead on — spend more time working deeply, and less on busywork. In the age of Slack, social media, and email it's a lesson that all of us could use. His recommendations aren't going to be easy to follow, but at least they're mostly actionable.<br /><br />My only critique is that the book probably would have been a lot more impactful at half the length, but it's still a pretty accessible read."
+  review = "The conclusions here are dead on — spend more time working deeply, and less on busywork. In the age of Slack, social media, and email it's a lesson that all of us could use. His recommendations aren't going to be easy to follow, but at least they're mostly actionable.\n\nMy only critique is that the book probably would have been a lot more impactful at half the length, but it's still a pretty accessible read."
   review_id = 2089807724
   title = "Deep Work: Rules for Focused Success in a Distracted World"
 
@@ -1687,7 +1687,7 @@
   published_year = 2017
   rating = 2
   read_at = 2017-08-02T00:00:00-07:00
-  review = "\"Walkaway\" is further proof that nobody thinks about the future like Cory Doctorow does. The imagined future isn't just possible, but feels within reach, and is modeled on a trajectory that originates from the author's keen sense of technology today. Many of its elements are pulled directly from ideas that we have today like wikis, anonymizers, version control, gamification, etc. and extended to produce an impressive vista that manages to be both utopian and dystopian at the same time.<br /><br />I'm giving it a lower rating mostly because all the characters are so insufferable. The highly embellished banter gets tiring to read after a while, and you just find yourself wishing that Cory would pick up a few habits from Cormac McCarthy. The book is also heavy handed on political statements: everyone's on the LGBT spectrum, and every female character is a Mary Sue incarnate. It's not the worst thing in the world, but it all comes off quite contrived."
+  review = "\"Walkaway\" is further proof that nobody thinks about the future like Cory Doctorow does. The imagined future isn't just possible, but feels within reach, and is modeled on a trajectory that originates from the author's keen sense of technology today. Many of its elements are pulled directly from ideas that we have today like wikis, anonymizers, version control, gamification, etc. and extended to produce an impressive vista that manages to be both utopian and dystopian at the same time.\n\nI'm giving it a lower rating mostly because all the characters are so insufferable. The highly embellished banter gets tiring to read after a while, and you just find yourself wishing that Cory would pick up a few habits from Cormac McCarthy. The book is also heavy handed on political statements: everyone's on the LGBT spectrum, and every female character is a Mary Sue incarnate. It's not the worst thing in the world, but it all comes off quite contrived."
   review_id = 2082541738
   title = "Walkaway"
 
@@ -1767,7 +1767,7 @@
   published_year = 2016
   rating = 3
   read_at = 2018-02-03T00:00:00-08:00
-  review = "Gravel does a nice job of framing the problem around urban sprawl and how it's going to become an increasingly important problem for North America in terms of greater commute times, worse physiological and psychological health, and producing places in abundance that no one wants to be.<br /><br />He walks through the history of the Atlantia BeltLine and how it was possible to generate the political will to get the project off the ground. He also goes into some interesting details around comparable projects in New York, Paris, and even Houston.<br /><br />I downrated it a little bit because while talking about specific projects was interesting and the despite the project's broad thesis, he doesn't present a cohesive strategy that will do anything than apply a few bandaids on a problem of true national scale."
+  review = "Gravel does a nice job of framing the problem around urban sprawl and how it's going to become an increasingly important problem for North America in terms of greater commute times, worse physiological and psychological health, and producing places in abundance that no one wants to be.\n\nHe walks through the history of the Atlantia BeltLine and how it was possible to generate the political will to get the project off the ground. He also goes into some interesting details around comparable projects in New York, Paris, and even Houston.\n\nI downrated it a little bit because while talking about specific projects was interesting and the despite the project's broad thesis, he doesn't present a cohesive strategy that will do anything than apply a few bandaids on a problem of true national scale."
   review_id = 2013790943
   title = "Where We Want to Live: Reclaiming Infrastructure for a New Generation of Cities"
 
@@ -2007,7 +2007,7 @@
   published_year = 2007
   rating = 3
   read_at = 2016-07-05T00:00:00-07:00
-  review = "A fun photo tour of some of the well-known inns built around hot springs in Japan. Looking through the book and admiring the beauty of these locations is a truly serene experience, but a word of warning: cross-referencing inn names with prices on hotels.com can have the opposite effect.<br /><br />The book is about what you'd expect. It's only marred by a few pages where some low resolution photography has been blown up beyond its usable limits to create some very grainy landscapes.<br />"
+  review = "A fun photo tour of some of the well-known inns built around hot springs in Japan. Looking through the book and admiring the beauty of these locations is a truly serene experience, but a word of warning: cross-referencing inn names with prices on hotels.com can have the opposite effect.\n\nThe book is about what you'd expect. It's only marred by a few pages where some low resolution photography has been blown up beyond its usable limits to create some very grainy landscapes."
   review_id = 1689469395
   title = "Ryokan: Japan's Finest Spas and Inns"
 
@@ -2023,7 +2023,7 @@
   published_year = 2004
   rating = 4
   read_at = 2016-07-06T16:58:29-07:00
-  review = "A solid book that people of all experience levels will learn at least something from. I found it especially useful for solidifying some of my network and assembly fundamentals.<br /><br />One thing to note is that the exploits in the book are generally not very useful in the modern world, most of them are only useful for attacking C/C++-based programs, or programs on old versions of the Linux kernel, or wireless encryption systems that no one uses anymore, but they can still be treated as useful building blocks."
+  review = "A solid book that people of all experience levels will learn at least something from. I found it especially useful for solidifying some of my network and assembly fundamentals.\n\nOne thing to note is that the exploits in the book are generally not very useful in the modern world, most of them are only useful for attacking C/C++-based programs, or programs on old versions of the Linux kernel, or wireless encryption systems that no one uses anymore, but they can still be treated as useful building blocks."
   review_id = 1678958741
   title = "Hacking: The Art of Exploitation"
 
@@ -2039,7 +2039,7 @@
   published_year = 1996
   rating = 3
   read_at = 2016-06-24T15:09:01-07:00
-  review = "A useful read, but a little repetitive in some places (e.g. a definition of “mindfulness” that was thousands of words long but was so abstract that it managed to say very little) and light in content in others (e.g. what to actually do and focus on during a meditation session).<br /><br />I was also little turned off by how mystical it got in a few places. For example, a passage in the opening chapter instructs the reader not to worry about it too much if they accidentally stumble across images from past lives; those techniques will be explored later as the disciple gains more experience in the art.<br /><br />Other than that though, I found it constructive to think about some of the ideas it introduced, and will try to integrate some of them as I continue to try and develop this good habit."
+  review = "A useful read, but a little repetitive in some places (e.g. a definition of “mindfulness” that was thousands of words long but was so abstract that it managed to say very little) and light in content in others (e.g. what to actually do and focus on during a meditation session).\n\nI was also little turned off by how mystical it got in a few places. For example, a passage in the opening chapter instructs the reader not to worry about it too much if they accidentally stumble across images from past lives; those techniques will be explored later as the disciple gains more experience in the art.\n\nOther than that though, I found it constructive to think about some of the ideas it introduced, and will try to integrate some of them as I continue to try and develop this good habit."
   review_id = 1676685594
   title = "Mindfulness in Plain English"
 
@@ -2055,7 +2055,7 @@
   published_year = 2009
   rating = 4
   read_at = 2016-06-22T00:00:00-07:00
-  review = "Excellent set of succinct rules on _what_ and _how_ to eat. You'll find yourself nodding your head while reading because most of it is common sense once given appropriate thought, but even so, it's useful to have a list of best practices codified in this manner. Good nutrition is far from the default in our society because every aspect of its framework incentives the opposite.<br /><br />I'd rate this 5/5, except that it's very short (I read it in about 30 minutes at a modest pace). It's probably worth the sticker price, but may not be good value relative to other works of well researched non-fiction in longer form."
+  review = "Excellent set of succinct rules on _what_ and _how_ to eat. You'll find yourself nodding your head while reading because most of it is common sense once given appropriate thought, but even so, it's useful to have a list of best practices codified in this manner. Good nutrition is far from the default in our society because every aspect of its framework incentives the opposite.\n\nI'd rate this 5/5, except that it's very short (I read it in about 30 minutes at a modest pace). It's probably worth the sticker price, but may not be good value relative to other works of well researched non-fiction in longer form."
   review_id = 1676515911
   title = "Food Rules: An Eater's Manual"
 
@@ -2103,7 +2103,7 @@
   published_year = 2006
   rating = 2
   read_at = 2018-06-08T00:00:00-07:00
-  review = "Contrary to expectations, this one didn't really do much for me — it seems to require a much deeper appreciation of philosophy, or at least willingness to suspend disbelief and take large bodies of invented concepts as objective truth.<br /><br />The core idea of the book is one of \"quality\", which is a normal word that the author has adopted, counterintuitively redefined as a metaphysical concept that's impossible for science to measure (see a rundown at [1]), and then dives into at great length, building layer upon layer of new invented ideas and concreting them as philosophical absolutes. I suspect for most analytical minds, a lot of what's written here will be somewhat difficult to accept at face value.<br /><br />[1] <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Pirsig%27s_metaphysics_of_Quality\" rel=\"nofollow noopener\">https://en.wikipedia.org/wiki/Pirsig%...</a>"
+  review = "Contrary to expectations, this one didn't really do much for me — it seems to require a much deeper appreciation of philosophy, or at least willingness to suspend disbelief and take large bodies of invented concepts as objective truth.\n\nThe core idea of the book is one of \"quality\", which is a normal word that the author has adopted, counterintuitively redefined as a metaphysical concept that's impossible for science to measure (see a rundown at [1]), and then dives into at great length, building layer upon layer of new invented ideas and concreting them as philosophical absolutes. I suspect for most analytical minds, a lot of what's written here will be somewhat difficult to accept at face value.\n\n[1] https://en.wikipedia.org/wiki/Pirsig%27s_metaphysics_of_Quality"
   review_id = 1673469203
   title = "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)"
 
@@ -2119,7 +2119,7 @@
   published_year = 2012
   rating = 3
   read_at = 2016-06-22T16:59:07-07:00
-  review = "A pretty good story written by an author who was obviously knowledgeable on a wide number of different topics in literature, history, and psychology, and who wasn't shy to write many of them into the book. The reveal at the end wasn't particularly surprising, but was plausible enough to be satisfactory.<br /><br />Its major weaknesses are that it doesn't come out anywhere near as philosophically important as the author would have liked it to be, and many of the tropes that are used unironically are almost comically overplayed (for example, the Bond-esque \"let me tell you all about my master plan\" villain)."
+  review = "A pretty good story written by an author who was obviously knowledgeable on a wide number of different topics in literature, history, and psychology, and who wasn't shy to write many of them into the book. The reveal at the end wasn't particularly surprising, but was plausible enough to be satisfactory.\n\nIts major weaknesses are that it doesn't come out anywhere near as philosophically important as the author would have liked it to be, and many of the tropes that are used unironically are almost comically overplayed (for example, the Bond-esque \"let me tell you all about my master plan\" villain)."
   review_id = 1673468575
   title = "Genocidal Organ"
 
@@ -2183,7 +2183,7 @@
   published_year = 2015
   rating = 2
   read_at = 2016-06-09T00:00:00-07:00
-  review = "The book's strongest point is that it takes place in an original and interesting fantasy world, and its narrative does a good job of progressively leading the reader further into it.<br /><br />However, the world feels empty in that only the main characters and a handful of others are ever shown, and overall the setting is wide, but shallow. All the characters (including the main characters) are the same in that they don't have a lot of depth beyond their basic archetypes.<br /><br />The Fifth Season's biggest problem by far though is that there's no climax or follow through. We get a lot of action throughout, but then an abrupt ending that doesn't tie up the story's basic premise; presumably as a not-so-subtle hint to the reader to buy the next book if they want closure."
+  review = "The book's strongest point is that it takes place in an original and interesting fantasy world, and its narrative does a good job of progressively leading the reader further into it.\n\nHowever, the world feels empty in that only the main characters and a handful of others are ever shown, and overall the setting is wide, but shallow. All the characters (including the main characters) are the same in that they don't have a lot of depth beyond their basic archetypes.\n\nThe Fifth Season's biggest problem by far though is that there's no climax or follow through. We get a lot of action throughout, but then an abrupt ending that doesn't tie up the story's basic premise; presumably as a not-so-subtle hint to the reader to buy the next book if they want closure."
   review_id = 1664759358
   title = "The Fifth Season (The Broken Earth, #1)"
 
@@ -2215,7 +2215,7 @@
   published_year = 2001
   rating = 1
   read_at = 2018-05-16T00:00:00-07:00
-  review = "Dhalgren has the special distinction of being the worst book I've ever read — and not even by a little bit, but by a lot. Twenty pages in I could tell that I wanted to quit, but kept going. Fifty pages in I was bored. A hundred pages in, my stomach was churning. Two hundred pages in, I was disgusted. Five hundred pages in, I'd reached a state of zen wherein my eyes skimmed hundreds of words per minute of the most contemptible prose ever committed to paper, while still maintaining some semblance of mental integrity.<br /><br />Dhalgren is proof that no matter how bad a book is, there will be self-proclaimed aficionados who will champion it as great literature only because it's so dense that it's inaccessible to the majority of the population. It's not about the quality of text, it's about how being in an appreciating minority unlocks access to a feeling of exclusive superiority. Dhalgren doesn't have a single redeeming quality — there's no cohesive plot, no moment of awe at it comes to a conclusion, not a single interesting character, and the only word that can be accurately applied to describe the dialog throughout is \"garbage\".<br /><br />Here's some of the most practical good advice that you'll get in your lifetime: read the plot synopsis in Wikipedia, and stop there. It's actually a little on the long side because every one of the book's original ideas can be easily summed up in three sentences. Use the dozens of hours you saved yourself from slogging through 800+ pages of one of the worst books ever written to do literally anything else: make love, write your novel, run a marathon, go to the gym. Or not. Spend the time playing video games, curating your bottle cap collection, watching mind-numbing reality TV, or just staring up at the sky and likening the shape of clouds to Simpsons characters, and it will still have been put to use infinitely more wisely than reading Dhalgren."
+  review = "Dhalgren has the special distinction of being the worst book I've ever read — and not even by a little bit, but by a lot. Twenty pages in I could tell that I wanted to quit, but kept going. Fifty pages in I was bored. A hundred pages in, my stomach was churning. Two hundred pages in, I was disgusted. Five hundred pages in, I'd reached a state of zen wherein my eyes skimmed hundreds of words per minute of the most contemptible prose ever committed to paper, while still maintaining some semblance of mental integrity.\n\nDhalgren is proof that no matter how bad a book is, there will be self-proclaimed aficionados who will champion it as great literature only because it's so dense that it's inaccessible to the majority of the population. It's not about the quality of text, it's about how being in an appreciating minority unlocks access to a feeling of exclusive superiority. Dhalgren doesn't have a single redeeming quality — there's no cohesive plot, no moment of awe at it comes to a conclusion, not a single interesting character, and the only word that can be accurately applied to describe the dialog throughout is \"garbage\".\n\nHere's some of the most practical good advice that you'll get in your lifetime: read the plot synopsis in Wikipedia, and stop there. It's actually a little on the long side because every one of the book's original ideas can be easily summed up in three sentences. Use the dozens of hours you saved yourself from slogging through 800+ pages of one of the worst books ever written to do literally anything else: make love, write your novel, run a marathon, go to the gym. Or not. Spend the time playing video games, curating your bottle cap collection, watching mind-numbing reality TV, or just staring up at the sky and likening the shape of clouds to Simpsons characters, and it will still have been put to use infinitely more wisely than reading Dhalgren."
   review_id = 1657821848
   title = "Dhalgren"
 
@@ -2471,7 +2471,7 @@
   published_year = 1995
   rating = 2
   read_at = 2016-12-21T00:00:00-08:00
-  review = "I really wanted to like this one. His original premise was very good (i.e. that productivity doesn't scale linearly with personnel), but unfortunately a huge amount of less valuable information in the form of boilerplate essays has been tacked on to get this up to book length. Worse yet, the majority of this material hasn't aged well as it tends to go into obsolete specifics. For example, at one point it's recommended that project's manual be moved over to microfiche.<br /><br />The Mythical Man-Month would have made a couple of very high quality blog posts, but I wouldn't recommend the whole thing in its released form."
+  review = "I really wanted to like this one. His original premise was very good (i.e. that productivity doesn't scale linearly with personnel), but unfortunately a huge amount of less valuable information in the form of boilerplate essays has been tacked on to get this up to book length. Worse yet, the majority of this material hasn't aged well as it tends to go into obsolete specifics. For example, at one point it's recommended that project's manual be moved over to microfiche.\n\nThe Mythical Man-Month would have made a couple of very high quality blog posts, but I wouldn't recommend the whole thing in its released form."
   review_id = 1359194363
   title = "The Mythical Man-Month: Essays on Software Engineering"
 
@@ -2503,7 +2503,7 @@
   published_year = 2011
   rating = 3
   read_at = 2015-08-02T10:22:07-07:00
-  review = "Entertaining read that imparts general knowledge on a large variety of different topics all the way from executing a firm handshake to marketing yourself on Twitter. The use of the word \"enchantment\" in the book is heavily overloaded to mean a great deal of different things, but mostly often it can be translated fairly accurately to \"manipulation\" to varying degrees.<br /><br />The strongest part of the book was the section on public speaking. It gives a few pieces of advice that interesting and not in the array of broadly distributed knowledge on the subject.<br /><br />Near the end of a book built entirely on subjective advice and anecdote, Kawasaki's added a section on how to avoid being overly enchanted by anecdotes. The irony of this situation wasn't acknowledged, and unfortunately may have been lost.<br /><br />It's a fast read that's pretty fun. If you came to read a book on building great products, look elsewhere.<br />"
+  review = "Entertaining read that imparts general knowledge on a large variety of different topics all the way from executing a firm handshake to marketing yourself on Twitter. The use of the word \"enchantment\" in the book is heavily overloaded to mean a great deal of different things, but mostly often it can be translated fairly accurately to \"manipulation\" to varying degrees.\n\nThe strongest part of the book was the section on public speaking. It gives a few pieces of advice that interesting and not in the array of broadly distributed knowledge on the subject.\n\nNear the end of a book built entirely on subjective advice and anecdote, Kawasaki's added a section on how to avoid being overly enchanted by anecdotes. The irony of this situation wasn't acknowledged, and unfortunately may have been lost.\n\nIt's a fast read that's pretty fun. If you came to read a book on building great products, look elsewhere."
   review_id = 1352532981
   title = "Enchantment: The Art of Changing Hearts, Minds, and Actions"
 
@@ -2567,7 +2567,7 @@
   published_year = 2014
   rating = 4
   read_at = 2016-02-14T00:00:00-08:00
-  review = "As expected, a well-written and well-researched work. Highly recommended.<br /><br />The only problem I had with it is that although I like colorful language as much as the next person, every character in _The Martian_ interacts with every other character almost purely in expletives and a totally overbearing tone, which is both unnecessary and unrealistic given the context. Solid otherwise."
+  review = "As expected, a well-written and well-researched work. Highly recommended.\n\nThe only problem I had with it is that although I like colorful language as much as the next person, every character in _The Martian_ interacts with every other character almost purely in expletives and a totally overbearing tone, which is both unnecessary and unrealistic given the context. Solid otherwise."
   review_id = 1250840113
   title = "The Martian"
 
@@ -2663,7 +2663,7 @@
   published_year = 2000
   rating = 2
   read_at = 2014-09-20T00:00:00-07:00
-  review = "Read this guy's review instead of this one; he nails it: <a target=\"_blank\" href=\"https://www.goodreads.com/review/show/10435777?book_show_action=true&amp;page=1\" rel=\"nofollow noopener\">https://www.goodreads.com/review/show...</a><br /><br />Having recently finished S., I really liked the concept of this book and went in fully expecting to like it. After reading the first couple chapters, it turned out that the background and story was interesting too, so I immediately knew that this was going to be a sure thing.<br /><br />But then it droned on for 500 pages longer than it should have. If this book wasn't so obviously designed to fill pages and draw out word count with every cute formatting trick and tenuously related tangent that the author could think of, it would have been good."
+  review = "Read this guy's review instead of this one; he nails it: https://www.goodreads.com/review/show/10435777?book_show_action=true&amp;page=1\n\nHaving recently finished S., I really liked the concept of this book and went in fully expecting to like it. After reading the first couple chapters, it turned out that the background and story was interesting too, so I immediately knew that this was going to be a sure thing.\n\nBut then it droned on for 500 pages longer than it should have. If this book wasn't so obviously designed to fill pages and draw out word count with every cute formatting trick and tenuously related tangent that the author could think of, it would have been good."
   review_id = 1060288373
   title = "House of Leaves"
 
@@ -2711,7 +2711,7 @@
   published_year = 2014
   rating = 4
   read_at = 2015-08-29T00:00:00-07:00
-  review = "A personal account of the birth of Pixar and its story up to and including its eventual sale to Disney. Of particular interest is the chapter and some of the color lent to Steve Jobs, inside information on what happened during some of Pixar's popular movies (and also on others that didn't even ship), and the history surrounding their rocky start and eventual blossoming as one of the darlings of the industry.<br /><br />A large section of the book involves standard post-success justification which Catmull generally attributes to their innovative management and hiring techniques. It's worth being a little bit skeptical here because a lot of it reads like typical executive motivational rhetoric straight out of the 80s and 90s, and of course that it's not actually possible to actually prove this causation."
+  review = "A personal account of the birth of Pixar and its story up to and including its eventual sale to Disney. Of particular interest is the chapter and some of the color lent to Steve Jobs, inside information on what happened during some of Pixar's popular movies (and also on others that didn't even ship), and the history surrounding their rocky start and eventual blossoming as one of the darlings of the industry.\n\nA large section of the book involves standard post-success justification which Catmull generally attributes to their innovative management and hiring techniques. It's worth being a little bit skeptical here because a lot of it reads like typical executive motivational rhetoric straight out of the 80s and 90s, and of course that it's not actually possible to actually prove this causation."
   review_id = 991703946
   title = "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration"
 
@@ -2759,7 +2759,7 @@
   published_year = 2013
   rating = 4
   read_at = 2014-05-04T22:39:33-07:00
-  review = "Great book that allowed me to revisit everything from the basics of computer networking to building higher level applications. The in-depth yet approachable explanations of TCP and TLS were especially good.<br /><br />My only complaint is that the subject matter covered seemed to be somewhat arbitrary -- a huge portion of the book was devoted to describing various types of wireless standards, but without really making it into that much depth on wireless communication. It was still quite interesting though -- I finally understand the difference between 3GPP and 3GPP2 standards and how they're related to each other."
+  review = "Great book that allowed me to revisit everything from the basics of computer networking to building higher level applications. The in-depth yet approachable explanations of TCP and TLS were especially good.\n\nMy only complaint is that the subject matter covered seemed to be somewhat arbitrary -- a huge portion of the book was devoted to describing various types of wireless standards, but without really making it into that much depth on wireless communication. It was still quite interesting though -- I finally understand the difference between 3GPP and 3GPP2 standards and how they're related to each other."
   review_id = 927619826
   title = "High Performance Browser Networking: What Every Web Developer Should Know about Networking and Web Performance"
 
@@ -2775,7 +2775,7 @@
   published_year = 2012
   rating = 4
   read_at = 2016-01-05T00:00:00-08:00
-  review = "A book which gives good information on Cato without being so overbearing as to present him in an overly biased way. The period of Roman history covered is largely the final years of the Republic through which Cato lived and had an active role (and for readers less familiar with the time, these also happen to be some of the most interesting years in the entirety of Roman history), and culminating with Julius Caesar's ascension.<br /><br />There were a few parts of the book that worded slightly oddly (Cato's death was quite abrupt for example), but other than that I have no complaints. Recommended!"
+  review = "A book which gives good information on Cato without being so overbearing as to present him in an overly biased way. The period of Roman history covered is largely the final years of the Republic through which Cato lived and had an active role (and for readers less familiar with the time, these also happen to be some of the most interesting years in the entirety of Roman history), and culminating with Julius Caesar's ascension.\n\nThere were a few parts of the book that worded slightly oddly (Cato's death was quite abrupt for example), but other than that I have no complaints. Recommended!"
   review_id = 917515993
   title = "Rome's Last Citizen: The Life and Legacy of Cato, Mortal Enemy of Caesar"
 
@@ -2935,7 +2935,7 @@
   published_year = 2003
   rating = 5
   read_at = 2016-02-07T11:31:57-08:00
-  review = "Admittedly, I had a few false starts on this one; the prose is incredibly dense and the English archaic enough in places that it can be difficult to get into the flow of the book. But after finishing it, the genius of the work is pulled into sharp relief: a masterful story, profound depth, an unpredictable and nuanced story rarely found in anything written this century, and all painted with incredible wordplay.<br /><br />I'd recommend following the synopsis on Wikipedia as you're reading it so that you don't miss anything; as noted above the writing style can be challenging."
+  review = "Admittedly, I had a few false starts on this one; the prose is incredibly dense and the English archaic enough in places that it can be difficult to get into the flow of the book. But after finishing it, the genius of the work is pulled into sharp relief: a masterful story, profound depth, an unpredictable and nuanced story rarely found in anything written this century, and all painted with incredible wordplay.\n\nI'd recommend following the synopsis on Wikipedia as you're reading it so that you don't miss anything; as noted above the writing style can be challenging."
   review_id = 721276754
   title = "A Tale of Two Cities"
 
@@ -3063,7 +3063,7 @@
   published_year = 2000
   rating = 4
   read_at = 2013-05-08T00:00:00-07:00
-  review = "Great read with a very novel and imaginative view of the future. Lots of easter eggs for your average geek. In my opinion, easily Stephenson's best.<br /><br />Only four starts because the intersections between all the different narratives start getting very tenuous by the end."
+  review = "Great read with a very novel and imaginative view of the future. Lots of easter eggs for your average geek. In my opinion, easily Stephenson's best.\n\nOnly four starts because the intersections between all the different narratives start getting very tenuous by the end."
   review_id = 607776403
   title = "The Diamond Age: Or, a Young Lady's Illustrated Primer"
 
@@ -3223,7 +3223,7 @@
   published_year = 2013
   rating = 4
   read_at = 2013-02-09T11:37:03-08:00
-  review = "A very-well written book that delivers the finale that the series deserves. Sanderson's accomplishment of picking up on all divergent characters and plots and steering them back toward a satisfying ending is a truly impressive technical feat.<br /><br />Sanderson isn't as technical of an author as Jordan was, and many of the characters that had nearly limitless subtle depth in Jordan's books, come through as loud caricatures of themselves in Sanderson's WoT books. That said, Jordan's tendency toward ever increasing complexity in his final books is a red flag that he may never have been able to finish them, or at least have required 5+ more books to do so."
+  review = "A very-well written book that delivers the finale that the series deserves. Sanderson's accomplishment of picking up on all divergent characters and plots and steering them back toward a satisfying ending is a truly impressive technical feat.\n\nSanderson isn't as technical of an author as Jordan was, and many of the characters that had nearly limitless subtle depth in Jordan's books, come through as loud caricatures of themselves in Sanderson's WoT books. That said, Jordan's tendency toward ever increasing complexity in his final books is a red flag that he may never have been able to finish them, or at least have required 5+ more books to do so."
   review_id = 531162161
   title = "A Memory of Light (The Wheel of Time, #14)"
 
@@ -3367,7 +3367,7 @@
   published_year = 2006
   rating = 3
   read_at = 2012-10-02T00:00:00-07:00
-  review = "Some really fresh and interesting ideas around how mathematics and computers relate to supernatural phenomena. Some really well-written sections explaining aspects of the fictional world using real terms, people, theories, and programs that produce compelling reasoning for things that don't exist.<br /><br />Unfortunately, reads like an action movie, and includes all the standard cliches."
+  review = "Some really fresh and interesting ideas around how mathematics and computers relate to supernatural phenomena. Some really well-written sections explaining aspects of the fictional world using real terms, people, theories, and programs that produce compelling reasoning for things that don't exist.\n\nUnfortunately, reads like an action movie, and includes all the standard cliches."
   review_id = 410392214
   title = "The Atrocity Archives (Laundry Files, #1)"
 
@@ -3575,7 +3575,7 @@
   published_year = 1972
   rating = 3
   read_at = 2012-01-31T23:01:05-08:00
-  review = "Detailed account of what it's like to be poor and at the lowest rungs of society. Orwell himself did experiment with this first hand, but not to the same extent that the book seems to indicate.<br /><br />Of particular note were the contrasts between between poor in France versus England (in many ways France was more conducive to the lifestyle), and the narrative closer to the end of the book on being a tramp."
+  review = "Detailed account of what it's like to be poor and at the lowest rungs of society. Orwell himself did experiment with this first hand, but not to the same extent that the book seems to indicate.\n\nOf particular note were the contrasts between between poor in France versus England (in many ways France was more conducive to the lifestyle), and the narrative closer to the end of the book on being a tramp."
   review_id = 270711384
   title = "Down and Out in Paris and London"
 
@@ -3591,7 +3591,7 @@
   published_year = 2009
   rating = 1
   read_at = 2012-03-01T09:12:14-08:00
-  review = "Clearly Carriger's recipe for this book was Pride and Prejudice mixed with Twilight and a little steampunk thrown in to make the setting a tad more original. Final product makes Twilight look a literary accomplishment.<br /><br />The author spends so much time describing how characters are stereotypes through statements, rather than have those characters actually behave in that way. e.g. \"The love interest is super manly,\" \"the vampire friend is so gay,\" \"the second-in-command of the wolf pack is that tweed jacket professor type,\" \"Tarabotti is SUCH a witty conversationalist that no one messes with her,\" \"the American scientist is a weak man.\" It's tiring to read.<br /><br />The romance is in a league of its own. The love interest is rich, an earl, big and strong, head of the werewolf pack, head of the government's supernatural division, Scottish, gruff, and the over-idealized definition of manly in every respect. His interest in the heroine is apparently that she is such a clever conversationalist (again, stated many times, but never proved through dialog) and isn't afraid to challenge and question himself, or anyone, including the Queen of England. Pulp romance at its best.<br /><br />This novel by itself was enough to convince me to completely ignore Goodreads' ratings for choosing books to read. At just under 4 stars, this book is rated significantly better than tens of thousands of far superior works."
+  review = "Clearly Carriger's recipe for this book was Pride and Prejudice mixed with Twilight and a little steampunk thrown in to make the setting a tad more original. Final product makes Twilight look a literary accomplishment.\n\nThe author spends so much time describing how characters are stereotypes through statements, rather than have those characters actually behave in that way. e.g. \"The love interest is super manly,\" \"the vampire friend is so gay,\" \"the second-in-command of the wolf pack is that tweed jacket professor type,\" \"Tarabotti is SUCH a witty conversationalist that no one messes with her,\" \"the American scientist is a weak man.\" It's tiring to read.\n\nThe romance is in a league of its own. The love interest is rich, an earl, big and strong, head of the werewolf pack, head of the government's supernatural division, Scottish, gruff, and the over-idealized definition of manly in every respect. His interest in the heroine is apparently that she is such a clever conversationalist (again, stated many times, but never proved through dialog) and isn't afraid to challenge and question himself, or anyone, including the Queen of England. Pulp romance at its best.\n\nThis novel by itself was enough to convince me to completely ignore Goodreads' ratings for choosing books to read. At just under 4 stars, this book is rated significantly better than tens of thousands of far superior works."
   review_id = 251389207
   title = "Soulless (Parasol Protectorate, #1)"
 
@@ -3719,7 +3719,7 @@
   published_year = 2011
   rating = 5
   read_at = 2011-11-04T00:00:00-07:00
-  review = "Truly outstanding book that takes insight to a new level. I can't even count the number of aha moments I had while reading this.<br /><br />Isaacson was the perfect man for the job. The book doesn't read like a marketing spiel at all, almost the opposite in fact, presenting jobs as a deeply flawed human being."
+  review = "Truly outstanding book that takes insight to a new level. I can't even count the number of aha moments I had while reading this.\n\nIsaacson was the perfect man for the job. The book doesn't read like a marketing spiel at all, almost the opposite in fact, presenting jobs as a deeply flawed human being."
   review_id = 231076230
   title = "Steve Jobs"
 
@@ -3815,7 +3815,7 @@
   published_year = 2007
   rating = 3
   read_at = 2011-10-09T00:00:00-07:00
-  review = "With witty dialogue and a dark and interesting world, Lynch is really trying to build something intricate for his masterwork series.<br /><br />My problems with it were essentially the same as with the first book in the series: the story doesn't seem to flow very well (other 500 page books might disappear before me in the blink of an eye), and all the characters just felt a little contrived. Allies of Locke are too good to be true, and bad guys just don't seem evil enough or well motivated."
+  review = "With witty dialogue and a dark and interesting world, Lynch is really trying to build something intricate for his masterwork series.\n\nMy problems with it were essentially the same as with the first book in the series: the story doesn't seem to flow very well (other 500 page books might disappear before me in the blink of an eye), and all the characters just felt a little contrived. Allies of Locke are too good to be true, and bad guys just don't seem evil enough or well motivated."
   review_id = 204994397
   title = "Red Seas Under Red Skies (Gentleman Bastard, #2)"
 
@@ -3863,7 +3863,7 @@
   published_year = 2006
   rating = 2
   read_at = 2012-02-18T19:07:21-08:00
-  review = "Exaggerated account of a partial hike along the Appalachian Trail devoid of events of any real consequence. Among other things, Bryson convinces himself that he ran into two bears outside his tent (indistinct eyes in the dark even with a headlamp), and that he started to develop hypothermia hiking through a fog. Subtle humor is found throughout which I wanted to like, but couldn't get into.<br /><br />Best parts were the descriptions of some of the parks and area that the trail runs through, the historical background of various regions, and narrative on the decline of some of America's most unique natural history."
+  review = "Exaggerated account of a partial hike along the Appalachian Trail devoid of events of any real consequence. Among other things, Bryson convinces himself that he ran into two bears outside his tent (indistinct eyes in the dark even with a headlamp), and that he started to develop hypothermia hiking through a fog. Subtle humor is found throughout which I wanted to like, but couldn't get into.\n\nBest parts were the descriptions of some of the parks and area that the trail runs through, the historical background of various regions, and narrative on the decline of some of America's most unique natural history."
   review_id = 204921393
   title = "A Walk in the Woods: Rediscovering America on the Appalachian Trail"
 
@@ -3895,7 +3895,7 @@
   published_year = 2010
   rating = 3
   read_at = 2011-11-15T00:00:00-08:00
-  review = "Good:<br />* Interesting ideas (e.g. secret brands)<br />* Bigend (boss)<br /><br />Bad:<br />* Hard to read and follow due to writing style<br />* Characters aren't really compelling<br />* Story is a little contrived"
+  review = "Good:\n* Interesting ideas (e.g. secret brands)\n* Bigend (boss)\n\nBad:\n* Hard to read and follow due to writing style\n* Characters aren't really compelling\n* Story is a little contrived"
   review_id = 204901673
   title = "Zero History (Blue Ant, #3)"
 
@@ -3927,7 +3927,7 @@
   published_year = 2011
   rating = 4
   read_at = 2012-03-04T22:16:39-08:00
-  review = "Interesting compilation of stories, anecdotes, and thoughts of one of the most world's foremost magician, atheist, and libertarian. Many chapters read like rambling, but generally the flow and pace of the book are good.<br /><br />Most important part of the book was right at the end where Penn states simply, \"we need to stop glorifying faith.\""
+  review = "Interesting compilation of stories, anecdotes, and thoughts of one of the most world's foremost magician, atheist, and libertarian. Many chapters read like rambling, but generally the flow and pace of the book are good.\n\nMost important part of the book was right at the end where Penn states simply, \"we need to stop glorifying faith.\""
   review_id = 202727278
   title = "God, No! Signs You May Already Be an Atheist and Other Magical Tales"
 
@@ -4007,7 +4007,7 @@
   published_year = 2010
   rating = 4
   read_at = 2011-10-10T00:00:00-07:00
-  review = "Overall I enjoyed Rework, a compilation of very high-level advice to start a company without making the same mistakes as the supercorporations of the last century.<br /><br />Some of the advice is a little questiontable, e.g. \"Badmouth your competitors to get people on your side.\" This is definitely something 37signals does, but isn't good advice for everyone."
+  review = "Overall I enjoyed Rework, a compilation of very high-level advice to start a company without making the same mistakes as the supercorporations of the last century.\n\nSome of the advice is a little questiontable, e.g. \"Badmouth your competitors to get people on your side.\" This is definitely something 37signals does, but isn't good advice for everyone."
   review_id = 193436119
   title = "Rework"
 
@@ -4055,7 +4055,7 @@
   published_year = 2002
   rating = 3
   read_at = 2008-07-03T00:00:00-07:00
-  review = "A young man is stranded in a lifeboat on the ocean. He makes up a story involving a tiger and other animals to hide the twisted truth, the multiple murders that took place on the lifeboat.<br />"
+  review = "A young man is stranded in a lifeboat on the ocean. He makes up a story involving a tiger and other animals to hide the twisted truth, the multiple murders that took place on the lifeboat."
   review_id = 190755048
   title = "Life of Pi"
 
@@ -4071,7 +4071,7 @@
   published_year = 1998
   rating = 3
   read_at = 2008-07-31T00:00:00-07:00
-  review = "Edmond Dantès is wrongfully sent to prison, and later escapes to take revenge. He doesn't reclaim his former love Mercédès, but finds it in his former slave Haydée.<br />"
+  review = "Edmond Dantès is wrongfully sent to prison, and later escapes to take revenge. He doesn't reclaim his former love Mercédès, but finds it in his former slave Haydée."
   review_id = 190754474
   title = "The Count of Monte Cristo"
 
@@ -4087,7 +4087,7 @@
   published_year = 2003
   rating = 3
   read_at = 2008-08-07T00:00:00-07:00
-  review = "Scientists work to contain an extraterrestrial microorganism which is deadly to humans but later evolves to be non-lethal.<br />"
+  review = "Scientists work to contain an extraterrestrial microorganism which is deadly to humans but later evolves to be non-lethal."
   review_id = 190754142
   title = "The Andromeda Strain (Andromeda, #1)"
 
@@ -4103,7 +4103,7 @@
   published_year = 2007
   rating = 3
   read_at = 2008-08-16T00:00:00-07:00
-  review = "The companions travel to Skullcap and Thorbadin after defeating Verminaard to find sanctuary for the refugees with them and obtain the Hammer of Kharas.<br />"
+  review = "The companions travel to Skullcap and Thorbadin after defeating Verminaard to find sanctuary for the refugees with them and obtain the Hammer of Kharas."
   review_id = 190753749
   title = "Dragons of the Dwarven Depths (Dragonlance: The Lost Chronicles, #1)"
 
@@ -4119,7 +4119,7 @@
   published_year = 2005
   rating = 4
   read_at = 2008-08-24T00:00:00-07:00
-  review = "Story of Strauss' (known as Style) time becoming and living as a pickup artist. Characters in the book are well known PUAs such as Mystery and David DeAngelo. Claims to be a true story.<br />"
+  review = "Story of Strauss' (known as Style) time becoming and living as a pickup artist. Characters in the book are well known PUAs such as Mystery and David DeAngelo. Claims to be a true story."
   review_id = 190753531
   title = "The Game: Penetrating the Secret Society of Pickup Artists"
 
@@ -4135,7 +4135,7 @@
   published_year = 2007
   rating = 4
   read_at = 2008-08-27T00:00:00-07:00
-  review = "Snippets from a philosophy professor's time in Japan as a visiting professor at the University of Tokyo.<br />"
+  review = "Snippets from a philosophy professor's time in Japan as a visiting professor at the University of Tokyo."
   review_id = 190753301
   title = "Atomic Sushi"
 
@@ -4151,7 +4151,7 @@
   published_year = 2007
   rating = 3
   read_at = 2008-08-31T00:00:00-07:00
-  review = "About a game programmer and his quirky team, pot-dealing mother, wannabe-actor father, and strangely enough, Douglas Coupland himself. The book is interlaced with weird games and geek visuals.<br />"
+  review = "About a game programmer and his quirky team, pot-dealing mother, wannabe-actor father, and strangely enough, Douglas Coupland himself. The book is interlaced with weird games and geek visuals."
   review_id = 190753127
   title = "JPod"
 
@@ -4167,7 +4167,7 @@
   published_year = 0
   rating = 2
   read_at = 2008-09-03T00:00:00-07:00
-  review = "How technology has enabled humanity to organize into ad-hoc groups without organizations to do it for us.<br />"
+  review = "How technology has enabled humanity to organize into ad-hoc groups without organizations to do it for us."
   review_id = 190752981
   title = "Here Comes Everybody: The Power of Organizing Without Organizations"
 
@@ -4199,7 +4199,7 @@
   published_year = 2007
   rating = 4
   read_at = 2008-09-22T00:00:00-07:00
-  review = "Discusses the prehistory of the human race, including our branching from great apes and relation to Neanderthals. Discusses how relations can be determined through DNA analysis and the evolution of language among other things.<br />"
+  review = "Discusses the prehistory of the human race, including our branching from great apes and relation to Neanderthals. Discusses how relations can be determined through DNA analysis and the evolution of language among other things."
   review_id = 190752454
   title = "Before the Dawn: Recovering the Lost History of Our Ancestors"
 
@@ -4231,7 +4231,7 @@
   published_year = 2007
   rating = 4
   read_at = 2008-10-03T00:00:00-07:00
-  review = "Recounts the story of a large range of special medical cases that involve music. These cases range from people with Parkinson's disease, who find music thereputic for controlling the timing of their movement, to musical savants who have perfect pitch and thousands of operas memorized.<br />"
+  review = "Recounts the story of a large range of special medical cases that involve music. These cases range from people with Parkinson's disease, who find music thereputic for controlling the timing of their movement, to musical savants who have perfect pitch and thousands of operas memorized."
   review_id = 190751756
   title = "Musicophilia: Tales of Music and the Brain"
 
@@ -4263,7 +4263,7 @@
   published_year = 2002
   rating = 3
   read_at = 2008-10-16T00:00:00-07:00
-  review = "Historical fantasy about an artisan traveling to a city called Sarantium in a world and culture that greatly resembles the period of the Roman Empire. Sarantium itself resembles Constantinopolis, capital of the Roman Empire.<br />"
+  review = "Historical fantasy about an artisan traveling to a city called Sarantium in a world and culture that greatly resembles the period of the Roman Empire. Sarantium itself resembles Constantinopolis, capital of the Roman Empire."
   review_id = 190750711
   title = "Sailing to Sarantium (The Sarantine Mosaic, #1)"
 
@@ -4279,7 +4279,7 @@
   published_year = 2006
   rating = 3
   read_at = 2008-10-30T00:00:00-07:00
-  review = "Speaks of the coming \"singularity\", a point in human history of unprecedented technological progress, resulting in part as machines are able to improve themselves using AI. Kurzweil predicts the first AI to appear in 2029. Mostly worth the read just for the ideas.<br />"
+  review = "Speaks of the coming \"singularity\", a point in human history of unprecedented technological progress, resulting in part as machines are able to improve themselves using AI. Kurzweil predicts the first AI to appear in 2029. Mostly worth the read just for the ideas."
   review_id = 190750394
   title = "The Singularity is Near: When Humans Transcend Biology"
 
@@ -4295,7 +4295,7 @@
   published_year = 0
   rating = 4
   read_at = 2008-11-10T00:00:00-08:00
-  review = "Investigating the nature of life in the age of synthetic biology. Speculates on the characteristics of life and history in genetic advancements.<br />"
+  review = "Investigating the nature of life in the age of synthetic biology. Speculates on the characteristics of life and history in genetic advancements."
   review_id = 190750215
   title = "What Is Life?: Investigating the Nature of Life in the Age of Synthetic Biology"
 
@@ -4311,7 +4311,7 @@
   published_year = 2006
   rating = 4
   read_at = 2008-11-20T00:00:00-08:00
-  review = "An age where a drug known as D (Death) has saturated society and a law enforcement officer must become an addict to find its source.<br />"
+  review = "An age where a drug known as D (Death) has saturated society and a law enforcement officer must become an addict to find its source."
   review_id = 190749949
   title = "A Scanner Darkly"
 
@@ -4327,7 +4327,7 @@
   published_year = 2002
   rating = 3
   read_at = 2008-11-25T00:00:00-08:00
-  review = "A story where a man running a law enforcement department based on precog, is himself targeted as a suspect.<br />"
+  review = "A story where a man running a law enforcement department based on precog, is himself targeted as a suspect."
   review_id = 190749584
   title = "The Minority Report"
 
@@ -4359,7 +4359,7 @@
   published_year = 1995
   rating = 3
   read_at = 2008-12-17T00:00:00-08:00
-  review = "A fantasy epic based in the age of discovery around the 1500s, but where mages and magic did exist but are now extinct and have wiped out their history.<br />"
+  review = "A fantasy epic based in the age of discovery around the 1500s, but where mages and magic did exist but are now extinct and have wiped out their history."
   review_id = 190748861
   title = "World Without End (Moontide and Magic Rise, #1)"
 
@@ -4375,7 +4375,7 @@
   published_year = 2008
   rating = 3
   read_at = 2008-12-30T00:00:00-08:00
-  review = "Various factions view for control of a prehuman artifact which is manipulating itself back to the Rift in order to be with its own kind.<br />"
+  review = "Various factions view for control of a prehuman artifact which is manipulating itself back to the Rift in order to be with its own kind."
   review_id = 190748621
   title = "The January Dancer (Spiral Arm, #1)"
 
@@ -4519,7 +4519,7 @@
   published_year = 2006
   rating = 3
   read_at = 2009-02-11T00:00:00-08:00
-  review = "A story of a set of characters in the City Imperishable who realize that the Old Gods are trying to return to the city, and who must sacrifice themselves to thwart their return. Gets a little weird.<br />"
+  review = "A story of a set of characters in the City Imperishable who realize that the Old Gods are trying to return to the city, and who must sacrifice themselves to thwart their return. Gets a little weird."
   review_id = 190702761
   title = "Trial of Flowers  (City #1)"
 
@@ -4535,7 +4535,7 @@
   published_year = 1998
   rating = 3
   read_at = 2009-03-14T00:00:00-07:00
-  review = "Story of Thompson and his attorney's drugged-up journey to Las Vegas where they proceed to break the law and produce general chaos. Not actually a true story, but was partially written by Thompson while in Vegas.<br />"
+  review = "Story of Thompson and his attorney's drugged-up journey to Las Vegas where they proceed to break the law and produce general chaos. Not actually a true story, but was partially written by Thompson while in Vegas."
   review_id = 190702453
   title = "Fear and Loathing in Las Vegas"
 
@@ -4551,7 +4551,7 @@
   published_year = 2002
   rating = 3
   read_at = 2009-03-23T00:00:00-07:00
-  review = "Journal of Professor Pierre Aronnax, Conseil and Ned Land as they are held aboard the Nautilus captained by Captain Nemo. They are shown many submarine wonders aboard Nemo's powerful ship before they escape and the Nautilus disappears into the Lofoten Maelstrom near Norway.<br />"
+  review = "Journal of Professor Pierre Aronnax, Conseil and Ned Land as they are held aboard the Nautilus captained by Captain Nemo. They are shown many submarine wonders aboard Nemo's powerful ship before they escape and the Nautilus disappears into the Lofoten Maelstrom near Norway."
   review_id = 190701927
   title = "Twenty Thousand Leagues Under the Sea (Extraordinary Voyages, #6)"
 
@@ -4823,7 +4823,7 @@
   published_year = 2009
   rating = 4
   read_at = 2009-12-19T00:00:00-08:00
-  review = "The Final Battle is very close and Rand spends most of the book trying to secure nations and mobilizing armies. Semirhage escapes and puts the male a'dam on Rand, who escapes by drawing on the True Power, after the incident he becomes progressively harder, banishing Cadsuane from his sight. He attempts to make peace with the Seanchan but fails.<br /><br />Verin tells Egwene that she is Black Ajah and gives her a nearly complete list of other members of the Black. The Seanchan attack the White Tower and take Elaida off to be a damane. Having gained the trust of the women in the tower, they announce Egwene as the new Amyrlin Seat, confirming the choice of the rebels, and reuniting the White Tower.<br /><br />Rand wipes out Graendal by drawing on the Choedan Kal and using balefire to destroy her entire palace. Cadsuane arranges for him to meet with his father, hoping that Tam will help him see reason. The meeting goes badly after Rand realizes that he is still being manipulated by Aes Sedai, and he Travels to Dragonmount where he considers whether the Pattern is worth saving. He uses the Choedan Kal to draw enough of the One Power to destroy the world. Lews Therin helps him realize that each turn of the Wheel is another chance to do things right. He destroys the Choedan Kal and is able to laugh again. He realizes that he and Lews Therin are one and the same and the voice disappears, never to return."
+  review = "The Final Battle is very close and Rand spends most of the book trying to secure nations and mobilizing armies. Semirhage escapes and puts the male a'dam on Rand, who escapes by drawing on the True Power, after the incident he becomes progressively harder, banishing Cadsuane from his sight. He attempts to make peace with the Seanchan but fails.\n\nVerin tells Egwene that she is Black Ajah and gives her a nearly complete list of other members of the Black. The Seanchan attack the White Tower and take Elaida off to be a damane. Having gained the trust of the women in the tower, they announce Egwene as the new Amyrlin Seat, confirming the choice of the rebels, and reuniting the White Tower.\n\nRand wipes out Graendal by drawing on the Choedan Kal and using balefire to destroy her entire palace. Cadsuane arranges for him to meet with his father, hoping that Tam will help him see reason. The meeting goes badly after Rand realizes that he is still being manipulated by Aes Sedai, and he Travels to Dragonmount where he considers whether the Pattern is worth saving. He uses the Choedan Kal to draw enough of the One Power to destroy the world. Lews Therin helps him realize that each turn of the Wheel is another chance to do things right. He destroys the Choedan Kal and is able to laugh again. He realizes that he and Lews Therin are one and the same and the voice disappears, never to return."
   review_id = 190693761
   title = "The Gathering Storm (The Wheel of Time, #12)"
 
@@ -4839,7 +4839,7 @@
   published_year = 2008
   rating = 4
   read_at = 2010-02-09T00:00:00-08:00
-  review = "A collection of short articles on various types of security practices by security expert Bruce Schneier. Lots of good information, except that most of it doesn't go into great depth.<br />"
+  review = "A collection of short articles on various types of security practices by security expert Bruce Schneier. Lots of good information, except that most of it doesn't go into great depth."
   review_id = 190692935
   title = "Schneier on Security"
 
@@ -4887,7 +4887,7 @@
   published_year = 2008
   rating = 2
   read_at = 2010-05-25T00:00:00-07:00
-  review = "A Swedish novel that covers various themes but is mostly centred around a journalist trying to solve a murder amongst a major industrialist family. Title character is a girl hacker with vast skills and abilities and who can do no wrong. Lots of non-sensical \"hacker\" jargon. Mediocre.<br />"
+  review = "A Swedish novel that covers various themes but is mostly centred around a journalist trying to solve a murder amongst a major industrialist family. Title character is a girl hacker with vast skills and abilities and who can do no wrong. Lots of non-sensical \"hacker\" jargon. Mediocre."
   review_id = 190691739
   title = "The Girl with the Dragon Tattoo (Millennium, #1)"
 
@@ -4919,7 +4919,7 @@
   published_year = 1999
   rating = 2
   read_at = 2010-05-28T00:00:00-07:00
-  review = "Theogony is the origin story for a large part of the Greek mythology and is highly informative.<br /><br />Works and Days goes into tips on being a farmer during the era and Hesiod takes some written shots at his brother.<br />"
+  review = "Theogony is the origin story for a large part of the Greek mythology and is highly informative.\n\nWorks and Days goes into tips on being a farmer during the era and Hesiod takes some written shots at his brother."
   review_id = 190691136
   title = "Theogony / Works and Days"
 
@@ -4935,7 +4935,7 @@
   published_year = 2009
   rating = 3
   read_at = 2010-05-30T00:00:00-07:00
-  review = "A novel about the arrival of an alien species on Earth. With the help of a local paleontologist, they determine that across three major alien worlds there have been simultaneous extinction events that helped guide the evolution of sentient beings. This, along with the fact that universal constants that appear to be tweaked exactly right seem to indicate the presence of God.<br /><br />Well-written, but hard to figure out what point Sawyer was trying to make with the book (if any)."
+  review = "A novel about the arrival of an alien species on Earth. With the help of a local paleontologist, they determine that across three major alien worlds there have been simultaneous extinction events that helped guide the evolution of sentient beings. This, along with the fact that universal constants that appear to be tweaked exactly right seem to indicate the presence of God.\n\nWell-written, but hard to figure out what point Sawyer was trying to make with the book (if any)."
   review_id = 190690622
   title = "Calculating God"
 
@@ -4967,7 +4967,7 @@
   published_year = 2010
   rating = 4
   read_at = 2010-06-14T00:00:00-07:00
-  review = "A book about the logistics and ethics of doing wildlife documentaries by a veteran to the business.<br /><br />A few interesting things to know about the industry around filming wildlife:<br /><br />* Many photographers and videographers use \"game farms\" who put animals out into wild looking areas for the duration of the shoot<br />* Many videographers are highly motivated to get the perfect shot and jump into dangerous situations with little forethought<br /><br />Examples of industry disasters:<br /><br />* Steve Irwin, the crocodile hunter<br />* Timothy Treadwell, the grizzly man<br />* Brady Barr bitten while chasing a python through a cave"
+  review = "A book about the logistics and ethics of doing wildlife documentaries by a veteran to the business.\n\nA few interesting things to know about the industry around filming wildlife:\n\n* Many photographers and videographers use \"game farms\" who put animals out into wild looking areas for the duration of the shoot\n* Many videographers are highly motivated to get the perfect shot and jump into dangerous situations with little forethought\n\nExamples of industry disasters:\n\n* Steve Irwin, the crocodile hunter\n* Timothy Treadwell, the grizzly man\n* Brady Barr bitten while chasing a python through a cave"
   review_id = 190689741
   title = "Shooting in the Wild: An Insider's Account of Making Movies in the Animal Kingdom"
 
@@ -5095,7 +5095,7 @@
   published_year = 2010
   rating = 4
   read_at = 2010-11-21T00:00:00-08:00
-  review = "Brandon Sanderon's second book in the Wheel of Time series after taking the helm where Jordan left off. Differences in writing style are noticeable, but this small problem is overshadowed by the engrossing story arcs that are finally being allowed to advance and even conclude. Reading this book inspires optimism that the series will in fact come to a satisfying close, even for those readers who have invested decades in it.<br />"
+  review = "Brandon Sanderon's second book in the Wheel of Time series after taking the helm where Jordan left off. Differences in writing style are noticeable, but this small problem is overshadowed by the engrossing story arcs that are finally being allowed to advance and even conclude. Reading this book inspires optimism that the series will in fact come to a satisfying close, even for those readers who have invested decades in it."
   review_id = 190685348
   title = "Towers of Midnight (The Wheel of Time, #13)"
 
@@ -5127,7 +5127,7 @@
   published_year = 2008
   rating = 5
   read_at = 2010-12-04T00:00:00-08:00
-  review = "Concise and well-written book investigating the economics behind climate change and the current approaches governments have deemed necessary to mitigate the problem. He concerns himself with the uncertainties of long-term forecasting, and the lack of real cost-effectiveness analysis on recommended policies.<br /><br />Lawson generally agrees with the warming trend, but goes on to discuss the actual IPCC findings and breaks down common arguments for the future using knowledge, back-of-the-envelope calculations, and common sense. Valid end notes and references are provided for each chapter."
+  review = "Concise and well-written book investigating the economics behind climate change and the current approaches governments have deemed necessary to mitigate the problem. He concerns himself with the uncertainties of long-term forecasting, and the lack of real cost-effectiveness analysis on recommended policies.\n\nLawson generally agrees with the warming trend, but goes on to discuss the actual IPCC findings and breaks down common arguments for the future using knowledge, back-of-the-envelope calculations, and common sense. Valid end notes and references are provided for each chapter."
   review_id = 190684481
   title = "An Appeal to Reason: A Cool Look at Global Warming"
 
@@ -5223,7 +5223,7 @@
   published_year = 2009
   rating = 4
   read_at = 2011-04-11T00:00:00-07:00
-  review = "Story of the first Englishman to land in Japan based somewhat on history. Details the man's (a pilot named Blackthorne) exploits and involvement in a massive power struggle in Japan. The end of the book reveals the inner monologue of the man who would eventually become Shogun, and is worth reading the entire book for.<br />"
+  review = "Story of the first Englishman to land in Japan based somewhat on history. Details the man's (a pilot named Blackthorne) exploits and involvement in a massive power struggle in Japan. The end of the book reveals the inner monologue of the man who would eventually become Shogun, and is worth reading the entire book for."
   review_id = 190678776
   title = "Shōgun (Asian Saga, #1)"
 
