@@ -3523,7 +3523,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2185
+  favorite_count = 2184
   id = 1182066723337293828
   retweet_count = 794
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -3831,7 +3831,7 @@
 
 [[tweets]]
   created_at = 2019-09-08T21:02:30Z
-  favorite_count = 3
+  favorite_count = 1
   id = 1170804626100064257
   text = "@shriker One of my favorite parts about it so far is how few custom settings I actually have. The amount of configuration needed to get to a usable Vim installation is just totally nuts.\n\nPut the little I've accumulated so far here:\n\nhttps://t.co/8AiS7AQQjL"
 
@@ -9287,7 +9287,7 @@
 
 [[tweets]]
   created_at = 2018-08-27T14:30:17Z
-  favorite_count = 231
+  favorite_count = 230
   id = 1034085700017172480
   retweet_count = 66
   text = "ACID transactions are the most important primitive for building large, robust systems there is. Bake them into your system from day one. Never, ever use MongoDB.\n\nI like when I'm not the only saying this stuff. Here's FoundationDB's transaction manifesto:\n\nhttps://t.co/gENgq0ddwf"
