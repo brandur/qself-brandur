@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2021-01-01T08:40:21Z
+  id = 1344926424587616259
+  text = "@zdne Yep, totally. I wish I could just opt out of the whole thing ..."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "zdne"
+      user_id = 83391577
+
+  [tweets.reply]
+    status_id = 1344921908853301248
+    user = "zdne"
+    user_id = 83391577
+
+[[tweets]]
   created_at = 2020-12-31T22:00:01Z
   favorite_count = 10
   id = 1344765280057057281
