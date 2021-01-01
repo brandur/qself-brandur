@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2020-12-31T22:00:01Z
+  favorite_count = 10
+  id = 1344765280057057281
+  text = "Big Sur a few weeks in: Some things are worse (contrast, Finder), many things are different (fonts, menus), but nothing is _better_.\n\nImagine if a big new macOS version introduced new keyboard shortcuts, better multi-tasking, or the like. Innovation in desktop OSes isn’t done."
+
+[[tweets]]
   created_at = 2020-12-24T18:58:53Z
   favorite_count = 1
   id = 1342182979108446208
