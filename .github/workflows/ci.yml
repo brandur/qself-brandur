@@ -35,7 +35,7 @@ jobs:
           path: |
             /home/runner/go/bin/
             /home/runner/go/pkg/mod/
-          key: ${{ runner.os }}-${{ steps.get-date.outputs.date }}-cache-dependencies-v003
+          key: ${{ runner.os }}-${{ steps.get-date.outputs.date }}-cache-dependencies-v004
 
       - name: Install Qself
       #   if: steps.cache-dependencies.outputs.cache-hit != 'true'
