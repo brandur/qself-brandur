@@ -1,7 +1,60 @@
 
 [[tweets]]
+  created_at = 2021-01-04T22:28:44Z
+  id = 1346222055193153536
+  text = "@craigkerstiens Dammit Craig. That product is undervalued. What a steal."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+  [tweets.reply]
+    status_id = 1346213811326337024
+    user = "craigkerstiens"
+    user_id = 12473952
+
+[[tweets]]
+  created_at = 2021-01-04T22:27:24Z
+  id = 1346221722811334656
+  text = "@_raulb_ LOL. Yeah, the only ones I know are this and \"malm\" (the bed)."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "_raulb_"
+      user_id = 1269159922136166401
+
+  [tweets.reply]
+    status_id = 1346215407905071106
+    user = "_raulb_"
+    user_id = 1269159922136166401
+
+[[tweets]]
+  created_at = 2021-01-04T22:26:34Z
+  id = 1346221512756396032
+  retweet_count = 5
+  text = "RT @petervgeoghegan: Over 5 years ago my then-colleague @brandur wrote about problems with Postgres queues and the accumulation of garbage…"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "petervgeoghegan"
+      user_id = 319812046
+
+    [[tweets.entities.user_mentions]]
+      user = "brandur"
+      user_id = 22980330
+
+  [tweets.retweet]
+    status_id = 1346220681864699905
+    user = "petervgeoghegan"
+    user_id = 319812046
+
+[[tweets]]
   created_at = 2021-01-04T21:01:05Z
-  favorite_count = 18
+  favorite_count = 42
   id = 1346199998585688065
   retweet_count = 1
   text = "After a lengthy battle, my SEO’s been usurped by an IKEA hangar rail for the garage. (Looks pretty nice actually, might get one.)\n\nDo I have any chance of taking it back, or is this the end. https://t.co/IP6CEKXwIh"
