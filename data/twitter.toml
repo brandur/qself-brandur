@@ -1,5 +1,26 @@
 
 [[tweets]]
+  created_at = 2021-01-05T23:53:01Z
+  favorite_count = 2
+  id = 1346605654958514176
+  text = "@ekryski @github That commit graph is worrying there, Eric."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "ekryski"
+      user_id = 258956663
+
+    [[tweets.entities.user_mentions]]
+      user = "github"
+      user_id = 13334762
+
+  [tweets.reply]
+    status_id = 1346602069818540033
+    user = "ekryski"
+    user_id = 258956663
+
+[[tweets]]
   created_at = 2021-01-04T22:28:44Z
   id = 1346222055193153536
   text = "@craigkerstiens Dammit Craig. That product is undervalued. What a steal."
@@ -54,7 +75,7 @@
 
 [[tweets]]
   created_at = 2021-01-04T21:01:05Z
-  favorite_count = 60
+  favorite_count = 63
   id = 1346199998585688065
   retweet_count = 1
   text = "After a lengthy battle, my SEO’s been usurped by an IKEA hangar rail for the garage. (Looks pretty nice actually, might get one.)\n\nDo I have any chance of taking it back, or is this the end. https://t.co/IP6CEKXwIh"
@@ -20077,7 +20098,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2682
+  favorite_count = 2685
   id = 919646432721641472
   retweet_count = 1041
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
