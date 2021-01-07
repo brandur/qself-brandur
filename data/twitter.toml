@@ -1,5 +1,118 @@
 
 [[tweets]]
+  created_at = 2021-01-07T21:11:35Z
+  favorite_count = 1
+  id = 1347289802689822720
+  text = "@MichaelBurjack Haha, thank you — I copied these into my TODOs.\n\nI struggled on what the correct h1 should be when first designing the site, but ended up putting the page/article's title as the top header. That still does seem more semantically correct even if it's a Google de-optimization :/"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "MichaelBurjack"
+      user_id = 122132710
+
+  [tweets.reply]
+    status_id = 1346219725521473536
+    user = "MichaelBurjack"
+    user_id = 122132710
+
+[[tweets]]
+  created_at = 2021-01-07T21:09:42Z
+  favorite_count = 1
+  id = 1347289331531018240
+  text = "@hgmnz @jkakar Spent five min trying to think of a joke to top that one. Can't do it. Nice one haha."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "hgmnz"
+      user_id = 24425454
+
+    [[tweets.entities.user_mentions]]
+      user = "jkakar"
+      user_id = 19925224
+
+  [tweets.reply]
+    status_id = 1346270079533641730
+    user = "hgmnz"
+    user_id = 24425454
+
+[[tweets]]
+  created_at = 2021-01-07T21:08:01Z
+  favorite_count = 1
+  id = 1347288905914060800
+  text = "@ideasasylum lol! Excellent idea. \"Review: Brandur by Brandur\""
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "ideasasylum"
+      user_id = 1211071
+
+  [tweets.reply]
+    status_id = 1346256787104813057
+    user = "ideasasylum"
+    user_id = 1211071
+
+[[tweets]]
+  created_at = 2021-01-07T21:04:23Z
+  favorite_count = 1
+  id = 1347287994307211264
+  text = "@rponte @sorentwo @petervgeoghegan Thanks! Yeah, that article is a bit old, and since then Que went through a reimplementation that fixed the problem by finding jobs more efficiently.\n\nBeing optimized upstream is still nice. There are many workloads that aren't async jobs specifically that'll also benefit."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "rponte"
+      user_id = 10794662
+
+    [[tweets.entities.user_mentions]]
+      user = "sorentwo"
+      user_id = 170467221
+
+    [[tweets.entities.user_mentions]]
+      user = "petervgeoghegan"
+      user_id = 319812046
+
+  [tweets.reply]
+    status_id = 1346490407509581824
+    user = "rponte"
+    user_id = 10794662
+
+[[tweets]]
+  created_at = 2021-01-07T21:02:08Z
+  favorite_count = 2
+  id = 1347287425903562753
+  text = "@kirshatrov Maybe! I'd have to dig in more (i.e. specifics around ease of index creation or changing not nulls, etc.). Some of what's in the list isn't even solvable by technology though — just needs better practice."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kirshatrov"
+      user_id = 287242565
+
+  [tweets.reply]
+    status_id = 1346547411808903169
+    user = "kirshatrov"
+    user_id = 287242565
+
+[[tweets]]
+  created_at = 2021-01-07T21:00:43Z
+  id = 1347287069349933056
+  text = "@edoardoc Could've been better too! Personally was hoping for a cocktail bar or IKEA-branded pool table or something ;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "edoardoc"
+      user_id = 9140812
+
+  [tweets.reply]
+    status_id = 1346777456716488704
+    user = "edoardoc"
+    user_id = 9140812
+
+[[tweets]]
   created_at = 2021-01-05T23:53:01Z
   favorite_count = 2
   id = 1346605654958514176
