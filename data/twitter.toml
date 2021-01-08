@@ -1,5 +1,119 @@
 
 [[tweets]]
+  created_at = 2021-01-07T22:39:50Z
+  favorite_count = 1
+  id = 1347312013945446400
+  text = "@jdxcode @DenisTrailin That's good to hear!\n\nI'll stay optimistic, although knowing nothing else about it, loss leading products that don't supply enough of their own revenue stream tend to get nailed down given enough time. WhatsApp is incredibly popular, but encryption means FB's gain is minimized."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jdxcode"
+      user_id = 2432
+
+    [[tweets.entities.user_mentions]]
+      user = "DenisTrailin"
+      user_id = 213137357
+
+  [tweets.reply]
+    status_id = 1347308588155293696
+    user = "jdxcode"
+    user_id = 2432
+
+[[tweets]]
+  created_at = 2021-01-07T22:17:17Z
+  id = 1347306337487581187
+  text = "@jdxcode @DenisTrailin Honestly, I don't really expect that much to change since I assume FB knows everything about me.\n\nFor most people though, I think it's (1) they're not on FB already, and/or (2) sets bad precedent — relaxing message privacy/encryption could be next."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jdxcode"
+      user_id = 2432
+
+    [[tweets.entities.user_mentions]]
+      user = "DenisTrailin"
+      user_id = 213137357
+
+  [tweets.reply]
+    status_id = 1347305096648880128
+    user = "jdxcode"
+    user_id = 2432
+
+[[tweets]]
+  created_at = 2021-01-07T21:36:56Z
+  favorite_count = 2
+  id = 1347296184348495873
+  text = "@DenisTrailin I'm still a little concerned about my ability to sell why WhatsApp is bad to non-tech friends, especially considering many of them post to FB like three times a day.\n\nBut yeah ... group chats. Those are going to be expert mode level of difficulty."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DenisTrailin"
+      user_id = 213137357
+
+  [tweets.reply]
+    status_id = 1347293571179634688
+    user = "DenisTrailin"
+    user_id = 213137357
+
+[[tweets]]
+  created_at = 2021-01-07T21:35:21Z
+  favorite_count = 1
+  id = 1347295787579936768
+  text = "@bitsandhops I feel like even once I'm on Signal, I'm still going to be all the ones you mentioned _plus_ WhatsApp, still. Geeze I miss open chat protocols (or even open-ish)."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "bitsandhops"
+      user_id = 372479872
+
+  [tweets.reply]
+    status_id = 1347292314893381632
+    user = "bitsandhops"
+    user_id = 372479872
+
+[[tweets]]
+  created_at = 2021-01-07T21:34:05Z
+  favorite_count = 1
+  id = 1347295466333982720
+  text = "@asp_net Exactly! We'll see how it goes.\n\nThe good news is that the address book import on things like Signal definitely make it more tractable — I checked who was on there in my list and will consider using Signal instead of WhatsApp next time I message them."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "asp_net"
+      user_id = 18995844
+
+  [tweets.reply]
+    status_id = 1347292388545486848
+    user = "asp_net"
+    user_id = 18995844
+
+[[tweets]]
+  created_at = 2021-01-07T21:32:57Z
+  id = 1347295183688278017
+  text = "@spakhm Not sure I'd go with \"easy\", but maybe now at least \"possible\".\n\nAgreed that if there's a time to do it, that time is now, which is why I took the plunge.\n\nNot optimistic about non-tech friends though. Most of them probably assumed FB data sharing anyway and won't care much."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "spakhm"
+      user_id = 29089797
+
+  [tweets.reply]
+    status_id = 1347293244149751810
+    user = "spakhm"
+    user_id = 29089797
+
+[[tweets]]
+  created_at = 2021-01-07T21:18:09Z
+  favorite_count = 8
+  id = 1347291457934172161
+  text = "RE WhatsApp Facebook-itzation: Baffled by the number of claims of “I left WhatsApp by “just” switching me and every person I know over to Signal!”\n\nVery hard to believe, but they seem to believe what they’re saying. Not sure where the disconnect is, but installed Signal anyway."
+
+[[tweets]]
   created_at = 2021-01-07T21:11:35Z
   favorite_count = 1
   id = 1347289802689822720
