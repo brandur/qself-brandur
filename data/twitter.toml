@@ -1,5 +1,35 @@
 
 [[tweets]]
+  created_at = 2021-01-09T19:58:14Z
+  id = 1347996119481999360
+  text = "@MichaelBurjack Thanks! I'll try your first set of recommendations and get back to you.\n\n(Also, I was largely joking in my original tweet — I don't care that much, and also it'll be very difficult in practice to win back against IKEA. My best hope is probably that they deprecate the product ;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "MichaelBurjack"
+      user_id = 122132710
+
+  [tweets.reply]
+    status_id = 1347297336649605121
+    user = "MichaelBurjack"
+    user_id = 122132710
+
+[[tweets]]
+  created_at = 2021-01-09T19:54:01Z
+  favorite_count = 21
+  id = 1347995060306997249
+  retweet_count = 2
+  text = "Update on Homebrew on M1: Works great now, and I was able to get rid of the second x86 Homebrew install that ran some programs under Rosetta. For my money, there are no blockers left in these being great machines for development.\n\nMore detail: https://t.co/DtvRU435Ws"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/home…"
+      expanded_url = "https://brandur.org/fragments/homebrew-m1"
+      url = "https://t.co/DtvRU435Ws"
+
+[[tweets]]
   created_at = 2021-01-08T23:17:29Z
   favorite_count = 15
   id = 1347683878123700226
