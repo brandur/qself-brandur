@@ -17,9 +17,9 @@
 
 [[tweets]]
   created_at = 2021-01-09T19:54:01Z
-  favorite_count = 29
+  favorite_count = 32
   id = 1347995060306997249
-  retweet_count = 4
+  retweet_count = 5
   text = "Update on Homebrew on M1: Works great now, and I was able to get rid of the second x86 Homebrew install that ran some programs under Rosetta. For my money, there are no blockers left in these being great machines for development.\n\nMore detail: https://t.co/DtvRU435Ws"
 
   [tweets.entities]
