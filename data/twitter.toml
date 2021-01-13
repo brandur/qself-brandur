@@ -1,5 +1,86 @@
 
 [[tweets]]
+  created_at = 2021-01-13T17:36:44Z
+  favorite_count = 1
+  id = 1349410063077707776
+  text = "Played around with Ractors last weekend. Very happy there’s finally parallelism in Ruby.\n\nWorth noting that they’re currently not much use because so much Ruby relies on ambient global state. e.g. Can’t parse TOML in a Ractor, can’t render Markdown. Mostly stdlib-only right now."
+
+[[tweets]]
+  created_at = 2021-01-13T17:35:33Z
+  favorite_count = 1
+  id = 1349409763478577153
+  text = "@appltn Hmm, that would have been a good one to try, but I didn't even think of it when I wrote that — I'm all just image-less static binaries these days (or building images in the cloud from GCP and the like).\n\nJust via Google though, looks like they've made good progress."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "appltn"
+      user_id = 19526934
+
+  [tweets.reply]
+    status_id = 1348207837990805504
+    user = "appltn"
+    user_id = 19526934
+
+[[tweets]]
+  created_at = 2021-01-13T17:34:00Z
+  id = 1349409375333453825
+  retweet_count = 2
+  text = "RT @gertjanwilde: What's good about offset pagination; designing parallel cursor-based web APIs — by @brandur https://t.co/VSrnU1Sy0E #API…"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "buff.ly/3ovE4Nl"
+      expanded_url = "https://buff.ly/3ovE4Nl"
+      url = "https://t.co/VSrnU1Sy0E"
+
+    [[tweets.entities.user_mentions]]
+      user = "gertjanwilde"
+      user_id = 973691725
+
+    [[tweets.entities.user_mentions]]
+      user = "brandur"
+      user_id = 22980330
+
+  [tweets.retweet]
+    status_id = 1348542168709926921
+    user = "gertjanwilde"
+    user_id = 973691725
+
+[[tweets]]
+  created_at = 2021-01-13T17:33:46Z
+  id = 1349409314658689025
+  text = "@maxchehab I'm a little out of the loop in recent years (being down in California), but I think this isn't _too far_ off of normal."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "maxchehab"
+      user_id = 3303065330
+
+  [tweets.reply]
+    status_id = 1348686876572491776
+    user = "maxchehab"
+    user_id = 3303065330
+
+[[tweets]]
+  created_at = 2021-01-13T17:32:58Z
+  id = 1349409116440072192
+  text = "@hendi Wow that's awesome, and yeah, the space in the area is a really nice feature. I thinkkkk I've done Corey Pass, but it's been a few decades at this point :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "hendi"
+      user_id = 6070782
+
+  [tweets.reply]
+    status_id = 1348692001823338496
+    user = "hendi"
+    user_id = 6070782
+
+[[tweets]]
   created_at = 2021-01-11T17:33:29Z
   favorite_count = 35
   id = 1348684470728069122
@@ -2297,11 +2378,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 1348826115519889408
+      user_id = 9483652
 
   [tweets.reply]
     status_id = 1298330330068185089
-    user = "Its_stolt"
+    user = "stolt45"
     user_id = 9483652
 
 [[tweets]]
@@ -7012,7 +7093,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 899
+  favorite_count = 896
   id = 1108525994405564417
   retweet_count = 90
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
@@ -14360,7 +14441,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 1348826115519889408
+      user_id = 9483652
 
     [[tweets.entities.user_mentions]]
       user = "danfarina"
@@ -24321,7 +24402,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 1348826115519889408
+      user_id = 9483652
 
     [[tweets.entities.user_mentions]]
       user = "danfarina"
@@ -24333,7 +24414,7 @@
 
   [tweets.reply]
     status_id = 869959274780270593
-    user = "Its_stolt"
+    user = "stolt45"
     user_id = 9483652
 
 [[tweets]]
@@ -26061,11 +26142,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 1348826115519889408
+      user_id = 9483652
 
   [tweets.reply]
     status_id = 847788397544431621
-    user = "Its_stolt"
+    user = "stolt45"
     user_id = 9483652
 
 [[tweets]]
@@ -30256,7 +30337,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 1348826115519889408
+      user_id = 9483652
 
   [tweets.reply]
     status_id = 761230509410181120
@@ -30441,7 +30522,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 1348826115519889408
+      user_id = 9483652
 
   [tweets.reply]
     status_id = 755823297103671296
@@ -37440,7 +37521,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 9483652
+      user_id = 1348826115519889408
 
     [[tweets.entities.user_mentions]]
       user = "ped"
