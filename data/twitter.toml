@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2021-01-13T17:36:44Z
-  favorite_count = 1
+  favorite_count = 5
   id = 1349410063077707776
   text = "Played around with Ractors last weekend. Very happy there’s finally parallelism in Ruby.\n\nWorth noting that they’re currently not much use because so much Ruby relies on ambient global state. e.g. Can’t parse TOML in a Ractor, can’t render Markdown. Mostly stdlib-only right now."
 
@@ -121,7 +121,7 @@
 
 [[tweets]]
   created_at = 2021-01-09T19:54:01Z
-  favorite_count = 35
+  favorite_count = 38
   id = 1347995060306997249
   retweet_count = 5
   text = "Update on Homebrew on M1: Works great now, and I was able to get rid of the second x86 Homebrew install that ran some programs under Rosetta. For my money, there are no blockers left in these being great machines for development.\n\nMore detail: https://t.co/DtvRU435Ws"
@@ -1354,9 +1354,8 @@
 
 [[tweets]]
   created_at = 2020-10-19T15:12:53Z
-  favorite_count = 17
+  favorite_count = 14
   id = 1318208505296216065
-  retweet_count = 1
   text = "@spakhm I like to argue that \"simply\" dissolving Twitter would be the single biggest/easiest win for harmony possible.\n\nNew platforms would replace it, but unlikely to capture the same overwhelming majority, leaving only smaller fragmented platforms for people to scream at each other on."
 
   [tweets.entities]
