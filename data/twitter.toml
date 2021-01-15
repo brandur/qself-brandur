@@ -34336,7 +34336,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 9483652
+      user_id = 1348826115519889408
 
     [[tweets.entities.user_mentions]]
       user = "schneems"
@@ -34344,7 +34344,7 @@
 
   [tweets.reply]
     status_id = 635488532899827712
-    user = "stolt45"
+    user = "Its_stolt"
     user_id = 9483652
 
 [[tweets]]
