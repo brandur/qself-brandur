@@ -16835,7 +16835,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 9483652
+      user_id = 1348826115519889408
 
   [tweets.reply]
     status_id = 956358699714408448
@@ -38398,8 +38398,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "Slant"
-      user_id = 825286364434485248
+      user = "slant"
+      user_id = 1335665445383311361
 
   [tweets.reply]
     status_id = 514148086319284224
