@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2021-01-15T23:13:12Z
-  favorite_count = 21
+  favorite_count = 24
   id = 1350219514563096576
-  retweet_count = 7
+  retweet_count = 9
   text = "Sent Nanoglyph 018 about Ractors in Ruby 3.\n\nA more faithful implementation of the actor model than something Goroutines/channels. Two styles of message passing to get whatever blocking/non-blocking semantics you want to have.\n\nhttps://t.co/W5ouSDMJ5m https://t.co/odycLMUctK"
 
   [tweets.entities]
