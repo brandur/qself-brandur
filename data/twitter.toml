@@ -1,5 +1,23 @@
 
 [[tweets]]
+  created_at = 2021-01-23T04:31:53Z
+  favorite_count = 4
+  id = 1352836425624915968
+  text = "This is pretty niche, but I wrote Go API bindings for WaniKani.\n\nhttps://t.co/HTKhI9h1Ty\n\nIntegrated the good parts of stripe-go, and left out the bad (global state, Java-esque iterators).\n\nWaniKani is a microcosm of good API design. More details: https://t.co/4iYiJXEuVx"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/brandur/wanika…"
+      expanded_url = "https://github.com/brandur/wanikaniapi"
+      url = "https://t.co/HTKhI9h1Ty"
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/wani…"
+      expanded_url = "https://brandur.org/fragments/wani-kani-go-api-package"
+      url = "https://t.co/4iYiJXEuVx"
+
+[[tweets]]
   created_at = 2021-01-22T19:08:15Z
   id = 1352694584589996032
   text = "@kingersoll Yeah, Twitter -> Mastodon was a bit arbitrary, but I figure Twitter is more likely to last (unfortunately), and its lower char limit makes T -> M easier than the other way around.\n\nInteresting on Perkeep! Hadn't seen this. Too bad it's stalled because I kind of want it ..."
@@ -17030,7 +17048,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 9483652
+      user_id = 1348826115519889408
 
   [tweets.reply]
     status_id = 956204943580446720
@@ -25193,11 +25211,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 9483652
+      user_id = 1348826115519889408
 
   [tweets.reply]
     status_id = 863420378336460800
-    user = "stolt45"
+    user = "Its_stolt"
     user_id = 9483652
 
 [[tweets]]
@@ -38485,8 +38503,8 @@
       user_id = 6710562
 
     [[tweets.entities.user_mentions]]
-      user = "slant"
-      user_id = 1335665445383311361
+      user = "Slant"
+      user_id = 825286364434485248
 
   [tweets.reply]
     status_id = 513683700291088386
