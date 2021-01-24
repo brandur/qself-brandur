@@ -17048,7 +17048,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 9483652
+      user_id = 1348826115519889408
 
   [tweets.reply]
     status_id = 956204943580446720
@@ -25211,11 +25211,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "stolt45"
-      user_id = 9483652
+      user_id = 1348826115519889408
 
   [tweets.reply]
     status_id = 863420378336460800
-    user = "stolt45"
+    user = "Its_stolt"
     user_id = 9483652
 
 [[tweets]]
@@ -38503,8 +38503,8 @@
       user_id = 6710562
 
     [[tweets.entities.user_mentions]]
-      user = "slant"
-      user_id = 1335665445383311361
+      user = "Slant"
+      user_id = 825286364434485248
 
   [tweets.reply]
     status_id = 513683700291088386
