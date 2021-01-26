@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2021-01-26T20:16:22Z
+  favorite_count = 11
+  id = 1354161278294519808
+  text = "Programming in Java for a few hours sure makes you appreciate C#.\n\nJava's like an alternate reality where all the nice quality of life features (properties, property init from constructor, option parameters, tuples, etc.) just never happened.\n\nAt least it finally got closures."
+
+[[tweets]]
   created_at = 2021-01-23T04:31:53Z
   favorite_count = 7
   id = 1352836425624915968
