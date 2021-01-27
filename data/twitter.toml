@@ -1,5 +1,41 @@
 
 [[tweets]]
+  created_at = 2021-01-27T01:48:34Z
+  favorite_count = 9
+  id = 1354244880814366723
+  text = "A little architectural inspiration: amazing house built underground, into the side of of a hill. Concrete and steel everything.\n\nCome on billionaires, more Bond villain lairs like this please. Someone needs to do the volcano thing (\"You Only Live twice\").\n\nhttps://t.co/1ImjKKvdfn"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "design-milk.com/a-cave-like-ho…"
+      expanded_url = "https://design-milk.com/a-cave-like-home-built-into-a-rocky-cove-overlooking-the-aegean-sea/"
+      url = "https://t.co/1ImjKKvdfn"
+
+[[tweets]]
+  created_at = 2021-01-27T01:44:30Z
+  favorite_count = 27
+  id = 1354243853675466752
+  retweet_count = 5
+  text = "RT @adamludwin: An average GameStop by this summer https://t.co/aXNMfKtLnG"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1354227902120939520
+      type = "photo"
+      url = "https://pbs.twimg.com/media/EssvGhrXUAAMhnY.png"
+
+    [[tweets.entities.user_mentions]]
+      user = "adamludwin"
+      user_id = 6568422
+
+  [tweets.retweet]
+    status_id = 1354228110460395523
+    user = "adamludwin"
+    user_id = 6568422
+
+[[tweets]]
   created_at = 2021-01-26T21:31:58Z
   favorite_count = 4
   id = 1354180304462733312
