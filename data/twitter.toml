@@ -14,9 +14,9 @@
 
 [[tweets]]
   created_at = 2021-01-27T01:44:30Z
-  favorite_count = 33
+  favorite_count = 36
   id = 1354243853675466752
-  retweet_count = 6
+  retweet_count = 8
   text = "RT @adamludwin: An average GameStop by this summer https://t.co/aXNMfKtLnG"
 
   [tweets.entities]
