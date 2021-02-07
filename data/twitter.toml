@@ -23970,7 +23970,7 @@
     [[tweets.entities.medias]]
       id = 890079266779549696
       type = "animated_gif"
-      url = "https://pbs.twimg.com/tweet_video_thumb/DFoyYJZV0AA4olP.jpg"
+      url = "https://pbs.twimg.com/tweet_video_thumb/DFoyYJZV0AAzlgV.jpg"
 
     [[tweets.entities.user_mentions]]
       user = "mschoening"
