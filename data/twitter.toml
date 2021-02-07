@@ -30783,7 +30783,7 @@
     [[tweets.entities.medias]]
       id = 760577075145170944
       type = "photo"
-      url = "https://pbs.twimg.com/media/Co4c0fRVYAAOLf4.jpg"
+      url = "https://pbs.twimg.com/media/Co4c0fRVYAA23FB.jpg"
 
     [[tweets.entities.user_mentions]]
       user = "leinweber"
