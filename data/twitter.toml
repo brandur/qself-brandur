@@ -1,5 +1,136 @@
 
 [[tweets]]
+  created_at = 2021-02-11T02:59:16Z
+  favorite_count = 3
+  id = 1359698489500983299
+  text = "Some nice people have bumped me on Twitter recently, so I'll take the opportunity for some self promotion —\n\nYou might enjoy my newsletter, _Nanoglyph_. It's like a Substack, but from the old school. I'll be shipping a new edition in the next day or two.\n\nhttps://t.co/BPeqS7S3Xd https://t.co/HejjHtJUbN"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1359698187615940611
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Et6eTDKXMAMFMFc.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "nanoglyph-signup.brandur.org"
+      expanded_url = "https://nanoglyph-signup.brandur.org/"
+      url = "https://t.co/BPeqS7S3Xd"
+
+[[tweets]]
+  created_at = 2021-02-11T02:54:30Z
+  id = 1359697287933526022
+  text = "@mfioretti_en Haha, I try :) The internet would be a better place if we'd all stuck to RSS instead of social media.\n\nAnd very nice! Keep fighting the good fight."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "mfioretti_en"
+      user_id = 516034301
+
+  [tweets.reply]
+    status_id = 1359044033654509568
+    user = "mfioretti_en"
+    user_id = 516034301
+
+[[tweets]]
+  created_at = 2021-02-11T02:53:00Z
+  id = 1359696911771570179
+  text = "@johnmathews That's probably fine a solution too. Two minor advantages I'd cite are that:\n\n(1) You probably already have an AWS account anyway, and it's nice to keep everything on one stack.\n\n(2) If you want to expand out of static site hosting, AWS certainly has a product for that."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "johnmathews"
+      user_id = 14184764
+
+  [tweets.reply]
+    status_id = 1359081928163553282
+    user = "johnmathews"
+    user_id = 14184764
+
+[[tweets]]
+  created_at = 2021-02-11T02:50:35Z
+  favorite_count = 1
+  id = 1359696302997659649
+  text = "@jsgjames Glad that it may still be somewhat useful. I wrote that almost ten years ago, so I would've expected it to be grossly out of date by now! :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jsgjames"
+      user_id = 855465535517204480
+
+  [tweets.reply]
+    status_id = 1359242711723876358
+    user = "jsgjames"
+    user_id = 855465535517204480
+
+[[tweets]]
+  created_at = 2021-02-11T02:49:08Z
+  favorite_count = 1
+  id = 1359695940634951680
+  text = "@thesephist Thanks for the kind words Linus! :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "thesephist"
+      user_id = 985741465
+
+  [tweets.reply]
+    status_id = 1359503134893223936
+    user = "thesephist"
+    user_id = 985741465
+
+[[tweets]]
+  created_at = 2021-02-11T02:48:48Z
+  favorite_count = 18
+  id = 1359695857361248257
+  retweet_count = 1
+  text = "RT @thesephist: Since I found it 3 years, ago, @brandur's blog has stayed the best designed blog I've ever seen (obviously, a subjective take). So clean, minimal, without being generic. And lots of attention to detail everywhere.\n\nIt was a big inspiration for https://t.co/K3osrFdbV4's design. https://t.co/pAwSPsa0Fk"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1358959630769152000
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Etv-lYgXYAAOBeh.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1358959630764953604
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Etv-lYfXUAQBFIj.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1358959630769086464
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Etv-lYgWYAAH1k-.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1358959630773350402
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Etv-lYhXcAIApOA.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "dotink.co"
+      expanded_url = "http://dotink.co"
+      url = "https://t.co/K3osrFdbV4"
+
+    [[tweets.entities.user_mentions]]
+      user = "thesephist"
+      user_id = 985741465
+
+    [[tweets.entities.user_mentions]]
+      user = "brandur"
+      user_id = 22980330
+
+  [tweets.retweet]
+    status_id = 1359503134893223936
+    user = "thesephist"
+    user_id = 985741465
+
+[[tweets]]
   created_at = 2021-02-03T02:23:21Z
   favorite_count = 10
   id = 1356790347746009090
@@ -20800,9 +20931,9 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2676
+  favorite_count = 2673
   id = 919646432721641472
-  retweet_count = 1037
+  retweet_count = 1038
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
 
   [tweets.entities]
