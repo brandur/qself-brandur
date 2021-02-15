@@ -24102,7 +24102,7 @@
     [[tweets.entities.medias]]
       id = 890079266779549696
       type = "animated_gif"
-      url = "https://pbs.twimg.com/tweet_video_thumb/DFoyYJZV0AAzlgV.jpg"
+      url = "https://pbs.twimg.com/tweet_video_thumb/DFoyYJZV0AA4olP.jpg"
 
     [[tweets.entities.user_mentions]]
       user = "mschoening"
@@ -46415,7 +46415,7 @@
   created_at = 2013-08-08T20:16:14Z
   favorite_count = 24
   id = 365567148715819008
-  retweet_count = 277
+  retweet_count = 274
   text = "RT @BoingBoing: Lavabit, email service Snowden reportedly used, abruptly shuts down http://t.co/nFk2J4htj4"
 
   [tweets.entities]
