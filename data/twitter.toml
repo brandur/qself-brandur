@@ -1,9 +1,22 @@
 
 [[tweets]]
+  created_at = 2021-02-15T18:56:41Z
+  favorite_count = 1
+  id = 1361388982571913216
+  text = "And worth noting it'll deduplicate too!\n\nhttps://t.co/Na4lyz14By"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/starsandrobots…"
+      expanded_url = "https://twitter.com/starsandrobots/status/1361386518166859777"
+      url = "https://t.co/Na4lyz14By"
+
+[[tweets]]
   created_at = 2021-02-15T18:10:43Z
-  favorite_count = 4
+  favorite_count = 19
   id = 1361377414517911554
-  retweet_count = 1
+  retweet_count = 2
   text = "Periodic reminder that Vim has a built-in `:sort` command that works for an entire file and all the usual selections. Not something you need every day, but the days when you do, it's a _huge_ time saver.\n\nhttps://t.co/VnYYmmFQrc https://t.co/wth1VwipGn"
 
   [tweets.entities]
@@ -1597,15 +1610,11 @@
 
 [[tweets]]
   created_at = 2020-10-24T13:34:06Z
-  favorite_count = 3
+  favorite_count = 2
   id = 1319995586699907072
   text = "@LuottoSteven @TheEricAnderson @NotebooksApp Agree that iPad w/ keyboard is unwieldy, but I'm a crazy who will actually bring it around town anyway.\n\nInteresting on NotebooksApp! Personally prefer that formatting not even available lest I paste and have to undo it. Also, once I'm on editing phase, Vim bindings are a most."
 
   [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "LuottoSteven"
-      user_id = 968240143378370566
 
     [[tweets.entities.user_mentions]]
       user = "TheEricAnderson"
@@ -1614,11 +1623,6 @@
     [[tweets.entities.user_mentions]]
       user = "NotebooksApp"
       user_id = 2293494278
-
-  [tweets.reply]
-    status_id = 1319914358017753088
-    user = "LuottoSteven"
-    user_id = 968240143378370566
 
 [[tweets]]
   created_at = 2020-10-23T22:52:04Z
