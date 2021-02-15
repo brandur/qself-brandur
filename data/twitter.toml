@@ -1,5 +1,63 @@
 
 [[tweets]]
+  created_at = 2021-02-15T18:10:43Z
+  favorite_count = 4
+  id = 1361377414517911554
+  retweet_count = 1
+  text = "Periodic reminder that Vim has a built-in `:sort` command that works for an entire file and all the usual selections. Not something you need every day, but the days when you do, it's a _huge_ time saver.\n\nhttps://t.co/VnYYmmFQrc https://t.co/wth1VwipGn"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1361377168417169408
+      type = "photo"
+      url = "https://pbs.twimg.com/media/EuSVUmDVIAAxRUY.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "thoughtbot.com/blog/sort-line…"
+      expanded_url = "https://thoughtbot.com/blog/sort-lines-alphabetically-in-vim"
+      url = "https://t.co/VnYYmmFQrc"
+
+[[tweets]]
+  created_at = 2021-02-15T16:18:05Z
+  favorite_count = 7
+  id = 1361349070866972679
+  retweet_count = 3
+  text = "RT @jkspn: As @NotionHQ had a meltdown earlier today, I am reminded of this wonderful read by @brandur on local-first software\n\nThe convenience of online apps like Notion, @Figma, @Webflow, etc. can’t be overstated. But ultimately they depen on your connection.\n\nhttps://t.co/hZepSqdURB"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/nanoglyphs/014…"
+      expanded_url = "https://brandur.org/nanoglyphs/014-local-first"
+      url = "https://t.co/hZepSqdURB"
+
+    [[tweets.entities.user_mentions]]
+      user = "jkspn"
+      user_id = 281916790
+
+    [[tweets.entities.user_mentions]]
+      user = "NotionHQ"
+      user_id = 708915428454576128
+
+    [[tweets.entities.user_mentions]]
+      user = "brandur"
+      user_id = 22980330
+
+    [[tweets.entities.user_mentions]]
+      user = "figma"
+      user_id = 52708408
+
+    [[tweets.entities.user_mentions]]
+      user = "webflow"
+      user_id = 403930194
+
+  [tweets.retweet]
+    status_id = 1360300854444625920
+    user = "jkspn"
+    user_id = 281916790
+
+[[tweets]]
   created_at = 2021-02-11T02:59:16Z
   favorite_count = 9
   id = 1359698489500983299
