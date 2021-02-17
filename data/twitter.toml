@@ -1,5 +1,67 @@
 
 [[tweets]]
+  created_at = 2021-02-16T22:39:45Z
+  id = 1361807508461940736
+  text = "@craigkerstiens @jkatz05 Just put the tracking on your actual logo.gif!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+    [[tweets.entities.user_mentions]]
+      user = "jkatz05"
+      user_id = 17105960
+
+  [tweets.reply]
+    status_id = 1361807088825999361
+    user = "craigkerstiens"
+    user_id = 12473952
+
+[[tweets]]
+  created_at = 2021-02-16T22:36:37Z
+  favorite_count = 1
+  id = 1361806716619268099
+  text = "@jkatz05 lol! In this case, it's more like HN is more popular than I thought it was.\n\nI had to double check that this wasn't a comment from @craigkerstiens. You're not picking up any bad habits from that guy are you? ;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jkatz05"
+      user_id = 17105960
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+  [tweets.reply]
+    status_id = 1361792289379598340
+    user = "jkatz05"
+    user_id = 17105960
+
+[[tweets]]
+  created_at = 2021-02-16T21:29:16Z
+  id = 1361789768669880320
+  text = "@be_haki Nah, I'm using the centrally hosted version for now. The difference is probably a difference in the bot lists used by each operation.\n\nFor logs, I've been filtering out robots using something like this:\nhttps://t.co/oMbFUUF8AI"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/brandur/logs/b…"
+      expanded_url = "https://github.com/brandur/logs/blob/master/queries/brandur.org/unique_last_month.sql"
+      url = "https://t.co/oMbFUUF8AI"
+
+    [[tweets.entities.user_mentions]]
+      user = "be_haki"
+      user_id = 2834924845
+
+  [tweets.reply]
+    status_id = 1361732876044275712
+    user = "be_haki"
+    user_id = 2834924845
+
+[[tweets]]
   created_at = 2021-02-16T17:15:38Z
   id = 1361725939218980865
   text = "@benskuhn Nice! And hah, yes, I did something very similar for my numbers (look familiar?):\nhttps://t.co/tvoQq721wF\n\nAnd TBC, the CLI is pretty raw (handrolled by me in a few hours), but so far holding up okay."
@@ -59,9 +121,9 @@
 
 [[tweets]]
   created_at = 2021-02-16T16:30:39Z
-  favorite_count = 26
+  favorite_count = 40
   id = 1361714617928413188
-  retweet_count = 4
+  retweet_count = 8
   text = "Wrote a piece on ditching Google Analytics to run analytics over logs, like it’s 1999 (except now with hosted Presto, etc. bootable in seconds from the cloud ;).\n\nI also estimate how inaccurate hosted analytics are due to adblocked scripts. Answer: very.\n\nhttps://t.co/N4us4bKWvG"
 
   [tweets.entities]
