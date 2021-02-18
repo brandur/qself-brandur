@@ -1,7 +1,36 @@
 
 [[tweets]]
+  created_at = 2021-02-18T19:53:26Z
+  favorite_count = 1
+  id = 1362490429258653697
+  text = "Can’t believe I agree with Facebook on anything, but this is the right move. Big tech isn't good, but legislative overreach and insider graft is worse.\n\nGood for society too. Given the quality of today’s news, we’d all do well to consume less of it.\n\nhttps://t.co/XpgDMuLAIK"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "about.fb.com/news/2021/02/c…"
+      expanded_url = "https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/"
+      url = "https://t.co/XpgDMuLAIK"
+
+[[tweets]]
+  created_at = 2021-02-18T19:50:12Z
+  id = 1362489614636752897
+  text = "@stevegraham Wow. Wish I'd headed straight to South America a year ago lol."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "stevegraham"
+      user_id = 2887911
+
+  [tweets.reply]
+    status_id = 1362463978996269057
+    user = "stevegraham"
+    user_id = 2887911
+
+[[tweets]]
   created_at = 2021-02-18T03:17:09Z
-  favorite_count = 7
+  favorite_count = 10
   id = 1362239703148236802
   retweet_count = 1
   text = "Excellent: Go 1.16 finally supports slurping up static files into binaries. 3rd party packages and extra build steps no longer required.\n\n(Like Go, and this is good, but can’t give them _too_ much credit because it should’ve happened >5 years ago.)\n\nhttps://t.co/XGzcxwC81f"
