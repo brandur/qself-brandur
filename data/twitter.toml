@@ -1,5 +1,19 @@
 
 [[tweets]]
+  created_at = 2021-02-18T03:17:09Z
+  favorite_count = 7
+  id = 1362239703148236802
+  retweet_count = 1
+  text = "Excellent: Go 1.16 finally supports slurping up static files into binaries. 3rd party packages and extra build steps no longer required.\n\n(Like Go, and this is good, but can’t give them _too_ much credit because it should’ve happened >5 years ago.)\n\nhttps://t.co/XGzcxwC81f"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "golang.org/pkg/embed/"
+      expanded_url = "https://golang.org/pkg/embed/"
+      url = "https://t.co/XGzcxwC81f"
+
+[[tweets]]
   created_at = 2021-02-16T22:39:45Z
   id = 1361807508461940736
   text = "@craigkerstiens @jkatz05 Just put the tracking on your actual logo.gif!"
