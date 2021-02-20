@@ -1,5 +1,22 @@
 
 [[tweets]]
+  created_at = 2021-02-20T15:05:20Z
+  id = 1363142702804602880
+  text = "And very insightful thoughts from Michael Geist (who started blogging almost 20 years ago now!) on the implication's of Australia's new framework on Canada and other countries.\n\nhttps://t.co/Y5yPFA5Twj"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "michaelgeist.ca/2021/02/beware…"
+      expanded_url = "https://www.michaelgeist.ca/2021/02/beware-the-unintended-consequences-some-warning-signs-for-canada-from-the-australian-government-battle-with-facebook/"
+      url = "https://t.co/Y5yPFA5Twj"
+
+  [tweets.reply]
+    status_id = 1362490429258653697
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
   created_at = 2021-02-18T19:53:26Z
   favorite_count = 1
   id = 1362490429258653697
