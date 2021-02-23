@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2021-02-23T02:59:53Z
+  id = 1364047300637560835
+  text = "@spakhm Excellent choices. Well, on the last piece anyway :) The first two seem okay too."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "spakhm"
+      user_id = 29089797
+
+  [tweets.reply]
+    status_id = 1364004512667631616
+    user = "spakhm"
+    user_id = 29089797
+
+[[tweets]]
   created_at = 2021-02-20T15:05:20Z
   id = 1363142702804602880
   text = "And very insightful thoughts from Michael Geist (who started blogging almost 20 years ago now!) on the implication's of Australia's new framework on Canada and other countries.\n\nhttps://t.co/Y5yPFA5Twj"
