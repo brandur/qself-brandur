@@ -44115,6 +44115,12 @@
   id = 416602831999627265
   text = "@Conradaroma Haha. Exactly what I ate last night!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "conradaroma"
+      user_id = 1361596052537810945
+
 [[tweets]]
   created_at = 2013-12-22T06:30:16Z
   favorite_count = 1
