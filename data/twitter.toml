@@ -3272,12 +3272,16 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "joeltayl"
+      user_id = 1918501735
+
+    [[tweets.entities.user_mentions]]
       user = "Benoit_Tgt"
       user_id = 129343129
 
   [tweets.reply]
     status_id = 1281591862076162048
-    user = "joeltaylor"
+    user = "joeltayl"
     user_id = 1918501735
 
 [[tweets]]
