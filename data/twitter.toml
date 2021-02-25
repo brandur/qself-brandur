@@ -15592,10 +15592,6 @@
       user = "tobias_maier"
       user_id = 470527085
 
-    [[tweets.entities.user_mentions]]
-      user = "GCPcloud"
-      user_id = 15813140
-
   [tweets.reply]
     status_id = 973452031150223360
     user = "tobias_maier"
