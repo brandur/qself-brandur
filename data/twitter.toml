@@ -3272,16 +3272,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "joeltayl"
-      user_id = 1918501735
-
-    [[tweets.entities.user_mentions]]
       user = "Benoit_Tgt"
       user_id = 129343129
 
   [tweets.reply]
     status_id = 1281591862076162048
-    user = "joeltayl"
+    user = "joeltaylor"
     user_id = 1918501735
 
 [[tweets]]
@@ -15554,10 +15550,6 @@
     [[tweets.entities.user_mentions]]
       user = "tobias_maier"
       user_id = 470527085
-
-    [[tweets.entities.user_mentions]]
-      user = "GCPcloud"
-      user_id = 15813140
 
   [tweets.reply]
     status_id = 973983648067309569
