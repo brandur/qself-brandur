@@ -9282,6 +9282,12 @@
   id = 1064341430909292545
   text = "@ozanonay Damn, cool. Thank you!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "OzanOnay"
+      user_id = 1361749234723217413
+
   [tweets.reply]
     status_id = 1064326933742141446
     user = "oznova_"
