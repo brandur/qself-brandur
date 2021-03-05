@@ -1,5 +1,94 @@
 
 [[tweets]]
+  created_at = 2021-03-05T18:39:57Z
+  favorite_count = 1
+  id = 1367907751179866113
+  text = "@StbG @Shopify @graalvm Very cool stuff, although I'm not sure I'd switch to the heaviness of the Java toolchain just so I could go back to writing Ruby code, hah ;) Thanks for the tips — that paper's on my reading list now."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "StbG"
+      user_id = 20793331
+
+    [[tweets.entities.user_mentions]]
+      user = "Shopify"
+      user_id = 17136315
+
+    [[tweets.entities.user_mentions]]
+      user = "graalvm"
+      user_id = 777756197701099520
+
+  [tweets.reply]
+    status_id = 1367661026242523140
+    user = "StbG"
+    user_id = 20793331
+
+[[tweets]]
+  created_at = 2021-03-05T18:39:00Z
+  id = 1367907512515629056
+  text = "@johnmathews Not yet, but I will. Thanks for the tip! I think I'm still on Ale (after moving to that from YouCompleteMe). It seemed to work okay at first, but I feel like my installation's been getting worse instead of better, hah."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "johnmathews"
+      user_id = 14184764
+
+  [tweets.reply]
+    status_id = 1367772772705964035
+    user = "johnmathews"
+    user_id = 14184764
+
+[[tweets]]
+  created_at = 2021-03-05T18:38:02Z
+  id = 1367907271699697665
+  text = "@_raulb_ @GoLandIDE Hah, I know that feeling well. I'm still trying to remember basic shortcuts a lot of the time, and have started maintaining a cheat sheet to help me remember things that I've already found."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "_raulb_"
+      user_id = 1269159922136166401
+
+    [[tweets.entities.user_mentions]]
+      user = "GoLandIDE"
+      user_id = 790527680961712128
+
+  [tweets.reply]
+    status_id = 1367778376862347265
+    user = "_raulb_"
+    user_id = 1269159922136166401
+
+[[tweets]]
+  created_at = 2021-03-05T18:37:14Z
+  id = 1367907067973959680
+  text = "@art_spb @s0xzwasd @_raulb_ @GoLandIDE Great tips everyone — thanks! \"Find action\" is very equivalent to VSCode's command palette, and might just be the perfect compromise for those shortcuts you use, but not all that often, and may not need a specific key combination for."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "art_spb"
+      user_id = 238744848
+
+    [[tweets.entities.user_mentions]]
+      user = "s0xzwasd"
+      user_id = 1261280952996835328
+
+    [[tweets.entities.user_mentions]]
+      user = "_raulb_"
+      user_id = 1269159922136166401
+
+    [[tweets.entities.user_mentions]]
+      user = "GoLandIDE"
+      user_id = 790527680961712128
+
+  [tweets.reply]
+    status_id = 1367837620101914626
+    user = "art_spb"
+    user_id = 238744848
+
+[[tweets]]
   created_at = 2021-03-05T01:14:30Z
   favorite_count = 8
   id = 1367644657547579392
