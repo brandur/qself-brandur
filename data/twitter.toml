@@ -1,5 +1,23 @@
 
 [[tweets]]
+  created_at = 2021-03-05T01:14:30Z
+  favorite_count = 5
+  id = 1367644657547579392
+  text = "Last Nanoglyph — wrote about how, unsurprisingly, IDEs are a good idea, and how they make writing **even Java** (!!) pretty fun.\n\nTitle for next week: \"Time and Entropy\".\n\nhttps://t.co/w9Qd7Ggjfp https://t.co/HKm1bdBzi2"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1367644329406177289
+      type = "photo"
+      url = "https://pbs.twimg.com/media/EvrZRYFVIAkovtO.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/nanoglyphs/021…"
+      expanded_url = "https://brandur.org/nanoglyphs/021-ides"
+      url = "https://t.co/w9Qd7Ggjfp"
+
+[[tweets]]
   created_at = 2021-03-04T16:44:31Z
   favorite_count = 3
   id = 1367516314714075138
