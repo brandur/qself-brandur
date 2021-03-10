@@ -1,7 +1,23 @@
 
 [[tweets]]
+  created_at = 2021-03-09T22:11:18Z
+  id = 1369410492524019716
+  text = "@chofter My hot take: Git was right. Even if Facebook makes Mercurial work, you've just reinvented Perforce. It's never going to be a pleasant system to work with."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "chofter"
+      user_id = 80024017
+
+  [tweets.reply]
+    status_id = 1369386314219544584
+    user = "chofter"
+    user_id = 80024017
+
+[[tweets]]
   created_at = 2021-03-09T20:11:46Z
-  favorite_count = 8
+  favorite_count = 12
   id = 1369380413014237185
   text = "I like the abstract romantic idea of a monorepo as much as the next person, but once one is so big that Git (one of the fastest and best-optimized programs every written) doesn’t really work anymore, the monorepo is too mono."
 
