@@ -1,5 +1,112 @@
 
 [[tweets]]
+  created_at = 2021-03-11T18:03:29Z
+  favorite_count = 3
+  id = 1370072901467082752
+  text = "Complained to @keiko713 about the kanji for the word \"carrot\" — 人参, which makes it \"person\" + \"participate\" (?!?!). Was sent this image as a memory aid.\n\n(Source: https://t.co/hf07Df35sL) https://t.co/8DVQehz8Km"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1370072714191331332
+      type = "photo"
+      url = "https://pbs.twimg.com/media/EwN53-XUYAQodnz.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/buromasa0423/s…"
+      expanded_url = "https://twitter.com/buromasa0423/status/1367443130614607879"
+      url = "https://t.co/hf07Df35sL"
+
+    [[tweets.entities.user_mentions]]
+      user = "keiko713"
+      user_id = 137869145
+
+[[tweets]]
+  created_at = 2021-03-11T17:56:49Z
+  id = 1370071225406427136
+  text = "@kch Ah neat — that is a cool trick. Thanks!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kch"
+      user_id = 6710562
+
+  [tweets.reply]
+    status_id = 1369057619969781760
+    user = "kch"
+    user_id = 6710562
+
+[[tweets]]
+  created_at = 2021-03-11T17:55:42Z
+  id = 1370070946250301441
+  text = "@vikasgorur lol! Yes, please. Did it work?"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "vikasgorur"
+      user_id = 84673452
+
+  [tweets.reply]
+    status_id = 1369407808966434818
+    user = "vikasgorur"
+    user_id = 84673452
+
+[[tweets]]
+  created_at = 2021-03-11T17:55:28Z
+  id = 1370070887509106688
+  text = "@felixhuttmann Yes, this was inspired by a work situation :)\n\nI do believe that it is possible to make a monorepo really work, but yeesh, it is a lot of time and resources just to get you back to level.\n\nThat said, I do acknowledge the niceties of a monorepo. There are certainly advantages."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "felixhuttmann"
+      user_id = 1181633020480102400
+
+  [tweets.reply]
+    status_id = 1369385228398178306
+    user = "felixhuttmann"
+    user_id = 1181633020480102400
+
+[[tweets]]
+  created_at = 2021-03-11T17:52:56Z
+  id = 1370070249047924738
+  text = "@visigoth @chofter Fair enough!\n\n(And not projecting this onto you because I don't know enough about other situations, but) I will say that there are quite a few people in my current monorepo situation that would say \"it's fine!\" even though it's not. Some people have very high pain tolerance."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "visigoth"
+      user_id = 1950981
+
+    [[tweets.entities.user_mentions]]
+      user = "chofter"
+      user_id = 80024017
+
+  [tweets.reply]
+    status_id = 1369487776668733446
+    user = "visigoth"
+    user_id = 1950981
+
+[[tweets]]
+  created_at = 2021-03-11T17:49:32Z
+  favorite_count = 1
+  id = 1370069394424930308
+  text = "@spakhm Yeah +1. Having worked in both environments, there's _so_ much about the non-mono approach to like that's not just related to Git performance, and I'd generally prefer that.\n\nThat said, the ease-of-refactoring, tooling-in-one-place, and a few other mono features are nice."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "spakhm"
+      user_id = 29089797
+
+  [tweets.reply]
+    status_id = 1369498133432987655
+    user = "spakhm"
+    user_id = 29089797
+
+[[tweets]]
   created_at = 2021-03-09T22:11:18Z
   id = 1369410492524019716
   text = "@chofter My hot take: Git was right. Even if Facebook makes Mercurial work, you've just reinvented Perforce. It's never going to be a pleasant system to work with."
