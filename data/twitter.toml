@@ -4446,12 +4446,6 @@
   id = 1214266111698464768
   text = "@yann_ck Nice!!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 1214236117819699201
     user = "bonjouryannick"
@@ -4601,6 +4595,12 @@
   created_at = 2019-12-20T16:22:44Z
   id = 1208060172586770438
   text = "@yann_ck Thanks! Definitely do it. :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
 
   [tweets.reply]
     status_id = 1208059078934695937
@@ -26026,12 +26026,6 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
@@ -33212,6 +33206,12 @@
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
   [tweets.reply]
     status_id = 717315520446472192
     user = "bonjouryannick"
@@ -35794,6 +35794,10 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
+    [[tweets.entities.user_mentions]]
       user = "bjeanes"
       user_id = 13141092
 
@@ -36669,6 +36673,10 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
+    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -36687,10 +36695,6 @@
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
       user_id = 7134522
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
@@ -36775,6 +36779,10 @@
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
 
   [tweets.reply]
     status_id = 606385994061877248
@@ -37641,10 +37649,6 @@
     [[tweets.entities.user_mentions]]
       user = "MCansky"
       user_id = 1129781464705511424
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
