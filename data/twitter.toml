@@ -4446,12 +4446,6 @@
   id = 1214266111698464768
   text = "@yann_ck Nice!!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 1214236117819699201
     user = "bonjouryannick"
@@ -5075,7 +5069,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2182
+  favorite_count = 2185
   id = 1182066723337293828
   retweet_count = 790
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -26026,12 +26020,6 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
@@ -30375,12 +30363,6 @@
   id = 799664247345029121
   text = "@yann_ck I found a nice trick recently for do or die re-training:\n\ninoremap <esc> NO ESCAPE FOR YOU"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 799660183844753408
     user = "bonjouryannick"
@@ -33212,6 +33194,12 @@
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
   [tweets.reply]
     status_id = 717315520446472192
     user = "bonjouryannick"
@@ -35794,6 +35782,10 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
+    [[tweets.entities.user_mentions]]
       user = "bjeanes"
       user_id = 13141092
 
@@ -36669,6 +36661,10 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
+    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -36687,10 +36683,6 @@
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
       user_id = 7134522
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
