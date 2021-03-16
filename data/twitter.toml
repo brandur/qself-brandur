@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2021-03-16T00:19:19Z
+  id = 1371617035654819842
+  text = "@spakhm Hoping for the best, expecting the worst."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "spakhm"
+      user_id = 29089797
+
+  [tweets.reply]
+    status_id = 1371607416970780672
+    user = "spakhm"
+    user_id = 29089797
+
+[[tweets]]
   created_at = 2021-03-11T18:03:29Z
   favorite_count = 6
   id = 1370072901467082752
@@ -4445,12 +4461,6 @@
   created_at = 2020-01-06T19:22:55Z
   id = 1214266111698464768
   text = "@yann_ck Nice!!"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
 
   [tweets.reply]
     status_id = 1214236117819699201
@@ -19900,12 +19910,6 @@
   id = 933857153022156802
   text = "@yann_ck I’m not really a gear guy, but:\n\n(1) the Hauser is my favorite backpack ever so far; \n(2) can’t recommend stuffable Uniqlo down jacket enough — warm, weatherproof, and well-priced; and\n(3) simple freezer thickness ziplock bag for toiletries — light, robust, and disposable."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 933307601101705217
     user = "bonjouryannick"
@@ -20486,12 +20490,6 @@
   favorite_count = 4
   id = 929333374170284032
   text = "@yann_ck Going out for dinner/drinks, and occasional expensive hardware purchases like the Leica Q and iPhone X.\n\nOh, and then there's the worst one by far: living in San Francisco ;)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
 
   [tweets.reply]
     status_id = 929252463735078912
@@ -26026,12 +26024,6 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
@@ -30375,12 +30367,6 @@
   id = 799664247345029121
   text = "@yann_ck I found a nice trick recently for do or die re-training:\n\ninoremap <esc> NO ESCAPE FOR YOU"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 799660183844753408
     user = "bonjouryannick"
@@ -33212,6 +33198,12 @@
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
   [tweets.reply]
     status_id = 717315520446472192
     user = "bonjouryannick"
@@ -35118,6 +35110,10 @@
       url = "https://t.co/ROoAvMyBP9"
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
+    [[tweets.entities.user_mentions]]
       user = "brandur"
       user_id = 22980330
 
@@ -35788,6 +35784,10 @@
   text = "@yann_ck @bjeanes @jacobian @gudmundur The man you’re looking for is @arnarbi. I would love to see macaroons baked into the backend!"
 
   [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
 
     [[tweets.entities.user_mentions]]
       user = "bjeanes"
@@ -36683,10 +36683,6 @@
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
       user_id = 7134522
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
