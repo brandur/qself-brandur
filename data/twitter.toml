@@ -30367,6 +30367,12 @@
   id = 799664247345029121
   text = "@yann_ck I found a nice trick recently for do or die re-training:\n\ninoremap <esc> NO ESCAPE FOR YOU"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
   [tweets.reply]
     status_id = 799660183844753408
     user = "bonjouryannick"
