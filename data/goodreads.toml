@@ -577,8 +577,8 @@
 
 [[readings]]
   id = 2
-  isbn = "0439358078"
-  isbn13 = "9780439358071"
+  isbn = ""
+  isbn13 = ""
   num_pages = 870
   published_year = 2004
   rating = 5
@@ -1235,7 +1235,7 @@
   id = 15811545
   isbn = "0670026638"
   isbn13 = "9780670026630"
-  num_pages = 491
+  num_pages = 432
   published_year = 2013
   rating = 3
   read_at = 2018-09-22T00:00:00-07:00
