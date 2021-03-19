@@ -4463,6 +4463,12 @@
   id = 1214266111698464768
   text = "@yann_ck Nice!!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
   [tweets.reply]
     status_id = 1214236117819699201
     user = "bonjouryannick"
@@ -20492,6 +20498,12 @@
   id = 929333374170284032
   text = "@yann_ck Going out for dinner/drinks, and occasional expensive hardware purchases like the Leica Q and iPhone X.\n\nOh, and then there's the worst one by far: living in San Francisco ;)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
+
   [tweets.reply]
     status_id = 929252463735078912
     user = "bonjouryannick"
@@ -26024,6 +26036,12 @@
   favorite_count = 1
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1332993742492610560
 
   [tweets.reply]
     status_id = 862592822251270146
@@ -33199,12 +33217,6 @@
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 717315520446472192
     user = "bonjouryannick"
@@ -35781,10 +35793,6 @@
   text = "@yann_ck @bjeanes @jacobian @gudmundur The man you’re looking for is @arnarbi. I would love to see macaroons baked into the backend!"
 
   [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
 
     [[tweets.entities.user_mentions]]
       user = "bjeanes"
