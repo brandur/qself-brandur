@@ -4582,10 +4582,6 @@
       url = "https://t.co/MNKHxgLahS"
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
-    [[tweets.entities.user_mentions]]
       user = "Benoit_Tgt"
       user_id = 129343129
 
