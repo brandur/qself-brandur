@@ -26025,12 +26025,6 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1332993742492610560
-
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
