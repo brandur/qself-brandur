@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2021-04-02T00:22:31Z
+  favorite_count = 5
+  id = 1377778436383539201
+  text = "Luckily a joke, but it got me. Right in line with Ruby's design principles (succinctly: \"include _everything_\").\n\nhttps://t.co/CU6a3d11x2"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "bugs.ruby-lang.org/issues/17768"
+      expanded_url = "https://bugs.ruby-lang.org/issues/17768"
+      url = "https://t.co/CU6a3d11x2"
+
+[[tweets]]
   created_at = 2021-03-16T00:19:19Z
   favorite_count = 3
   id = 1371617035654819842
@@ -21612,7 +21625,6 @@
 
 [[tweets]]
   created_at = 2017-10-09T01:12:47Z
-  favorite_count = 1
   id = 917196107255386112
   text = "@aaronjensen Thanks! Check out Monodraw. https://t.co/nJp1xWf811"
 
@@ -21622,15 +21634,6 @@
       display_url = "monodraw.helftone.com"
       expanded_url = "https://monodraw.helftone.com"
       url = "https://t.co/nJp1xWf811"
-
-    [[tweets.entities.user_mentions]]
-      user = "aaronjensen"
-      user_id = 14167570
-
-  [tweets.reply]
-    status_id = 917055405645107200
-    user = "aaronjensen"
-    user_id = 14167570
 
 [[tweets]]
   created_at = 2017-10-07T18:06:57Z
