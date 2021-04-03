@@ -21635,15 +21635,6 @@
       expanded_url = "https://monodraw.helftone.com"
       url = "https://t.co/nJp1xWf811"
 
-    [[tweets.entities.user_mentions]]
-      user = "aaronjensen"
-      user_id = 14167570
-
-  [tweets.reply]
-    status_id = 917055405645107200
-    user = "aaronjensen"
-    user_id = 14167570
-
 [[tweets]]
   created_at = 2017-10-07T18:06:57Z
   favorite_count = 1
