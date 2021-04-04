@@ -1,8 +1,9 @@
 
 [[tweets]]
   created_at = 2021-04-03T16:52:52Z
-  favorite_count = 7
+  favorite_count = 10
   id = 1378390052577808386
+  retweet_count = 1
   text = "Reminder that it's worth glancing at the AWS bill every once in a while, even if it's not enormous.\n\nThe s-m-r-t idea of always invalidating all index pages in CloudFront on every build cost $8 of a total ~$13 bill last month.\n\nhttps://t.co/kKZVeINBkU"
 
   [tweets.entities]
