@@ -1,7 +1,42 @@
 
 [[tweets]]
+  created_at = 2021-04-06T20:44:27Z
+  favorite_count = 20
+  id = 1379535496540393472
+  retweet_count = 1
+  text = "TIL: The “Re” we use in subject lines for email replies is a latin phrase abbreviated from “in re” (“in the matter of”). Hah, I always thought it was short for “reply”.\n\nThere’s an RFC of course:\nhttps://t.co/eX9tPAg9zV https://t.co/LInZ0lplv8"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1379535475774349313
+      type = "photo"
+      url = "https://pbs.twimg.com/media/EyUYNMSUYAEjt78.png"
+
+    [[tweets.entities.urls]]
+      display_url = "tools.ietf.org/html/rfc5322#s…"
+      expanded_url = "https://tools.ietf.org/html/rfc5322#section-3.6.5"
+      url = "https://t.co/eX9tPAg9zV"
+
+[[tweets]]
+  created_at = 2021-04-06T20:43:51Z
+  id = 1379535346518552577
+  text = "@craigkerstiens Please tell me you're not buying."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+  [tweets.reply]
+    status_id = 1379531832425738241
+    user = "craigkerstiens"
+    user_id = 12473952
+
+[[tweets]]
   created_at = 2021-04-06T14:44:48Z
-  favorite_count = 22
+  favorite_count = 31
   id = 1379444985372680195
   retweet_count = 2
   text = "Every time I wake up early enough to go see the sun rise, then walk around to listen to the early morning sounds of nature, I realize that it's completely unreasonable that I don't do this every single morning."
