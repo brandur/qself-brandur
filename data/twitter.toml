@@ -1,7 +1,24 @@
 
 [[tweets]]
+  created_at = 2021-04-07T17:36:42Z
+  id = 1379850635835711491
+  text = "Sent 023 this morning on downward assignment, the evolution of properties in C#, and Japanese city pop.\n\nhttps://t.co/GX124DjBW5 https://t.co/Soe0oqfCuR"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1379850543514877953
+      type = "photo"
+      url = "https://pbs.twimg.com/media/EyY2wjFVgAEdKZY.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/nanoglyphs/023…"
+      expanded_url = "https://brandur.org/nanoglyphs/023-enhancement"
+      url = "https://t.co/GX124DjBW5"
+
+[[tweets]]
   created_at = 2021-04-06T20:44:27Z
-  favorite_count = 39
+  favorite_count = 42
   id = 1379535496540393472
   retweet_count = 12
   text = "TIL: The “Re” we use in subject lines for email replies is a latin phrase abbreviated from “in re” (“in the matter of”). Hah, I always thought it was short for “reply”.\n\nThere’s an RFC of course:\nhttps://t.co/eX9tPAg9zV https://t.co/LInZ0lplv8"
@@ -11978,7 +11995,7 @@
   favorite_count = 88
   id = 1025084908220243968
   retweet_count = 31
-  text = "RT @tammyxbryant: \"Nothing operates flawlessly once it hits production. Every component in the stack is a candidate for failure, and with sufficient scale, something will be failing all the time.\" #neverforget -- @brandur https://t.co/CltH0iQoOb"
+  text = "RT @tambryantbutow: \"Nothing operates flawlessly once it hits production. Every component in the stack is a candidate for failure, and with sufficient scale, something will be failing all the time.\" #neverforget -- @brandur https://t.co/CltH0iQoOb"
 
   [tweets.entities]
 
@@ -11997,7 +12014,7 @@
 
   [tweets.retweet]
     status_id = 1025039883256193024
-    user = "tammyxbryant"
+    user = "tambryantbutow"
     user_id = 44897207
 
 [[tweets]]
