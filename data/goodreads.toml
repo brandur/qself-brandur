@@ -1,5 +1,37 @@
 
 [[readings]]
+  id = 17333261
+  isbn = "0316198838"
+  isbn13 = "9780316198837"
+  num_pages = 663
+  published_year = 2013
+  rating = 3
+  read_at = 0001-01-01T00:00:00Z
+  review = ""
+  review_id = 3933523412
+  title = "The Abominable"
+
+  [[readings.authors]]
+    id = 2687
+    name = "Dan Simmons"
+
+[[readings]]
+  id = 10073506
+  isbn = "0143119788"
+  isbn13 = "9780143119784"
+  num_pages = 381
+  published_year = 2011
+  rating = 2
+  read_at = 2021-04-07T00:00:00-07:00
+  review = "I'm not sure what I'm missing with le Carré — I spent six months reading this one off and hand hoping that it would eventually pick up, but it never did. Prose that's dense to the point of obfuscation, spy craft as riveting as organizing your W-2s in April, and the most pinnacle moments of the book compressed to short paragraphs barely worthy of note. I watched the Alec Guinness series and read the Wikipedia summary while I was reading and still had a very hard time understanding what was going on."
+  review_id = 3933511029
+  title = "Tinker, Tailor, Soldier, Spy (George Smiley, #5)"
+
+  [[readings.authors]]
+    id = 1411964
+    name = "John le Carré"
+
+[[readings]]
   id = 4865
   isbn = ""
   isbn13 = ""
