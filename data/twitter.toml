@@ -1,8 +1,9 @@
 
 [[tweets]]
   created_at = 2021-04-09T17:27:08Z
-  favorite_count = 1
+  favorite_count = 10
   id = 1380573005378506754
+  retweet_count = 1
   text = "@micsolana Great historical parallels for this one too ;)\n\nhttps://t.co/CCqtfwf41W https://t.co/hZ1l1BtENW"
 
   [tweets.entities]
