@@ -1,5 +1,214 @@
 
 [[tweets]]
+  created_at = 2021-04-12T00:13:44Z
+  favorite_count = 1
+  id = 1381400103093555200
+  text = "@spakhm @crunchydata Thanks Slava! :) Appreciate it."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "spakhm"
+      user_id = 29089797
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381399752781176833
+    user = "spakhm"
+    user_id = 29089797
+
+[[tweets]]
+  created_at = 2021-04-11T22:58:47Z
+  id = 1381381240826126340
+  text = "@petervgeoghegan @crunchydata Thanks! I think so too :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "petervgeoghegan"
+      user_id = 319812046
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381380711186194432
+    user = "petervgeoghegan"
+    user_id = 319812046
+
+[[tweets]]
+  created_at = 2021-04-11T22:33:52Z
+  favorite_count = 2
+  id = 1381374970715021313
+  text = "@appltn @crunchydata Thanks Andy! And yeah, it's sure hard to change databases. You're usually just stuck with what you find."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "appltn"
+      user_id = 19526934
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381374134341484552
+    user = "appltn"
+    user_id = 19526934
+
+[[tweets]]
+  created_at = 2021-04-11T21:40:22Z
+  id = 1381361506663559170
+  text = "@davidfetter @crunchydata Thanks David! :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "davidfetter"
+      user_id = 14873488
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381357291593605125
+    user = "davidfetter"
+    user_id = 14873488
+
+[[tweets]]
+  created_at = 2021-04-11T21:40:07Z
+  favorite_count = 1
+  id = 1381361446341148673
+  text = "@_raulb_ @crunchydata Thanks Raul, and appreciate it :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "_raulb_"
+      user_id = 1269159922136166401
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381354464418877445
+    user = "_raulb_"
+    user_id = 1269159922136166401
+
+[[tweets]]
+  created_at = 2021-04-11T21:39:44Z
+  id = 1381361346248253440
+  text = "@embano1 @crunchydata Haha me too :) Thanks Michael!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "embano1"
+      user_id = 122923515
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381334047197163532
+    user = "embano1"
+    user_id = 122923515
+
+[[tweets]]
+  created_at = 2021-04-11T21:39:22Z
+  favorite_count = 1
+  id = 1381361257601671170
+  text = "@kevinswiber @crunchydata Thank you Kevin! :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kevinswiber"
+      user_id = 15478303
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381333291328921600
+    user = "kevinswiber"
+    user_id = 15478303
+
+[[tweets]]
+  created_at = 2021-04-11T21:39:07Z
+  favorite_count = 1
+  id = 1381361194477395968
+  text = "@implgeo @pwramsey @rustlang Thanks Pirmin! And will do :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "implgeo"
+      user_id = 473369922
+
+    [[tweets.entities.user_mentions]]
+      user = "pwramsey"
+      user_id = 26796354
+
+    [[tweets.entities.user_mentions]]
+      user = "rustlang"
+      user_id = 165262228
+
+  [tweets.reply]
+    status_id = 1381318464749641729
+    user = "implgeo"
+    user_id = 473369922
+
+[[tweets]]
+  created_at = 2021-04-11T21:38:45Z
+  id = 1381361101242212353
+  text = "@yaw__asare @crunchydata Thank you! :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yaw__asare"
+      user_id = 949741141548814336
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381313790550159361
+    user = "yaw__asare"
+    user_id = 949741141548814336
+
+[[tweets]]
+  created_at = 2021-04-11T21:38:17Z
+  id = 1381360983214485506
+  text = "@roopakv @crunchydata Thanks Roopak! :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "roopakv"
+      user_id = 45782105
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381313132149178372
+    user = "roopakv"
+    user_id = 45782105
+
+[[tweets]]
   created_at = 2021-04-11T18:22:53Z
   id = 1381311807806005250
   text = "@Benoit_Tgt @crunchydata Haha! Yes, turns out ;)"
@@ -82,7 +291,7 @@
 
 [[tweets]]
   created_at = 2021-04-11T17:38:52Z
-  favorite_count = 75
+  favorite_count = 127
   id = 1381300733228670980
   retweet_count = 2
   text = "Recently I had the hard realization that I've spent more years as a Mongo user than as a Postgres one, so I'm changing that this month. Excited to be joining the engineering team at @crunchydata.\n\nA few more words on that: https://t.co/ec9NK4BVB7"
@@ -169,9 +378,9 @@
 
 [[tweets]]
   created_at = 2021-04-06T20:44:27Z
-  favorite_count = 42
+  favorite_count = 45
   id = 1379535496540393472
-  retweet_count = 12
+  retweet_count = 13
   text = "TIL: The “Re” we use in subject lines for email replies is a latin phrase abbreviated from “in re” (“in the matter of”). Hah, I always thought it was short for “reply”.\n\nThere’s an RFC of course:\nhttps://t.co/eX9tPAg9zV https://t.co/LInZ0lplv8"
 
   [tweets.entities]
@@ -2566,7 +2775,7 @@
 
 [[tweets]]
   created_at = 2020-10-17T02:10:12Z
-  favorite_count = 21
+  favorite_count = 24
   id = 1317286760695488512
   retweet_count = 2
   text = "Planet Earth is one of the best TV series ever created, but a fair critique is how it goes to extreme lengths to gloss over human impact on these ecosystems.\n\nRecommend Attenborough’s “A Life on Our Planet” (Netflix). Same sublime cinematography, but with sobering facts attached. https://t.co/VlDpCJwhzV"
@@ -5319,7 +5528,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2179
+  favorite_count = 2175
   id = 1182066723337293828
   retweet_count = 790
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -21703,7 +21912,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2669
+  favorite_count = 2665
   id = 919646432721641472
   retweet_count = 1034
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
