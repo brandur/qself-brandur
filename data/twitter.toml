@@ -1,5 +1,49 @@
 
 [[tweets]]
+  created_at = 2021-04-12T17:49:58Z
+  id = 1381665911472488450
+  text = "@RattrayAlex @bonjouryannick @crunchydata I guess it kind of is, but also minus SQL, referential integrity, or any of the Postgres performance/space optimizations of the last twenty years.\n\n(And thanks Yannick!)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "RattrayAlex"
+      user_id = 407482226
+
+    [[tweets.entities.user_mentions]]
+      user = "bonjouryannick"
+      user_id = 14835545
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381568304721104900
+    user = "RattrayAlex"
+    user_id = 407482226
+
+[[tweets]]
+  created_at = 2021-04-12T17:47:04Z
+  id = 1381665185492914176
+  text = "@kirshatrov @crunchydata Thank you Kir!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kirshatrov"
+      user_id = 287242565
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381549014575890432
+    user = "kirshatrov"
+    user_id = 287242565
+
+[[tweets]]
   created_at = 2021-04-12T02:42:31Z
   favorite_count = 1
   id = 1381437547155398656
@@ -359,9 +403,9 @@
 
 [[tweets]]
   created_at = 2021-04-11T17:38:52Z
-  favorite_count = 168
+  favorite_count = 173
   id = 1381300733228670980
-  retweet_count = 6
+  retweet_count = 7
   text = "Recently I had the hard realization that I've spent more years as a Mongo user than as a Postgres one, so I'm changing that this month. Excited to be joining the engineering team at @crunchydata.\n\nA few more words on that: https://t.co/ec9NK4BVB7"
 
   [tweets.entities]
@@ -5596,7 +5640,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2179
+  favorite_count = 2174
   id = 1182066723337293828
   retweet_count = 790
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -21980,7 +22024,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2669
+  favorite_count = 2666
   id = 919646432721641472
   retweet_count = 1034
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
