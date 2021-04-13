@@ -1,5 +1,41 @@
 
 [[tweets]]
+  created_at = 2021-04-13T12:56:18Z
+  id = 1381954399333875714
+  text = "@JuanitoFatas @crunchydata Thank you Juanito! Definitely more of those to come :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "JuanitoFatas"
+      user_id = 479019528
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1381838884749799432
+    user = "JuanitoFatas"
+    user_id = 479019528
+
+[[tweets]]
+  created_at = 2021-04-13T12:44:01Z
+  id = 1381951307603316737
+  text = "@kirshatrov As bad as California is right now (it \"fully reopens\" June 15, but all that means is many restrictions have just been made permanent), most of Western Europe just seems like a nightmare. I read that you got pubs back at least?"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kirshatrov"
+      user_id = 287242565
+
+  [tweets.reply]
+    status_id = 1381941559755694085
+    user = "kirshatrov"
+    user_id = 287242565
+
+[[tweets]]
   created_at = 2021-04-12T22:22:57Z
   favorite_count = 1
   id = 1381734610128625665
@@ -431,7 +467,7 @@
 
 [[tweets]]
   created_at = 2021-04-11T17:38:52Z
-  favorite_count = 188
+  favorite_count = 192
   id = 1381300733228670980
   retweet_count = 7
   text = "Recently I had the hard realization that I've spent more years as a Mongo user than as a Postgres one, so I'm changing that this month. Excited to be joining the engineering team at @crunchydata.\n\nA few more words on that: https://t.co/ec9NK4BVB7"
