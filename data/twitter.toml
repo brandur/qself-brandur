@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2021-04-15T15:48:39Z
-  favorite_count = 29
+  favorite_count = 40
   id = 1382722547964289024
-  retweet_count = 6
+  retweet_count = 10
   text = "Inspired move by Patagonia — no more customized products with corporate logos because products with logos are more likely to end up in landfills.\n\nCompanies should embrace this and keep going Patagonia for swag. Brand T-shirts if you have to.\n\nhttps://t.co/kIwVthDhOR"
 
   [tweets.entities]
@@ -482,7 +482,7 @@
 
 [[tweets]]
   created_at = 2021-04-11T17:38:52Z
-  favorite_count = 192
+  favorite_count = 195
   id = 1381300733228670980
   retweet_count = 7
   text = "Recently I had the hard realization that I've spent more years as a Mongo user than as a Postgres one, so I'm changing that this month. Excited to be joining the engineering team at @crunchydata.\n\nA few more words on that: https://t.co/ec9NK4BVB7"
@@ -5719,7 +5719,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2175
+  favorite_count = 2179
   id = 1182066723337293828
   retweet_count = 790
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
