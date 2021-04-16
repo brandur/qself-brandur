@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2021-04-15T15:48:39Z
-  favorite_count = 53
+  favorite_count = 57
   id = 1382722547964289024
-  retweet_count = 10
+  retweet_count = 11
   text = "Inspired move by Patagonia — no more customized products with corporate logos because products with logos are more likely to end up in landfills.\n\nCompanies should embrace this and keep going Patagonia for swag. Brand T-shirts if you have to.\n\nhttps://t.co/kIwVthDhOR"
 
   [tweets.entities]
