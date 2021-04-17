@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 40121378
+  isbn = ""
+  isbn13 = ""
+  num_pages = 0
+  published_year = 0
+  rating = 4
+  read_at = 2021-04-11T16:20:00-07:00
+  review = "Most of the ideas in the book are what you just call just common sense, but they're all examined thoughtfully, and it's helpful to hear someone articulate them well, then boil them down to specific actionable items. I'm planning on trying a few of the suggested techniques to see if I can build new, healthy practices."
+  review_id = 3948962275
+  title = "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+
+  [[readings.authors]]
+    id = 7327369
+    name = "James Clear"
+
+[[readings]]
   id = 17333261
   isbn = "0316198838"
   isbn13 = "9780316198837"
