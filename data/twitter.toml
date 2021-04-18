@@ -19275,15 +19275,9 @@
   id = 947376120151687170
   text = "@breerly Hah. Sign me for that too."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "breerly"
-      user_id = 290847295
-
   [tweets.reply]
     status_id = 947375269760745472
-    user = "unhashable"
+    user = "GoodPete_"
     user_id = 17306162
 
 [[tweets]]
