@@ -19285,15 +19285,9 @@
   id = 947374524038647808
   text = "@breerly Oh man, that would be amazing. I hope to see the day."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "breerly"
-      user_id = 290847295
-
   [tweets.reply]
     status_id = 947374221776138241
-    user = "unhashable"
+    user = "GoodPete_"
     user_id = 17306162
 
 [[tweets]]
