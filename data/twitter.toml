@@ -569,9 +569,9 @@
 
 [[tweets]]
   created_at = 2021-04-06T20:44:27Z
-  favorite_count = 45
+  favorite_count = 48
   id = 1379535496540393472
-  retweet_count = 13
+  retweet_count = 14
   text = "TIL: The “Re” we use in subject lines for email replies is a latin phrase abbreviated from “in re” (“in the matter of”). Hah, I always thought it was short for “reply”.\n\nThere’s an RFC of course:\nhttps://t.co/eX9tPAg9zV https://t.co/LInZ0lplv8"
 
   [tweets.entities]
