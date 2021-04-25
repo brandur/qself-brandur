@@ -3107,7 +3107,7 @@
   id = 1202
   isbn = "0061234001"
   isbn13 = "9780061234002"
-  num_pages = 320
+  num_pages = 268
   published_year = 2006
   rating = 3
   read_at = 2013-06-08T00:00:00-07:00
