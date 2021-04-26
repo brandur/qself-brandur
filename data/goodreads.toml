@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 52454426
+  isbn = "1984826786"
+  isbn13 = "9781984826787"
+  num_pages = 286
+  published_year = 2020
+  rating = 2
+  read_at = 2021-02-20T00:00:00-08:00
+  review = "It's fine, and not a bad read, but Max didn't do much with the concept. Ends up following a very typical monster story arc without too much that's terribly interesting going on."
+  review_id = 3966089432
+  title = "Devolution: A Firsthand Account of the Rainier Sasquatch Massacre"
+
+  [[readings.authors]]
+    id = 5791
+    name = "Max Brooks"
+
+[[readings]]
   id = 40121378
   isbn = ""
   isbn13 = ""
