@@ -1,5 +1,17 @@
 
 [[tweets]]
+  created_at = 2021-04-26T18:28:33Z
+  id = 1386749052813942784
+  text = "Was grepping our code today and became unreasonably happy at seeing this level of `FOREIGN KEY` hygiene. For reference, the project is less than a year old.\n\nThere are many ways to make software that works, at least for a time. This is a way to make software that _stays_ working. https://t.co/U2z8dGd8bE"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1386748836467548160
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Ez64uC5VoAAMaIK.jpg"
+
+[[tweets]]
   created_at = 2021-04-23T20:52:50Z
   favorite_count = 7
   id = 1385698199881469954
