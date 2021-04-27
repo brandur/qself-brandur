@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2021-04-26T18:28:33Z
-  favorite_count = 23
+  favorite_count = 26
   id = 1386749052813942784
   retweet_count = 3
   text = "Was grepping our code today and became unreasonably happy at seeing this level of `FOREIGN KEY` hygiene. For reference, the project is less than a year old.\n\nThere are many ways to make software that works, at least for a time. This is a way to make software that _stays_ working. https://t.co/U2z8dGd8bE"
