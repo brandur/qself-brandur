@@ -526,9 +526,9 @@
 
 [[tweets]]
   created_at = 2021-04-11T17:38:52Z
-  favorite_count = 194
+  favorite_count = 192
   id = 1381300733228670980
-  retweet_count = 10
+  retweet_count = 7
   text = "Recently I had the hard realization that I've spent more years as a Mongo user than as a Postgres one, so I'm changing that this month. Excited to be joining the engineering team at @crunchydata.\n\nA few more words on that: https://t.co/ec9NK4BVB7"
 
   [tweets.entities]
