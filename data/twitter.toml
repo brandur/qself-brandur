@@ -5763,9 +5763,9 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2174
+  favorite_count = 2177
   id = 1182066723337293828
-  retweet_count = 790
+  retweet_count = 791
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
 
   [tweets.entities]
@@ -18609,12 +18609,6 @@
   id = 953827182790426624
   text = "@solidsnack Yeah, that's certainly the case, but I think that it's somewhat artificial to constrain a language to a single domain. With the addition of an optional green thread runtime and a compiler refined over another few years, Rust might do what Go does better than Go."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "solidsnack"
-      user_id = 1364535248776663040
-
   [tweets.reply]
     status_id = 953819488708804608
     user = "sanshibanrei"
@@ -22141,9 +22135,9 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2663
+  favorite_count = 2667
   id = 919646432721641472
-  retweet_count = 1031
+  retweet_count = 1030
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
 
   [tweets.entities]
