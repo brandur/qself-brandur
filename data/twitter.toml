@@ -11863,7 +11863,7 @@
 
 [[tweets]]
   created_at = 2018-08-27T14:30:17Z
-  favorite_count = 224
+  favorite_count = 227
   id = 1034085700017172480
   retweet_count = 65
   text = "ACID transactions are the most important primitive for building large, robust systems there is. Bake them into your system from day one. Never, ever use MongoDB.\n\nI like when I'm not the only saying this stuff. Here's FoundationDB's transaction manifesto:\n\nhttps://t.co/gENgq0ddwf"
