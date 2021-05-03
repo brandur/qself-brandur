@@ -18609,6 +18609,12 @@
   id = 953827182790426624
   text = "@solidsnack Yeah, that's certainly the case, but I think that it's somewhat artificial to constrain a language to a single domain. With the addition of an optional green thread runtime and a compiler refined over another few years, Rust might do what Go does better than Go."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "solidsnack"
+      user_id = 1364535248776663040
+
   [tweets.reply]
     status_id = 953819488708804608
     user = "sanshibanrei"
