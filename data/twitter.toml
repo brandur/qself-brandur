@@ -5763,7 +5763,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2173
+  favorite_count = 2169
   id = 1182066723337293828
   retweet_count = 788
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -22129,7 +22129,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2662
+  favorite_count = 2659
   id = 919646432721641472
   retweet_count = 1030
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
