@@ -1,5 +1,37 @@
 
 [[readings]]
+  id = 55784796
+  isbn = "1611729491"
+  isbn13 = "9781611729498"
+  num_pages = 384
+  published_year = 2021
+  rating = 4
+  read_at = 2021-05-22T11:11:32-07:00
+  review = "A nice memoir of an interesting life spent in Japan. For those of us a little younger than Whiting, it's also a historical record, as many of the scenes described are set squarely in a Tokyo of the past that are hardly imaginable today. I have little interest in baseball, and so lost the thread a little in those sections, but even for a non-enthusiast understanding the country's relationship with this particular sport is interesting."
+  review_id = 4015602774
+  title = "Tokyo Junkie: 60 Years of Bright Lights and Back Alleys . . . and Baseball"
+
+  [[readings.authors]]
+    id = 18524
+    name = "Robert Whiting"
+
+[[readings]]
+  id = 3222979
+  isbn = "0316007021"
+  isbn13 = "9780316007023"
+  num_pages = 775
+  published_year = 2009
+  rating = 3
+  read_at = 2021-05-16T00:00:00-07:00
+  review = "Interesting premise, and Simmons once again shows his range as a writer as he writes the period very well. The most notable part of the book is Wilkie Collins, who by virtue of being a drug addict and with other personality problems, is shown over time to be an unreliable narrator, and as you have that realization, you start to reevaluate assertions that were made before. This is certainly not Simmons best work though, and the characters being real people from history makes their portrayal oddly personal in some cases."
+  review_id = 4015589655
+  title = "Drood"
+
+  [[readings.authors]]
+    id = 2687
+    name = "Dan Simmons"
+
+[[readings]]
   id = 52454426
   isbn = "1984826786"
   isbn13 = "9781984826787"
