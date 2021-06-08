@@ -43496,9 +43496,9 @@
 
 [[tweets]]
   created_at = 2014-02-27T03:06:56Z
-  favorite_count = 108
+  favorite_count = 106
   id = 438872853912383489
-  retweet_count = 112
+  retweet_count = 109
   text = "RT @jxnblk: also have vim invites, hit me up"
 
   [tweets.entities]
