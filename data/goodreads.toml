@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 17803
+  isbn = "0307265838"
+  isbn13 = "9780307265838"
+  num_pages = 191
+  published_year = 2007
+  rating = 3
+  read_at = 2021-06-01T00:00:00-07:00
+  review = "Solid Murakami, as weird as ever. This one's a little shorter than some of his heavy hitters and makes for a good introductory read."
+  review_id = 4052265599
+  title = "After Dark"
+
+  [[readings.authors]]
+    id = 3354
+    name = "Haruki Murakami"
+
+[[readings]]
   id = 55784796
   isbn = "1611729491"
   isbn13 = "9781611729498"
