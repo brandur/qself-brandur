@@ -19743,20 +19743,8 @@
 
 [[tweets]]
   created_at = 2017-12-22T01:23:15Z
-  favorite_count = 1
   id = 944015443135684608
   text = "@Maxifi Yeah, it's still not a perfect product. This is more like me contemplating on the nature of product management after being stuck in JIRA for three hours straight ;)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "Maxifi"
-      user_id = 21018160
-
-  [tweets.reply]
-    status_id = 943956868896034816
-    user = "Maxifi"
-    user_id = 21018160
 
 [[tweets]]
   created_at = 2017-12-22T01:22:19Z
