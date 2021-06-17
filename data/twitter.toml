@@ -1,5 +1,45 @@
 
 [[tweets]]
+  created_at = 2021-06-17T13:02:03Z
+  id = 1405511056215080963
+  text = "@danfarina @leinweber Google: \"default shell macos\" ;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "danfarina"
+      user_id = 31303509
+
+    [[tweets.entities.user_mentions]]
+      user = "leinweber"
+      user_id = 7524442
+
+  [tweets.reply]
+    status_id = 1405279920511541248
+    user = "danfarina"
+    user_id = 31303509
+
+[[tweets]]
+  created_at = 2021-06-17T13:01:30Z
+  id = 1405510916376956929
+  text = "@Stephen_Mizell @ashconnor Good idea! Don't use them enough to add that ... yet, but we'll see."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Stephen_Mizell"
+      user_id = 2319661975
+
+    [[tweets.entities.user_mentions]]
+      user = "ashconnor"
+      user_id = 1203031133228797952
+
+  [tweets.reply]
+    status_id = 1405273827563565062
+    user = "Stephen_Mizell"
+    user_id = 2319661975
+
+[[tweets]]
   created_at = 2021-06-16T20:22:29Z
   favorite_count = 27
   id = 1405259508406886410
