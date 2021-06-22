@@ -5853,7 +5853,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2161
+  favorite_count = 2165
   id = 1182066723337293828
   retweet_count = 783
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -19331,17 +19331,6 @@
   id = 947501681637441536
   text = "@Maxifi I know I’m losing part of the movie, but I don’t mind it too much :) there’s usually not too much going on in the corners."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "Maxifi"
-      user_id = 21018160
-
-  [tweets.reply]
-    status_id = 947464643068530688
-    user = "Maxifi"
-    user_id = 21018160
-
 [[tweets]]
   created_at = 2017-12-31T16:11:11Z
   id = 947500388613156864
@@ -19799,17 +19788,6 @@
   created_at = 2017-12-22T01:23:15Z
   id = 944015443135684608
   text = "@Maxifi Yeah, it's still not a perfect product. This is more like me contemplating on the nature of product management after being stuck in JIRA for three hours straight ;)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "Maxifi"
-      user_id = 21018160
-
-  [tweets.reply]
-    status_id = 943956868896034816
-    user = "Maxifi"
-    user_id = 21018160
 
 [[tweets]]
   created_at = 2017-12-22T01:22:19Z
@@ -22214,7 +22192,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2660
+  favorite_count = 2663
   id = 919646432721641472
   retweet_count = 1031
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
