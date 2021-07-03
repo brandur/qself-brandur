@@ -13970,6 +13970,12 @@
   id = 1005101571590348802
   text = "@harlow_ward Thanks! (And for the PR as well.)\n\nAnd yeah, I think `omitempty` does something a little different — it omits _the key_ if the value is detected to be empty. As far as I can tell, there's no way of distinguishing an explicitly set zero value from one that wasn't :/"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "harlow_ward"
+      user_id = 1410936162118733825
+
   [tweets.reply]
     status_id = 1004954253524287488
     user = "comma_ok"
