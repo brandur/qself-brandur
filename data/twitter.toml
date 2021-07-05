@@ -1,5 +1,37 @@
 
 [[tweets]]
+  created_at = 2021-07-05T13:54:55Z
+  id = 1412047343084457990
+  text = "@embano1 Thanks! And no — I missed KSUID (along with more than a few other similar ideas it seems). Thanks for sending the link over."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "embano1"
+      user_id = 122923515
+
+  [tweets.reply]
+    status_id = 1410136007954010112
+    user = "embano1"
+    user_id = 122923515
+
+[[tweets]]
+  created_at = 2021-07-05T13:53:23Z
+  id = 1412046955610402824
+  text = "@bjeanes Thanks! And nope, I didn't — nice. I got enough material that I missed in replies on this one that I might publish a follow up."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "bjeanes"
+      user_id = 13141092
+
+  [tweets.reply]
+    status_id = 1410003965031305220
+    user = "bjeanes"
+    user_id = 13141092
+
+[[tweets]]
   created_at = 2021-06-29T19:07:24Z
   id = 1409951653785083907
   text = "@mwarkentin Wow.\n\nWell, perils of being a GitHub Enterprise user for five years I guess."
