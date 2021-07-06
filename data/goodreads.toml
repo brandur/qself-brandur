@@ -4323,8 +4323,8 @@
   id = 1998185
   isbn = "1594201536"
   isbn13 = "9781594201530"
-  num_pages = 0
-  published_year = 0
+  num_pages = 327
+  published_year = 2008
   rating = 2
   read_at = 2008-09-03T00:00:00-07:00
   review = "How technology has enabled humanity to organize into ad-hoc groups without organizations to do it for us."
@@ -4851,8 +4851,8 @@
   id = 4135863
   isbn = "1594202117"
   isbn13 = "9781594202117"
-  num_pages = 0
-  published_year = 0
+  num_pages = 278
+  published_year = 2009
   rating = 3
   read_at = 2009-09-06T00:00:00-07:00
   review = "Steampunk detective story. Very surreal style that eventually expands into the metaphysical plane (dream detection and stuff). Story is well thought out and atmosphere is well-written."
