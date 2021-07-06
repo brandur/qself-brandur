@@ -5914,9 +5914,9 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2163
+  favorite_count = 2168
   id = 1182066723337293828
-  retweet_count = 782
+  retweet_count = 783
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
 
   [tweets.entities]
@@ -7635,10 +7635,6 @@
     [[tweets.entities.user_mentions]]
       user = "timoreimann"
       user_id = 274071190
-
-    [[tweets.entities.user_mentions]]
-      user = "trudeaucj"
-      user_id = 1410598488455270411
 
     [[tweets.entities.user_mentions]]
       user = "mmcgrana"
@@ -14951,6 +14947,17 @@
   id = 990681816276217856
   text = "@alexcameron89 Yeah, that’s probably a fair characterization.\n\nHaving a runtime to make abstractions like Goroutines possible is a huge boon for productivity where async operations are involved. That said, Rust has so many nice features that I’m kind of hoping that it will find an answer."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "alexcameron89"
+      user_id = 14951612
+
+  [tweets.reply]
+    status_id = 990671546912997377
+    user = "alexcameron89"
+    user_id = 14951612
+
 [[tweets]]
   created_at = 2018-04-29T19:56:08Z
   favorite_count = 22
@@ -15048,12 +15055,6 @@
   id = 990657761439465474
   text = "@alexcameron89 Rust is far better thought out and designed, and I'd prefer it in every case if it weren't for (1) the difficulty onboarding, and (2) the fairly poor story around concurrency (bad for web services).\n\nThese are definitely very real problems though, so I'm left uncertain."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "alexcameron89"
-      user_id = 14951612
-
   [tweets.reply]
     status_id = 990657388435853312
     user = "brandur"
@@ -15063,6 +15064,17 @@
   created_at = 2018-04-29T18:21:41Z
   id = 990657388435853312
   text = "@alexcameron89 I'm honestly still undecided there — I like Go, but find myself liking it less as project size trends bigger. Too much `interface{}` and not enough language features."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "alexcameron89"
+      user_id = 14951612
+
+  [tweets.reply]
+    status_id = 990053917332525056
+    user = "alexcameron89"
+    user_id = 14951612
 
 [[tweets]]
   created_at = 2018-04-29T18:18:19Z
@@ -19373,12 +19385,6 @@
   created_at = 2017-12-31T16:16:19Z
   id = 947501681637441536
   text = "@Maxifi I know I’m losing part of the movie, but I don’t mind it too much :) there’s usually not too much going on in the corners."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "Maxifi"
-      user_id = 530816804
 
 [[tweets]]
   created_at = 2017-12-31T16:11:11Z
