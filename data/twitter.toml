@@ -19386,6 +19386,12 @@
   id = 947501681637441536
   text = "@Maxifi I know I’m losing part of the movie, but I don’t mind it too much :) there’s usually not too much going on in the corners."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Maxifi"
+      user_id = 530816804
+
 [[tweets]]
   created_at = 2017-12-31T16:11:11Z
   id = 947500388613156864
