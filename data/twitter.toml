@@ -15065,17 +15065,6 @@
   id = 990657388435853312
   text = "@alexcameron89 I'm honestly still undecided there — I like Go, but find myself liking it less as project size trends bigger. Too much `interface{}` and not enough language features."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "alexcameron89"
-      user_id = 14951612
-
-  [tweets.reply]
-    status_id = 990053917332525056
-    user = "alexcameron89"
-    user_id = 14951612
-
 [[tweets]]
   created_at = 2018-04-29T18:18:19Z
   id = 990656539059933184
