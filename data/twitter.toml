@@ -7654,6 +7654,10 @@
       user_id = 274071190
 
     [[tweets.entities.user_mentions]]
+      user = "trudeaucj"
+      user_id = 1410598488455270411
+
+    [[tweets.entities.user_mentions]]
       user = "mmcgrana"
       user_id = 9891642
 
