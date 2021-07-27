@@ -1,5 +1,44 @@
 
 [[tweets]]
+  created_at = 2021-07-27T03:56:46Z
+  favorite_count = 1
+  id = 1419869345618874373
+  text = "@michaelgorsuch @craigkerstiens @wuputah @crunchydata Hey Michael! There's a bit of a description starting around here: https://t.co/trBPTd5EAk\n\nLouise and Craig also talk about it here: https://t.co/mwuDAFEUsA\n\nThe very short version: new new Shogun."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/nanoglyphs/025…"
+      expanded_url = "https://brandur.org/nanoglyphs/025-logs#samurai-services"
+      url = "https://t.co/trBPTd5EAk"
+
+    [[tweets.entities.urls]]
+      display_url = "crunchydata.com/videos/archite…"
+      expanded_url = "https://www.crunchydata.com/videos/architecting-and-building-a-multi-cloud-postgres-managed-service/"
+      url = "https://t.co/mwuDAFEUsA"
+
+    [[tweets.entities.user_mentions]]
+      user = "michaelgorsuch"
+      user_id = 156082322
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+    [[tweets.entities.user_mentions]]
+      user = "wuputah"
+      user_id = 14368347
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1419796592580866048
+    user = "michaelgorsuch"
+    user_id = 156082322
+
+[[tweets]]
   created_at = 2021-07-24T16:12:38Z
   favorite_count = 2
   id = 1418967367103631360
@@ -199,9 +238,9 @@
 
 [[tweets]]
   created_at = 2021-06-01T22:38:23Z
-  favorite_count = 13
+  favorite_count = 16
   id = 1399857887388725252
-  retweet_count = 1
+  retweet_count = 2
   text = "RT @craigkerstiens: Not my words, but a good reinforcement we are building towards some pretty exciting things @crunchydata. And we're hiring (https://t.co/YusRZ2DFMa) /cc @brandur https://t.co/4d42ovATdn"
 
   [tweets.entities]
