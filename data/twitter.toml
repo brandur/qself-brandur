@@ -1,5 +1,19 @@
 
 [[tweets]]
+  created_at = 2021-07-30T17:42:10Z
+  favorite_count = 1
+  id = 1421164228715577352
+  retweet_count = 1
+  text = "AWS pay in advance —\n\nI like the applicability for long-running autonomous projects. Pay a runway into an account and it'll run without having to swap out a credit card every few years. Keep to core services where APIs are stable and deprecation is rare.\n\nhttps://t.co/46km7IcdKm"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "aws.amazon.com/about-aws/what…"
+      expanded_url = "https://aws.amazon.com/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/"
+      url = "https://t.co/46km7IcdKm"
+
+[[tweets]]
   created_at = 2021-07-27T12:05:43Z
   favorite_count = 12
   id = 1419992393466609664
