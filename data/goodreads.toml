@@ -1891,8 +1891,8 @@
   id = 13593539
   isbn = "0399161643"
   isbn13 = "9780399161643"
-  num_pages = 0
-  published_year = 0
+  num_pages = 288
+  published_year = 2013
   rating = 2
   read_at = 2017-06-19T00:00:00-07:00
   review = "Jeff and Bernie's casual conversations certainly seem to be far more interesting than anything I can muster with my friends, but although entertaining, the information (and even useful philosophical) density here is pretty low. It probably would have made a great \"My Dinner with Andre\" style movie, but in book form should probably be a pass."
@@ -4755,7 +4755,7 @@
   id = 2623
   isbn = "0192833596"
   isbn13 = "9780192833594"
-  num_pages = 505
+  num_pages = 544
   published_year = 1998
   rating = 2
   read_at = 2009-07-01T00:00:00-07:00
