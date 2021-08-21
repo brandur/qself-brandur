@@ -1,5 +1,56 @@
 
 [[tweets]]
+  created_at = 2021-08-20T23:52:10Z
+  favorite_count = 4
+  id = 1428867486032699402
+  text = "Been listening to songs from Initial D soundtracks literally all day and work is so much faster at 154 BPM. RECOMMENDED.\n\nhttps://t.co/b5EJx5pciv"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "youtube.com/watch?v=JPN0JV…"
+      expanded_url = "https://www.youtube.com/watch?v=JPN0JV-ZP3A"
+      url = "https://t.co/b5EJx5pciv"
+
+[[tweets]]
+  created_at = 2021-08-20T23:49:18Z
+  favorite_count = 1
+  id = 1428866764767514627
+  text = "@schneems Thanks Richard! (And sorry for the really late reply here.)\n\nThey're generated from Monodraw with SVG export.\n\nHere's an ancient coupon code that they gave me which may or may not still work:\n\nhttps://t.co/COVmOumEp0"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/Monodraw/statu…"
+      expanded_url = "https://twitter.com/Monodraw/status/950852752950820870"
+      url = "https://t.co/COVmOumEp0"
+
+    [[tweets.entities.user_mentions]]
+      user = "schneems"
+      user_id = 23621187
+
+  [tweets.reply]
+    status_id = 1424903101732081664
+    user = "schneems"
+    user_id = 23621187
+
+[[tweets]]
+  created_at = 2021-08-20T23:47:11Z
+  id = 1428866231239462914
+  text = "@RiccardoOdone Thanks Riccardo!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "RiccardoOdone"
+      user_id = 291072345
+
+  [tweets.reply]
+    status_id = 1423605813919223808
+    user = "RiccardoOdone"
+    user_id = 291072345
+
+[[tweets]]
   created_at = 2021-07-30T17:42:10Z
   favorite_count = 1
   id = 1421164228715577352
@@ -22395,7 +22446,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2658
+  favorite_count = 2661
   id = 919646432721641472
   retweet_count = 1027
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
