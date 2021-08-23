@@ -1,5 +1,35 @@
 
 [[tweets]]
+  created_at = 2021-08-23T19:11:12Z
+  favorite_count = 7
+  id = 1429883942459494403
+  retweet_count = 4
+  text = "Go in production: we switched to use the xerrors package to get stack traces, because stack traces are kind of important for debugging problems. If you've got a better way, would love to know about it.\n\nhttps://t.co/OVxctueP4j"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/go-x…"
+      expanded_url = "https://brandur.org/fragments/go-xerror"
+      url = "https://t.co/OVxctueP4j"
+
+[[tweets]]
+  created_at = 2021-08-23T18:55:29Z
+  id = 1429879986853335050
+  text = "@BrettGoulder Thanks! Hah, I would love to, but my grammar is still seriously lacking, and I'm not sure I have the discipline to stick with it unless it was an in-class course or something. We'll see."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "BrettGoulder"
+      user_id = 1157517088103096320
+
+  [tweets.reply]
+    status_id = 1429612152113926145
+    user = "BrettGoulder"
+    user_id = 1157517088103096320
+
+[[tweets]]
   created_at = 2021-08-23T00:31:59Z
   favorite_count = 5
   id = 1429602281649938436
