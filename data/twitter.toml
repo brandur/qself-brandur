@@ -1,5 +1,77 @@
 
 [[tweets]]
+  created_at = 2021-09-04T15:45:59Z
+  id = 1434180952066965504
+  text = "@TimHaines Very, _very_ little. There was one place where Go lot a little bit more hard-nosed when you tried write content to an HTTP response you'd already declared a 204. Broke one test case where we were improperly doing that, but it took me less than five minutes to fix."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "TimHaines"
+      user_id = 14341663
+
+  [tweets.reply]
+    status_id = 1431350950174736386
+    user = "TimHaines"
+    user_id = 14341663
+
+[[tweets]]
+  created_at = 2021-09-04T15:44:46Z
+  favorite_count = 1
+  id = 1434180644876128257
+  text = "@stevenharman Heroku did quite a good job by comparison of keeping stacks relatively shallow. Ruby upgrades there were never a huge problem (or at least since the day dark days of Ruby 1.9 which are best left forgotten)."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "stevenharman"
+      user_id = 5875112
+
+  [tweets.reply]
+    status_id = 1434180305791819776
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2021-09-04T15:43:25Z
+  favorite_count = 1
+  id = 1434180305791819776
+  text = "@stevenharman In this case it was definitely much more human-inflicted — it was Ruby + 20 layers of NIH infrastructure stuff, but that said, Ruby does complicate things by being quite runtime inefficient, so you need to be careful to test for perf + GC regressions when you're running hot."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "stevenharman"
+      user_id = 5875112
+
+  [tweets.reply]
+    status_id = 1431455950783852547
+    user = "stevenharman"
+    user_id = 5875112
+
+[[tweets]]
+  created_at = 2021-09-04T15:39:55Z
+  id = 1434179424388202498
+  text = "@KlotzAndrew Afraid not Andrew :/ There might be something out there, but I don't know of it, and came up with this independently.\n\nI've found even techniques to use transactions to power services to be quite an underdocumented domain (there is more there, but not as much as I'd expect)."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "KlotzAndrew"
+      user_id = 599387607
+
+  [tweets.reply]
+    status_id = 1432520942794776579
+    user = "KlotzAndrew"
+    user_id = 599387607
+
+[[tweets]]
+  created_at = 2021-09-04T15:36:36Z
+  favorite_count = 12
+  id = 1434178591982448646
+  text = "Chat 2002: Trillian.\n\nChat 2022: Slack + iMessage + Chrome (for Google Chat) + Signal + WhatsApp + Discord + Twitter DM.\n\nAnd Google's new Chat product is exactly the same as the old except now it doesn't even let you disable auto-emoticon conversion. What's happening to us."
+
+[[tweets]]
   created_at = 2021-09-01T03:02:29Z
   id = 1432901645852086272
   text = "@spakhm Yep :/ Given the politics, the overwhelming likelihood is that we're headed for another Watchmen (2019 TV) situation.\n\nIf it's terrible, cutting my losses after one episode (or less), pretending it never existed, and rewatching the original as therapy."
@@ -6222,7 +6294,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2161
+  favorite_count = 2165
   id = 1182066723337293828
   retweet_count = 782
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
