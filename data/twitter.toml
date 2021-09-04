@@ -67,8 +67,9 @@
 
 [[tweets]]
   created_at = 2021-09-04T15:36:36Z
-  favorite_count = 12
+  favorite_count = 20
   id = 1434178591982448646
+  retweet_count = 2
   text = "Chat 2002: Trillian.\n\nChat 2022: Slack + iMessage + Chrome (for Google Chat) + Signal + WhatsApp + Discord + Twitter DM.\n\nAnd Google's new Chat product is exactly the same as the old except now it doesn't even let you disable auto-emoticon conversion. What's happening to us."
 
 [[tweets]]
