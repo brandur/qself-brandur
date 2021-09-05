@@ -1,5 +1,53 @@
 
 [[readings]]
+  id = 424598
+  isbn = "0071414290"
+  isbn13 = "0639785802594"
+  num_pages = 275
+  published_year = 2003
+  rating = 4
+  read_at = 2021-09-01T00:00:00-07:00
+  review = "The Donald Crowhurst story simultaneously quite mundane (a man who after being forced into a tough situation, starts cheating) and incredibly fantastic (just how elaborate the scheme turns out to be, some of the downright strange coincidences that forced the final outcome). The effort and research that went into reconstructing Crowhurt's voyage based on misleading radio messages and a combination of partially complete and doctored ship logs is amazing. The book is not only thorough, but also very objective — Crowhurst's ultimate fate can't be known with perfect certainty, but the authors establish what they think is the most reasonable conclusion and exhaustively list the supporting evidence for it. Other possibilities are considered as well, with each one dismissed with sound reasoning. The one negative I'll say is that the book might be a little _too_ thorough — I found myself wishing that they'd packed the story into half the length or so."
+  review_id = 4218869311
+  title = "The Strange Last Voyage of Donald Crowhurst"
+
+  [[readings.authors]]
+    id = 239473
+    name = "Nicholas Tomalin"
+
+[[readings]]
+  id = 171241
+  isbn = "1568361483"
+  isbn13 = "9781568361482"
+  num_pages = 389
+  published_year = 1996
+  rating = 3
+  read_at = 2021-08-28T00:00:00-07:00
+  review = "Travelogues as a genre are a series of mildly amusing personal anecdotes exaggerated to the maximum possible extent for dramatic effect. One can think of _Looking for the Lost_ as the most travelogue of travelogues — many, _many_ anecdotes, very mildly amusing, and very exaggerated. That said, the book does paint a vivid picture of rural Japan at a very particular moment in history that no longer exists — quite interesting, and worth reading for that alone."
+  review_id = 4218862032
+  title = "Looking for the Lost: Journeys Through a Vanishing Japan"
+
+  [[readings.authors]]
+    id = 99800
+    name = "Alan Booth"
+
+[[readings]]
+  id = 55922484
+  isbn = "0063112523"
+  isbn13 = "9780063112520"
+  num_pages = 400
+  published_year = 2021
+  rating = 4
+  read_at = 2021-08-20T00:00:00-07:00
+  review = "Surprisingly great given that Tarantino doesn't have much of a history of a book author. A lot of the same ground from the film is retread, but there's enough new material to stand on its own. It's also interesting having some of the scenes augmented by hearing the internal monologue of various characters, and fills in some important ambiguities in the film."
+  review_id = 4218842653
+  title = "Once Upon a Time in Hollywood"
+
+  [[readings.authors]]
+    id = 64495
+    name = "Quentin Tarantino"
+
+[[readings]]
   id = 54493401
   isbn = "0593135202"
   isbn13 = "9780593135204"
@@ -3478,7 +3526,7 @@
   num_pages = 192
   published_year = 2012
   rating = 4
-  read_at = 2012-11-28T00:00:00-08:00
+  read_at = 2018-10-21T00:00:00-07:00
   review = "Interesting perspective on Paris in an earlier age that includes a number of stories told in Hemingway's signature prose. A great book for imagining another era."
   review_id = 433958905
   title = "A Moveable Feast"
