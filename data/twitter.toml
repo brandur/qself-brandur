@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2021-09-06T00:29:31Z
+  id = 1434675092525486093
+  text = "@kyle_conroy TY :/ ugh, if you wouldn't mind marking as \"not spam\" please.\n\nSending email is fraught business. I use a double opt in and plaster unsubscribe links all over each edition and people still mark as spam. Frustrating to say the least hah."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kyle_conroy"
+      user_id = 160248151
+
+  [tweets.reply]
+    status_id = 1434565637829918725
+    user = "kyle_conroy"
+    user_id = 160248151
+
+[[tweets]]
   created_at = 2021-09-05T16:52:47Z
   favorite_count = 4
   id = 1434560150879178752
