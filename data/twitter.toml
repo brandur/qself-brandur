@@ -1,5 +1,39 @@
 
 [[tweets]]
+  created_at = 2021-09-06T13:57:50Z
+  favorite_count = 1
+  id = 1434878511009832965
+  text = "@benskuhn Yeah I can fix with the dummy battery, but kind of against buying it because it feels like pure graft from Canon — there's no reason it shouldn't be able to charge while on except to get you to buy their addon. I don't spend enough time in meetings for it to be a huge problem."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "benskuhn"
+      user_id = 741285542
+
+  [tweets.reply]
+    status_id = 1434877371979599877
+    user = "benskuhn"
+    user_id = 741285542
+
+[[tweets]]
+  created_at = 2021-09-06T13:11:21Z
+  favorite_count = 1
+  id = 1434866813435666435
+  text = "@benskuhn Let me know if you find one. Been using a Canon R6, and it looks good, but is terrible:\n\n* Driver is garbage, so you need the cap card.\n* It won't charge via USB-C while on (?!?!?!).\n* No way to set \"no power saving while we can, but power saving otherwise\"."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "benskuhn"
+      user_id = 741285542
+
+  [tweets.reply]
+    status_id = 1434701826889293831
+    user = "benskuhn"
+    user_id = 741285542
+
+[[tweets]]
   created_at = 2021-09-06T00:29:31Z
   id = 1434675092525486093
   text = "@kyle_conroy TY :/ ugh, if you wouldn't mind marking as \"not spam\" please.\n\nSending email is fraught business. I use a double opt in and plaster unsubscribe links all over each edition and people still mark as spam. Frustrating to say the least hah."
