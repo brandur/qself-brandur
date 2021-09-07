@@ -1,5 +1,51 @@
 
 [[tweets]]
+  created_at = 2021-09-07T14:15:59Z
+  favorite_count = 11
+  id = 1435245468041158659
+  text = "A partial list of K-sorted ID algorithms and prior art. We ended up going with ULIDs on new sequences for the time being. So far: upside (ergonomics + insert perf) with very little cost compared to V4 UUIDs.\n\nhttps://t.co/SwBy6BXvrz"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/k-so…"
+      expanded_url = "https://brandur.org/fragments/k-sorted-ids"
+      url = "https://t.co/SwBy6BXvrz"
+
+[[tweets]]
+  created_at = 2021-09-07T14:15:05Z
+  id = 1435245238549839872
+  text = "@embano1 This should be a formalized concept of some sort."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "embano1"
+      user_id = 122923515
+
+  [tweets.reply]
+    status_id = 1435193776629297153
+    user = "embano1"
+    user_id = 122923515
+
+[[tweets]]
+  created_at = 2021-09-07T14:13:37Z
+  favorite_count = 1
+  id = 1435244872278044678
+  text = "@nicolaiarocci Very jealous — looks incredible!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "nicolaiarocci"
+      user_id = 21412873
+
+  [tweets.reply]
+    status_id = 1435226526149120001
+    user = "nicolaiarocci"
+    user_id = 21412873
+
+[[tweets]]
   created_at = 2021-09-06T13:57:50Z
   favorite_count = 1
   id = 1434878511009832965
@@ -164,7 +210,7 @@
 
 [[tweets]]
   created_at = 2021-09-04T15:36:36Z
-  favorite_count = 23
+  favorite_count = 26
   id = 1434178591982448646
   retweet_count = 2
   text = "Chat 2002: Trillian.\n\nChat 2022: Slack + iMessage + Chrome (for Google Chat) + Signal + WhatsApp + Discord + Twitter DM.\n\nAnd Google's new Chat product is exactly the same as the old except now it doesn't even let you disable auto-emoticon conversion. What's happening to us."
