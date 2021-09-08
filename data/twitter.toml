@@ -1,5 +1,32 @@
 
 [[tweets]]
+  created_at = 2021-09-08T14:40:28Z
+  id = 1435614017771360259
+  text = "@shardulbee Atom feed here! https://t.co/HThlFXJoIS\n\nAnd dang, if you're not getting them, they are probably going to spam. Unfortunately, this is a persistent problem with email (especially running your own lists), and even littering messages with unsubscribe links, tough to control :/"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/nanoglyphs.atom"
+      expanded_url = "https://brandur.org/nanoglyphs.atom"
+      url = "https://t.co/HThlFXJoIS"
+
+    [[tweets.entities.user_mentions]]
+      user = "shardulbee"
+      user_id = 1219719975155519494
+
+  [tweets.reply]
+    status_id = 1435285429280980993
+    user = "shardulbee"
+    user_id = 1219719975155519494
+
+[[tweets]]
+  created_at = 2021-09-08T14:38:13Z
+  favorite_count = 30
+  id = 1435613448889458692
+  text = "Gods, now that I'm off JIRA, GitHub Enterprise, managed endpoint with < 2 hours battery life, mandatory multi-layer code reviews, 15 minute CI turnarounds, and 30 second test start up, I'm running out of things to complain about.\n\nMay need to look into picking up Java as a hobby."
+
+[[tweets]]
   created_at = 2021-09-07T14:15:59Z
   favorite_count = 20
   id = 1435245468041158659
