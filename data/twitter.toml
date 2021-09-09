@@ -53,7 +53,7 @@
 
 [[tweets]]
   created_at = 2021-09-08T14:38:13Z
-  favorite_count = 95
+  favorite_count = 98
   id = 1435613448889458692
   retweet_count = 2
   text = "Gods, now that I'm off JIRA, GitHub Enterprise, managed endpoint with < 2 hours battery life, mandatory multi-layer code reviews, 15 minute CI turnarounds, and 30 second test start up, I'm running out of things to complain about.\n\nMay need to look into picking up Java as a hobby."
