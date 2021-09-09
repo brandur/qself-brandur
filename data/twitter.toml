@@ -1,5 +1,30 @@
 
 [[tweets]]
+  created_at = 2021-09-09T14:45:25Z
+  id = 1435977650867036165
+  text = "I guess the enthusiastic uptake of these new cookie options is good (Stack Overflow is so enthusiastic that I've filled theirs out 27 times already), but when I get a modal with \"do not sell my personal information\", it's just like ... can't you just not ask and then not do it."
+
+[[tweets]]
+  created_at = 2021-09-09T12:42:17Z
+  id = 1435946663047172096
+  text = "@alkampfer @mauroservienti It definitely is if you want it to be!\n\nYou won't successfully interact with the walled gardens like Reddit or FB with it, but it's rare that an independent blog I want to read doesn't support Atom/RSS, even if it's not advertised with an icon on the index page anymore."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "alkampfer"
+      user_id = 18078105
+
+    [[tweets.entities.user_mentions]]
+      user = "mauroservienti"
+      user_id = 22696598
+
+  [tweets.reply]
+    status_id = 1435867940084137985
+    user = "alkampfer"
+    user_id = 18078105
+
+[[tweets]]
   created_at = 2021-09-08T20:59:25Z
   favorite_count = 1
   id = 1435709382117892096
