@@ -18,9 +18,9 @@
 
 [[tweets]]
   created_at = 2021-09-08T19:22:53Z
-  favorite_count = 45
+  favorite_count = 50
   id = 1435685089124372480
-  retweet_count = 7
+  retweet_count = 8
   text = "After trying a lot of database options in the Go world, we ended up moving everything over to sqlc — lets us use the excellent pgx driver everywhere, while also getting us high-level constructs with minimal boilerplate.\n\nLonger writeup:\nhttps://t.co/5sDNFe1DBW"
 
   [tweets.entities]
@@ -53,9 +53,9 @@
 
 [[tweets]]
   created_at = 2021-09-08T14:38:13Z
-  favorite_count = 91
+  favorite_count = 95
   id = 1435613448889458692
-  retweet_count = 1
+  retweet_count = 2
   text = "Gods, now that I'm off JIRA, GitHub Enterprise, managed endpoint with < 2 hours battery life, mandatory multi-layer code reviews, 15 minute CI turnarounds, and 30 second test start up, I'm running out of things to complain about.\n\nMay need to look into picking up Java as a hobby."
 
 [[tweets]]
