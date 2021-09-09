@@ -18,9 +18,9 @@
 
 [[tweets]]
   created_at = 2021-09-08T19:22:53Z
-  favorite_count = 37
+  favorite_count = 45
   id = 1435685089124372480
-  retweet_count = 6
+  retweet_count = 7
   text = "After trying a lot of database options in the Go world, we ended up moving everything over to sqlc — lets us use the excellent pgx driver everywhere, while also getting us high-level constructs with minimal boilerplate.\n\nLonger writeup:\nhttps://t.co/5sDNFe1DBW"
 
   [tweets.entities]
@@ -53,8 +53,9 @@
 
 [[tweets]]
   created_at = 2021-09-08T14:38:13Z
-  favorite_count = 84
+  favorite_count = 91
   id = 1435613448889458692
+  retweet_count = 1
   text = "Gods, now that I'm off JIRA, GitHub Enterprise, managed endpoint with < 2 hours battery life, mandatory multi-layer code reviews, 15 minute CI turnarounds, and 30 second test start up, I'm running out of things to complain about.\n\nMay need to look into picking up Java as a hobby."
 
 [[tweets]]
@@ -20665,7 +20666,7 @@
 
 [[tweets]]
   created_at = 2017-12-13T06:34:25Z
-  favorite_count = 105
+  favorite_count = 102
   id = 940832260437217280
   retweet_count = 17
   text = "I ran my first deploy to Amazon's Fargate — it worked, but I'd been hoping for something ... simpler.\n\nDespite Docker, containers, and Kubernetes, the world is still looking for a deployment and operational experience on par with Heroku in mid-2011. There's lots of room to grow."
