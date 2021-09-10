@@ -1,5 +1,19 @@
 
 [[tweets]]
+  created_at = 2021-09-10T16:55:51Z
+  favorite_count = 28
+  id = 1436372862642708480
+  retweet_count = 9
+  text = "Postgres' `text` type, which lets you interleave unbounded data in with any database row, is a marvelous feat of technical accomplishment.\n\nPublished a piece on why you might want to consider using `varchar` anyway, inspired by lessons learned at Stripe.\n\nhttps://t.co/noBq7cGsx3"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/text"
+      expanded_url = "https://brandur.org/text"
+      url = "https://t.co/noBq7cGsx3"
+
+[[tweets]]
   created_at = 2021-09-09T14:45:25Z
   id = 1435977650867036165
   text = "I guess the enthusiastic uptake of these new cookie options is good (Stack Overflow is so enthusiastic that I've filled theirs out 27 times already), but when I get a modal with \"do not sell my personal information\", it's just like ... can't you just not ask and then not do it."
@@ -85,8 +99,9 @@
 
 [[tweets]]
   created_at = 2021-09-07T14:15:59Z
-  favorite_count = 20
+  favorite_count = 23
   id = 1435245468041158659
+  retweet_count = 1
   text = "A partial list of K-sorted ID algorithms and prior art. We ended up going with ULIDs on new sequences for the time being. So far: upside (ergonomics + insert perf) with very little cost compared to V4 UUIDs.\n\nhttps://t.co/SwBy6BXvrz"
 
   [tweets.entities]
