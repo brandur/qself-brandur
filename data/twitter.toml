@@ -1,5 +1,43 @@
 
 [[tweets]]
+  created_at = 2021-09-13T04:24:37Z
+  id = 1437270971472244741
+  text = "One of the best parts about this series is that it (the source manga) _actually ends_, and won't need 300+ anime episodes to get there.\n\nCan't wait to see Tanjiro's final techniques in animation. Will be a strong contender for the most epic battle in animation, ever."
+
+  [tweets.reply]
+    status_id = 1437270552557719560
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2021-09-13T04:22:57Z
+  favorite_count = 5
+  id = 1437270552557719560
+  text = "Finally got around to seeing the Demon Slayer movie. Beautiful art (anime, but one with a unique style), incredible soundtrack.\n\nLove that it's the highest grossing movie _ever_ in Japan, even if it's not the masterpieces that were Spirited Away (no. 2) or Your Name (no. 5). https://t.co/TjQ7ir6lyz"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1437270453127507968
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_I13LTUcAAwwfg.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1437270453127561219
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_I13LTVQAMJd6H.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1437270453140164608
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_I13LWVkAAMhM0.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1437270453127548930
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_I13LTVEAIJjRa.jpg"
+
+[[tweets]]
   created_at = 2021-09-12T17:38:36Z
   favorite_count = 2
   id = 1437108398093307906
@@ -6554,7 +6592,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2162
+  favorite_count = 2166
   id = 1182066723337293828
   retweet_count = 781
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -16338,10 +16376,6 @@
       user_id = 1497031
 
     [[tweets.entities.user_mentions]]
-      user = "tweets_so_fresh"
-      user_id = 1437158497553166343
-
-    [[tweets.entities.user_mentions]]
       user = "pims"
       user_id = 1497031
 
@@ -22885,7 +22919,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2653
+  favorite_count = 2656
   id = 919646432721641472
   retweet_count = 1027
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
