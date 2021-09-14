@@ -1,5 +1,33 @@
 
 [[tweets]]
+  created_at = 2021-09-14T16:23:50Z
+  favorite_count = 4
+  id = 1437814355999948802
+  text = "Strong fog game this morning. https://t.co/tiAi3mvayo"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1437814345329614854
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_Qkh3pVIAYiebE.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1437814345333809158
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_Qkh3qVIAY7BbV.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1437814345329610755
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_Qkh3pVEAMQEFT.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1437814346432712708
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_Qkh7wVEAQXtRv.jpg"
+
+[[tweets]]
   created_at = 2021-09-13T04:24:37Z
   favorite_count = 3
   id = 1437270971472244741
