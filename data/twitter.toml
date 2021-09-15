@@ -85,9 +85,9 @@
 
 [[tweets]]
   created_at = 2021-09-10T16:55:51Z
-  favorite_count = 81
+  favorite_count = 84
   id = 1436372862642708480
-  retweet_count = 23
+  retweet_count = 24
   text = "Postgres' `text` type, which lets you interleave unbounded data in with any database row, is a marvelous feat of technical accomplishment.\n\nPublished a piece on why you might want to consider using `varchar` anyway, inspired by lessons learned at Stripe.\n\nhttps://t.co/noBq7cGsx3"
 
   [tweets.entities]
