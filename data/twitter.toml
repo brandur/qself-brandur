@@ -1,5 +1,19 @@
 
 [[tweets]]
+  created_at = 2021-09-18T14:24:03Z
+  favorite_count = 8
+  id = 1439233764190609408
+  retweet_count = 1
+  text = "Has anyone ever wanted to copy and paste text _with_ formatting on purpose?\n\nThe Mac OS built-in shortcut of ⌥+⇧+⌘+V for paste without formatting is so awkward. The only workaround I know is to spot fix specific apps with overrides, but what an awful default. https://t.co/ERiFegO5qP"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1439233547038904326
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_kvSSAUUAYt9Il.jpg"
+
+[[tweets]]
   created_at = 2021-09-14T16:23:50Z
   favorite_count = 4
   id = 1437814355999948802
@@ -44660,7 +44674,7 @@
   created_at = 2014-02-16T01:01:40Z
   favorite_count = 48
   id = 434855061672316928
-  retweet_count = 13
+  retweet_count = 10
   text = "RT @dcurtis: A sad story about a CEO's aspiration and desire, and how it manifests itself in his company, Abercrombie & Fitch:\n\nhttp://t.co/Z7lXoyIuPQ"
 
   [tweets.entities]
