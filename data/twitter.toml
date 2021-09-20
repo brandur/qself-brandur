@@ -1,5 +1,87 @@
 
 [[tweets]]
+  created_at = 2021-09-20T15:34:37Z
+  id = 1439976296147140619
+  text = "@jaredmcateer Yeah, big +1. I do use it occasionally as well for that sort of stuff, but it's just so rare compared to the common case of just wanting raw content to go from A to B."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jaredmcateer"
+      user_id = 163469221
+
+  [tweets.reply]
+    status_id = 1439250889072648192
+    user = "jaredmcateer"
+    user_id = 163469221
+
+[[tweets]]
+  created_at = 2021-09-20T15:33:57Z
+  id = 1439976130962870275
+  text = "@Its_stolt +1. I also use it occasionally for that stuff too, but so so rare compared to the common case."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Its_stolt"
+      user_id = 9483652
+
+  [tweets.reply]
+    status_id = 1439253031955009545
+    user = "Its_stolt"
+    user_id = 9483652
+
+[[tweets]]
+  created_at = 2021-09-20T15:33:32Z
+  id = 1439976025295777794
+  text = "@johnsheehan Huh, this looks interesting — thanks for the tip."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "johnsheehan"
+      user_id = 11381522
+
+  [tweets.reply]
+    status_id = 1439289797567303683
+    user = "johnsheehan"
+    user_id = 11381522
+
+[[tweets]]
+  created_at = 2021-09-20T15:32:59Z
+  favorite_count = 1
+  id = 1439975888062324736
+  text = "@MattMueller Some bad personal anecdotes —\n\n* Closer to the end of my last job we were going very Java heavy and getting into protobufs. The codegen for them usually worked, but occasionally didn't, and hard to debug.\n* We built a Ruby -> OpenAPI -> JS codegen catastrophe. Took 2+ min to run."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "MattMueller"
+      user_id = 11965112
+
+  [tweets.reply]
+    status_id = 1439293083913494529
+    user = "MattMueller"
+    user_id = 11965112
+
+[[tweets]]
+  created_at = 2021-09-20T15:30:46Z
+  favorite_count = 1
+  id = 1439975326973452291
+  text = "@danbruder Haha, thanks :) This one's basically for internal-use-only, but open source because why not."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "danbruder"
+      user_id = 40870431
+
+  [tweets.reply]
+    status_id = 1439705071185506308
+    user = "danbruder"
+    user_id = 40870431
+
+[[tweets]]
   created_at = 2021-09-18T14:24:03Z
   favorite_count = 24
   id = 1439233764190609408
