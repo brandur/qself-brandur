@@ -1,5 +1,56 @@
 
 [[tweets]]
+  created_at = 2021-09-21T19:06:02Z
+  favorite_count = 1
+  id = 1440391889409089550
+  text = "@MattMueller Think I'm running into similar issues — haven't reached for codegen yet, but have put in some slightly odd Go constructs for API definitions because the language isn't quite expressive enough by itself.\n\nFor codegen tools like sqlc, definitely helps that Go is fast and light."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "MattMueller"
+      user_id = 11965112
+
+  [tweets.reply]
+    status_id = 1440018413678641156
+    user = "MattMueller"
+    user_id = 11965112
+
+[[tweets]]
+  created_at = 2021-09-21T19:02:59Z
+  favorite_count = 2
+  id = 1440391123902500871
+  text = "Thanks Curt!\n\n028's about teaching people SQL and internal tool inspiration.\n\nhttps://t.co/O2XZup3V6U https://t.co/lO6UmiVlVc"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/nanoglyphs/028…"
+      expanded_url = "https://brandur.org/nanoglyphs/028-cool-tools"
+      url = "https://t.co/O2XZup3V6U"
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/asenchi/status…"
+      expanded_url = "https://twitter.com/asenchi/status/1440107859237347329"
+      url = "https://t.co/lO6UmiVlVc"
+
+[[tweets]]
+  created_at = 2021-09-21T19:00:49Z
+  id = 1440390578240253960
+  text = "@kirshatrov Nice :) Thanks for the kind words Kir!\n\nAnd lol — yeah, by the time I retired mine that plastic had been stripped pretty far back. It wasn't pretty."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kirshatrov"
+      user_id = 287242565
+
+  [tweets.reply]
+    status_id = 1440268716671856647
+    user = "kirshatrov"
+    user_id = 287242565
+
+[[tweets]]
   created_at = 2021-09-20T15:34:37Z
   id = 1439976296147140619
   text = "@jaredmcateer Yeah, big +1. I do use it occasionally as well for that sort of stuff, but it's just so rare compared to the common case of just wanting raw content to go from A to B."
