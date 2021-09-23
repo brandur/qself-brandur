@@ -1,5 +1,26 @@
 
 [[tweets]]
+  created_at = 2021-09-23T00:49:48Z
+  id = 1440840789718757383
+  text = "Amen. Zoomed to only this section of JFK, we somehow forget that more than 3/4 of GG Park is still full of busy roads, many of which make the mere act of traversing the park on foot hazardous as yielding to pedestrians is optional in SF.\n\nFrom @hknightsf:\nhttps://t.co/ArIXBpK1O1 https://t.co/48O1xHeQIn"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1440836207269728268
+      type = "photo"
+      url = "https://pbs.twimg.com/media/E_7g5YnVUAwfeBh.png"
+
+    [[tweets.entities.urls]]
+      display_url = "sfchronicle.com/sf/bayarea/hea…"
+      expanded_url = "https://www.sfchronicle.com/sf/bayarea/heatherknight/article/After-epic-battles-S-F-poised-to-make-JFK-Drive-16477586.php"
+      url = "https://t.co/ArIXBpK1O1"
+
+    [[tweets.entities.user_mentions]]
+      user = "hknightsf"
+      user_id = 25150468
+
+[[tweets]]
   created_at = 2021-09-21T19:06:02Z
   favorite_count = 1
   id = 1440391889409089550
