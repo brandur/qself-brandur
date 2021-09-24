@@ -1,5 +1,22 @@
 
 [[tweets]]
+  created_at = 2021-09-24T18:08:06Z
+  favorite_count = 5
+  id = 1441464472594313224
+  text = "Next level from @LukasFittl and co. — first they boxed up the Postgres SQL query parser into a modular API that enabled great derivative tools like sqlc.\n\nNow — the Postgres planner isolated and compiled to WebAssembly to help suggest optimal indexes. Nice. https://t.co/pJAeIEDDge"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/pganalyze/stat…"
+      expanded_url = "https://twitter.com/pganalyze/status/1441056067144884231"
+      url = "https://t.co/pJAeIEDDge"
+
+    [[tweets.entities.user_mentions]]
+      user = "LukasFittl"
+      user_id = 2552851
+
+[[tweets]]
   created_at = 2021-09-23T00:49:48Z
   favorite_count = 16
   id = 1440840789718757383
@@ -311,9 +328,9 @@
 
 [[tweets]]
   created_at = 2021-09-08T19:22:53Z
-  favorite_count = 56
+  favorite_count = 59
   id = 1435685089124372480
-  retweet_count = 8
+  retweet_count = 9
   text = "After trying a lot of database options in the Go world, we ended up moving everything over to sqlc — lets us use the excellent pgx driver everywhere, while also getting us high-level constructs with minimal boilerplate.\n\nLonger writeup:\nhttps://t.co/5sDNFe1DBW"
 
   [tweets.entities]
