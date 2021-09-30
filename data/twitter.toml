@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2021-09-30T18:05:48Z
-  favorite_count = 8
+  favorite_count = 22
   id = 1443638224782462976
-  retweet_count = 1
+  retweet_count = 2
   text = "Program start check: A dead simple pattern for CI that makes sure your program can successfully start and stop. Implementation takes about 10 minutes and it'll save you some day.\n\nhttps://t.co/eQrUGY5rjA"
 
   [tweets.entities]
