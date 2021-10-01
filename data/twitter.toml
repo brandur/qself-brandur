@@ -1,5 +1,28 @@
 
 [[tweets]]
+  created_at = 2021-10-01T20:45:43Z
+  favorite_count = 3
+  id = 1444040854352502787
+  text = "As much as I love all the pretty colors I have in my logs now, really missing Splunk's unique capacity to crush billions of lines of logs like nothing else.\n\nOTOH, not missing that pricing ... at all. If a new entrant doesn't disrupt this space within 5 years I'll eat my hat. https://t.co/FZK1TSXMZS"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1444039791171936258
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FApCigpVIAIi4cP.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1444040466849153024
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FApDJ1vVQAAJCyk.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1444040595631050752
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FApDRVfVEAAjXxX.jpg"
+
+[[tweets]]
   created_at = 2021-09-30T21:29:20Z
   favorite_count = 11
   id = 1443689444108759046
