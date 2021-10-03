@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 41720335
+  isbn = "1984877526"
+  isbn13 = "9781984877529"
+  num_pages = 368
+  published_year = 2021
+  rating = 4
+  read_at = 2021-09-20T00:00:00-07:00
+  review = "Excellent. Most \"foreigner in Japan\" books largely involve around pointing out the idiosyncrasies of Japanese society along with the odd ways foreigners are treated. There's some of that here too, but the lion's share of the book involves rare glimpses into active involvement in ancient Japanese crafts — charcoal firing, duck netting, woodworking, sake brewing, and more. Getting access to these relatively closed groups isn't easy, so this sort of account of these experiences is far from common."
+  review_id = 4269958928
+  title = "Water, Wood, and Wild Things: Learning Craft and Cultivation in a Japanese Mountain Town"
+
+  [[readings.authors]]
+    id = 18389776
+    name = "Hannah Kirshner"
+
+[[readings]]
   id = 424598
   isbn = "0071414290"
   isbn13 = "0639785802594"
