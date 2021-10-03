@@ -2313,7 +2313,7 @@
   read_at = 2018-06-08T00:00:00-07:00
   review = "Contrary to expectations, this one didn't really do much for me — it seems to require a much deeper appreciation of philosophy, or at least willingness to suspend disbelief and take large bodies of invented concepts as objective truth.\n\nThe core idea of the book is one of \"quality\", which is a normal word that the author has adopted, counterintuitively redefined as a metaphysical concept that's impossible for science to measure (see a rundown at [1]), and then dives into at great length, building layer upon layer of new invented ideas and concreting them as philosophical absolutes. I suspect for most analytical minds, a lot of what's written here will be somewhat difficult to accept at face value.\n\n[1] https://en.wikipedia.org/wiki/Pirsig%27s_metaphysics_of_Quality"
   review_id = 1673469203
-  title = "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)"
+  title = "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values"
 
   [[readings.authors]]
     id = 401
