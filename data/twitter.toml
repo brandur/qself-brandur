@@ -1,5 +1,22 @@
 
 [[tweets]]
+  created_at = 2021-10-04T18:54:21Z
+  favorite_count = 1
+  id = 1445099993489022977
+  text = "@ntonozzi LogDNA! Pretty good product overall, but missing a lot of aggregate niceties compared to Splunk."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "ntonozzi"
+      user_id = 1935909367
+
+  [tweets.reply]
+    status_id = 1444044362166325248
+    user = "ntonozzi"
+    user_id = 1935909367
+
+[[tweets]]
   created_at = 2021-10-01T20:45:43Z
   favorite_count = 6
   id = 1444040854352502787
