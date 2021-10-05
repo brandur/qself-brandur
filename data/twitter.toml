@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2021-10-05T18:46:39Z
+  favorite_count = 1
+  id = 1445460440620802053
+  text = "For <script>:\n* `async` causes it to be fetched in parallel, but run ASAP.\n* `defer` waits for DOM readiness before running.\n\nI would think that combining both would make sense, but most of what I read suggests browsers will just prefer async.\n\nOOC, does anyone know why?"
+
+[[tweets]]
   created_at = 2021-10-04T18:54:21Z
   favorite_count = 1
   id = 1445099993489022977
