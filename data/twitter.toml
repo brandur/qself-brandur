@@ -1,5 +1,28 @@
 
 [[tweets]]
+  created_at = 2021-10-13T18:36:10Z
+  favorite_count = 356
+  id = 1448356908960661505
+  retweet_count = 19
+  text = "RT @micsolana: this is impossible because inflation doesn't exist but if it did exist it wouldn't be happening and if it *was* happening it would be a good thing, actually, everyone knows this. please learn econ https://t.co/JJfLKuStmx"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/APompliano/sta…"
+      expanded_url = "https://twitter.com/APompliano/status/1448284787073028103"
+      url = "https://t.co/JJfLKuStmx"
+
+    [[tweets.entities.user_mentions]]
+      user = "micsolana"
+      user_id = 18989355
+
+  [tweets.retweet]
+    status_id = 1448327235690287106
+    user = "micsolana"
+    user_id = 18989355
+
+[[tweets]]
   created_at = 2021-10-05T18:46:39Z
   favorite_count = 1
   id = 1445460440620802053
