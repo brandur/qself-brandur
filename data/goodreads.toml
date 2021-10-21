@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 37537853
+  isbn = ""
+  isbn13 = "9780525562733"
+  num_pages = 0
+  published_year = 2018
+  rating = 4
+  read_at = 2021-10-21T13:04:10-07:00
+  review = "Good stuff — a number of collected essays on a wide array of subjects including Mavericks (the wave), Mount Rainier, lawsuits and the demise of Chouinard Equipment (Patagonia's sister company), and cave spelunking. Krakauer does a nice job of opening his pieces with an interesting personal story (whether one of his own or told from another's person's point of view) to get you hooked, and then zooming out to a broader view of the topic at hand and getting into detail. Keep in mind that the collection is phoning it in a little bit — there's not much of a common theme here, but rather a bunch of loose work smashed together."
+  review_id = 4299769261
+  title = "Classic Krakauer: After the Fall, Mark Foo's Last Ride and Other Essays from the Vault"
+
+  [[readings.authors]]
+    id = 1235
+    name = "Jon Krakauer"
+
+[[readings]]
   id = 43575115
   isbn = "038554121X"
   isbn13 = "9780385541213"
