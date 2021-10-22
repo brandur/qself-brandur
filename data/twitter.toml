@@ -1,5 +1,56 @@
 
 [[tweets]]
+  created_at = 2021-10-21T21:32:57Z
+  id = 1451300499118981120
+  text = "@sebrindom @medusajs Nice! Great writeup. Let me know how things go as you start to ramp up load on the new system."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "sebrindom"
+      user_id = 88467075
+
+    [[tweets.entities.user_mentions]]
+      user = "medusajs"
+      user_id = 1369324984989016064
+
+  [tweets.reply]
+    status_id = 1451208951744372748
+    user = "sebrindom"
+    user_id = 88467075
+
+[[tweets]]
+  created_at = 2021-10-21T21:23:01Z
+  favorite_count = 8
+  id = 1451297998269399041
+  retweet_count = 10
+  text = "RT @sebrindom: Have written a blog post about how we implemented idempotency keys in @medusajs. I first read about the concept on @brandur's blog and have obsessed over it ever since 😁\n\n#opensource #javascript #programming\nhttps://t.co/6vEjy00FYn"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "dev.to/medusajs/an-op…"
+      expanded_url = "https://dev.to/medusajs/an-open-source-implementation-of-idempotency-keys-in-nodejs-with-express-2093"
+      url = "https://t.co/6vEjy00FYn"
+
+    [[tweets.entities.user_mentions]]
+      user = "sebrindom"
+      user_id = 88467075
+
+    [[tweets.entities.user_mentions]]
+      user = "medusajs"
+      user_id = 1369324984989016064
+
+    [[tweets.entities.user_mentions]]
+      user = "brandur"
+      user_id = 22980330
+
+  [tweets.retweet]
+    status_id = 1451208951744372748
+    user = "sebrindom"
+    user_id = 88467075
+
+[[tweets]]
   created_at = 2021-10-13T18:36:10Z
   favorite_count = 708
   id = 1448356908960661505
