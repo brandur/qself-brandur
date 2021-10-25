@@ -1,5 +1,38 @@
 
 [[tweets]]
+  created_at = 2021-10-25T17:12:56Z
+  favorite_count = 1
+  id = 1452684615450173440
+  text = "@daturkel lol! Time is getting pretty hazy these days ;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "daturkel"
+      user_id = 633231562
+
+  [tweets.reply]
+    status_id = 1452405154939080705
+    user = "daturkel"
+    user_id = 633231562
+
+[[tweets]]
+  created_at = 2021-10-25T17:12:42Z
+  id = 1452684558000791554
+  text = "@thairu Yep — but THOSE VISUALS. Such a beautifully imagined version of Dune."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "thairu"
+      user_id = 36772968
+
+  [tweets.reply]
+    status_id = 1452428598774689794
+    user = "thairu"
+    user_id = 36772968
+
+[[tweets]]
   created_at = 2021-10-24T22:14:05Z
   favorite_count = 2
   id = 1452398012647411712
