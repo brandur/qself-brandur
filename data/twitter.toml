@@ -34918,6 +34918,12 @@
   id = 719566040531730433
   text = "@yann_ck Cool! Still feels a little roundabout to do all this extra work, but maybe it all pays off at scale …"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 719414035477827584
     user = "bonjouryannick"
@@ -35076,6 +35082,12 @@
   created_at = 2016-04-07T18:58:44Z
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 717315520446472192
