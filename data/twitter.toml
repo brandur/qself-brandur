@@ -38560,6 +38560,10 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
+    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -38574,6 +38578,10 @@
   text = "@yann_ck @franckverrot Hah, thanks :) Don’t worry about it too much though. My next European trip will definitely just be ABSINTHE QUEST."
 
   [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
@@ -38642,6 +38650,10 @@
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 606385994061877248
