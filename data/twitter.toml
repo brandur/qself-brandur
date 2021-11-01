@@ -117,9 +117,9 @@
 
 [[tweets]]
   created_at = 2021-10-13T18:36:10Z
-  favorite_count = 711
+  favorite_count = 708
   id = 1448356908960661505
-  retweet_count = 50
+  retweet_count = 49
   text = "RT @micsolana: this is impossible because inflation doesn't exist but if it did exist it wouldn't be happening and if it *was* happening it would be a good thing, actually, everyone knows this. please learn econ https://t.co/JJfLKuStmx"
 
   [tweets.entities]
@@ -7037,7 +7037,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2158
+  favorite_count = 2162
   id = 1182066723337293828
   retweet_count = 779
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -21799,6 +21799,12 @@
   id = 933857153022156802
   text = "@yann_ck I’m not really a gear guy, but:\n\n(1) the Hauser is my favorite backpack ever so far; \n(2) can’t recommend stuffable Uniqlo down jacket enough — warm, weatherproof, and well-priced; and\n(3) simple freezer thickness ziplock bag for toiletries — light, robust, and disposable."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 933307601101705217
     user = "bonjouryannick"
@@ -22379,12 +22385,6 @@
   favorite_count = 4
   id = 929333374170284032
   text = "@yann_ck Going out for dinner/drinks, and occasional expensive hardware purchases like the Leica Q and iPhone X.\n\nOh, and then there's the worst one by far: living in San Francisco ;)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 929252463735078912
@@ -23370,7 +23370,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2645
+  favorite_count = 2649
   id = 919646432721641472
   retweet_count = 1023
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -27912,12 +27912,6 @@
   favorite_count = 1
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 862592822251270146
@@ -34934,6 +34928,12 @@
   id = 719566040531730433
   text = "@yann_ck Cool! Still feels a little roundabout to do all this extra work, but maybe it all pays off at scale …"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 719414035477827584
     user = "bonjouryannick"
@@ -35092,6 +35092,12 @@
   created_at = 2016-04-07T18:58:44Z
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 717315520446472192
@@ -38564,10 +38570,6 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
-    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -38582,10 +38584,6 @@
   text = "@yann_ck @franckverrot Hah, thanks :) Don’t worry about it too much though. My next European trip will definitely just be ABSINTHE QUEST."
 
   [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
@@ -38654,10 +38652,6 @@
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 606385994061877248
