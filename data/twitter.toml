@@ -6408,12 +6408,6 @@
   id = 1214266111698464768
   text = "@yann_ck Nice!!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 1214236117819699201
     user = "bonjouryannick"
@@ -6533,6 +6527,10 @@
       url = "https://t.co/MNKHxgLahS"
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
+    [[tweets.entities.user_mentions]]
       user = "Benoit_Tgt"
       user_id = 129343129
 
@@ -6559,6 +6557,12 @@
   created_at = 2019-12-20T16:22:44Z
   id = 1208060172586770438
   text = "@yann_ck Thanks! Definitely do it. :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 1208059078934695937
@@ -7033,7 +7037,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2158
+  favorite_count = 2162
   id = 1182066723337293828
   retweet_count = 779
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -21795,6 +21799,12 @@
   id = 933857153022156802
   text = "@yann_ck I’m not really a gear guy, but:\n\n(1) the Hauser is my favorite backpack ever so far; \n(2) can’t recommend stuffable Uniqlo down jacket enough — warm, weatherproof, and well-priced; and\n(3) simple freezer thickness ziplock bag for toiletries — light, robust, and disposable."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 933307601101705217
     user = "bonjouryannick"
@@ -22375,12 +22385,6 @@
   favorite_count = 4
   id = 929333374170284032
   text = "@yann_ck Going out for dinner/drinks, and occasional expensive hardware purchases like the Leica Q and iPhone X.\n\nOh, and then there's the worst one by far: living in San Francisco ;)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 929252463735078912
@@ -23366,7 +23370,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2646
+  favorite_count = 2649
   id = 919646432721641472
   retweet_count = 1023
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -27909,12 +27913,6 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
@@ -32258,12 +32256,6 @@
   id = 799664247345029121
   text = "@yann_ck I found a nice trick recently for do or die re-training:\n\ninoremap <esc> NO ESCAPE FOR YOU"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 799660183844753408
     user = "bonjouryannick"
@@ -34936,6 +34928,12 @@
   id = 719566040531730433
   text = "@yann_ck Cool! Still feels a little roundabout to do all this extra work, but maybe it all pays off at scale …"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 719414035477827584
     user = "bonjouryannick"
@@ -35094,6 +35092,12 @@
   created_at = 2016-04-07T18:58:44Z
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 717315520446472192
@@ -36995,10 +36999,6 @@
       url = "https://t.co/ROoAvMyBP9"
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
-    [[tweets.entities.user_mentions]]
       user = "brandur"
       user_id = 22980330
 
@@ -38570,10 +38570,6 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
-    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -38588,10 +38584,6 @@
   text = "@yann_ck @franckverrot Hah, thanks :) Don’t worry about it too much though. My next European trip will definitely just be ABSINTHE QUEST."
 
   [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
@@ -38660,10 +38652,6 @@
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 606385994061877248
