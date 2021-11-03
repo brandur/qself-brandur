@@ -22392,6 +22392,12 @@
   id = 929333374170284032
   text = "@yann_ck Going out for dinner/drinks, and occasional expensive hardware purchases like the Leica Q and iPhone X.\n\nOh, and then there's the worst one by far: living in San Francisco ;)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 929252463735078912
     user = "bonjouryannick"
