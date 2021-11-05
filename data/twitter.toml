@@ -1,5 +1,27 @@
 
 [[tweets]]
+  created_at = 2021-11-05T18:41:00Z
+  id = 1456693043189338113
+  text = "@zellyn Thanks! I've been meaning to write something along those lines as we're evolving our conventions for the Crunchy Bridge API. The unfortunate part is there isn't much by way of perfect answers out there — just a lot of \"good enough\" ones."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "zellyn"
+      user_id = 2714151
+
+  [tweets.reply]
+    status_id = 1456671064168312844
+    user = "zellyn"
+    user_id = 2714151
+
+[[tweets]]
+  created_at = 2021-11-05T18:39:05Z
+  favorite_count = 4
+  id = 1456692562232627203
+  text = "Winner of most awkward project naming of all time: golangci-lint. Until about a week ago, I needed to try about three different permutations of \"lang\" / \"ci\" / \"lint\" / hyphen before finding the right one.\n\nStill, great program — fast and highly configurable."
+
+[[tweets]]
   created_at = 2021-10-30T15:19:15Z
   favorite_count = 19
   id = 1454467943815802887
@@ -27924,6 +27946,12 @@
   favorite_count = 1
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 862592822251270146
