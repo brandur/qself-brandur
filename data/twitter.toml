@@ -47348,9 +47348,9 @@
 
 [[tweets]]
   created_at = 2013-10-18T23:20:07Z
-  favorite_count = 469
+  favorite_count = 466
   id = 391342960870453248
-  retweet_count = 913
+  retweet_count = 912
   text = "RT @Th_15798035965: When Banksy comes to Gotham I’m going to buy one of his pieces for the cave, then break his arm for vandalism. I’m tough but I’m fair."
 
   [tweets.entities]
