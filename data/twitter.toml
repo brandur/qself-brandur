@@ -38644,6 +38644,10 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
+    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
