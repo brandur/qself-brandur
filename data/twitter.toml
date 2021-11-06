@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2021-11-06T18:06:12Z
+  id = 1457046675332108292
+  retweet_count = 1
+  text = "Anyone successfully migrated off Dropbox to a new service they love?\n\nHaven't been enthused about the pricing and product bloat (would love to downgrade to Dropbox 2012 edition), but two years to ship an M1 binary (they're aiming for H1 2022) is probably the final straw."
+
+[[tweets]]
   created_at = 2021-11-05T18:41:00Z
   id = 1456693043189338113
   text = "@zellyn Thanks! I've been meaning to write something along those lines as we're evolving our conventions for the Crunchy Bridge API. The unfortunate part is there isn't much by way of perfect answers out there — just a lot of \"good enough\" ones."
@@ -7065,7 +7071,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2155
+  favorite_count = 2160
   id = 1182066723337293828
   retweet_count = 779
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
