@@ -1,7 +1,98 @@
 
 [[tweets]]
+  created_at = 2021-11-07T01:05:03Z
+  id = 1457152081983270923
+  text = "@oibafsellig Neat. Okay this one's totally new to me. Will take a closer look — thanks!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "oibafsellig"
+      user_id = 2676581335
+
+  [tweets.reply]
+    status_id = 1457049670102958081
+    user = "oibafsellig"
+    user_id = 2676581335
+
+[[tweets]]
+  created_at = 2021-11-07T01:03:04Z
+  favorite_count = 2
+  id = 1457151584522047497
+  text = "@danielwithmusic Wow cool — thanks. I'm going to give this a shot because at this point migrating off Dropbox to anything else is going to be easily a multi-day project as I go through and flip every computer I own over."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "danielwithmusic"
+      user_id = 73962161
+
+  [tweets.reply]
+    status_id = 1457054880321851394
+    user = "danielwithmusic"
+    user_id = 73962161
+
+[[tweets]]
+  created_at = 2021-11-07T01:01:08Z
+  favorite_count = 1
+  id = 1457151096707715078
+  text = "@milesward @jhscott Haha. Message received. Thanks!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "milesward"
+      user_id = 10953972
+
+    [[tweets.entities.user_mentions]]
+      user = "jhscott"
+      user_id = 6173192
+
+  [tweets.reply]
+    status_id = 1457077639827492866
+    user = "milesward"
+    user_id = 10953972
+
+[[tweets]]
+  created_at = 2021-11-07T01:00:55Z
+  id = 1457151042802442242
+  text = "@nicolaiarocci Thanks — I have another friend who swears by it. You don't find that you miss having a leaner web interface, or is it good enough? (I just tried logging into https://t.co/iD9lw3oVQ6 and the experience is a little underwhelming.)"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "icloud.com"
+      expanded_url = "http://icloud.com"
+      url = "https://t.co/iD9lw3oVQ6"
+
+    [[tweets.entities.user_mentions]]
+      user = "nicolaiarocci"
+      user_id = 21412873
+
+  [tweets.reply]
+    status_id = 1457093291950940176
+    user = "nicolaiarocci"
+    user_id = 21412873
+
+[[tweets]]
+  created_at = 2021-11-07T00:58:21Z
+  id = 1457150394539266054
+  text = "@grinich Interesting ... I usually avoid Google desktop software, but this is a pretty plausible option. Like everybody, I'm already on Google, and compared to some of the smaller Dropbox competition, they're definitely not going anywhere. Thanks."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "grinich"
+      user_id = 16602665
+
+  [tweets.reply]
+    status_id = 1457134320741752841
+    user = "grinich"
+    user_id = 16602665
+
+[[tweets]]
   created_at = 2021-11-06T18:06:12Z
-  favorite_count = 6
+  favorite_count = 10
   id = 1457046675332108292
   retweet_count = 1
   text = "Anyone successfully migrated off Dropbox to a new service they love?\n\nHaven't been enthused about the pricing and product bloat (would love to downgrade to Dropbox 2012 edition), but two years to ship an M1 binary (they're aiming for H1 2022) is probably the final straw."
@@ -7072,7 +7163,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2160
+  favorite_count = 2156
   id = 1182066723337293828
   retweet_count = 779
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -35150,12 +35241,6 @@
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 717315520446472192
     user = "bonjouryannick"
@@ -38609,6 +38694,10 @@
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
       user_id = 7134522
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
