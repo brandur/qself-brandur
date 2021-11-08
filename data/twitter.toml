@@ -92,9 +92,9 @@
 
 [[tweets]]
   created_at = 2021-11-06T18:06:12Z
-  favorite_count = 10
+  favorite_count = 13
   id = 1457046675332108292
-  retweet_count = 1
+  retweet_count = 2
   text = "Anyone successfully migrated off Dropbox to a new service they love?\n\nHaven't been enthused about the pricing and product bloat (would love to downgrade to Dropbox 2012 edition), but two years to ship an M1 binary (they're aiming for H1 2022) is probably the final straw."
 
 [[tweets]]
