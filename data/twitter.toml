@@ -92,7 +92,7 @@
 
 [[tweets]]
   created_at = 2021-11-06T18:06:12Z
-  favorite_count = 13
+  favorite_count = 16
   id = 1457046675332108292
   retweet_count = 2
   text = "Anyone successfully migrated off Dropbox to a new service they love?\n\nHaven't been enthused about the pricing and product bloat (would love to downgrade to Dropbox 2012 edition), but two years to ship an M1 binary (they're aiming for H1 2022) is probably the final straw."
@@ -7163,7 +7163,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2156
+  favorite_count = 2161
   id = 1182066723337293828
   retweet_count = 779
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -35240,6 +35240,12 @@
   created_at = 2016-04-07T18:58:44Z
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 717315520446472192
