@@ -1,5 +1,38 @@
 
 [[tweets]]
+  created_at = 2021-11-18T20:52:12Z
+  id = 1461437102596321280
+  text = "The only author on Earth who can make laugh out loud when reading an article about inflation and the bleak future of our money supply. https://t.co/LTmFLdkdnb"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/micsolana/stat…"
+      expanded_url = "https://twitter.com/micsolana/status/1461405281309675520"
+      url = "https://t.co/LTmFLdkdnb"
+
+[[tweets]]
+  created_at = 2021-11-18T18:25:06Z
+  id = 1461400085518905346
+  text = "@BRMatt Yeah this was in a newsletter actually!\n\nSee this section of 028: https://t.co/qYOOjAJ9iS"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/nanoglyphs/028…"
+      expanded_url = "https://brandur.org/nanoglyphs/028-cool-tools#sql"
+      url = "https://t.co/qYOOjAJ9iS"
+
+    [[tweets.entities.user_mentions]]
+      user = "BRMatt"
+      user_id = 23248421
+
+  [tweets.reply]
+    status_id = 1460966544192770049
+    user = "BRMatt"
+    user_id = 23248421
+
+[[tweets]]
   created_at = 2021-11-07T01:05:03Z
   id = 1457152081983270923
   text = "@oibafsellig Neat. Okay this one's totally new to me. Will take a closer look — thanks!"
