@@ -1,14 +1,14 @@
 
 [[tweets]]
   created_at = 2021-11-18T23:44:23Z
-  favorite_count = 4
+  favorite_count = 7
   id = 1461480435574214658
   retweet_count = 1
   text = "Alright, there's maybe a 20% this Wheel of Time interpretation is good, but if it is, that's many hundreds of hours of childhood investment/daydreaming fulfilled. Hail Mary.\n\nCowboy Bebop also drops at midnight Pacific. Tonight's going to be either boom or bust."
 
 [[tweets]]
   created_at = 2021-11-18T21:59:15Z
-  favorite_count = 13
+  favorite_count = 18
   id = 1461453976260333571
   retweet_count = 1
   text = "Some quick thoughts on feature flags as I was building some here —\n\nhttps://t.co/xV8MiuzGj1\n\nNot wanting to maintain a bunch of code abstractions, the goal is to have one system that does many things well: feature rollout, operational knobs, deprecations, internal settings, etc."
