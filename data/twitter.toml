@@ -8,9 +8,9 @@
 
 [[tweets]]
   created_at = 2021-11-18T21:59:15Z
-  favorite_count = 18
+  favorite_count = 21
   id = 1461453976260333571
-  retweet_count = 1
+  retweet_count = 3
   text = "Some quick thoughts on feature flags as I was building some here —\n\nhttps://t.co/xV8MiuzGj1\n\nNot wanting to maintain a bunch of code abstractions, the goal is to have one system that does many things well: feature rollout, operational knobs, deprecations, internal settings, etc."
 
   [tweets.entities]
@@ -7218,7 +7218,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2161
+  favorite_count = 2157
   id = 1182066723337293828
   retweet_count = 779
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
