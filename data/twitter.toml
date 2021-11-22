@@ -1,8 +1,25 @@
 
 [[tweets]]
+  created_at = 2021-11-22T18:23:53Z
+  id = 1462849331967393792
+  text = "@mashd +1 on sticky rollout :) Deferred that to a new post.\n\nBuild versus buy: this one's on the line in that IMO flags are pretty small. There's a carrying cost to code, but also to an integration with an external service. Might make a different decision for a different domain."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "mashd"
+      user_id = 16546950
+
+  [tweets.reply]
+    status_id = 1461455743132090373
+    user = "mashd"
+    user_id = 16546950
+
+[[tweets]]
   created_at = 2021-11-22T18:19:38Z
-  favorite_count = 1
+  favorite_count = 9
   id = 1462848262969298952
+  retweet_count = 1
   text = "Follow up from last week: how to implement a \"random by token\" flag using a hash and a big int.\n\nhttps://t.co/1nV2w8oKMZ\n\nNothing too novel, but useful for producing the same on/off result for the same ID on every call. Users don't see non-deterministic behavior on roll outs."
 
   [tweets.entities]
