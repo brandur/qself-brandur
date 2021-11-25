@@ -1,5 +1,48 @@
 
 [[tweets]]
+  created_at = 2021-11-25T19:02:43Z
+  favorite_count = 4
+  id = 1463946268359626752
+  text = "Unloaded my iMac Pro yesterday. Sad — such a great machine, and one of the early indicators that Apple was starting to make a comeback towards practicality again, but just wasn't using it anymore with M1 computers around."
+
+[[tweets]]
+  created_at = 2021-11-25T19:01:58Z
+  id = 1463946078626074688
+  text = "@bitsandhops The good news is that people are understanding because we've all been duck'ed a thousand times by this point haha."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "bitsandhops"
+      user_id = 372479872
+
+  [tweets.reply]
+    status_id = 1463218189811126276
+    user = "bitsandhops"
+    user_id = 372479872
+
+[[tweets]]
+  created_at = 2021-11-25T19:00:00Z
+  id = 1463945581512970251
+  text = "@NickBruun No kidding! I love how many different places you need to disable it, and how apps like notes want you to disable each option one by one. https://t.co/lEhAVJgL56"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1463945525112164373
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FFD6suLVUBUgqAU.png"
+
+    [[tweets.entities.user_mentions]]
+      user = "NickBruun"
+      user_id = 69576257
+
+  [tweets.reply]
+    status_id = 1463218059569623040
+    user = "NickBruun"
+    user_id = 69576257
+
+[[tweets]]
   created_at = 2021-11-23T18:46:50Z
   favorite_count = 13
   id = 1463217495150522370
