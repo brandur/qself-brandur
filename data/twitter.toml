@@ -180,9 +180,9 @@
 
 [[tweets]]
   created_at = 2021-11-18T21:59:15Z
-  favorite_count = 21
+  favorite_count = 24
   id = 1461453976260333571
-  retweet_count = 3
+  retweet_count = 4
   text = "Some quick thoughts on feature flags as I was building some here —\n\nhttps://t.co/xV8MiuzGj1\n\nNot wanting to maintain a bunch of code abstractions, the goal is to have one system that does many things well: feature rollout, operational knobs, deprecations, internal settings, etc."
 
   [tweets.entities]
