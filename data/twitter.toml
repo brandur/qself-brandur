@@ -6755,6 +6755,12 @@
   id = 1214266111698464768
   text = "@yann_ck Nice!!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 1214236117819699201
     user = "bonjouryannick"
@@ -6904,12 +6910,6 @@
   created_at = 2019-12-20T16:22:44Z
   id = 1208060172586770438
   text = "@yann_ck Thanks! Definitely do it. :)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 1208059078934695937
@@ -7384,7 +7384,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2162
+  favorite_count = 2159
   id = 1182066723337293828
   retweet_count = 779
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -8890,16 +8890,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "mstuchli"
-      user_id = 245064328
-
-    [[tweets.entities.user_mentions]]
       user = "griff__00"
       user_id = 3364921872
 
   [tweets.reply]
     status_id = 1134113888650321921
-    user = "mstuchli"
+    user = "synfo_eth"
     user_id = 245064328
 
 [[tweets]]
@@ -22146,12 +22142,6 @@
   id = 933857153022156802
   text = "@yann_ck I’m not really a gear guy, but:\n\n(1) the Hauser is my favorite backpack ever so far; \n(2) can’t recommend stuffable Uniqlo down jacket enough — warm, weatherproof, and well-priced; and\n(3) simple freezer thickness ziplock bag for toiletries — light, robust, and disposable."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 933307601101705217
     user = "bonjouryannick"
@@ -23723,7 +23713,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2649
+  favorite_count = 2646
   id = 919646432721641472
   retweet_count = 1026
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -28266,6 +28256,12 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
@@ -32609,12 +32605,6 @@
   id = 799664247345029121
   text = "@yann_ck I found a nice trick recently for do or die re-training:\n\ninoremap <esc> NO ESCAPE FOR YOU"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 799660183844753408
     user = "bonjouryannick"
@@ -35456,6 +35446,12 @@
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 717315520446472192
     user = "bonjouryannick"
@@ -37354,6 +37350,10 @@
       display_url = "brandur.org/alerting"
       expanded_url = "https://brandur.org/alerting"
       url = "https://t.co/ROoAvMyBP9"
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "brandur"
@@ -39891,10 +39891,6 @@
     [[tweets.entities.user_mentions]]
       user = "MCansky"
       user_id = 1129781464705511424
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
