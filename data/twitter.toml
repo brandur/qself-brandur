@@ -22152,12 +22152,6 @@
   id = 933857153022156802
   text = "@yann_ck I’m not really a gear guy, but:\n\n(1) the Hauser is my favorite backpack ever so far; \n(2) can’t recommend stuffable Uniqlo down jacket enough — warm, weatherproof, and well-priced; and\n(3) simple freezer thickness ziplock bag for toiletries — light, robust, and disposable."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 933307601101705217
     user = "bonjouryannick"
