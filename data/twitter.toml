@@ -35439,10 +35439,6 @@
       url = "https://t.co/YS0VJwNTVE"
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
-    [[tweets.entities.user_mentions]]
       user = "brandur"
       user_id = 22980330
 
@@ -39021,10 +39017,6 @@
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 606385994061877248
