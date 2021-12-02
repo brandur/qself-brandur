@@ -6905,12 +6905,6 @@
   id = 1208060172586770438
   text = "@yann_ck Thanks! Definitely do it. :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 1208059078934695937
     user = "bonjouryannick"
@@ -38911,10 +38905,6 @@
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
       user_id = 7134522
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
