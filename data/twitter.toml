@@ -8890,16 +8890,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "mstuchli"
-      user_id = 245064328
-
-    [[tweets.entities.user_mentions]]
       user = "griff__00"
       user_id = 3364921872
 
   [tweets.reply]
     status_id = 1134113888650321921
-    user = "mstuchli"
+    user = "synfo_eth"
     user_id = 245064328
 
 [[tweets]]
