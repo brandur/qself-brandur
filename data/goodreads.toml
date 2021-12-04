@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 25682407
+  isbn = "0062394037"
+  isbn13 = "9780062394033"
+  num_pages = 352
+  published_year = 2015
+  rating = 4
+  read_at = 2021-11-15T00:00:00-08:00
+  review = "Very much of the Japan travel food genre which is its own trope nowadays, but solid writing and well built."
+  review_id = 4371222449
+  title = "Rice, Noodle, Fish: Deep Travels Through Japan's Food Culture"
+
+  [[readings.authors]]
+    id = 992435
+    name = "Matt Goulding"
+
+[[readings]]
   id = 37537853
   isbn = ""
   isbn13 = "9780525562733"
