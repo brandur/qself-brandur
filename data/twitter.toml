@@ -38984,10 +38984,6 @@
       user = "franckverrot"
       user_id = 48102727
 
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 606385994061877248
     user = "franckverrot"
@@ -39853,6 +39849,10 @@
     [[tweets.entities.user_mentions]]
       user = "MCansky"
       user_id = 1129781464705511424
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
