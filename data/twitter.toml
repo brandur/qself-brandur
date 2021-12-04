@@ -7378,7 +7378,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2157
+  favorite_count = 2161
   id = 1182066723337293828
   retweet_count = 779
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -8350,9 +8350,15 @@
   id = 1159862401803493379
   text = "@mstuchli Thank you! Just pushed a fix."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "mstuchli"
+      user_id = 245064328
+
   [tweets.reply]
     status_id = 1159236912378515456
-    user = "synfo_eth"
+    user = "mstuchli"
     user_id = 245064328
 
 [[tweets]]
@@ -10287,7 +10293,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 885
+  favorite_count = 882
   id = 1108525994405564417
   retweet_count = 88
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
@@ -22711,6 +22717,12 @@
   id = 929333374170284032
   text = "@yann_ck Going out for dinner/drinks, and occasional expensive hardware purchases like the Leica Q and iPhone X.\n\nOh, and then there's the worst one by far: living in San Francisco ;)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 929252463735078912
     user = "bonjouryannick"
@@ -23695,7 +23707,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2646
+  favorite_count = 2649
   id = 919646432721641472
   retweet_count = 1026
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -28238,12 +28250,6 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
@@ -32587,6 +32593,12 @@
   id = 799664247345029121
   text = "@yann_ck I found a nice trick recently for do or die re-training:\n\ninoremap <esc> NO ESCAPE FOR YOU"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 799660183844753408
     user = "bonjouryannick"
@@ -35405,10 +35417,6 @@
       url = "https://t.co/YS0VJwNTVE"
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
-    [[tweets.entities.user_mentions]]
       user = "brandur"
       user_id = 22980330
 
@@ -35421,12 +35429,6 @@
   created_at = 2016-04-07T18:58:44Z
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 717315520446472192
@@ -37328,10 +37330,6 @@
       url = "https://t.co/ROoAvMyBP9"
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
-    [[tweets.entities.user_mentions]]
       user = "brandur"
       user_id = 22980330
 
@@ -38879,10 +38877,6 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
-
-    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -38917,10 +38911,6 @@
   text = "@yann_ck @franckverrot Hah, thanks :) Don’t worry about it too much though. My next European trip will definitely just be ABSINTHE QUEST."
 
   [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
@@ -39855,6 +39845,10 @@
     [[tweets.entities.user_mentions]]
       user = "MCansky"
       user_id = 1129781464705511424
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
