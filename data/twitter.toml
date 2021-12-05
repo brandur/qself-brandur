@@ -1,5 +1,86 @@
 
 [[tweets]]
+  created_at = 2021-12-05T17:07:10Z
+  id = 1467541064902873093
+  text = "https://t.co/XR9L5ubYFm"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1467541010364329988
+      type = "video"
+      url = "https://pbs.twimg.com/ext_tw_video_thumb/1467541010364329988/pu/img/Ark77nMoyQAwTdNT.jpg"
+
+  [tweets.reply]
+    status_id = 1467540899454275584
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2021-12-05T17:06:30Z
+  id = 1467540899454275584
+  text = "https://t.co/dQCIybieUK"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1467540772874428417
+      type = "video"
+      url = "https://pbs.twimg.com/ext_tw_video_thumb/1467540772874428417/pu/img/X6XucUKx_UzMqypd.jpg"
+
+  [tweets.reply]
+    status_id = 1467540618314338308
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2021-12-05T17:05:23Z
+  favorite_count = 8
+  id = 1467540618314338308
+  text = "lol I know just how much everyone loves hearing about other peoples' vacations, but ... mandatory dolphin videos. Shot just off the coast in Huatulco National Park while returning from diving for the day. https://t.co/13mPVo2AXs"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1467540556662259713
+      type = "video"
+      url = "https://pbs.twimg.com/ext_tw_video_thumb/1467540556662259713/pu/img/QDuDLUgXUw7t8faw.jpg"
+
+[[tweets]]
+  created_at = 2021-12-05T16:50:17Z
+  id = 1467536816442019845
+  text = "@e_goodwell @dwlz Yep. I used IntelliJ quite a lot recently, and even on a top spec'ed computer with most compilation offloaded remotely, it's eating huge swathes of CPU and memory and still _chugging_. As in, your cursor is often not responsive.\n\nVery powerful, but monstrously resource intensive."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "e_goodwell"
+      user_id = 286501685
+
+    [[tweets.entities.user_mentions]]
+      user = "dwlz"
+      user_id = 17824785
+
+  [tweets.reply]
+    status_id = 1467522513366405125
+    user = "e_goodwell"
+    user_id = 286501685
+
+[[tweets]]
+  created_at = 2021-12-05T15:31:47Z
+  favorite_count = 24
+  id = 1467517064504090634
+  retweet_count = 2
+  text = "Great to see JetBrains doing a new IDE. Their current IDEs were great for their time, but now comically wasteful.\n\nBut they're the only IDE maker that understands the importance of refactoring tools, and those need a comeback. VSCode needs competition.\n\nhttps://t.co/GR3HWOkAAh"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "jetbrains.com/fleet/"
+      expanded_url = "https://www.jetbrains.com/fleet/"
+      url = "https://t.co/GR3HWOkAAh"
+
+[[tweets]]
   created_at = 2021-12-04T22:47:13Z
   favorite_count = 6
   id = 1467264256572010496
