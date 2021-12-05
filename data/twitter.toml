@@ -1,5 +1,33 @@
 
 [[tweets]]
+  created_at = 2021-12-04T22:47:13Z
+  favorite_count = 3
+  id = 1467264256572010496
+  text = "Coffee, from berry on branch to roasted bean. The mountains of Oaxaca, MX, 3k feet above sea level. https://t.co/H1a5LfoPyI"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1467263705020878858
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FFzEkNmX0Aozz_R.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1467263737899925509
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FFzEmIFWQAUBAxF.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1467263758040981504
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FFzEnTHWYAAJq9Z.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1467263773295710215
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FFzEoL8XEAcbfGv.jpg"
+
+[[tweets]]
   created_at = 2021-12-04T18:52:35Z
   id = 1467205208224768003
   text = "@riseofmadao e.g.\n\nSELECT *\nFROM event\nWHERE cluster_id = @ cluster_id::uuid\n    AND CASE WHEN @ is_desc::boolean\n        THEN id < @ id\n        ELSE id > @ id\n    END\nORDER BY CASE\n    WHEN NOT @ is_desc::boolean THEN id\nEND ASC, CASE\n    WHEN @ is_desc::boolean THEN id\nEND DESC\nLIMIT @max;"
