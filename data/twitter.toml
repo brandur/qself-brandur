@@ -68,9 +68,9 @@
 
 [[tweets]]
   created_at = 2021-12-05T15:31:47Z
-  favorite_count = 36
+  favorite_count = 40
   id = 1467517064504090634
-  retweet_count = 2
+  retweet_count = 3
   text = "Great to see JetBrains doing a new IDE. Their current IDEs were great for their time, but now comically wasteful.\n\nBut they're the only IDE maker that understands the importance of refactoring tools, and those need a comeback. VSCode needs competition.\n\nhttps://t.co/GR3HWOkAAh"
 
   [tweets.entities]
@@ -19935,15 +19935,9 @@
   id = 956998210517590018
   text = "@mstuchli I think this is probably height dependent, but I always figured that escalator steps were *more* optimally sized for walking.\n\nSteps on normal stairs are very short small and as a result a lot of people take them two at a time, which takes effort and only works if you're tall."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "mstuchli"
-      user_id = 245064328
-
   [tweets.reply]
     status_id = 956993075078926336
-    user = "mstuchli"
+    user = "synfo_eth"
     user_id = 245064328
 
 [[tweets]]
