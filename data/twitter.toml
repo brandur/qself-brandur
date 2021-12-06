@@ -68,7 +68,7 @@
 
 [[tweets]]
   created_at = 2021-12-05T15:31:47Z
-  favorite_count = 33
+  favorite_count = 36
   id = 1467517064504090634
   retweet_count = 2
   text = "Great to see JetBrains doing a new IDE. Their current IDEs were great for their time, but now comically wasteful.\n\nBut they're the only IDE maker that understands the importance of refactoring tools, and those need a comeback. VSCode needs competition.\n\nhttps://t.co/GR3HWOkAAh"
@@ -7544,7 +7544,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2157
+  favorite_count = 2161
   id = 1182066723337293828
   retweet_count = 779
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -8516,9 +8516,15 @@
   id = 1159862401803493379
   text = "@mstuchli Thank you! Just pushed a fix."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "mstuchli"
+      user_id = 245064328
+
   [tweets.reply]
     status_id = 1159236912378515456
-    user = "synfo_eth"
+    user = "mstuchli"
     user_id = 245064328
 
 [[tweets]]
@@ -11044,10 +11050,6 @@
   text = "@yoshi_hirano Yes, I think that's quite reasonable.\n\n@ota42y, can you send me the email address that you use on Rubygems? You can DM it to me privately if you like."
 
   [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yoshi_hirano"
-      user_id = 1467565719302770691
 
     [[tweets.entities.user_mentions]]
       user = "ota42y"
@@ -22881,6 +22883,12 @@
   id = 929333374170284032
   text = "@yann_ck Going out for dinner/drinks, and occasional expensive hardware purchases like the Leica Q and iPhone X.\n\nOh, and then there's the worst one by far: living in San Francisco ;)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1454362431183011843
+
   [tweets.reply]
     status_id = 929252463735078912
     user = "bonjouryannick"
@@ -23865,7 +23873,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2646
+  favorite_count = 2649
   id = 919646432721641472
   retweet_count = 1026
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -28407,12 +28415,6 @@
   favorite_count = 1
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
   [tweets.reply]
     status_id = 862592822251270146
@@ -35573,10 +35575,6 @@
       display_url = "brandur.org/go"
       expanded_url = "https://brandur.org/go"
       url = "https://t.co/YS0VJwNTVE"
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1454362431183011843
 
     [[tweets.entities.user_mentions]]
       user = "brandur"
