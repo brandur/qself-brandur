@@ -1,5 +1,17 @@
 
 [[tweets]]
+  created_at = 2021-12-09T00:12:02Z
+  id = 1468735151832059907
+  text = "Small business is nice and all, but do you know how inconvenient it's been to find free parking lately?!\n\nErr, *ahem*, I mean we have to be thoughtful about safety and accessibility. That parklet over there casts a shadow visible from a park down the block! This shalt not stand. https://t.co/U2z9ixjfO9"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/hknightsf/stat…"
+      expanded_url = "https://twitter.com/hknightsf/status/1468038438351884288"
+      url = "https://t.co/U2z9ixjfO9"
+
+[[tweets]]
   created_at = 2021-12-06T17:57:53Z
   favorite_count = 32
   id = 1467916216018903044
