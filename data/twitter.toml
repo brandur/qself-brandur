@@ -11106,6 +11106,10 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "yoshi_hirano"
+      user_id = 1467565719302770691
+
+    [[tweets.entities.user_mentions]]
       user = "ota42y"
       user_id = 95919834
 
