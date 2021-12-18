@@ -1,5 +1,50 @@
 
 [[tweets]]
+  created_at = 2021-12-18T17:18:35Z
+  id = 1472254982413901826
+  text = "Some favourite unlocks from the last couple weeks. https://t.co/hra4ACiv43"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1472254959898947586
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FG6AFe-VcAIqiph.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1472254959907336196
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FG6AFfAVcAQassk.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1472254959898955780
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FG6AFe-VkAQhLy-.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1472254959903145985
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FG6AFe_VgAE2nIC.jpg"
+
+  [tweets.reply]
+    status_id = 1472254598945509377
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2021-12-18T17:17:04Z
+  favorite_count = 1
+  id = 1472254598945509377
+  text = "30 / 60. Finally — half. way.\n\n200 to 300 reviews a day for 400+ consecutive days now. 983 kanji down. ~1 year left. It's a miracle anyone ever has learned this writing system, but inching closer. https://t.co/MPS8Kt3EH9"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1472254510831521793
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FG5_rWEUUAElti8.jpg"
+
+[[tweets]]
   created_at = 2021-12-18T03:39:47Z
   favorite_count = 1
   id = 1472048922289868801
