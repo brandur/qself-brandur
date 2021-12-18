@@ -1,5 +1,26 @@
 
 [[tweets]]
+  created_at = 2021-12-17T23:33:29Z
+  favorite_count = 1
+  id = 1471986939578368000
+  text = "@gudmundur @vercel Grats! That's a good fit if I've ever seen one."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "gudmundur"
+      user_id = 13009822
+
+    [[tweets.entities.user_mentions]]
+      user = "vercel"
+      user_id = 4686835494
+
+  [tweets.reply]
+    status_id = 1471876856404230147
+    user = "gudmundur"
+    user_id = 13009822
+
+[[tweets]]
   created_at = 2021-12-15T21:34:39Z
   favorite_count = 21
   id = 1471232258883284998
