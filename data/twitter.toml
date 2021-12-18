@@ -1,5 +1,39 @@
 
 [[tweets]]
+  created_at = 2021-12-18T20:35:06Z
+  favorite_count = 1
+  id = 1472304434973609985
+  text = "@spakhm I think around 45 minutes nowadays, broken up into smaller chunks throughout the day. Much less in the beginning though as you're still building up to a consistent throughput that spreads from old to new reviews."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "spakhm"
+      user_id = 29089797
+
+  [tweets.reply]
+    status_id = 1472302511956520964
+    user = "spakhm"
+    user_id = 29089797
+
+[[tweets]]
+  created_at = 2021-12-18T20:03:06Z
+  favorite_count = 2
+  id = 1472296382018908160
+  text = "@spakhm My grammar's still awful so I can't read anything well, but as I'm going through common articles or Japanese tweets, I get most (I think?) of the vocab now.\n\nTBH the time investment's not worth it on pure ROI, but I've wanted to read Japanese since I was 17, so no regrets."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "spakhm"
+      user_id = 29089797
+
+  [tweets.reply]
+    status_id = 1472278570386944001
+    user = "spakhm"
+    user_id = 29089797
+
+[[tweets]]
   created_at = 2021-12-18T17:18:35Z
   id = 1472254982413901826
   text = "Some favourite unlocks from the last couple weeks. https://t.co/hra4ACiv43"
@@ -33,7 +67,7 @@
 
 [[tweets]]
   created_at = 2021-12-18T17:17:04Z
-  favorite_count = 1
+  favorite_count = 7
   id = 1472254598945509377
   text = "30 / 60. Finally — half. way.\n\n200 to 300 reviews a day for 400+ consecutive days now. 983 kanji down. ~1 year left. It's a miracle anyone ever has learned this writing system, but inching closer. https://t.co/MPS8Kt3EH9"
 
