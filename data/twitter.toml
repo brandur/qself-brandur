@@ -30722,15 +30722,9 @@
   id = 834792128840478720
   text = "@uhoh_itsmaciek Thanks Maciek!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "uhoh_itsmaciek"
-      user_id = 191937525
-
   [tweets.reply]
     status_id = 834786263500664832
-    user = "uhoh_itsmaciek"
+    user = "a_maciek_moment"
     user_id = 191937525
 
 [[tweets]]
@@ -32149,10 +32143,6 @@
     [[tweets.entities.user_mentions]]
       user = "atmos"
       user_id = 1438261
-
-    [[tweets.entities.user_mentions]]
-      user = "uhoh_itsmaciek"
-      user_id = 191937525
 
   [tweets.reply]
     status_id = 813126651726811136
