@@ -34127,16 +34127,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "uhoh_itsmaciek"
-      user_id = 191937525
-
-    [[tweets.entities.user_mentions]]
       user = "stolt45"
       user_id = 1348826115519889408
 
   [tweets.reply]
     status_id = 755823297103671296
-    user = "uhoh_itsmaciek"
+    user = "a_maciek_moment"
     user_id = 191937525
 
 [[tweets]]
