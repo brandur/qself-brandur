@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2021-12-20T19:22:50Z
+  favorite_count = 2
+  id = 1473011026572414980
+  text = "I'm still walking the line as to whether Slack is overall net good or bad, but one thing I'm sure of is that using it in moderation is better.\n\nOne technique we're trying: experimenting with disciplined threading to overcome total Slack-mania —\n\nhttps://t.co/QayPCBYD5E"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/slac…"
+      expanded_url = "https://brandur.org/fragments/slack-mania"
+      url = "https://t.co/QayPCBYD5E"
+
+[[tweets]]
   created_at = 2021-12-20T17:18:33Z
   id = 1472979747428655105
   text = "Occasionally evaluate moving my Large Old Media up to cloud storage. With the introduction of services like B2 and tech like x265/HEVC it seems like it should be, but still nope.\n\nThis post is from 2017, but prices are holding steady around $0.02/GB.\n\nhttps://t.co/ylFtCpYWvO"
@@ -7750,7 +7763,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2161
+  favorite_count = 2157
   id = 1182066723337293828
   retweet_count = 778
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
