@@ -1,5 +1,17 @@
 
 [[tweets]]
+  created_at = 2021-12-20T17:18:33Z
+  id = 1472979747428655105
+  text = "Occasionally evaluate moving my Large Old Media up to cloud storage. With the introduction of services like B2 and tech like x265/HEVC it seems like it should be, but still nope.\n\nThis post is from 2017, but prices are holding steady around $0.02/GB.\n\nhttps://t.co/ylFtCpYWvO"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "backblaze.com/blog/hard-driv…"
+      expanded_url = "https://www.backblaze.com/blog/hard-drive-cost-per-gigabyte/"
+      url = "https://t.co/ylFtCpYWvO"
+
+[[tweets]]
   created_at = 2021-12-18T20:35:06Z
   favorite_count = 1
   id = 1472304434973609985
