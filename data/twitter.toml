@@ -47799,12 +47799,6 @@
   id = 393815328636956672
   text = "@Eiskis Awesome stuff man!!\n\n“Available” is misspelled under the “Rows” section. I was going to send a pull, but Bitbucket?! ;)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "eiskis"
-      user_id = 1472431819723141122
-
   [tweets.reply]
     status_id = 393812071714156544
     user = "jerryjappinen"
