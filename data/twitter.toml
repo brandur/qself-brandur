@@ -26461,10 +26461,6 @@
       user = "mschoening"
       user_id = 14239565
 
-    [[tweets.entities.user_mentions]]
-      user = "uhoh_itsmaciek"
-      user_id = 191937525
-
   [tweets.reply]
     status_id = 900415956316438529
     user = "mschoening"
