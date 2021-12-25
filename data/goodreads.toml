@@ -1,5 +1,37 @@
 
 [[readings]]
+  id = 57110082
+  isbn = ""
+  isbn13 = ""
+  num_pages = 218
+  published_year = 2021
+  rating = 0
+  read_at = 2021-12-25T12:21:13-08:00
+  review = "Nice little travelogue of a journey across the Pacific. Potential readers may want to keep in mind that it's quite a raw journal feed collated into book format, but fairly succinct and enjoyable."
+  review_id = 4409455671
+  title = "Busy Doing Nothing"
+
+  [[readings.authors]]
+    id = 19989819
+    name = "Rekka Bellum"
+
+[[readings]]
+  id = 56645981
+  isbn = "0063093626"
+  isbn13 = "9780063093621"
+  num_pages = 304
+  published_year = 2021
+  rating = 4
+  read_at = 2021-12-20T00:00:00-08:00
+  review = "Well-researched and written from a very centrist/non-ideological perspective. Once all laid out, Schellenberger's arguments for what cities like San Francisco are doing wrong when it comes to homelessness and drug use are very convincing."
+  review_id = 4409451796
+  title = "San Fransicko: Why Progressives Ruin Cities"
+
+  [[readings.authors]]
+    id = 77403
+    name = "Michael Shellenberger"
+
+[[readings]]
   id = 25682407
   isbn = "0062394037"
   isbn13 = "9780062394033"
