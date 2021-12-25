@@ -23170,9 +23170,9 @@
 
 [[tweets]]
   created_at = 2017-11-10T00:43:24Z
-  favorite_count = 99
+  favorite_count = 98
   id = 928785123121573888
-  retweet_count = 31
+  retweet_count = 28
   text = "RT @romainhuet: Did you know @stripe offers OpenAPI 2.0 & 3.0 specs? 📚📃✍️ https://t.co/8RYWm1DRqP\n\nYou can now benefit from the whole OpenAPI ecosystem, and use tools like Paw by @luckymarmot or @postmanclient to explore our API and make your first requests without writing code! 🚀 https://t.co/lpwMuRCgWX"
 
   [tweets.entities]
