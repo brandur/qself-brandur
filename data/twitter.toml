@@ -35173,15 +35173,9 @@
   retweet_count = 2
   text = "@uhoh_itsmaciek Right on! Keeping your core data in an RDMS and exporting the fringes to NoSQL can get you all the scale you need."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "uhoh_itsmaciek"
-      user_id = 191937525
-
   [tweets.reply]
     status_id = 723968870701105152
-    user = "uhoh_itsmaciek"
+    user = "a_maciek_moment"
     user_id = 191937525
 
 [[tweets]]
