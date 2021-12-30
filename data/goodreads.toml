@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 8855321
+  isbn = "1841499889"
+  isbn13 = "9781841499888"
+  num_pages = 561
+  published_year = 2011
+  rating = 4
+  read_at = 2021-12-30T10:42:26-08:00
+  review = "Well-imagined sci-fi. In retrospect, made me realize how good of a job of realizing the book the TV creators have done (or at least for season 1/book 1) compared to many interpretations of book series."
+  review_id = 4423913796
+  title = "Leviathan Wakes (The Expanse, #1)"
+
+  [[readings.authors]]
+    id = 4192148
+    name = "James S.A. Corey"
+
+[[readings]]
   id = 54823892
   isbn = "1787302601"
   isbn13 = "9781787302600"
