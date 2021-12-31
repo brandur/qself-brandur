@@ -16,22 +16,6 @@
     name = "James S.A. Corey"
 
 [[readings]]
-  id = 54823892
-  isbn = "1787302601"
-  isbn13 = "9781787302600"
-  num_pages = 250
-  published_year = 2021
-  rating = 3
-  read_at = 0001-01-01T00:00:00Z
-  review = ""
-  review_id = 4417444448
-  title = "First Person Singular: Stories"
-
-  [[readings.authors]]
-    id = 3354
-    name = "Haruki Murakami"
-
-[[readings]]
   id = 54614599
   isbn = "0593318072"
   isbn13 = "9780593318072"
