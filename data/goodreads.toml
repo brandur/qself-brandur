@@ -32,6 +32,22 @@
     name = "Haruki Murakami"
 
 [[readings]]
+  id = 254799
+  isbn = "0743235274"
+  isbn13 = "9780743235273"
+  num_pages = 247
+  published_year = 2006
+  rating = 2
+  read_at = 2022-01-03T23:36:23-08:00
+  review = "Large collection of anecdotes about creativity, but the overall message is abstract and so non-specific as to be mostly non-actionable. The best couple entries were at the beginning, on forming habits and building a conducive working environment."
+  review_id = 4414860522
+  title = "The Creative Habit: Learn It and Use It for Life"
+
+  [[readings.authors]]
+    id = 148884
+    name = "Twyla Tharp"
+
+[[readings]]
   id = 57110082
   isbn = ""
   isbn13 = ""
