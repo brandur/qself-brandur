@@ -2439,12 +2439,16 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "yaw__asare"
+      user_id = 949741141548814336
+
+    [[tweets.entities.user_mentions]]
       user = "crunchydata"
       user_id = 1657873424
 
   [tweets.reply]
     status_id = 1381313790550159361
-    user = "gwuah_"
+    user = "yaw__asare"
     user_id = 949741141548814336
 
 [[tweets]]
