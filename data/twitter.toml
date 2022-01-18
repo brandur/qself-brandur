@@ -1,5 +1,23 @@
 
 [[tweets]]
+  created_at = 2022-01-18T06:31:10Z
+  favorite_count = 3
+  id = 1483326078194106373
+  text = "Apple spaceship just barely visible in the distance. https://t.co/WBLlv5mPRC"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1483326064487059458
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FJXVMlfUUAImCNx.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1483326064491257856
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FJXVMlgUYAARZov.jpg"
+
+[[tweets]]
   created_at = 2022-01-13T21:02:40Z
   id = 1481733457847873539
   text = "It's a total indictment of modern society that _The Last Duel_ is a box office bomb while the latest Marvel / Star Wars rehash will consistently make a bajillion dollars.\n\nGreat movie though — a little long, but acting, costumes, sets all A+++."
