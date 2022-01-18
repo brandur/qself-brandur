@@ -1,5 +1,17 @@
 
 [[tweets]]
+  created_at = 2022-01-18T19:32:58Z
+  id = 1483522822626414596
+  text = "lol, don't walk to talk about how long it took me to diagnose a bug around overflowing <pre> elements because Flexbox containers come with a surprise `min-width` value.\n\nNo matter how long you work with it, CSS is the gift that keeps on giving.\n\nhttps://t.co/kEXLPaAlX8"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "weblog.west-wind.com/posts/2016/feb…"
+      expanded_url = "https://weblog.west-wind.com/posts/2016/feb/15/flexbox-containers-pre-tags-and-managing-overflow"
+      url = "https://t.co/kEXLPaAlX8"
+
+[[tweets]]
   created_at = 2022-01-18T06:31:10Z
   favorite_count = 6
   id = 1483326078194106373
