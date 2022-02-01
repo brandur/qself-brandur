@@ -1,5 +1,30 @@
 
 [[tweets]]
+  created_at = 2022-01-31T22:15:21Z
+  favorite_count = 8
+  id = 1488274733762113536
+  text = "(And the OpenAPI is also used to generate TypeScript bindings for our front end, which is one good reason why we have the intermediate format.)"
+
+  [tweets.reply]
+    status_id = 1488273375105404934
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2022-01-31T22:09:58Z
+  favorite_count = 37
+  id = 1488273375105404934
+  retweet_count = 1
+  text = "One of my proudest automations — docs/API structure read from Go code → OpenAPI → Hugo-friendly Markdown → HTML, all pushed automatically via GitHub Actions.\n\nAPI ref is complete, but docs are human-written so they don't read like cold machine output.\n\nhttps://t.co/vmK0Uho379"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/craigkerstiens…"
+      expanded_url = "https://twitter.com/craigkerstiens/status/1488233979652173826"
+      url = "https://t.co/vmK0Uho379"
+
+[[tweets]]
   created_at = 2022-01-18T19:32:58Z
   id = 1483522822626414596
   text = "lol, don't walk to talk about how long it took me to diagnose a bug around overflowing <pre> elements because Flexbox containers come with a surprise `min-width` value.\n\nNo matter how long you work with it, CSS is the gift that keeps on giving.\n\nhttps://t.co/kEXLPaAlX8"
