@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-02-03T05:10:02Z
+  favorite_count = 3
+  id = 1489103865865662467
+  text = "AirPods Max bought 2021/02/24. Sending them for one more warranty claim before the year horizon — claim no. 4.\n\nGreat looking headphones. Easily the shoddiest tech product I've ever owned. Like, black comedy level lol.\n\nPic of warranty replacements no. 3 for two separate pairs. https://t.co/O91M5Kj1L5"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1489103861285470208
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FKpcEn2VQAAu7WT.jpg"
+
+[[tweets]]
   created_at = 2022-02-02T01:33:12Z
   favorite_count = 66
   id = 1488686910453080065
@@ -7883,7 +7896,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2157
+  favorite_count = 2154
   id = 1182066723337293828
   retweet_count = 777
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -17047,7 +17060,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "safepress"
-      user_id = 1488531155133636621
+      user_id = 3384923242
 
     [[tweets.entities.user_mentions]]
       user = "rustlang"
@@ -17068,7 +17081,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "safepress"
-      user_id = 3384923242
+      user_id = 1488531155133636621
 
     [[tweets.entities.user_mentions]]
       user = "rustlang"
@@ -17076,7 +17089,7 @@
 
   [tweets.reply]
     status_id = 990149035179823104
-    user = "safepress"
+    user = "happyborg"
     user_id = 3384923242
 
 [[tweets]]
@@ -24188,7 +24201,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2646
+  favorite_count = 2643
   id = 919646432721641472
   retweet_count = 1026
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
