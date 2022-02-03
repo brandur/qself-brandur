@@ -36292,9 +36292,9 @@
 
 [[tweets]]
   created_at = 2016-02-01T19:54:46Z
-  favorite_count = 15
+  favorite_count = 13
   id = 694247538455515136
-  retweet_count = 10
+  retweet_count = 7
   text = "RT @obfuscurity: So many feels and fond memories of an amazing engineering culture recalled via @brandur’s take on Heroku Values. https://t.co/zCVJcjpD7c"
 
   [tweets.entities]
