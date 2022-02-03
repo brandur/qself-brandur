@@ -1,5 +1,51 @@
 
 [[tweets]]
+  created_at = 2022-02-03T15:08:09Z
+  id = 1489254386056384520
+  text = "@ctshryock @olivierlacan A strong tell is that Apple gives me no trouble during warranty requests — I think they're well aware that these things are very failure prone."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "ctshryock"
+      user_id = 795228
+
+    [[tweets.entities.user_mentions]]
+      user = "olivierlacan"
+      user_id = 17035875
+
+  [tweets.reply]
+    status_id = 1489254136402960387
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2022-02-03T15:07:09Z
+  favorite_count = 1
+  id = 1489254136402960387
+  text = "@ctshryock @olivierlacan I wrote a bit more a few months back: https://t.co/9hB9nh1G0G\n\ntl;dr Fine for a while, small connection issues at first, then big ones, then eventually they brick.\n\nI seem to have especially bad luck, but I'd bet money both of you run into this eventually."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/airp…"
+      expanded_url = "https://brandur.org/fragments/airpods-max"
+      url = "https://t.co/9hB9nh1G0G"
+
+    [[tweets.entities.user_mentions]]
+      user = "ctshryock"
+      user_id = 795228
+
+    [[tweets.entities.user_mentions]]
+      user = "olivierlacan"
+      user_id = 17035875
+
+  [tweets.reply]
+    status_id = 1489249266321309697
+    user = "ctshryock"
+    user_id = 795228
+
+[[tweets]]
   created_at = 2022-02-03T05:10:02Z
   favorite_count = 3
   id = 1489103865865662467
@@ -7896,7 +7942,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2153
+  favorite_count = 2157
   id = 1182066723337293828
   retweet_count = 777
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -17081,7 +17127,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "safepress"
-      user_id = 1488531155133636621
+      user_id = 3384923242
 
     [[tweets.entities.user_mentions]]
       user = "rustlang"
@@ -17089,7 +17135,7 @@
 
   [tweets.reply]
     status_id = 990149035179823104
-    user = "happyborg"
+    user = "safepress"
     user_id = 3384923242
 
 [[tweets]]
@@ -24201,7 +24247,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2643
+  favorite_count = 2646
   id = 919646432721641472
   retweet_count = 1026
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
