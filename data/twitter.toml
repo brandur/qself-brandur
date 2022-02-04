@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-02-03T19:55:08Z
-  favorite_count = 15
+  favorite_count = 18
   id = 1489326609869852672
   text = "I am totally YOLOing all JS I write now: for ... of / const / IntersectionObserver / => / async / clipboard API / Map — all 95%+ support.\n\nNo build pipeline. Direct debugging. Only way to live. What's a polyfill again?"
 
@@ -3412,9 +3412,9 @@
 
 [[tweets]]
   created_at = 2021-02-15T16:18:05Z
-  favorite_count = 7
+  favorite_count = 8
   id = 1361349070866972679
-  retweet_count = 3
+  retweet_count = 2
   text = "RT @jkspn: As @NotionHQ had a meltdown earlier today, I am reminded of this wonderful read by @brandur on local-first software\n\nThe convenience of online apps like Notion, @Figma, @Webflow, etc. can’t be overstated. But ultimately they depen on your connection.\n\nhttps://t.co/hZepSqdURB"
 
   [tweets.entities]
@@ -3438,7 +3438,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "figma"
-      user_id = 52708408
+      user_id = 3181020308
 
     [[tweets.entities.user_mentions]]
       user = "webflow"
