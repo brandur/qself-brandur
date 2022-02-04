@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2022-02-04T17:48:35Z
+  favorite_count = 3
+  id = 1489657150229991427
+  text = "One of the less predictable casualties of San Francisco's lockdown-infinite policies is ... bicycling?\n\nContrary to the popular anti-tech narrative, it turns out that young tech workers were the only class of SF society who were willing to try alternative eco-friendly transport."
+
+[[tweets]]
   created_at = 2022-02-03T19:55:08Z
   favorite_count = 18
   id = 1489326609869852672
@@ -17133,7 +17139,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "safepress"
-      user_id = 3384923242
+      user_id = 1488531155133636621
 
     [[tweets.entities.user_mentions]]
       user = "rustlang"
@@ -17141,7 +17147,7 @@
 
   [tweets.reply]
     status_id = 990149035179823104
-    user = "safepress"
+    user = "happyborg"
     user_id = 3384923242
 
 [[tweets]]
