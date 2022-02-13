@@ -10915,9 +10915,9 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 881
+  favorite_count = 878
   id = 1108525994405564417
-  retweet_count = 88
+  retweet_count = 87
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
 
 [[tweets]]
