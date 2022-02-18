@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-02-17T23:28:01Z
+  favorite_count = 6
+  id = 1494453612814037006
+  text = "Tiny development log from today: using a Sentry span sampling function to drop spans that no one will ever look at so that we can keep the rest.\n\nhttps://t.co/4ROLYqOv4H"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/sent…"
+      expanded_url = "https://brandur.org/fragments/sentry-span-filtering"
+      url = "https://t.co/4ROLYqOv4H"
+
+[[tweets]]
   created_at = 2022-02-17T02:12:03Z
   favorite_count = 1
   id = 1494132504097280002
@@ -51,7 +64,7 @@
 
 [[tweets]]
   created_at = 2022-02-16T19:06:07Z
-  favorite_count = 43
+  favorite_count = 46
   id = 1494025314342637568
   retweet_count = 5
   text = "I assumed these Sentry spans were self-satisfied technical wankery on my part, but they really helped fix a perf bug that would've been hard to find.\n\nSee the ~80 ms gap in this pic — I wasn't sure what it was, but knew it was happening between auth check and remote service call. https://t.co/i9FTkt0EdW"
@@ -8076,7 +8089,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2154
+  favorite_count = 2150
   id = 1182066723337293828
   retweet_count = 776
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -24381,7 +24394,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2644
+  favorite_count = 2641
   id = 919646432721641472
   retweet_count = 1025
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
