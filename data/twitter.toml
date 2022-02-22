@@ -1,5 +1,25 @@
 
 [[tweets]]
+  created_at = 2022-02-22T02:43:30Z
+  id = 1495952358999982080
+  text = "@bjeanes @dgouldin Yep, ffmpeg may be a bit worse because video is harder than graphics, but ImageMagick is on the same level — I think the first time I used it in a project was in the early 2000s, have been using it semi-regularly ever since, and still have to look up every single invocation."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "bjeanes"
+      user_id = 13141092
+
+    [[tweets.entities.user_mentions]]
+      user = "dgouldin"
+      user_id = 15057731
+
+  [tweets.reply]
+    status_id = 1495265733667741696
+    user = "bjeanes"
+    user_id = 13141092
+
+[[tweets]]
   created_at = 2022-02-20T02:09:53Z
   favorite_count = 14
   id = 1495219123009179649
