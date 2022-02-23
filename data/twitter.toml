@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-02-23T02:54:45Z
+  favorite_count = 4
+  id = 1496317580126171137
+  text = "(Mildly interesting —) Did a benchmark of ECDSA (EC \n= elliptic curve) as we were migrating today from RSA.\n\n(On my MBP at least) RSA is slower, but mostly on signing. Verification is about the same speed. Signing is slower by ~100x though, so it was worth the effort to move. https://t.co/U3bduyI9fv"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1496317357127397376
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FMP8tV7UcAAB2fQ.jpg"
+
+[[tweets]]
   created_at = 2022-02-22T02:43:30Z
   id = 1495952358999982080
   text = "@bjeanes @dgouldin Yep, ffmpeg may be a bit worse because video is harder than graphics, but ImageMagick is on the same level — I think the first time I used it in a project was in the early 2000s, have been using it semi-regularly ever since, and still have to look up every single invocation."
