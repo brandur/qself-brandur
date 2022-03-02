@@ -32382,15 +32382,9 @@
   id = 814537091929362432
   text = "@andrewstwrt It’s crazy. Perf flatlined in the 90s. Gains from new hardware and faster chips are canceled by heavier software abstractions."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "andrewstwrt"
-      user_id = 14369199
-
   [tweets.reply]
     status_id = 814525717056659457
-    user = "andrewstwrt"
+    user = "anstwrt"
     user_id = 14369199
 
 [[tweets]]
