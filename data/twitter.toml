@@ -8181,9 +8181,9 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2153
+  favorite_count = 2150
   id = 1182066723337293828
-  retweet_count = 776
+  retweet_count = 775
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
 
   [tweets.entities]
@@ -42689,15 +42689,9 @@
   id = 506609132019785728
   text = "@andrewstwrt Doh. I walked into both the aquarium + EMP, but didn't have enough time to commit to exploring them. It was a whirlwind visit."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "andrewstwrt"
-      user_id = 14369199
-
   [tweets.reply]
     status_id = 506608470599434240
-    user = "andrewstwrt"
+    user = "anstwrt"
     user_id = 14369199
 
 [[tweets]]
@@ -43668,15 +43662,9 @@
   id = 477285043736293377
   text = "@___winston Wow, another huge improvement. I love the forward momentum on this project."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "___winston"
-      user_id = 28235474
-
   [tweets.reply]
     status_id = 477144248496553984
-    user = "___winston"
+    user = "winnypi"
     user_id = 28235474
 
 [[tweets]]
