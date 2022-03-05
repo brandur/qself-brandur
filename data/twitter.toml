@@ -21301,9 +21301,9 @@
 
 [[tweets]]
   created_at = 2018-01-15T23:33:18Z
-  favorite_count = 91
+  favorite_count = 88
   id = 953047471332016128
-  retweet_count = 19
+  retweet_count = 20
   text = "Great to see Google writing in support of strongly consistent databases. Building on transaction-less databases (Mongo, etc.) is a great way to spend eternity desperately shoring up brittle code against a trillion edge cases caused by concurrent access.\n\nhttps://t.co/EJkeG8bIh9"
 
   [tweets.entities]
