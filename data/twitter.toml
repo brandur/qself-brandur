@@ -41634,13 +41634,9 @@
       expanded_url = "http://robots.thoughtbot.com/seamlessly-navigate-vim-and-tmux-splits"
       url = "http://t.co/aPL6lptG67"
 
-    [[tweets.entities.user_mentions]]
-      user = "andrewstwrt"
-      user_id = 14369199
-
   [tweets.reply]
     status_id = 528934539671121920
-    user = "andrewstwrt"
+    user = "anstwrt"
     user_id = 14369199
 
 [[tweets]]
