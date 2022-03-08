@@ -8181,7 +8181,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2149
+  favorite_count = 2153
   id = 1182066723337293828
   retweet_count = 775
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -35996,6 +35996,12 @@
   id = 719566040531730433
   text = "@yann_ck Cool! Still feels a little roundabout to do all this extra work, but maybe it all pays off at scale …"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
   [tweets.reply]
     status_id = 719414035477827584
     user = "bonjouryannick"
@@ -41634,9 +41640,13 @@
       expanded_url = "http://robots.thoughtbot.com/seamlessly-navigate-vim-and-tmux-splits"
       url = "http://t.co/aPL6lptG67"
 
+    [[tweets.entities.user_mentions]]
+      user = "andrewstwrt"
+      user_id = 14369199
+
   [tweets.reply]
     status_id = 528934539671121920
-    user = "anstwrt"
+    user = "andrewstwrt"
     user_id = 14369199
 
 [[tweets]]
