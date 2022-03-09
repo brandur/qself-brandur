@@ -7687,6 +7687,10 @@
       url = "https://t.co/MNKHxgLahS"
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
+    [[tweets.entities.user_mentions]]
       user = "Benoit_Tgt"
       user_id = 129343129
 
@@ -38077,6 +38081,10 @@
       display_url = "brandur.org/alerting"
       expanded_url = "https://brandur.org/alerting"
       url = "https://t.co/ROoAvMyBP9"
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "brandur"
