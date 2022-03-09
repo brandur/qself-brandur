@@ -39737,6 +39737,10 @@
       user = "franckverrot"
       user_id = 48102727
 
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
   [tweets.reply]
     status_id = 606385994061877248
     user = "franckverrot"
