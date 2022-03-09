@@ -29039,6 +29039,12 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
@@ -39638,10 +39644,6 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1500986812042555400
-
-    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -39676,6 +39678,10 @@
   text = "@yann_ck @franckverrot Hah, thanks :) Don’t worry about it too much though. My next European trip will definitely just be ABSINTHE QUEST."
 
   [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
@@ -39744,6 +39750,10 @@
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
   [tweets.reply]
     status_id = 606385994061877248
@@ -40602,6 +40612,10 @@
     [[tweets.entities.user_mentions]]
       user = "MCansky"
       user_id = 1129781464705511424
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
