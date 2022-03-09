@@ -699,16 +699,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "e_goodwell"
-      user_id = 286501685
-
-    [[tweets.entities.user_mentions]]
       user = "dwlz"
       user_id = 17824785
 
   [tweets.reply]
     status_id = 1467522513366405125
-    user = "e_goodwell"
+    user = "0xEGG_"
     user_id = 286501685
 
 [[tweets]]
