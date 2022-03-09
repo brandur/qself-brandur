@@ -39638,6 +39638,10 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
+    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -39672,10 +39676,6 @@
   text = "@yann_ck @franckverrot Hah, thanks :) Don’t worry about it too much though. My next European trip will definitely just be ABSINTHE QUEST."
 
   [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
@@ -39744,10 +39744,6 @@
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1500986812042555400
 
   [tweets.reply]
     status_id = 606385994061877248
@@ -40606,10 +40602,6 @@
     [[tweets.entities.user_mentions]]
       user = "MCansky"
       user_id = 1129781464705511424
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
@@ -41682,13 +41674,9 @@
       expanded_url = "http://robots.thoughtbot.com/seamlessly-navigate-vim-and-tmux-splits"
       url = "http://t.co/aPL6lptG67"
 
-    [[tweets.entities.user_mentions]]
-      user = "andrewstwrt"
-      user_id = 14369199
-
   [tweets.reply]
     status_id = 528934539671121920
-    user = "andrewstwrt"
+    user = "anstwrt"
     user_id = 14369199
 
 [[tweets]]
