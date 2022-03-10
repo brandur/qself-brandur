@@ -7812,6 +7812,12 @@
   id = 1208060172586770438
   text = "@yann_ck Thanks! Definitely do it. :)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
   [tweets.reply]
     status_id = 1208059078934695937
     user = "bonjouryannick"
@@ -8285,7 +8291,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2149
+  favorite_count = 2153
   id = 1182066723337293828
   retweet_count = 775
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -23029,6 +23035,12 @@
   id = 933857153022156802
   text = "@yann_ck I’m not really a gear guy, but:\n\n(1) the Hauser is my favorite backpack ever so far; \n(2) can’t recommend stuffable Uniqlo down jacket enough — warm, weatherproof, and well-priced; and\n(3) simple freezer thickness ziplock bag for toiletries — light, robust, and disposable."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
   [tweets.reply]
     status_id = 933307601101705217
     user = "bonjouryannick"
@@ -29121,6 +29133,12 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
@@ -33437,6 +33455,12 @@
   favorite_count = 1
   id = 799664247345029121
   text = "@yann_ck I found a nice trick recently for do or die re-training:\n\ninoremap <esc> NO ESCAPE FOR YOU"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
   [tweets.reply]
     status_id = 799660183844753408
@@ -39724,10 +39748,6 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1500986812042555400
-
-    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -39748,6 +39768,10 @@
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
+    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -39762,6 +39786,10 @@
   text = "@yann_ck @franckverrot Hah, thanks :) Don’t worry about it too much though. My next European trip will definitely just be ABSINTHE QUEST."
 
   [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
@@ -39830,6 +39858,10 @@
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
   [tweets.reply]
     status_id = 606385994061877248
@@ -40688,6 +40720,10 @@
     [[tweets.entities.user_mentions]]
       user = "MCansky"
       user_id = 1129781464705511424
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
