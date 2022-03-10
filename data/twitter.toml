@@ -1,5 +1,52 @@
 
 [[tweets]]
+  created_at = 2022-03-09T22:47:39Z
+  favorite_count = 1
+  id = 1501691211626598402
+  text = "@Jonathan_Blow @micsolana Yours along with hundreds, and probably thousands, of others. Even Benioff, who often loudly claims to be a champion of SF tax revenue, is downsizing by at least 600k sqft. Nothing resembling 2019 coming back for a long time."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Jonathan_Blow"
+      user_id = 107336879
+
+    [[tweets.entities.user_mentions]]
+      user = "micsolana"
+      user_id = 18989355
+
+  [tweets.reply]
+    status_id = 1501688477250998282
+    user = "Jonathan_Blow"
+    user_id = 107336879
+
+[[tweets]]
+  created_at = 2022-03-09T22:26:51Z
+  favorite_count = 2
+  id = 1501685976472555520
+  text = "@Jonathan_Blow @micsolana Their current tax plan assumes 15% of workers to stay remote — meaning that 85% of workers from 2019 will be back to office by 2023 (https://t.co/UoAtzVVKZ9).\n\nGlad they're finally making a few concessions towards normalcy, but they're in for a rude surprise."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "sfchronicle.com/sf/article/S-F…"
+      expanded_url = "https://www.sfchronicle.com/sf/article/S-F-expects-15-of-office-workers-to-stay-remote-16771414.php"
+      url = "https://t.co/UoAtzVVKZ9"
+
+    [[tweets.entities.user_mentions]]
+      user = "Jonathan_Blow"
+      user_id = 107336879
+
+    [[tweets.entities.user_mentions]]
+      user = "micsolana"
+      user_id = 18989355
+
+  [tweets.reply]
+    status_id = 1501675176202752001
+    user = "Jonathan_Blow"
+    user_id = 107336879
+
+[[tweets]]
   created_at = 2022-03-09T19:19:21Z
   favorite_count = 1
   id = 1501638790560903171
@@ -29086,12 +29133,6 @@
   id = 862732964345520132
   text = "@yann_ck Thank you for reading Yannick! Glad that you enjoyed it :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1500986812042555400
-
   [tweets.reply]
     status_id = 862592822251270146
     user = "bonjouryannick"
@@ -36221,6 +36262,10 @@
       display_url = "brandur.org/go"
       expanded_url = "https://brandur.org/go"
       url = "https://t.co/YS0VJwNTVE"
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "brandur"
