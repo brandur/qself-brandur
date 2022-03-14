@@ -23622,6 +23622,12 @@
   id = 929333374170284032
   text = "@yann_ck Going out for dinner/drinks, and occasional expensive hardware purchases like the Leica Q and iPhone X.\n\nOh, and then there's the worst one by far: living in San Francisco ;)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
   [tweets.reply]
     status_id = 929252463735078912
     user = "bonjouryannick"
@@ -33456,6 +33462,12 @@
   id = 799664247345029121
   text = "@yann_ck I found a nice trick recently for do or die re-training:\n\ninoremap <esc> NO ESCAPE FOR YOU"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
   [tweets.reply]
     status_id = 799660183844753408
     user = "bonjouryannick"
@@ -39786,10 +39798,6 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1500986812042555400
-
-    [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
 
@@ -40718,10 +40726,6 @@
     [[tweets.entities.user_mentions]]
       user = "MCansky"
       user_id = 1129781464705511424
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
