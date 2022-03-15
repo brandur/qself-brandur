@@ -337,15 +337,15 @@
 
 [[readings]]
   id = 4865
-  isbn = ""
-  isbn13 = ""
-  num_pages = 288
-  published_year = 1998
+  isbn = "964598131X"
+  isbn13 = "9789645981318"
+  num_pages = 318
+  published_year = 2000
   rating = 4
   read_at = 2008-10-09T00:00:00-07:00
   review = "A manual for successful social interaction. The ideas presented are still relevant today."
   review_id = 3732435671
-  title = "How to Win Friends and Influence People"
+  title = "آیین دوست‌یابی"
 
   [[readings.authors]]
     id = 3317
