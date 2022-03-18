@@ -13439,7 +13439,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 587
+  favorite_count = 584
   id = 1051202041844883456
   retweet_count = 108
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -36298,6 +36298,12 @@
   created_at = 2016-04-07T18:58:44Z
   id = 718151038012760064
   text = "@yann_ck Glad you liked it! And thanks for reading :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
 
   [tweets.reply]
     status_id = 717315520446472192
