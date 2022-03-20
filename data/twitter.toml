@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2022-03-20T04:29:40Z
+  id = 1505401160294825985
+  text = "@aaronforsander I'd recommend trying to push past the early parts of season one, or even season one as a whole. I also had trouble with the first few episodes, but it got pretty undeniably good after that, and kept on being good for the next five seasons."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "aaronforsander"
+      user_id = 12086982
+
+  [tweets.reply]
+    status_id = 1505381411435556864
+    user = "aaronforsander"
+    user_id = 12086982
+
+[[tweets]]
   created_at = 2022-03-20T00:23:10Z
   favorite_count = 1
   id = 1505339128845508610
