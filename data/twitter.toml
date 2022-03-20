@@ -1,7 +1,24 @@
 
 [[tweets]]
+  created_at = 2022-03-20T00:23:10Z
+  favorite_count = 1
+  id = 1505339128845508610
+  text = "@shriker +1 (or as far as I'm at anyway). Especially Wes Chatham as Amos and Frankie Adams as Bobbie really made those characters for me (although now that I'm thinking about it, Alex as well ...) — I'm not sure I would've gotten them if I'd been reading only."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "shriker"
+      user_id = 14314571
+
+  [tweets.reply]
+    status_id = 1505318188698898432
+    user = "shriker"
+    user_id = 14314571
+
+[[tweets]]
   created_at = 2022-03-19T22:49:51Z
-  favorite_count = 5
+  favorite_count = 12
   id = 1505315641527439362
   text = "The Expanse might be one of those vanishingly rare pieces of media where the TV series is better than the books. TV makes the universe come alive, and hits a perfect sober/serious quality that books suggest, but don't quite convey.\n\n(Only on book three so far, so grain of salt.)"
 
