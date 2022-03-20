@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 34897
+  isbn = "0765305119"
+  isbn13 = "9780765305114"
+  num_pages = 624
+  published_year = 2002
+  rating = 5
+  read_at = 2022-02-19T00:00:00-08:00
+  review = ""
+  review_id = 4619373219
+  title = "The Dragon Reborn (The Wheel of Time, #3)"
+
+  [[readings.authors]]
+    id = 6252
+    name = "Robert Jordan"
+
+[[readings]]
   id = 233649
   isbn = "0812517725"
   isbn13 = "9780812517729"
