@@ -1,5 +1,53 @@
 
 [[readings]]
+  id = 233649
+  isbn = "0812517725"
+  isbn13 = "9780812517729"
+  num_pages = 705
+  published_year = 1991
+  rating = 5
+  read_at = 2022-02-19T00:00:00-08:00
+  review = "Wow. I read most of this series when I was a kid, and although I liked it at the time, I never fully appreciated just how much better Wheel of Time is compared to almost every other comparable fantasy series (or even beyond those too) — the writing, world-building, and characterization are just incredible, and don't fall into any of the pulp tropes that you find in so many other places. The Great Hunt in particular is one of the early-series book that packs in lots of action, lots of cool One Power stuff, and lots of new exploration of WoT's expansive world."
+  review_id = 4618062012
+  title = "The Great Hunt (The Wheel of Time, #2)"
+
+  [[readings.authors]]
+    id = 6252
+    name = "Robert Jordan"
+
+[[readings]]
+  id = 404437
+  isbn = "0924486848"
+  isbn13 = "9780924486845"
+  num_pages = 256
+  published_year = 1995
+  rating = 3
+  read_at = 0001-01-01T00:00:00Z
+  review = "A chronicle by Bernard Moitessier, most notable for almost certainly having been the undisputed winner of the 1968 _Sunday Times_ Golden Globe Race (the first non-stop round-the-world solo yacht race) ... had he not decided to just keep sailing around the world instead of finishing. As far as the book is concerned — it's a great historical artifact, but is largely made up of freeform entries from Moitessier's journal, and is pretty long-winded and undirected. Still interesting as it reveals the purity of his spirit, and the post-book material on the technical specifics of his boat set up / sail diagrams / knot details / supply list / food recipes is pretty neat."
+  review_id = 4618050333
+  title = "The Long Way"
+
+  [[readings.authors]]
+    id = 229247
+    name = "Bernard Moitessier"
+
+[[readings]]
+  id = 12591698
+  isbn = "1841499900"
+  isbn13 = "9781841499901"
+  num_pages = 595
+  published_year = 2012
+  rating = 3
+  read_at = 2022-03-18T00:00:00-07:00
+  review = "Overall, good follow up to the first book — one of the major things to appreciate about The Expanse is how each book can take things in completely new directions. Two major things that occurred to me while reading this: (1) the TV series follows the book _very_ closely — I already had all the high points even having watched this season years ago, and (2) in a rare turnaround, the TV series might actually be the better version of the media. The crew in the book come off as a little too campy — Captain Holden and his Rogue Squad of solar system-spelunking mavericks aboard the rough-and-tough Rocinante. Watching the TV version on the other hand, you get more of an impression of a realistic and capable flight squad surviving in a hostile environment. The show also makes some of the characters really come alive compared to the book — especially Wes Chatham as Amos and Frankie Adams as Bobbie. Still, nice to get the extra detail that prose conveys. e.g. Watching the show, I don't think I bothered to look up what a \"PDC\" was until about season five."
+  review_id = 4618030863
+  title = "Caliban's War (The Expanse, #2)"
+
+  [[readings.authors]]
+    id = 4192148
+    name = "James S.A. Corey"
+
+[[readings]]
   id = 8855321
   isbn = "1841499889"
   isbn13 = "9781841499888"
