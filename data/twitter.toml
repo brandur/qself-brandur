@@ -5253,15 +5253,9 @@
   id = 1328027448827527168
   text = "@ClaudioScatoli Yeah, that's what we do. The canonical middleware has a rescue + ensure block in it where the final line is emitted. This tries to make sure that if an exception were to occur, we'd still log as much information as was available up until that point."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "ClaudioScatoli"
-      user_id = 1101370741902192640
-
   [tweets.reply]
     status_id = 1321404340322652161
-    user = "ClaudioScatoli"
+    user = "theeunionist"
     user_id = 1101370741902192640
 
 [[tweets]]
