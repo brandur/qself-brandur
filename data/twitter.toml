@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-04-04T20:28:14Z
-  favorite_count = 6
+  favorite_count = 11
   id = 1511078210720579588
-  retweet_count = 1
+  retweet_count = 3
   text = "Just in case there's anyone else out there who hasn't seen this work of genius. Keep an eye on that counter in the bottom right as you scroll down.\n\nhttps://t.co/bVUdBQeJ45 https://t.co/axYVXYFrlW"
 
   [tweets.entities]
