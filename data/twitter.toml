@@ -1,5 +1,24 @@
 
 [[tweets]]
+  created_at = 2022-04-06T19:04:56Z
+  favorite_count = 2
+  id = 1511782023676907521
+  retweet_count = 2
+  text = "Brilliant.\n\nhttps://t.co/7GfUgSlWyS https://t.co/JMPij83NX9"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1511781528707080194
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FPrtSmSVIAIiJEO.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/micsolana/stat…"
+      expanded_url = "https://twitter.com/micsolana/status/1511724518951292934"
+      url = "https://t.co/7GfUgSlWyS"
+
+[[tweets]]
   created_at = 2022-04-05T17:23:54Z
   favorite_count = 6
   id = 1511394211274235914
