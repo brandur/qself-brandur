@@ -20863,12 +20863,6 @@
   id = 956595499057885184
   text = "@rschoening Yeah, I give whatever I’m working with right now a hard time, but all of those languages are identical in terms of how little safety they provide."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "rschoening"
-      user_id = 1169114621199806464
-
 [[tweets]]
   created_at = 2018-01-25T18:31:53Z
   favorite_count = 1
