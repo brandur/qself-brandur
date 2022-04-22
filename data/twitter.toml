@@ -36,9 +36,9 @@
 
 [[tweets]]
   created_at = 2022-04-06T19:04:56Z
-  favorite_count = 2
+  favorite_count = 5
   id = 1511782023676907521
-  retweet_count = 2
+  retweet_count = 3
   text = "Brilliant.\n\nhttps://t.co/7GfUgSlWyS https://t.co/JMPij83NX9"
 
   [tweets.entities]
