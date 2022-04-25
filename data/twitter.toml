@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-04-25T18:32:23Z
+  favorite_count = 19
+  id = 1518659202327011329
+  text = "Everyone who's ever put Ruby in prod knows that safe refactoring isn't possible except in very small incremental steps.\n\nWe find that a combination of Sorbet plus high branch coverage makes large changes possible. Turns out, type annotations are good.\n\nhttps://t.co/5vybmSjGkg"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/larg…"
+      expanded_url = "https://brandur.org/fragments/large-scale-ruby-refactoring"
+      url = "https://t.co/5vybmSjGkg"
+
+[[tweets]]
   created_at = 2022-04-19T00:38:07Z
   favorite_count = 1
   id = 1516214524889612288
@@ -30417,9 +30430,9 @@
 
 [[tweets]]
   created_at = 2017-03-31T12:53:08Z
-  favorite_count = 68
+  favorite_count = 65
   id = 847793885929758721
-  retweet_count = 26
+  retweet_count = 25
   text = "A few words on GraphQL and how to build the next frontier of compelling web APIs.\n\nhttps://t.co/S349YZTngR"
 
   [tweets.entities]
