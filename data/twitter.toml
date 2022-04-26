@@ -1,5 +1,27 @@
 
 [[tweets]]
+  created_at = 2022-04-26T19:23:02Z
+  id = 1519034333855555584
+  text = "@Benoit_Tgt I like Ruby's syntax, but there is a strong case that it doesn't have the strong foundations of a healthy language. I know saying things like this doesn't make me any friends, but I can't help myself ;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Benoit_Tgt"
+      user_id = 129343129
+
+  [tweets.reply]
+    status_id = 1518962413000962051
+    user = "Benoit_Tgt"
+    user_id = 129343129
+
+[[tweets]]
+  created_at = 2022-04-26T19:21:45Z
+  favorite_count = 6
+  id = 1519034011078717440
+  text = "Imagine if you had to type your password back into every app on your phone every week like is somehow still a normal thing on your desktop."
+
+[[tweets]]
   created_at = 2022-04-25T18:32:23Z
   favorite_count = 23
   id = 1518659202327011329
