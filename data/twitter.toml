@@ -1,5 +1,68 @@
 
 [[tweets]]
+  created_at = 2022-04-28T02:40:11Z
+  favorite_count = 12
+  id = 1519506737128038400
+  text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
+
+[[tweets]]
+  created_at = 2022-04-28T02:25:21Z
+  id = 1519503004130439168
+  text = "@glenngillen @craigkerstiens Yep, longevity is proof of how good of an idea Heroku was, and also a bit of an indictment on the competition (be it Docker or be it 10x different attempts by AWS to clone Heroku) and its inability to produce something as good/easy/likable.\n\nBut yes, that business side though ..."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "glenngillen"
+      user_id = 6867422
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+  [tweets.reply]
+    status_id = 1519500985529671680
+    user = "glenngillen"
+    user_id = 6867422
+
+[[tweets]]
+  created_at = 2022-04-28T02:22:06Z
+  id = 1519502185414897664
+  text = "@Its_stolt @craigkerstiens I dunno. I love `git push heroku master` and use it every day, but I don't think it's standard anywhere else really — my feeling is that most shops these days build something like a container and deploy that instead.\n\n**Definitely** belongs in \"great ideas\" though."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Its_stolt"
+      user_id = 9483652
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+  [tweets.reply]
+    status_id = 1519494315281555456
+    user = "Its_stolt"
+    user_id = 9483652
+
+[[tweets]]
+  created_at = 2022-04-28T01:44:53Z
+  favorite_count = 8
+  id = 1519492818204459008
+  text = "@craigkerstiens Epic start, but I still say \"failure\". Seeded a lot of great ideas, but no tech it developed had staying power, and non of our post-Cedar big ideas materialized.\n\nOn the flip side, exactly the right level of abstraction, and amazingly relevant given no product changes in years."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+  [tweets.reply]
+    status_id = 1519483444861935616
+    user = "craigkerstiens"
+    user_id = 12473952
+
+[[tweets]]
   created_at = 2022-04-26T19:23:02Z
   id = 1519034333855555584
   text = "@Benoit_Tgt I like Ruby's syntax, but there is a strong case that it doesn't have the strong foundations of a healthy language. I know saying things like this doesn't make me any friends, but I can't help myself ;)"
