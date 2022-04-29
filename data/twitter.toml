@@ -18,7 +18,7 @@
 
 [[tweets]]
   created_at = 2022-04-29T01:19:11Z
-  favorite_count = 42
+  favorite_count = 48
   id = 1519848739443077120
   text = "@goodinvesting1 IMO: Benioff's a PR guy, saw an opportunity to be the \"good billionaire\" who supported it which Twitter would say nice things about, and went for it.\n\nIronically though, SFDC's also dropped 325k+ sqft in SF since then. Ostensibly because of WFH, but he'll also be paying less tax."
 
@@ -61,7 +61,7 @@
 
 [[tweets]]
   created_at = 2022-04-29T00:38:47Z
-  favorite_count = 15
+  favorite_count = 19
   id = 1519838572844527617
   text = "@KolinKoehl The San Francisco office has been \"unmade\" as HQ already: https://t.co/02zhkbwTSN\n\nThey still have a lease, but it expires in 2023, and I wouldn't be surprised to see the whole thing vastly downsized, or go completely."
 
@@ -142,9 +142,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T15:43:10Z
-  favorite_count = 53
+  favorite_count = 61
   id = 1519703779368574978
-  retweet_count = 1
+  retweet_count = 2
   text = "@nonmayorpete Prop C itself will always show a positive number (although a much lower one than expected now). The real figure you'd want to try and calculate is _total_ tax revenue loss — companies that leave not only don't pay Prop C, but pay no SF tax at all. Unfortunately hard to track."
 
   [tweets.entities]
@@ -160,9 +160,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 2108
+  favorite_count = 2543
   id = 1519506737128038400
-  retweet_count = 208
+  retweet_count = 246
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
 
 [[tweets]]
