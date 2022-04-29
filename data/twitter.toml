@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-04-29T01:23:12Z
-  favorite_count = 9
+  favorite_count = 14
   id = 1519849749729341440
   text = "@pataherntheone Fair enough, but when it comes to these gross receipt taxes, size of presence matters a lot.\n\nThe companies I listed either used to be headquartered in SF (Block, Stripe, Brex, Credit Karma), or had very significant offices there (pre-2020, PayPal had ~200k+ sqft)."
 
@@ -18,7 +18,7 @@
 
 [[tweets]]
   created_at = 2022-04-29T01:19:11Z
-  favorite_count = 48
+  favorite_count = 51
   id = 1519848739443077120
   text = "@goodinvesting1 IMO: Benioff's a PR guy, saw an opportunity to be the \"good billionaire\" who supported it which Twitter would say nice things about, and went for it.\n\nIronically though, SFDC's also dropped 325k+ sqft in SF since then. Ostensibly because of WFH, but he'll also be paying less tax."
 
@@ -61,7 +61,7 @@
 
 [[tweets]]
   created_at = 2022-04-29T00:38:47Z
-  favorite_count = 19
+  favorite_count = 22
   id = 1519838572844527617
   text = "@KolinKoehl The San Francisco office has been \"unmade\" as HQ already: https://t.co/02zhkbwTSN\n\nThey still have a lease, but it expires in 2023, and I wouldn't be surprised to see the whole thing vastly downsized, or go completely."
 
@@ -142,7 +142,7 @@
 
 [[tweets]]
   created_at = 2022-04-28T15:43:10Z
-  favorite_count = 61
+  favorite_count = 69
   id = 1519703779368574978
   retweet_count = 2
   text = "@nonmayorpete Prop C itself will always show a positive number (although a much lower one than expected now). The real figure you'd want to try and calculate is _total_ tax revenue loss — companies that leave not only don't pay Prop C, but pay no SF tax at all. Unfortunately hard to track."
@@ -160,9 +160,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 2543
+  favorite_count = 3195
   id = 1519506737128038400
-  retweet_count = 246
+  retweet_count = 295
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
 
 [[tweets]]
@@ -240,7 +240,7 @@
 
 [[tweets]]
   created_at = 2022-04-26T19:21:45Z
-  favorite_count = 9
+  favorite_count = 12
   id = 1519034011078717440
   text = "Imagine if you had to type your password back into every app on your phone every week like is somehow still a normal thing on your desktop."
 
@@ -288,7 +288,7 @@
 
 [[tweets]]
   created_at = 2022-04-08T02:09:49Z
-  favorite_count = 86
+  favorite_count = 89
   id = 1512251335562825728
   retweet_count = 6
   text = "A year into professional Go dev, my main day-to-day complaint: too. much. code.\n\nToo many `if err != nil`, too many stanzas that should've been one-liner map/reduce, too much boilerplate. It's a problem for dev speed, but mainly refactoring because there's just so much to change."
@@ -342,9 +342,9 @@
 
 [[tweets]]
   created_at = 2022-04-04T20:28:14Z
-  favorite_count = 15
+  favorite_count = 18
   id = 1511078210720579588
-  retweet_count = 5
+  retweet_count = 6
   text = "Just in case there's anyone else out there who hasn't seen this work of genius. Keep an eye on that counter in the bottom right as you scroll down.\n\nhttps://t.co/bVUdBQeJ45 https://t.co/axYVXYFrlW"
 
   [tweets.entities]
