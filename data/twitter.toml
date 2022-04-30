@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-04-29T19:02:15Z
+  favorite_count = 6
+  id = 1520116269281779712
+  text = "We put a change into our Ruby code to treat UUIDs as 16-byte bytestrings instead of their normal string format.\n\nA small tweak, but kind of fun — UUIDs can plausibly live their whole lifecycle as binary without being rendered to a string. Also, type-safe.\n\nhttps://t.co/NUGuLcfR8G"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/ruby…"
+      expanded_url = "https://brandur.org/fragments/ruby-uuid-stanzas"
+      url = "https://t.co/NUGuLcfR8G"
+
+[[tweets]]
   created_at = 2022-04-29T01:23:12Z
   favorite_count = 17
   id = 1519849749729341440
@@ -18,7 +31,7 @@
 
 [[tweets]]
   created_at = 2022-04-29T01:19:11Z
-  favorite_count = 57
+  favorite_count = 60
   id = 1519848739443077120
   text = "@goodinvesting1 IMO: Benioff's a PR guy, saw an opportunity to be the \"good billionaire\" who supported it which Twitter would say nice things about, and went for it.\n\nIronically though, SFDC's also dropped 325k+ sqft in SF since then. Ostensibly because of WFH, but he'll also be paying less tax."
 
@@ -142,7 +155,7 @@
 
 [[tweets]]
   created_at = 2022-04-28T15:43:10Z
-  favorite_count = 76
+  favorite_count = 82
   id = 1519703779368574978
   retweet_count = 2
   text = "@nonmayorpete Prop C itself will always show a positive number (although a much lower one than expected now). The real figure you'd want to try and calculate is _total_ tax revenue loss — companies that leave not only don't pay Prop C, but pay no SF tax at all. Unfortunately hard to track."
@@ -160,9 +173,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 3846
+  favorite_count = 4270
   id = 1519506737128038400
-  retweet_count = 357
+  retweet_count = 399
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
 
 [[tweets]]
@@ -246,9 +259,9 @@
 
 [[tweets]]
   created_at = 2022-04-25T18:32:23Z
-  favorite_count = 26
+  favorite_count = 29
   id = 1518659202327011329
-  retweet_count = 5
+  retweet_count = 4
   text = "Everyone who's ever put Ruby in prod knows that safe refactoring isn't possible except in very small incremental steps.\n\nWe find that a combination of Sorbet plus high branch coverage makes large changes possible. Turns out, type annotations are good.\n\nhttps://t.co/5vybmSjGkg"
 
   [tweets.entities]
