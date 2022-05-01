@@ -1,5 +1,69 @@
 
 [[readings]]
+  id = 13895
+  isbn = "1857232097"
+  isbn13 = "9781857232097"
+  num_pages = 912
+  published_year = 1994
+  rating = 5
+  read_at = 0001-01-01T00:00:00Z
+  review = "Excellent."
+  review_id = 4700124297
+  title = "The Fires of Heaven (The Wheel of Time, #5)"
+
+  [[readings.authors]]
+    id = 6252
+    name = "Robert Jordan"
+
+[[readings]]
+  id = 9539
+  isbn = "0812513738"
+  isbn13 = "9780812513738"
+  num_pages = 1007
+  published_year = 1993
+  rating = 5
+  read_at = 0001-01-01T00:00:00Z
+  review = "Another one that's right in that set of the very best _The Wheel of Time_ books, and in re-reading all these years later, just head and shoulders of other fantasy series."
+  review_id = 4700118285
+  title = "The Shadow Rising (The Wheel of Time, #4)"
+
+  [[readings.authors]]
+    id = 6252
+    name = "Robert Jordan"
+
+[[readings]]
+  id = 58446227
+  isbn = "0593321448"
+  isbn13 = "9780593321447"
+  num_pages = 255
+  published_year = 2022
+  rating = 3
+  read_at = 0001-01-01T00:00:00Z
+  review = "Quite good, and the overall premise is interesting, but didn't quite feel as cohesive as Mandel's other books. The ambient, low-key narration is great when applied to more informal narratives found in other novels, but doesn't fit as well when talking about a massive time-traveling organization that controls the flow of history."
+  review_id = 4700099210
+  title = "Sea of Tranquility"
+
+  [[readings.authors]]
+    id = 2786093
+    name = "Emily St. John Mandel"
+
+[[readings]]
+  id = 58949003
+  isbn = "1982186984"
+  isbn13 = "9781982186982"
+  num_pages = 320
+  published_year = 2022
+  rating = 4
+  read_at = 0001-01-01T00:00:00Z
+  review = "Good insight into Tony Hsieh's meteoric rise and even more sudden crash. Although Tony's later year projects may have been more questionable, I'd contend that his work to revitalize downtown Vegas as to produce a vital urban community may be one of the better things a billionaire (or near billionaire in his case) has ever spent their money on. There's the obvious story of substance abuse, but there's a subplot here of how Covid-related lockdowns were extremely harmful to people prone to abuse — Hsieh's case is one that'll have a book written about it, but it makes you wonder of the untold millions for whom nothing will ever be said."
+  review_id = 4700079778
+  title = "Happy at Any Cost: The Revolutionary Vision and Fatal Quest of Zappos CEO Tony Hsieh"
+
+  [[readings.authors]]
+    id = 5398519
+    name = "Kirsten Grind"
+
+[[readings]]
   id = 34897
   isbn = "0765305119"
   isbn13 = "9780765305114"
