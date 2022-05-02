@@ -1,5 +1,109 @@
 
 [[tweets]]
+  created_at = 2022-05-02T14:43:40Z
+  id = 1521138358541447168
+  text = "@platypusguy +1. Very fair starting with the language's strengths, and the nit part felt entirely fair — some of these come off with the author having a major axe to grind, but not here."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "platypusguy"
+      user_id = 12522262
+
+  [tweets.reply]
+    status_id = 1520854851374051328
+    user = "platypusguy"
+    user_id = 12522262
+
+[[tweets]]
+  created_at = 2022-05-02T14:42:28Z
+  id = 1521138054655709184
+  text = "@HandNF Fair enough. I find the no warnings thing to be most annoying when I'm iterating in dev and don't want to remove interim variables that I know I'm going to use (or put `_ =` in front of them). Aside from that, no warnings basically works well."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "HandNF"
+      user_id = 43605349
+
+  [tweets.reply]
+    status_id = 1520895274981416961
+    user = "HandNF"
+    user_id = 43605349
+
+[[tweets]]
+  created_at = 2022-05-02T14:40:40Z
+  id = 1521137601213698050
+  text = "@seeteegee Yeah ... for my money Rust nailed that so perfectly with the `mut` keyword. Too bad it didn't come out in time for more languages to copy it."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "seeteegee"
+      user_id = 120867493
+
+  [tweets.reply]
+    status_id = 1520855639769161728
+    user = "seeteegee"
+    user_id = 120867493
+
+[[tweets]]
+  created_at = 2022-05-02T14:39:55Z
+  id = 1521137413065637888
+  text = "@texadactyl Yeah, TBF while I find the Go team's uncompromising rhetoric kind of irking, the lack of warnings is probably my smallest complaint."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "texadactyl"
+      user_id = 103613336
+
+  [tweets.reply]
+    status_id = 1520896615632064512
+    user = "texadactyl"
+    user_id = 103613336
+
+[[tweets]]
+  created_at = 2022-05-02T14:38:30Z
+  id = 1521137055509622789
+  text = "Archive: https://t.co/3RWPtd0gHt"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "archive.ph/j2U17"
+      expanded_url = "https://archive.ph/j2U17"
+      url = "https://t.co/3RWPtd0gHt"
+
+  [tweets.reply]
+    status_id = 1521137053064306689
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2022-05-02T14:38:29Z
+  favorite_count = 3
+  id = 1521137053064306689
+  text = "Babel, dart guns, and institutional stupidity — Jonathan Haidt argues convincingly that the virality effects of social media are incompatible with a functional democracy:\nhttps://t.co/k7dhq4bk93\n\nIn podcast form:\nhttps://t.co/L6MqMXdmQe https://t.co/FvgJEmxGMa"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1521136915516321792
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FRwp9yAVcAAWgri.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "theatlantic.com/magazine/archi…"
+      expanded_url = "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/"
+      url = "https://t.co/k7dhq4bk93"
+
+    [[tweets.entities.urls]]
+      display_url = "overcast.fm/+vpWYPmZ8g"
+      expanded_url = "https://overcast.fm/+vpWYPmZ8g"
+      url = "https://t.co/L6MqMXdmQe"
+
+[[tweets]]
   created_at = 2022-05-01T19:25:32Z
   favorite_count = 35
   id = 1520846902882824192
