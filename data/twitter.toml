@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2022-05-04T05:12:19Z
+  favorite_count = 1
+  id = 1521719346493411330
+  text = "Judge my Go sin: vendored like half of `encoding/json` to get more flexibility around encoding.\n\nThe only customization knob `encoding/json` gives you is `json.Marshaler`, which takes no parameters, and doesn't go very far. IMO strong argument this package should expose more API."
+
+[[tweets]]
   created_at = 2022-05-02T14:43:40Z
   id = 1521138358541447168
   text = "@platypusguy +1. Very fair starting with the language's strengths, and the nit part felt entirely fair — some of these come off with the author having a major axe to grind, but not here."
