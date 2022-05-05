@@ -1,5 +1,19 @@
 
 [[tweets]]
+  created_at = 2022-05-05T01:02:02Z
+  favorite_count = 11
+  id = 1522018749099896833
+  retweet_count = 1
+  text = "This is the kind of thing that makes me lose the thread on SQL DSLs. Took 10 min of trial and error to write that.\n\nBut ironically, still safer than many alternatives, where SQL is in code only as a simple string.\n\nIMO, best option is real SQL, parsed before runtime. e.g. sqlc. https://t.co/2u83onr5Eg"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1522017527261384704
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FR9K4IZVUAAuuu9.jpg"
+
+[[tweets]]
   created_at = 2022-05-04T05:12:19Z
   favorite_count = 1
   id = 1521719346493411330
