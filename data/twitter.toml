@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-05-06T20:30:27Z
+  favorite_count = 3
+  id = 1522675181054951424
+  text = "How insulting. I'm actually a Node developer. https://t.co/ye3pTO0xkY"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/craigkerstiens…"
+      expanded_url = "https://twitter.com/craigkerstiens/status/1522616555179106305"
+      url = "https://t.co/ye3pTO0xkY"
+
+[[tweets]]
   created_at = 2022-05-05T01:02:02Z
   favorite_count = 14
   id = 1522018749099896833
@@ -166,8 +179,9 @@
 
 [[tweets]]
   created_at = 2022-04-29T19:02:15Z
-  favorite_count = 9
+  favorite_count = 13
   id = 1520116269281779712
+  retweet_count = 1
   text = "We put a change into our Ruby code to treat UUIDs as 16-byte bytestrings instead of their normal string format.\n\nA small tweak, but kind of fun — UUIDs can plausibly live their whole lifecycle as binary without being rendered to a string. Also, type-safe.\n\nhttps://t.co/NUGuLcfR8G"
 
   [tweets.entities]
@@ -8862,7 +8876,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2138
+  favorite_count = 2142
   id = 1182066723337293828
   retweet_count = 774
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -25173,7 +25187,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2630
+  favorite_count = 2633
   id = 919646432721641472
   retweet_count = 1024
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
