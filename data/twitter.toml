@@ -1,5 +1,19 @@
 
 [[tweets]]
+  created_at = 2022-05-07T16:03:12Z
+  favorite_count = 4
+  id = 1522970312563822593
+  retweet_count = 1
+  text = "Great piece.\n\nThe Fed takes credit for all economic gains, while ignoring their role as a primary instigator of wealth inequality through asset inflation.\n\nContinually amazed how rare it is to hear of the downsides of zeroed rates/QE from the mainstream.\n\nhttps://t.co/GKbtNxIcw6"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "thelastbearstanding.substack.com/p/the-case-for…"
+      expanded_url = "https://thelastbearstanding.substack.com/p/the-case-for-higher-rates?s=r"
+      url = "https://t.co/GKbtNxIcw6"
+
+[[tweets]]
   created_at = 2022-05-06T20:30:27Z
   favorite_count = 3
   id = 1522675181054951424
