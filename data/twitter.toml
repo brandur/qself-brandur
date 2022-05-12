@@ -19798,6 +19798,12 @@
   id = 971809514793132034
   text = "@brunosutic Thanks! Yeah, it’s probably okay, but I still think that JSON compromises human readability too much. Maybe if you’re tooling is so good that you never have to look at a raw feed it’s okay."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "brunosutic"
+      user_id = 1523553216796975104
+
 [[tweets]]
   created_at = 2018-03-08T18:05:40Z
   id = 971809187394195456
