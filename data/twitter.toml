@@ -8890,7 +8890,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2141
+  favorite_count = 2138
   id = 1182066723337293828
   retweet_count = 774
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -19798,6 +19798,12 @@
   id = 971809514793132034
   text = "@brunosutic Thanks! Yeah, it’s probably okay, but I still think that JSON compromises human readability too much. Maybe if you’re tooling is so good that you never have to look at a raw feed it’s okay."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "brunosutic"
+      user_id = 1523553216796975104
+
 [[tweets]]
   created_at = 2018-03-08T18:05:40Z
   id = 971809187394195456
@@ -25201,7 +25207,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2633
+  favorite_count = 2630
   id = 919646432721641472
   retweet_count = 1023
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
