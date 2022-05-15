@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-05-15T20:48:50Z
+  favorite_count = 3
+  id = 1525941296858247168
+  text = "It felt like wasting time when I did it, exporting my collection from Flickr was one of my best ideas in years.\n\nKind of an indictment that a platform for sharing high-res original photos is ~worthless, but add an algorithm, filters, and hellish cropping and you've got $100B. https://t.co/coSocq0VAH"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1525941125466320896
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FS07XmuUcAAMdaM.jpg"
+
+[[tweets]]
   created_at = 2022-05-07T16:03:12Z
   favorite_count = 4
   id = 1522970312563822593
