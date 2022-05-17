@@ -1,5 +1,23 @@
 
 [[tweets]]
+  created_at = 2022-05-17T05:07:31Z
+  favorite_count = 5
+  id = 1526429180883181571
+  text = "G Suite legacy edition SAVED.\n\nThe first time procrastination / brinksmanship has worked out for me, ever.\n\nhttps://t.co/DKKh6KqDUj https://t.co/li2Vl4QN8l"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1526428981116821505
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FS73EipUYAEjcqu.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "support.google.com/a/answer/60217"
+      expanded_url = "https://support.google.com/a/answer/60217"
+      url = "https://t.co/DKKh6KqDUj"
+
+[[tweets]]
   created_at = 2022-05-15T20:48:50Z
   favorite_count = 3
   id = 1525941296858247168
