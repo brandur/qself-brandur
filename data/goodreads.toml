@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 26030703
+  isbn = "0316306088"
+  isbn13 = "9780316306089"
+  num_pages = 272
+  published_year = 2016
+  rating = 2
+  read_at = 0001-01-01T00:00:00Z
+  review = "An early example of the genre of \"tech journalist hates industry he reports on\" (but isn't beyond taking a paycheck from it) which would become especially widespread in the later 2010s. I'm sure there are some legitimate complaints in here and there's no question that some tech cultural practices got pretty absurd, but the whole book reeks of exaggeration and oversimplification for dramatic effect, and doesn't spend even a moment pandering to anything even resembling objectivity."
+  review_id = 4736641751
+  title = "Disrupted: My Misadventure in the Start-Up Bubble"
+
+  [[readings.authors]]
+    id = 138362
+    name = "Dan Lyons"
+
+[[readings]]
   id = 16131032
   isbn = "0316129070"
   isbn13 = "9780316129077"
