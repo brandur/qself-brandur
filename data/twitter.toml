@@ -19042,6 +19042,11 @@
   [tweets.entities]
 
     [[tweets.entities.medias]]
+      id = 982673882380361733
+      type = "photo"
+      url = "https://pbs.twimg.com/media/DaMosIlV4AU7Bt-.jpg"
+
+    [[tweets.entities.medias]]
       id = 982673922658254848
       type = "photo"
       url = "https://pbs.twimg.com/media/DaMoueoVwAA0BmY.jpg"
