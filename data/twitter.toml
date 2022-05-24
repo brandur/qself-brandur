@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2022-05-24T18:59:34Z
+  favorite_count = 8
+  id = 1529175288080281601
+  text = "\"What problem are you really trying to solve?\"\n\n— Sacred mantra of the Gopher pseudo-intellectual"
+
+[[tweets]]
   created_at = 2022-05-23T22:03:20Z
   favorite_count = 1
   id = 1528859149383020544
