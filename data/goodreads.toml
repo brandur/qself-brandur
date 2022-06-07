@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 1081637
+  isbn = "0670772895"
+  isbn13 = "9780670772896"
+  num_pages = 286
+  published_year = 1995
+  rating = 4
+  read_at = 0001-01-01T00:00:00Z
+  review = "Read this 25+ years after publication, and this was admittedly largely a intellectual exercise since there's not a whole lot of practical information in here anymore, but I was shocked how prescient many of Gates' predictions were — he got everything from smartphones, video streaming like Netflix, digital wallets/contactless payment, the growth of online marketplaces, biometrics-driven device protection, all the way to personalized media echo chambers (although he thought this would be a good thing on the whole). A good track record, although as a radical optimist, he was about 0 for 100 on any the bad stuff."
+  review_id = 4768737322
+  title = "The Road Ahead"
+
+  [[readings.authors]]
+    id = 23470
+    name = "Bill  Gates"
+
+[[readings]]
   id = 26030703
   isbn = "0316306088"
   isbn13 = "9780316306089"
