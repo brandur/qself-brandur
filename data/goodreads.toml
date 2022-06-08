@@ -921,7 +921,7 @@
   read_at = 2020-02-20T00:00:00-08:00
   review = ""
   review_id = 3200621011
-  title = "Cannery Row (Cannery Row #1)"
+  title = "Cannery Row (Cannery Row, #1)"
 
   [[readings.authors]]
     id = 585
