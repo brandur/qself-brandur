@@ -1,5 +1,48 @@
 
 [[tweets]]
+  created_at = 2022-06-08T23:20:57Z
+  favorite_count = 3
+  id = 1534676888991375360
+  retweet_count = 1
+  text = "@craigkerstiens @bitsandhops @danfarina @leinweber What is \"jyra\". It sounds like a name of a software suite where you spend more time managing tasks than doing them, which invented its own markup language that no one remembers, and has 10,000 features, all bad.\n\nMercy on the soul who would have to use such an abomination."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+    [[tweets.entities.user_mentions]]
+      user = "bitsandhops"
+      user_id = 372479872
+
+    [[tweets.entities.user_mentions]]
+      user = "danfarina"
+      user_id = 31303509
+
+    [[tweets.entities.user_mentions]]
+      user = "leinweber"
+      user_id = 7524442
+
+  [tweets.reply]
+    status_id = 1534671608622657537
+    user = "craigkerstiens"
+    user_id = 12473952
+
+[[tweets]]
+  created_at = 2022-06-08T21:43:16Z
+  favorite_count = 10
+  id = 1534652304372051968
+  text = "My first use of `x/sync/errgroup` today as an informal goroutine pool in (or close to) stdlib.\n\nVery nice — will even cancel context in case a Goroutine fails. errgroup isn't new in 1.18, but `SetLimit` for parallel control is. Been wanting this in Go for many years. https://t.co/E2T7aujPGL"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1534652190647693312
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FUwuCVVUsAA8CVX.jpg"
+
+[[tweets]]
   created_at = 2022-06-08T15:27:46Z
   favorite_count = 2
   id = 1534557806816219137
