@@ -1,5 +1,23 @@
 
 [[tweets]]
+  created_at = 2022-06-10T04:22:28Z
+  favorite_count = 1
+  id = 1535115154815262721
+  text = "1.18 again: finding that x/maps and x/slices don't do enough (no `Map`???), but projects like https://t.co/lK2QlH7Hfk do maybe too much.\n\nSo far, adding functions that reuse lo's naming conventions given it's the best standard we have, but curious how others are running things. https://t.co/ymhVAlnN1J"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1535114218336227328
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FU3SP4mVEAAFWWJ.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/samber/lo"
+      expanded_url = "https://github.com/samber/lo"
+      url = "https://t.co/lK2QlH7Hfk"
+
+[[tweets]]
   created_at = 2022-06-08T23:20:57Z
   favorite_count = 3
   id = 1534676888991375360
