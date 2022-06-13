@@ -1,5 +1,25 @@
 
 [[tweets]]
+  created_at = 2022-06-13T00:34:26Z
+  id = 1536144931001028608
+  text = "@embano1 @golangweekly Good question ... TBH, I thought dependabot just called out security vulnerabilities for specific languages and didn't know it was configurable. I'll have to give it a shot — thanks!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "embano1"
+      user_id = 122923515
+
+    [[tweets.entities.user_mentions]]
+      user = "golangweekly"
+      user_id = 1112334438
+
+  [tweets.reply]
+    status_id = 1535871515941642241
+    user = "embano1"
+    user_id = 122923515
+
+[[tweets]]
   created_at = 2022-06-11T21:56:36Z
   favorite_count = 14
   id = 1535742822367711232
@@ -25519,7 +25539,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2624
+  favorite_count = 2627
   id = 919646432721641472
   retweet_count = 1017
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
