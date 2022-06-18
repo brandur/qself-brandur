@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 58838847
+  isbn = "0063162024"
+  isbn13 = "9780063162020"
+  num_pages = 308
+  published_year = 2022
+  rating = 5
+  read_at = 0001-01-01T00:00:00Z
+  review = "Reading this book is absolutely crazy-making in that it shines stark light on just how unhinged, malicious, and unfortunately, widespread, the modern illiberal activist movement has become, but there's no better person to document it than Murray. As with his other books, incredibly articulate, witty, well-constructed, and immaculately sourced."
+  review_id = 4791838858
+  title = "The War on the West"
+
+  [[readings.authors]]
+    id = 210682
+    name = "Douglas Murray"
+
+[[readings]]
   id = 1081637
   isbn = "0670772895"
   isbn13 = "9780670772896"
@@ -3367,7 +3383,7 @@
   published_year = 1990
   rating = 5
   read_at = 2014-04-03T00:00:00-07:00
-  review = ""
+  review = "Having read what must be a hundred plus sci-fi novels in my life, I keep coming back to Dan Simmons for some of the most masterful examples of the genre in existence. The Hyperion series may be unparalleled in its imagination, expanse, and mystery, with this first book being an anthology of sorts, containing a variety of stories from a cast of characters whose backstories are progressively revealed. A favorite aspect of this book is how Simmons drops you in hot with minimal explanation, and you're left to build up a comprehensive view of the universe over the course of the novel — it's easy to get this wrong by over-explaining or not explaining enough, but Hyperion strikes a perfect balance."
   review_id = 900478796
   title = "Hyperion (Hyperion Cantos, #1)"
 
