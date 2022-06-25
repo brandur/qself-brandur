@@ -1549,7 +1549,7 @@
 
 [[tweets]]
   created_at = 2021-12-18T20:03:06Z
-  favorite_count = 2
+  favorite_count = 1
   id = 1472296382018908160
   text = "@spakhm My grammar's still awful so I can't read anything well, but as I'm going through common articles or Japanese tweets, I get most (I think?) of the vocab now.\n\nTBH the time investment's not worth it on pure ROI, but I've wanted to read Japanese since I was 17, so no regrets."
 
@@ -1557,11 +1557,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 29089797
+      user_id = 1540227960149422080
 
   [tweets.reply]
     status_id = 1472278570386944001
-    user = "spakhm"
+    user = "asperaserge"
     user_id = 29089797
 
 [[tweets]]
@@ -4280,11 +4280,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 1540227960149422080
+      user_id = 29089797
 
   [tweets.reply]
     status_id = 1369498133432987655
-    user = "asperaserge"
+    user = "spakhm"
     user_id = 29089797
 
 [[tweets]]
@@ -4468,6 +4468,7 @@
 
 [[tweets]]
   created_at = 2021-02-23T02:59:53Z
+  favorite_count = 1
   id = 1364047300637560835
   text = "@spakhm Excellent choices. Well, on the last piece anyway :) The first two seem okay too."
 
@@ -4475,11 +4476,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 29089797
+      user_id = 1540227960149422080
 
   [tweets.reply]
     status_id = 1364004512667631616
-    user = "spakhm"
+    user = "asperaserge"
     user_id = 29089797
 
 [[tweets]]
@@ -5742,7 +5743,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 1540227960149422080
+      user_id = 29089797
 
     [[tweets.entities.user_mentions]]
       user = "deontologician"
@@ -5750,7 +5751,7 @@
 
   [tweets.reply]
     status_id = 1335302119306518529
-    user = "asperaserge"
+    user = "spakhm"
     user_id = 29089797
 
 [[tweets]]
@@ -9249,7 +9250,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2135
+  favorite_count = 2138
   id = 1182066723337293828
   retweet_count = 773
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -12332,7 +12333,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 1540227960149422080
+      user_id = 29089797
 
   [tweets.reply]
     status_id = 1099430968908234753
@@ -13045,11 +13046,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 1540227960149422080
+      user_id = 29089797
 
   [tweets.reply]
     status_id = 1079703331751088128
-    user = "asperaserge"
+    user = "spakhm"
     user_id = 29089797
 
 [[tweets]]
@@ -13201,11 +13202,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 1540227960149422080
+      user_id = 29089797
 
   [tweets.reply]
     status_id = 1073747019267596288
-    user = "asperaserge"
+    user = "spakhm"
     user_id = 29089797
 
 [[tweets]]
@@ -15719,11 +15720,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "mikekelly85"
-      user_id = 1536001360428163076
+      user_id = 15151905
 
   [tweets.reply]
     status_id = 1029108954654302215
-    user = "NicerInPerson"
+    user = "mikekelly85"
     user_id = 15151905
 
 [[tweets]]
@@ -19376,11 +19377,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 1540227960149422080
+      user_id = 29089797
 
   [tweets.reply]
     status_id = 982401395931467776
-    user = "asperaserge"
+    user = "spakhm"
     user_id = 29089797
 
 [[tweets]]
