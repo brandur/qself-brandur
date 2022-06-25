@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 77565
+  isbn = "0553288202"
+  isbn13 = "9780553288209"
+  num_pages = 517
+  published_year = 1995
+  rating = 5
+  read_at = 0001-01-01T00:00:00Z
+  review = "Builds to an absolute crescendo — about as epic as it gets — and still leaves room for further exploration of the Hyperion universe."
+  review_id = 4804999376
+  title = "The Fall of Hyperion (Hyperion Cantos, #2)"
+
+  [[readings.authors]]
+    id = 2687
+    name = "Dan Simmons"
+
+[[readings]]
   id = 58838847
   isbn = "0063162024"
   isbn13 = "9780063162020"
