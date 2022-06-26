@@ -4173,11 +4173,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 29089797
+      user_id = 1540227960149422080
 
   [tweets.reply]
     status_id = 1371607416970780672
-    user = "spakhm"
+    user = "asperaserge"
     user_id = 29089797
 
 [[tweets]]
@@ -4280,11 +4280,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 29089797
+      user_id = 1540227960149422080
 
   [tweets.reply]
     status_id = 1369498133432987655
-    user = "spakhm"
+    user = "asperaserge"
     user_id = 29089797
 
 [[tweets]]
@@ -4476,11 +4476,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 1540227960149422080
+      user_id = 29089797
 
   [tweets.reply]
     status_id = 1364004512667631616
-    user = "asperaserge"
+    user = "spakhm"
     user_id = 29089797
 
 [[tweets]]
@@ -5743,7 +5743,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 29089797
+      user_id = 1540227960149422080
 
     [[tweets.entities.user_mentions]]
       user = "deontologician"
@@ -5751,7 +5751,7 @@
 
   [tweets.reply]
     status_id = 1335302119306518529
-    user = "spakhm"
+    user = "asperaserge"
     user_id = 29089797
 
 [[tweets]]
@@ -5802,11 +5802,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 1540227960149422080
+      user_id = 29089797
 
   [tweets.reply]
     status_id = 1335299379582918656
-    user = "asperaserge"
+    user = "spakhm"
     user_id = 29089797
 
 [[tweets]]
@@ -9250,7 +9250,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2138
+  favorite_count = 2134
   id = 1182066723337293828
   retweet_count = 773
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -12333,7 +12333,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 29089797
+      user_id = 1540227960149422080
 
   [tweets.reply]
     status_id = 1099430968908234753
@@ -12350,11 +12350,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 29089797
+      user_id = 1540227960149422080
 
   [tweets.reply]
     status_id = 1099208006020096000
-    user = "spakhm"
+    user = "asperaserge"
     user_id = 29089797
 
 [[tweets]]
@@ -13202,11 +13202,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 29089797
+      user_id = 1540227960149422080
 
   [tweets.reply]
     status_id = 1073747019267596288
-    user = "spakhm"
+    user = "asperaserge"
     user_id = 29089797
 
 [[tweets]]
@@ -13248,11 +13248,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 1540227960149422080
+      user_id = 29089797
 
   [tweets.reply]
     status_id = 1073466671099129856
-    user = "asperaserge"
+    user = "spakhm"
     user_id = 29089797
 
 [[tweets]]
@@ -19377,11 +19377,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "spakhm"
-      user_id = 29089797
+      user_id = 1540227960149422080
 
   [tweets.reply]
     status_id = 982401395931467776
-    user = "spakhm"
+    user = "asperaserge"
     user_id = 29089797
 
 [[tweets]]
