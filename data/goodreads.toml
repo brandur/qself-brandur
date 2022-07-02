@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 3977
+  isbn = "0553572946"
+  isbn13 = "9780553572940"
+  num_pages = 563
+  published_year = 1996
+  rating = 5
+  read_at = 2022-07-02T11:58:49-07:00
+  review = "Epic story that has you on the edge of your seat throughout. I love how the latter two books are a completely different breed of story compared to the first two, and yet work just as well in their own right. For technophiles, excellent thought-provoking ideas of future and far-future conceptual technology throughout. I first read this book over a decade ago, and without spoilers, the high-cost way the _Raphael_ and its passengers uses to travel between stars is something that's stuck with me throughout and which I still think about every so often."
+  review_id = 4821055652
+  title = "Endymion (Hyperion Cantos, #3)"
+
+  [[readings.authors]]
+    id = 2687
+    name = "Dan Simmons"
+
+[[readings]]
   id = 77565
   isbn = "0553288202"
   isbn13 = "9780553288209"
