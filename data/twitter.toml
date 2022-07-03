@@ -9250,7 +9250,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2134
+  favorite_count = 2138
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -49754,9 +49754,9 @@
 
 [[tweets]]
   created_at = 2013-10-03T17:40:37Z
-  favorite_count = 204
+  favorite_count = 206
   id = 385821704410234881
-  retweet_count = 331
+  retweet_count = 328
   text = "RT @jonathangrubb: Lesson from Silk Road: even the owner of an international drug cartel can't live in San Francisco without having housemates."
 
   [tweets.entities]
