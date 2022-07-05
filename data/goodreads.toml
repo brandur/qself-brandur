@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 58485511
+  isbn = "1797135546"
+  isbn13 = "9781797135540"
+  num_pages = 0
+  published_year = 2022
+  rating = 5
+  read_at = 0001-01-01T00:00:00Z
+  review = "Excellent - Leonard's writing is easily digestible without an advanced econ degree, while also tackling and unwinding the fanciful Fed language that's often used to obscure their decision-making. The book sticks to the facts and manages to stay quite neutral, but you come out of it with a strong impression that the Fed's been the most important contributor to practically every economic crisis in the past thirty years, and like many federal institutions, has fallen victim to short-term wishful thinking over planning for longer term, well-distributed prosperity and stability. For example, while the Fed wasn't any of the directly precipitating factors that led to the 2008 financial crisis (e.g. they weren't selling risky repackaged ARMs), by keeping interest rates close to zero and providing cheap money for so long, they were the major reason that banks were pushed so far down the risk curve in search of higher returns. My one missive is that the book was written too early to cover our latest 2022 developments of high inflation and the Fed finally engaging in non-trivial rate hikes (0.75) for the first time in modern history — wouldn't been interesting to get Leonard's take on this."
+  review_id = 4825592234
+  title = "The Lords of Easy Money: How the Federal Reserve Broke the American Economy"
+
+  [[readings.authors]]
+    id = 2967707
+    name = "Christopher Leonard"
+
+[[readings]]
   id = 3977
   isbn = "0553572946"
   isbn13 = "9780553572940"
