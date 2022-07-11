@@ -1,5 +1,19 @@
 
 [[tweets]]
+  created_at = 2022-07-11T16:11:43Z
+  favorite_count = 11
+  id = 1546527664894197762
+  retweet_count = 1
+  text = "Put down some thoughts trying to articulate where I've found it appropriate to push logic down to the database in the form of stored procs and triggers. The opacity of the side effects of such isn't great, but it's a useful technique given some restraint.\n\nhttps://t.co/gNFLzArF84"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/code…"
+      expanded_url = "https://brandur.org/fragments/code-database-vs-app"
+      url = "https://t.co/gNFLzArF84"
+
+[[tweets]]
   created_at = 2022-06-23T06:44:58Z
   id = 1539862058069413888
   text = "@Benoit_Tgt @danfarina We'll be writing a V2 of this post at some point. A semaphore-like system is still strongly in use in our new state machine, and with a few upgrades!"
