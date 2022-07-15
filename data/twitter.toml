@@ -35998,11 +35998,6 @@
       type = "photo"
       url = "https://pbs.twimg.com/media/CmA-WIGWQAQehqO.jpg"
 
-    [[tweets.entities.medias]]
-      id = 747666106157047812
-      type = "photo"
-      url = "https://pbs.twimg.com/media/CmA-XLwXIAQW57O.jpg"
-
 [[tweets]]
   created_at = 2016-06-27T22:20:47Z
   favorite_count = 2
