@@ -740,7 +740,7 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4385
+  favorite_count = 4381
   id = 1519506737128038400
   retweet_count = 400
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
@@ -49461,9 +49461,9 @@
 
 [[tweets]]
   created_at = 2013-10-18T23:20:07Z
-  favorite_count = 465
+  favorite_count = 462
   id = 391342960870453248
-  retweet_count = 901
+  retweet_count = 899
   text = "RT @Th_15798035965: When Banksy comes to Gotham I’m going to buy one of his pieces for the cave, then break his arm for vandalism. I’m tough but I’m fair."
 
   [tweets.entities]
