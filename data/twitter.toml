@@ -10914,16 +10914,16 @@
 
 [[tweets]]
   created_at = 2019-05-22T04:12:23Z
-  favorite_count = 14
+  favorite_count = 15
   id = 1131050148124024835
   text = "Walked out to the Hunter Point's Shipyard for the first time and was surprised by the area's serene beauty.\n\nI now have a recurring urban fantasy that the navy finishes radiological cleanup and turns it over as a national park with ~no redevelopment — San Francisco's Tempelhof. https://t.co/lqNoLwoxOE"
 
   [tweets.entities]
 
-    [[tweets.entities.medias]]
-      id = 1131049526578442240
-      type = "photo"
-      url = "https://pbs.twimg.com/media/D7JLjUcU8AAKcJ1.jpg"
+    [[tweets.entities.urls]]
+      display_url = "pic.twitter.com/lqNoLwoxOE"
+      expanded_url = "https://twitter.com/brandur/status/1131050148124024835/photo/1"
+      url = "https://t.co/lqNoLwoxOE"
 
 [[tweets]]
   created_at = 2019-05-21T20:29:16Z
