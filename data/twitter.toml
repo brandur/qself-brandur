@@ -1,5 +1,28 @@
 
 [[tweets]]
+  created_at = 2022-07-17T16:44:05Z
+  favorite_count = 11
+  id = 1548710141310029824
+  text = "One of my techno utopia fantasies is that 90s Japan had been better at software/chips, and by now we'd have a plethora of ARM-based netbooks in the spirit of the Vaio P running a non-Mac non-Win non-Android OS.\n\nAs cool as Apple is, we're far too reliant on their continued mercy. https://t.co/4TOqBhBvQc"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1548709766133821440
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FX4fU66VsAA-Peg.png"
+
+    [[tweets.entities.medias]]
+      id = 1548709789764427776
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FX4fWS8UIAA8dCC.png"
+
+    [[tweets.entities.medias]]
+      id = 1548709805082021888
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FX4fXMAUEAAzerc.png"
+
+[[tweets]]
   created_at = 2022-07-11T16:11:43Z
   favorite_count = 27
   id = 1546527664894197762
@@ -113,8 +136,9 @@
 
 [[tweets]]
   created_at = 2022-06-10T19:55:12Z
-  favorite_count = 10
+  favorite_count = 13
   id = 1535349884626161665
+  retweet_count = 1
   text = "Great concept for a new publishing protocol.\n\nUsers publish to a single slot that's overwritten with new content. Instead of a timeline dominated by the noisiest who tweet every five min, a broad view of everyone in the space.\n\nNo likes, replies, or favs.\n\nhttps://t.co/KfTUDi8mCK"
 
   [tweets.entities]
@@ -9264,7 +9288,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2139
+  favorite_count = 2134
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -25587,7 +25611,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2621
+  favorite_count = 2618
   id = 919646432721641472
   retweet_count = 1016
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
