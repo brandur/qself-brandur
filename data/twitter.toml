@@ -74,9 +74,9 @@
 
 [[tweets]]
   created_at = 2022-07-19T18:23:27Z
-  favorite_count = 116
+  favorite_count = 129
   id = 1549459920751251456
-  retweet_count = 24
+  retweet_count = 26
   text = "Continuing my streak of totally-popular-with-everyone database opinions, here's one on why soft deletion (`deleted_at` columns) is a net negative, and what to do instead.\n\nhttps://t.co/YV2vzGXCYD"
 
   [tweets.entities]
