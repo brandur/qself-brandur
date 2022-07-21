@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-07-21T01:01:16Z
-  favorite_count = 14
+  favorite_count = 19
   id = 1549922421427167232
   text = "A minor nicety of using UUIDs as primary keys (as opposed to bigint) I'd defend is that you can give related objects all the same ID when you know there's always going to be a 1:1 relationship. Makes it easy to find things quickly.\n\n(And not to worry, we still use FKs too.) https://t.co/yd3gvr4QOR"
 
@@ -103,9 +103,9 @@
 
 [[tweets]]
   created_at = 2022-07-19T18:23:27Z
-  favorite_count = 171
+  favorite_count = 180
   id = 1549459920751251456
-  retweet_count = 32
+  retweet_count = 33
   text = "Continuing my streak of totally-popular-with-everyone database opinions, here's one on why soft deletion (`deleted_at` columns) is a net negative, and what to do instead.\n\nhttps://t.co/YV2vzGXCYD"
 
   [tweets.entities]
@@ -9422,7 +9422,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2136
+  favorite_count = 2140
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -25745,7 +25745,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2617
+  favorite_count = 2620
   id = 919646432721641472
   retweet_count = 1015
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
