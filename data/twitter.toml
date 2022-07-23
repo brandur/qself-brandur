@@ -1,5 +1,22 @@
 
 [[tweets]]
+  created_at = 2022-07-23T16:09:35Z
+  favorite_count = 3
+  id = 1550875782586572800
+  text = "@TheEricAnderson I'm totally good with it when people are just talking one-way to their computers (with headphones), but doing it with the bad audio through speakers coming back is a mortal sin."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "TheEricAnderson"
+      user_id = 28461983
+
+  [tweets.reply]
+    status_id = 1550528831945146369
+    user = "TheEricAnderson"
+    user_id = 28461983
+
+[[tweets]]
   created_at = 2022-07-23T01:19:25Z
   favorite_count = 19
   id = 1550651765896359936
