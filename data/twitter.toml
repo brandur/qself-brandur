@@ -12,7 +12,7 @@
 
 [[tweets]]
   created_at = 2022-07-24T02:33:29Z
-  favorite_count = 7
+  favorite_count = 10
   id = 1551032795165667328
   text = "Finished \"The End of the World Is Just the Beginning\" by Peter Zeihan.\n\nHe's super bearish on China, which 6 mo ago I wouldn't have bought, but between trouble in economy/finance/housing and Covid Zero suggesting Xi's fired every dissenting voice, I need less convincing nowadays."
 
@@ -9500,7 +9500,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2134
+  favorite_count = 2138
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
