@@ -1,12 +1,28 @@
 
 [[readings]]
+  id = 56269270
+  isbn = "0374602573"
+  isbn13 = "9780374602574"
+  num_pages = 224
+  published_year = 2021
+  rating = 2
+  read_at = 2022-07-23T18:26:42-07:00
+  review = "Very fast little read — 200 pages, but most of them are partially filled and with a lot of whitespace. An accounting of a fictional repair shop full of quirky characters passionate about Apple products in particular, and with a few sprinkles of Apple history thrown in. A neat experiment in the format, but not hugely substantive."
+  review_id = 4868319819
+  title = "Laserwriter II"
+
+  [[readings.authors]]
+    id = 1101327
+    name = "Tamara Shopsin"
+
+[[readings]]
   id = 57933306
   isbn = "0593138511"
   isbn13 = "9780593138519"
   num_pages = 357
   published_year = 2022
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2022-07-08T18:27:00-07:00
   review = "Certainly a worthwhile read — the author makes a strong argument that our attention economy has been objectively shrinking over time (it's not just perception), and a big part of that is how the apps we're using are a central caused as they're designed to maximize time-on-app. This is of course true, and it's nice to see the someone make the case to show it as objectively as possible. Also interesting is that he presents a somewhat nihilist take in some parts where he admits to not having an easy one-size-fits-all solution to the problem as we're in the position of having to try and fight off our own bad instincts. The book's weakness is that it very likely could've been an essay instead of a book — by the end of it he's wandered pretty far off track (for example, he finishes with a long segment on climate change), which you get the feeling is there to flesh out the page numbers."
   review_id = 4833461596
   title = "Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again"
@@ -22,7 +38,7 @@
   num_pages = 0
   published_year = 2022
   rating = 5
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2022-07-04T18:27:00-07:00
   review = "Excellent - Leonard's writing is easily digestible without an advanced econ degree, while also tackling and unwinding the fanciful Fed language that's often used to obscure their decision-making. The book sticks to the facts and manages to stay quite neutral, but you come out of it with a strong impression that the Fed's been the most important contributor to practically every economic crisis in the past thirty years, and like many federal institutions, has fallen victim to short-term wishful thinking over planning for longer term, well-distributed prosperity and stability. For example, while the Fed wasn't any of the directly precipitating factors that led to the 2008 financial crisis (e.g. they weren't selling risky repackaged ARMs), by keeping interest rates close to zero and providing cheap money for so long, they were the major reason that banks were pushed so far down the risk curve in search of higher returns. My one missive is that the book was written too early to cover our latest 2022 developments of high inflation and the Fed finally engaging in non-trivial rate hikes (0.75) for the first time in modern history — wouldn't been interesting to get Leonard's take on this."
   review_id = 4825592234
   title = "The Lords of Easy Money: How the Federal Reserve Broke the American Economy"
@@ -110,6 +126,22 @@
   [[readings.authors]]
     id = 138362
     name = "Dan Lyons"
+
+[[readings]]
+  id = 58782897
+  isbn = "006323047X"
+  isbn13 = "9780063230477"
+  num_pages = 512
+  published_year = 2022
+  rating = 4
+  read_at = 2022-07-23T18:28:21-07:00
+  review = "Wow, what a read — let me just say that if Zeihan is right, we're all in a whole lot of trouble (or at least the kids we're not having are). To really boil things all the way down, Zeihan's two core theses are that (1) having failed to sustain healthy demographic distributions (largely thanks to industrialization), almost every country on Earth is facing impending demographic collapse as there are not nearly enough young to support the old, and we're well passed the point that anything could be done about the problem; and (2) the US will withdraw as the protector of the world's waterways, which will sharply curb world trade. This will leave countries more inward facing to source the resources and production they need to sustain their 21st century lifestyles, but most countries don't have anything close to there wherewithal to do so, with the result being that the quality of live they got used to under under globalism will become sharply diminished.\n\nHe's bullish on the United States and a couple other countries like France, and notably extremely bearish on China, who he believes is in for a reckoning as the aftereffects of decades worth of one-child policy come due in the form of a catastrophic demographic implosion (along with a host of other problems they're facing). I have to say that even six months ago I would've been highly dubious as China's trajectory didn't seem be moving in any direction except up, but between the trouble they've had in their financial and housing markets over the last few months, combined with a truly insane Covid Zero policy that seems to indicate that Xi's fired every smart person who might've contradicted him, these days I'm inclined to believe Zeihan's claims.\n\nThe whole thing is meticulously researched, and there aren't any obvious holes to be poked in the vast majority of suppositions (as concerning as that is). The one big one that smelled a little off to me is the claim that America's navy is what acts as essentially the sole guarantor for global shipping safety, a macro thesis on which many of the other claims in the book are contingent. He does cite a lot of information about the naval fleets of other countries including China aren't up to job, but I'll still be looking for some second opinions. But other than that, I suspect all the references check out."
+  review_id = 4736050349
+  title = "The End of the World Is Just the Beginning: Mapping the Collapse of Globalization"
+
+  [[readings.authors]]
+    id = 8148615
+    name = "Peter Zeihan"
 
 [[readings]]
   id = 16131032

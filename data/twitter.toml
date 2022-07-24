@@ -1,5 +1,22 @@
 
 [[tweets]]
+  created_at = 2022-07-24T02:33:30Z
+  favorite_count = 4
+  id = 1551032796302299137
+  text = "The whole book feels like it might be a bit overly pessimistic, but also seems immaculately well researched. One thing's for sure: we're all in a lot of trouble if he's right.\n\nWorth a read."
+
+  [tweets.reply]
+    status_id = 1551032795165667328
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2022-07-24T02:33:29Z
+  favorite_count = 7
+  id = 1551032795165667328
+  text = "Finished \"The End of the World Is Just the Beginning\" by Peter Zeihan.\n\nHe's super bearish on China, which 6 mo ago I wouldn't have bought, but between trouble in economy/finance/housing and Covid Zero suggesting Xi's fired every dissenting voice, I need less convincing nowadays."
+
+[[tweets]]
   created_at = 2022-07-23T16:09:35Z
   favorite_count = 3
   id = 1550875782586572800
@@ -9483,7 +9500,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2138
+  favorite_count = 2134
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
