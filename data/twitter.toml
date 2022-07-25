@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2022-07-25T04:10:45Z
+  favorite_count = 11
+  id = 1551419658573455360
+  text = "Out of all the amazingly great consumer tech we've gotten in the last decade (e.g. OLED, retina res, USB-C, ƒ/1.6 lenses in phones), my favorite has to be the M1.\n\nNot having to think about battery life — even when working all day away from an outlet — is a total game changer."
+
+[[tweets]]
   created_at = 2022-07-24T02:33:30Z
   favorite_count = 4
   id = 1551032796302299137
@@ -9500,7 +9506,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2134
+  favorite_count = 2138
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
