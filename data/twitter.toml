@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-07-26T01:15:04Z
+  favorite_count = 7
+  id = 1551737834473603072
+  text = "The effort that's gone into applying leap seconds safely is impressive/terrifying.\n\nGoogle/AWS smears are 24h centering on the leap. FB, 17h starting on it.\n\nIn Google's docs note the TAI ref, basis for UTC, and 37s ahead because it doesn't observe leaps.\n\nhttps://t.co/SZjmwq8vWW"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "developers.google.com/time/smear"
+      expanded_url = "https://developers.google.com/time/smear"
+      url = "https://t.co/SZjmwq8vWW"
+
+[[tweets]]
   created_at = 2022-07-25T04:10:45Z
   favorite_count = 14
   id = 1551419658573455360
