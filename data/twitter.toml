@@ -1,5 +1,31 @@
 
 [[tweets]]
+  created_at = 2022-07-29T01:24:54Z
+  favorite_count = 31
+  id = 1552827475003969536
+  text = "Someday, I would love to see the source code for S3.\n\nThat project must be the greatest pile of nightmare code ever written, and simultaneously one of the most impressive engineering feats in history."
+
+[[tweets]]
+  created_at = 2022-07-29T01:21:30Z
+  id = 1552826618573246464
+  text = "@preslavrachev @royalicing Yep, exactly. And although sqlc makes things 10x better (every single one of our queries is in sqlc), you still need to manually define every query, so development is still much slower than a traditional ORM."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "preslavrachev"
+      user_id = 14154587
+
+    [[tweets.entities.user_mentions]]
+      user = "royalicing"
+      user_id = 1667831797
+
+  [tweets.reply]
+    status_id = 1552746791648501760
+    user = "preslavrachev"
+    user_id = 14154587
+
+[[tweets]]
   created_at = 2022-07-27T23:01:21Z
   favorite_count = 25
   id = 1552428961422254080
@@ -9540,7 +9566,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2135
+  favorite_count = 2139
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -25863,7 +25889,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2615
+  favorite_count = 2619
   id = 919646432721641472
   retweet_count = 1015
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
