@@ -1,8 +1,9 @@
 
 [[tweets]]
   created_at = 2022-07-30T01:10:09Z
-  favorite_count = 1
+  favorite_count = 6
   id = 1553186151367708672
+  retweet_count = 1
   text = "Having achieved its final form of TikTok-ification, my long-term gambit to never use Instagram has finally paid off.\n\nEven before that happened, Twitter's 280 characters were high art by comparison."
 
 [[tweets]]
