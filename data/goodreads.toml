@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 11289
+  isbn = "0553572989"
+  isbn13 = "9780553572988"
+  num_pages = 709
+  published_year = 1998
+  rating = 3
+  read_at = 0001-01-01T00:00:00Z
+  review = "Epic like the first three books in the series, but definitely the weakest entry amongst them. All the Hyperion books indulge in some amount of deus ex machina, but here it's cranked up to 11, with the characters divining themselves out of every problem throughout. I'm generally a fan of \"slice of life\" storytelling where you have some free moments to get to know characters better, but at 700+ pages, it overstays its welcome, and it took me a couple extra weeks to get through the whole thing. All that said, the ending is still great as all the story threads come to a head, so it's certainly still worth the read."
+  review_id = 4886567641
+  title = "The Rise of Endymion (Hyperion Cantos, #4)"
+
+  [[readings.authors]]
+    id = 2687
+    name = "Dan Simmons"
+
+[[readings]]
   id = 56269270
   isbn = "0374602573"
   isbn13 = "9780374602574"

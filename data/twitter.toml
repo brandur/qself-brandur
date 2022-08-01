@@ -1,5 +1,28 @@
 
 [[tweets]]
+  created_at = 2022-07-31T21:58:16Z
+  favorite_count = 5
+  id = 1553862634356686848
+  text = "Cool vintage: Cyma WWW, one of the dozen brands that met British Ministry of Defence (note: spelled with a \"c\") specs to be distributed to soldiers during WWII. Great 38 mm steel case. Temporarily babysitting this one for a friend. https://t.co/ZxM1UAsvB3"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1553862126527164416
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FZBtXxGVsAAjZ4C.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1553862126535553024
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FZBtXxIVsAA88OI.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1553862126527082496
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FZBtXxGUcAAinT6.jpg"
+
+[[tweets]]
   created_at = 2022-07-30T23:41:49Z
   favorite_count = 18
   id = 1553526309338288128
