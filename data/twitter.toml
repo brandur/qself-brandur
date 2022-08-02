@@ -1,5 +1,37 @@
 
 [[tweets]]
+  created_at = 2022-08-01T22:57:28Z
+  id = 1554239921346424832
+  text = "@carrickdb2 Rad!\n\nVintage are nice, but also kind of a pain — the watch I posted a photo of basically needs to be wound twice a day or it'll stop. And never underestimate the importance of sapphire — when I'm wearing anything else I'm afraid to walk by anything that looks metal."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "carrickdb2"
+      user_id = 1527453699936686080
+
+  [tweets.reply]
+    status_id = 1553879437195616256
+    user = "carrickdb2"
+    user_id = 1527453699936686080
+
+[[tweets]]
+  created_at = 2022-08-01T22:54:43Z
+  id = 1554239229818875904
+  text = "@mcartoixa Postgres in this case. They're kind of a pain, but also kind of nice."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "mcartoixa"
+      user_id = 29403185
+
+  [tweets.reply]
+    status_id = 1554010691534725125
+    user = "mcartoixa"
+    user_id = 29403185
+
+[[tweets]]
   created_at = 2022-07-31T21:58:16Z
   favorite_count = 12
   id = 1553862634356686848
