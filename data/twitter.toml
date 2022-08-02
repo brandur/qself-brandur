@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-08-02T00:39:09Z
+  favorite_count = 4
+  id = 1554265512099454976
+  text = "Tried it. Running the CLI gauntlet took 15 min to get right. Procured a workload ID provider, but it failed with vague errors.\n\nGave up, went to service account JSON. Succeeded, but it took a half hour to brew the right blend of obscure roles.\n\nSomeone get Google IAM a PM, stat! https://t.co/f2M8N4dq8o"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/brandur/status…"
+      expanded_url = "https://twitter.com/brandur/status/1553526309338288128"
+      url = "https://t.co/f2M8N4dq8o"
+
+[[tweets]]
   created_at = 2022-08-01T22:57:28Z
   id = 1554239921346424832
   text = "@carrickdb2 Rad!\n\nVintage are nice, but also kind of a pain — the watch I posted a photo of basically needs to be wound twice a day or it'll stop. And never underestimate the importance of sapphire — when I'm wearing anything else I'm afraid to walk by anything that looks metal."
@@ -56,7 +69,7 @@
 
 [[tweets]]
   created_at = 2022-07-30T23:41:49Z
-  favorite_count = 18
+  favorite_count = 21
   id = 1553526309338288128
   text = "Google has jumped the shark on auth. Their service account JSON blobs were bad, but now it's worse.\n\nThere's risk to API keys in that they could leak, but alternatives should be weighed against ergonomics. You practically need a PhD to get up and running.\n\nhttps://t.co/8FsY784zKB https://t.co/VJhncvbaAN"
 
@@ -6555,13 +6568,18 @@
 
 [[tweets]]
   created_at = 2020-11-15T17:29:52Z
-  favorite_count = 1
   id = 1328027448827527168
   text = "@ClaudioScatoli Yeah, that's what we do. The canonical middleware has a rescue + ensure block in it where the final line is emitted. This tries to make sure that if an exception were to occur, we'd still log as much information as was available up until that point."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "claudioscatoli"
+      user_id = 1101370741902192640
+
   [tweets.reply]
     status_id = 1321404340322652161
-    user = "theeunionist"
+    user = "claudioscatoli"
     user_id = 1101370741902192640
 
 [[tweets]]
@@ -9647,7 +9665,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2139
+  favorite_count = 2135
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -25970,7 +25988,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2618
+  favorite_count = 2615
   id = 919646432721641472
   retweet_count = 1015
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
