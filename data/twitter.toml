@@ -32962,9 +32962,9 @@
 
 [[tweets]]
   created_at = 2017-02-09T22:16:22Z
-  favorite_count = 203
+  favorite_count = 200
   id = 829816233922949121
-  retweet_count = 122
+  retweet_count = 121
   text = "Advice for the 99%: don’t use the tech du jour. Do use an RDMS with ACID guarantees. Probably just use Postgres.\n\nhttps://t.co/gyRcWaJNF2"
 
   [tweets.entities]
