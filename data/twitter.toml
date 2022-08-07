@@ -1,8 +1,9 @@
 
 [[tweets]]
   created_at = 2022-08-06T21:42:35Z
-  favorite_count = 12
+  favorite_count = 17
   id = 1556033018417991680
+  retweet_count = 1
   text = "Updating a Rust project after a 1.5+ years, was relieved to find relatively few new errors/warnings, suggesting the language is stabilizing.\n\nAnd while many linters are good, Clippy still has to be the best. Really appreciate how errors give you an exact fix with laser precision. https://t.co/Buv6BgoEbW"
 
   [tweets.entities]
@@ -6499,9 +6500,15 @@
   id = 1328876514587275266
   text = "@ClaudioScatoli Although it's a concept that's probably not too uncommon, I don't think there's all that much written about it (because logging is kind of an obvious thing).\n\nThe major aha! moment for me was the very idea of a canonical line in the first place — it's obvious, but easy to miss."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "claudioscatoli"
+      user_id = 1101370741902192640
+
   [tweets.reply]
     status_id = 1328225419410239490
-    user = "theeunionist"
+    user = "claudioscatoli"
     user_id = 1101370741902192640
 
 [[tweets]]
@@ -6652,15 +6659,9 @@
   id = 1328027448827527168
   text = "@ClaudioScatoli Yeah, that's what we do. The canonical middleware has a rescue + ensure block in it where the final line is emitted. This tries to make sure that if an exception were to occur, we'd still log as much information as was available up until that point."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "claudioscatoli"
-      user_id = 1101370741902192640
-
   [tweets.reply]
     status_id = 1321404340322652161
-    user = "claudioscatoli"
+    user = "theeunionist"
     user_id = 1101370741902192640
 
 [[tweets]]
@@ -9746,7 +9747,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2134
+  favorite_count = 2138
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -26069,7 +26070,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2614
+  favorite_count = 2617
   id = 919646432721641472
   retweet_count = 1015
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
