@@ -1,5 +1,35 @@
 
 [[tweets]]
+  created_at = 2022-08-07T22:08:00Z
+  favorite_count = 13
+  id = 1556401800059576321
+  retweet_count = 2
+  text = "A good README is like a well-written novel: hook, detail, conclusion.\n\nLoved reading the one for Pressly's Goose recently. Intro, basic usage, examples, more advanced usage/examples, best practices, license. 80% of what I need in two min of reading.\n\nhttps://t.co/xYMKkPhlkq"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/pressly/goose"
+      expanded_url = "https://github.com/pressly/goose"
+      url = "https://t.co/xYMKkPhlkq"
+
+[[tweets]]
+  created_at = 2022-08-07T22:05:07Z
+  id = 1556401075216797696
+  text = "@djco Everything I had to fix this time was a lint error. (But back in the day I'd occasionally have to make a more substantive change to get things working again.)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "djco"
+      user_id = 5980732
+
+  [tweets.reply]
+    status_id = 1556034824804114433
+    user = "djco"
+    user_id = 5980732
+
+[[tweets]]
   created_at = 2022-08-06T21:42:35Z
   favorite_count = 28
   id = 1556033018417991680
