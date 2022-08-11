@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-08-11T17:59:02Z
+  favorite_count = 1
+  id = 1557788697394700288
+  text = "Go wishlist 2022:\n\n• Stack traces.\n• Test assertions (just a few — like Rust's `assert!`, `assert_eq!`, `assert_ne!`).\n• Better formatted CLI output.\n• Streaming API like Java/C#'s LINQ.\n• Error handling boilerplate reduction.\n• STACK TRACES.\n\nhttps://t.co/1GRHrpGlyl"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/go-w…"
+      expanded_url = "https://brandur.org/fragments/go-wishlist-2022"
+      url = "https://t.co/1GRHrpGlyl"
+
+[[tweets]]
   created_at = 2022-08-11T01:27:21Z
   favorite_count = 1
   id = 1557539133572100097
