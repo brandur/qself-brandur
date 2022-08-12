@@ -6726,15 +6726,9 @@
   id = 1328876514587275266
   text = "@ClaudioScatoli Although it's a concept that's probably not too uncommon, I don't think there's all that much written about it (because logging is kind of an obvious thing).\n\nThe major aha! moment for me was the very idea of a canonical line in the first place — it's obvious, but easy to miss."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "claudioscatoli"
-      user_id = 1101370741902192640
-
   [tweets.reply]
     status_id = 1328225419410239490
-    user = "claudioscatoli"
+    user = "theeunionist"
     user_id = 1101370741902192640
 
 [[tweets]]
