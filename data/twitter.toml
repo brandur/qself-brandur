@@ -1,5 +1,42 @@
 
 [[tweets]]
+  created_at = 2022-08-15T21:02:57Z
+  id = 1559284531554705409
+  text = "@blakegentry @1Password Still on 1P 6, cruising towards oblivion.\n\nHaving looked a bunch of alternatives recently, this is an area open to disruption. Imagine how weird it would've been to say that about 1Password 10 years ago."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "blakegentry"
+      user_id = 92102736
+
+    [[tweets.entities.user_mentions]]
+      user = "1Password"
+      user_id = 793926
+
+  [tweets.reply]
+    status_id = 1559032734877716482
+    user = "blakegentry"
+    user_id = 92102736
+
+[[tweets]]
+  created_at = 2022-08-15T20:58:10Z
+  favorite_count = 1
+  id = 1559283327764348928
+  text = "@craigkerstiens Last Rites decor or bust."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+  [tweets.reply]
+    status_id = 1559001905979801601
+    user = "craigkerstiens"
+    user_id = 12473952
+
+[[tweets]]
   created_at = 2022-08-14T20:33:55Z
   favorite_count = 1
   id = 1558914840206274561
