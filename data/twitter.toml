@@ -1,5 +1,34 @@
 
 [[tweets]]
+  created_at = 2022-08-16T19:37:10Z
+  favorite_count = 3
+  id = 1559625333573201922
+  text = "Political Go. https://t.co/7QR1rHJFuX"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1559625149271355392
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FaTmz10VsAAaNTz.jpg"
+
+[[tweets]]
+  created_at = 2022-08-16T19:35:32Z
+  id = 1559624923592605696
+  text = "@shinzui Most definitely! Best in the city."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "shinzui"
+      user_id = 4584551
+
+  [tweets.reply]
+    status_id = 1559352254146048001
+    user = "shinzui"
+    user_id = 4584551
+
+[[tweets]]
   created_at = 2022-08-16T01:13:34Z
   id = 1559347603011014657
   text = "@HrishiTiwari87 @ankitml Yeah I'm with you. That was the weakest part of the book for me: basically, trade halts the moment that the US becomes more isolationist, which could be, but it's uncertain. And a lot of the following arguments are based on that core assumption, so they're less sound."
