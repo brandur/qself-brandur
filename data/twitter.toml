@@ -1,5 +1,63 @@
 
 [[tweets]]
+  created_at = 2022-08-20T03:29:36Z
+  favorite_count = 1
+  id = 1560831386331648000
+  text = "Every language has parallelism, but often it's risky/hard enough that you only pull it out for the important stuff. It's good, but with sharp edges — one of error handling, mutex misuse, or race will get you.\n\nErrgroup's a safe enough abstraction that it's now a weekly go to. https://t.co/5qgeWG7WZh https://t.co/LJ11JJgWRz"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1560830182511951874
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FakuyAdVQAIw7KZ.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/brandur/status…"
+      expanded_url = "https://twitter.com/brandur/status/1534652304372051968"
+      url = "https://t.co/5qgeWG7WZh"
+
+[[tweets]]
+  created_at = 2022-08-20T02:56:22Z
+  id = 1560823024055566336
+  text = "@kch @kennethreitz42 My philosophy: stub as little possible, but do stub when there's no alternative or where alternative would be terrible.\n\ne.g. Remote APIs like Stripe, GitHub — do stub.\n\ne.g. If alternative would be to try and start up a real OpenSSH and shell out to it, too much jank — do stub."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kch"
+      user_id = 6710562
+
+    [[tweets.entities.user_mentions]]
+      user = "kennethreitz42"
+      user_id = 50478950
+
+  [tweets.reply]
+    status_id = 1560436382413242368
+    user = "kch"
+    user_id = 6710562
+
+[[tweets]]
+  created_at = 2022-08-20T02:53:07Z
+  id = 1560822205189013504
+  text = "@kennethreitz42 Thanks, hah. I'm pretty sure I stole this one from @mmcgrana like a decade ago ;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kennethreitz42"
+      user_id = 50478950
+
+    [[tweets.entities.user_mentions]]
+      user = "mmcgrana"
+      user_id = 9891642
+
+  [tweets.reply]
+    status_id = 1560362605709082632
+    user = "kennethreitz42"
+    user_id = 50478950
+
+[[tweets]]
   created_at = 2022-08-18T20:22:52Z
   favorite_count = 20
   id = 1560361610878717952
@@ -1750,7 +1808,7 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4329
+  favorite_count = 4326
   id = 1519506737128038400
   retweet_count = 390
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
@@ -10284,7 +10342,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2131
+  favorite_count = 2135
   id = 1182066723337293828
   retweet_count = 775
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
