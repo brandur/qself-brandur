@@ -15521,9 +15521,9 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 584
+  favorite_count = 581
   id = 1051202041844883456
-  retweet_count = 106
+  retweet_count = 104
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
 
   [tweets.entities]
