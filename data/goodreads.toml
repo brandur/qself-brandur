@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 58185227
+  isbn = ""
+  isbn13 = ""
+  num_pages = 2
+  published_year = 2021
+  rating = 1
+  read_at = 2022-08-24T08:53:00-07:00
+  review = "I think this would've had a chance had it been rebuilt around a theme that wasn't Covid, but Duchovny's very coastal and very partisan lockdown perspectives ruined this one, and without going to heavy on spoilers, is especially ironic given where he goes with the ending."
+  review_id = 4950077198
+  title = "The Reservoir"
+
+  [[readings.authors]]
+    id = 8331566
+    name = "David Duchovny"
+
+[[readings]]
   id = 11289
   isbn = "0553572989"
   isbn13 = "9780553572988"
