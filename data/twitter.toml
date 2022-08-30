@@ -23284,7 +23284,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 7134522
+      user_id = 1564233359391428608
 
   [tweets.reply]
     status_id = 953686902741364737
@@ -39800,11 +39800,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 7134522
+      user_id = 1564233359391428608
 
   [tweets.reply]
     status_id = 645894248584380416
-    user = "dmathieu"
+    user = "_dmathieu"
     user_id = 7134522
 
 [[tweets]]
