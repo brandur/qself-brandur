@@ -10396,7 +10396,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2129
+  favorite_count = 2133
   id = 1182066723337293828
   retweet_count = 774
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -15544,7 +15544,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 581
+  favorite_count = 584
   id = 1051202041844883456
   retweet_count = 104
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -23235,7 +23235,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 7134522
+      user_id = 1564233359391428608
 
   [tweets.reply]
     status_id = 953695566269054976
@@ -23307,7 +23307,7 @@
 
 [[tweets]]
   created_at = 2018-01-17T16:57:39Z
-  favorite_count = 2
+  favorite_count = 1
   id = 953672677843124224
   text = "@Benoit_Tgt @dmathieu Our test suite takes something like three days of wall clock to run (out of parallel), so maybe that will help you make you feel better because things could be so much worse."
 
@@ -23319,7 +23319,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 7134522
+      user_id = 1564233359391428608
 
   [tweets.reply]
     status_id = 953670436176441344
@@ -25789,7 +25789,6 @@
 
 [[tweets]]
   created_at = 2017-11-10T18:19:47Z
-  favorite_count = 1
   id = 929050972885729280
   text = "@dmathieu Sorry to hear that :'("
 
@@ -25797,11 +25796,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 7134522
+      user_id = 1564233359391428608
 
   [tweets.reply]
     status_id = 928980936426958848
-    user = "dmathieu"
+    user = "_dmathieu"
     user_id = 7134522
 
 [[tweets]]
@@ -26719,7 +26718,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2613
+  favorite_count = 2616
   id = 919646432721641472
   retweet_count = 1015
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -41866,30 +41865,6 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 1564233359391428608
-
-    [[tweets.entities.user_mentions]]
-      user = "yann_ck"
-      user_id = 1500986812042555400
-
-    [[tweets.entities.user_mentions]]
-      user = "franckverrot"
-      user_id = 48102727
-
-  [tweets.reply]
-    status_id = 606387269063340032
-    user = "_dmathieu"
-    user_id = 7134522
-
-[[tweets]]
-  created_at = 2015-06-04T09:16:59Z
-  id = 606389170823557120
-  text = "@dmathieu @yann_ck @franckverrot Good call :) I’m relieved to say that chartreuse is generally pretty available around SF at least."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "dmathieu"
       user_id = 7134522
 
     [[tweets.entities.user_mentions]]
@@ -41903,6 +41878,30 @@
   [tweets.reply]
     status_id = 606387269063340032
     user = "dmathieu"
+    user_id = 7134522
+
+[[tweets]]
+  created_at = 2015-06-04T09:16:59Z
+  id = 606389170823557120
+  text = "@dmathieu @yann_ck @franckverrot Good call :) I’m relieved to say that chartreuse is generally pretty available around SF at least."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "dmathieu"
+      user_id = 1564233359391428608
+
+    [[tweets.entities.user_mentions]]
+      user = "yann_ck"
+      user_id = 1500986812042555400
+
+    [[tweets.entities.user_mentions]]
+      user = "franckverrot"
+      user_id = 48102727
+
+  [tweets.reply]
+    status_id = 606387269063340032
+    user = "_dmathieu"
     user_id = 7134522
 
 [[tweets]]
@@ -42852,7 +42851,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 1564233359391428608
+      user_id = 7134522
 
 [[tweets]]
   created_at = 2015-03-07T17:41:40Z
