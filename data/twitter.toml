@@ -37354,7 +37354,7 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 1564233359391428608
+      user_id = 7134522
 
     [[tweets.entities.user_mentions]]
       user = "keiko713"
@@ -37362,7 +37362,7 @@
 
   [tweets.reply]
     status_id = 743990356786634752
-    user = "_dmathieu"
+    user = "dmathieu"
     user_id = 7134522
 
 [[tweets]]
@@ -38090,11 +38090,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 7134522
+      user_id = 1564233359391428608
 
   [tweets.reply]
     status_id = 720753789699895297
-    user = "dmathieu"
+    user = "_dmathieu"
     user_id = 7134522
 
 [[tweets]]
