@@ -23810,11 +23810,11 @@
 
     [[tweets.entities.user_mentions]]
       user = "dmathieu"
-      user_id = 7134522
+      user_id = 1564233359391428608
 
   [tweets.reply]
     status_id = 948293427262783490
-    user = "dmathieu"
+    user = "_dmathieu"
     user_id = 7134522
 
 [[tweets]]
