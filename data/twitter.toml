@@ -12,7 +12,7 @@
 
 [[tweets]]
   created_at = 2022-09-08T20:13:21Z
-  favorite_count = 3
+  favorite_count = 6
   id = 1567969361335570439
   text = "The Ultra's the first Apple Watch that's ever tempted me — was expecting dive features eventually, but not so soon.\n\nMax depth of 131 ft is unfortunate as it's right at the threshold of pleasure diving. My max at the Blue Hole last month was 138. They just needed another ~20 ft."
 
@@ -1879,9 +1879,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4308
+  favorite_count = 4305
   id = 1519506737128038400
-  retweet_count = 385
+  retweet_count = 386
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
 
 [[tweets]]
