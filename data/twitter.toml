@@ -1,5 +1,35 @@
 
 [[tweets]]
+  created_at = 2022-09-10T18:15:32Z
+  favorite_count = 1
+  id = 1568664487053660162
+  text = "@danielwithmusic Yeah hopefully — we'll have to wait for field tests to come back and see what people are saying. Knowing Apple though, they'll have a built-in mechanism to void your warranty automatically if you go too deep."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "danielwithmusic"
+      user_id = 73962161
+
+  [tweets.reply]
+    status_id = 1567973639756328960
+    user = "danielwithmusic"
+    user_id = 73962161
+
+[[tweets]]
+  created_at = 2022-09-10T18:13:11Z
+  favorite_count = 1
+  id = 1568663893400244225
+  text = "Worth looking at concept art for \"The Line\", a pedestrian city 170 km long, and which will probably cost $1T.\n\nIt'd be better if it didn't take the Saudis to try this, but someone needs to be innovating in urban environments, and the west sure isn't.\n\nhttps://t.co/2d00uWxl97"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "neom.com/en-us/regions/…"
+      expanded_url = "https://www.neom.com/en-us/regions/theline"
+      url = "https://t.co/2d00uWxl97"
+
+[[tweets]]
   created_at = 2022-09-08T20:18:29Z
   favorite_count = 5
   id = 1567970650371035136
