@@ -45991,6 +45991,12 @@
   id = 477285043736293377
   text = "@___winston Wow, another huge improvement. I love the forward momentum on this project."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "___Winston"
+      user_id = 1567898078841307142
+
   [tweets.reply]
     status_id = 477144248496553984
     user = "winnypi"
