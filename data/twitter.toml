@@ -1,5 +1,23 @@
 
 [[tweets]]
+  created_at = 2022-09-13T19:25:02Z
+  favorite_count = 4
+  id = 1569769140923305984
+  text = "We've been running govulncheck in CI about a week now. So far the only downside we've noticed is that it breaks every time a new version of Go comes out (including patch versions). Fix is to make sure to use `check-latest` on `actions/setup-go` steps.\n\nhttps://t.co/gspfejXtKW https://t.co/3213qATyJR"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1569769080722456576
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FcjwqXPagAADoqP.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "pkg.go.dev/golang.org/x/v…"
+      expanded_url = "https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck"
+      url = "https://t.co/gspfejXtKW"
+
+[[tweets]]
   created_at = 2022-09-10T18:15:32Z
   favorite_count = 1
   id = 1568664487053660162
@@ -45990,6 +46008,12 @@
   created_at = 2014-06-13T03:03:16Z
   id = 477285043736293377
   text = "@___winston Wow, another huge improvement. I love the forward momentum on this project."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "___Winston"
+      user_id = 1567898078841307142
 
   [tweets.reply]
     status_id = 477144248496553984
