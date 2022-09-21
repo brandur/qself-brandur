@@ -1,8 +1,9 @@
 
 [[tweets]]
   created_at = 2022-09-16T23:23:55Z
-  favorite_count = 17
+  favorite_count = 20
   id = 1570916421500272640
+  retweet_count = 1
   text = "iOS 16's wallpapers are comically awful.\n\nApple's back catalog has some of the most gorgeous photography and abstract art ever created, none of which is made available, and replaced instead by emoji wallpapers and ribbons (?).\n\nWhat's going on over there. https://t.co/y5uloz72Ci"
 
   [tweets.entities]
