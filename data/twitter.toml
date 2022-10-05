@@ -628,7 +628,7 @@
 
 [[tweets]]
   created_at = 2022-08-10T16:49:44Z
-  favorite_count = 30
+  favorite_count = 33
   id = 1557408870590345217
   retweet_count = 3
   text = "Pretty fun: built an internal rendering helper preview how generated emails will look in HTML vs. plaintext.\n\nBuild the tooling with the feature because no one's actually going to do it later. https://t.co/eFnrrahGp2"
