@@ -12,9 +12,9 @@
 
 [[tweets]]
   created_at = 2022-10-05T18:27:41Z
-  favorite_count = 15
+  favorite_count = 18
   id = 1577727241709969408
-  retweet_count = 2
+  retweet_count = 3
   text = "We put our first partitioned table into prod, so did a small write up on what it's like to use partitioning in Postgres nowadays.\n\nProgress on this feature over 5 years is downright incredible. Managing a partitioned table is 90% as easy as a normal one.\n\nhttps://t.co/mVBQq9HxYw"
 
   [tweets.entities]
@@ -13809,9 +13809,9 @@
 
 [[tweets]]
   created_at = 2019-02-09T16:48:16Z
-  favorite_count = 203
+  favorite_count = 200
   id = 1094276807476432896
-  retweet_count = 27
+  retweet_count = 26
   text = "Getting a patch reviewed on the Postgres hackers mailing list floors me every time — just at the next level in terms of attention to detail, effort invested, and thoughtfulness. I'm 10+ years into working in software professionally and I've never seen anything else like it."
 
 [[tweets]]
