@@ -1964,9 +1964,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T15:43:10Z
-  favorite_count = 85
+  favorite_count = 82
   id = 1519703779368574978
-  retweet_count = 2
+  retweet_count = 1
   text = "@nonmayorpete Prop C itself will always show a positive number (although a much lower one than expected now). The real figure you'd want to try and calculate is _total_ tax revenue loss — companies that leave not only don't pay Prop C, but pay no SF tax at all. Unfortunately hard to track."
 
   [tweets.entities]
