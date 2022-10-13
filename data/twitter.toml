@@ -20298,9 +20298,9 @@
 
 [[tweets]]
   created_at = 2018-04-18T02:03:37Z
-  favorite_count = 304
+  favorite_count = 301
   id = 986424984531697664
-  retweet_count = 52
+  retweet_count = 51
   text = "RT @dcurtis: In order of importance for San Francisco government—possibly the worst major city government in the country—to address:\n\n1. Drugs/homeless/safety \n....\n99999. Scooters."
 
   [tweets.entities]
