@@ -26,9 +26,9 @@
 
 [[tweets]]
   created_at = 2022-10-05T18:27:41Z
-  favorite_count = 57
+  favorite_count = 63
   id = 1577727241709969408
-  retweet_count = 18
+  retweet_count = 19
   text = "We put our first partitioned table into prod, so did a small write up on what it's like to use partitioning in Postgres nowadays.\n\nProgress on this feature over 5 years is downright incredible. Managing a partitioned table is 90% as easy as a normal one.\n\nhttps://t.co/mVBQq9HxYw"
 
   [tweets.entities]
