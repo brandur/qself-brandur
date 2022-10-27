@@ -1995,7 +1995,7 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4257
+  favorite_count = 4260
   id = 1519506737128038400
   retweet_count = 378
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
@@ -19565,12 +19565,6 @@
   created_at = 2018-04-29T19:58:45Z
   id = 990681816276217856
   text = "@alexcameron89 Yeah, that’s probably a fair characterization.\n\nHaving a runtime to make abstractions like Goroutines possible is a huge boon for productivity where async operations are involved. That said, Rust has so many nice features that I’m kind of hoping that it will find an answer."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "AlexCameron89"
-      user_id = 1583546523488583680
 
 [[tweets]]
   created_at = 2018-04-29T19:56:08Z
