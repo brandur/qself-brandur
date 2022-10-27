@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-10-27T16:44:34Z
-  favorite_count = 15
+  favorite_count = 25
   id = 1585673822237167616
-  retweet_count = 4
+  retweet_count = 8
   text = "Renaming a table in a hot database without breaking anyone and with no downtime is harder than it sounds, but possible using a combination of Postgres' updatable views and transaction DDL. Good for schema hygiene fanatics like me.\n\nFull instructions:\nhttps://t.co/NDYwcyXXXN"
 
   [tweets.entities]
@@ -19676,6 +19676,12 @@
   created_at = 2018-04-29T18:23:10Z
   id = 990657761439465474
   text = "@alexcameron89 Rust is far better thought out and designed, and I'd prefer it in every case if it weren't for (1) the difficulty onboarding, and (2) the fairly poor story around concurrency (bad for web services).\n\nThese are definitely very real problems though, so I'm left uncertain."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "AlexCameron89"
+      user_id = 1583546523488583680
 
   [tweets.reply]
     status_id = 990657388435853312
