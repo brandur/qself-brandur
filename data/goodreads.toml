@@ -1,5 +1,37 @@
 
 [[readings]]
+  id = 70401
+  isbn = "0140042598"
+  isbn13 = "9780140042597"
+  num_pages = 307
+  published_year = 1976
+  rating = 2
+  read_at = 0001-01-01T00:00:00Z
+  review = "Read this as I was trying to understand this whole \"Beat Generation\" phenomena, but am still having a lot of trouble getting it. In a nutshell, it's a travel/life memoir rewritten as fiction apparently to avoid legal problems, which has the side effect that there's not much in the way of overaching story to speak of, and although the travel experiences are a window into a period of American history that isn't coming back, they're not exactly enthralling either. I'd contend that although this was a shocking and memorable book for its age, it wouldn't stand up to basic scrutiny if rewritten in a more contemporary age."
+  review_id = 5075317423
+  title = "On the Road"
+
+  [[readings.authors]]
+    id = 1742
+    name = "Jack Kerouac"
+
+[[readings]]
+  id = 15818498
+  isbn = "0062222562"
+  isbn13 = "9780062222565"
+  num_pages = 416
+  published_year = 2013
+  rating = 4
+  read_at = 0001-01-01T00:00:00Z
+  review = "I'm not a total die-hard Joy Division fan, but still found this history quite enjoyable. It gives you a glimpse into just how gritty the punk/post-unk scene of the 70s was, and makes you think about how different society by comparison is today, and not necessarily in a good way. The Audible version is narrated by the author himself (Peter Hook), and his working class Manchester accent makes the book."
+  review_id = 5075311131
+  title = "Unknown Pleasures: Inside Joy Division"
+
+  [[readings.authors]]
+    id = 539498
+    name = "Peter Hook"
+
+[[readings]]
   id = 58185227
   isbn = ""
   isbn13 = ""
