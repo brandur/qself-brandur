@@ -10580,7 +10580,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2122
+  favorite_count = 2125
   id = 1182066723337293828
   retweet_count = 772
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -18590,9 +18590,9 @@
 
 [[tweets]]
   created_at = 2018-06-08T19:39:22Z
-  favorite_count = 139
+  favorite_count = 136
   id = 1005172454065442816
-  retweet_count = 42
+  retweet_count = 41
   text = "Even while REST is perfectly adequate as a modest baseline, I put together a few words on why I think GraphQL has the promise to lead to a generation of APIs that are more powerful, more discoverable, and most importantly, more adaptable.\n\nhttps://t.co/2LxXgZvcSn"
 
   [tweets.entities]
