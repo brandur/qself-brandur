@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 50053432
+  isbn = "1476785244"
+  isbn13 = "9781476785240"
+  num_pages = 0
+  published_year = 0
+  rating = 5
+  read_at = 0001-01-01T00:00:00Z
+  review = "One of the scariest, and most important books of the contemporary age — Douthat makes the case that rich societies have entered a plateau similar to one seen at the end of the Roman Empire, wherein they stay quite rich, but have lost their edge in innovation, creativity, and even the ability to sustain themselves biologically. He argues these points very convincingly, and indeed, I find it hard to believe that anyone could read this book with something akin to an open mind and not have to acknowledge that Douthat's analysis is correct, even if reluctantly. Its review bombing is telling — if the book's thesis is indeed right, then we as a civilization are in serious crisis, and without a lot of compelling options for extricating ourselves from it. That is absolutely _terrifying_. Hitting the book with a two-star review over sentiment rather than content is one of the few forms of cope that's readily available."
+  review_id = 5080939162
+  title = "The Decadent Society: How We Became the Victims of Our Own Success"
+
+  [[readings.authors]]
+    id = 3501244
+    name = "Ross Douthat"
+
+[[readings]]
   id = 70401
   isbn = "0140042598"
   isbn13 = "9780140042597"
