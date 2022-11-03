@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-11-02T21:41:20Z
-  favorite_count = 27
+  favorite_count = 32
   id = 1587922834742919168
   retweet_count = 1
   text = "RT @simonw: This makes a ton of sense to me: keep less critical, high throughput data such as analytics in a separate database from your core application data such that any problems with the high throughput stuff are isolated from affecting your key tables https://t.co/dP7Ip3n1Re"
@@ -124,7 +124,7 @@
 
 [[tweets]]
   created_at = 2022-11-02T17:07:42Z
-  favorite_count = 42
+  favorite_count = 45
   id = 1587853970998902784
   retweet_count = 8
   text = "We're experimenting with a technique in which we keep high-throughput data out of our main DB to stave off operational issues, minimize backup size/WAL, and speed up recovery in case of failure.\n\nWe call it \"ephemeral DB\". Working reasonably well so far.\n\nhttps://t.co/TnrwqawcrT"
@@ -10717,7 +10717,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2124
+  favorite_count = 2120
   id = 1182066723337293828
   retweet_count = 771
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -19753,6 +19753,12 @@
   created_at = 2018-04-29T19:58:45Z
   id = 990681816276217856
   text = "@alexcameron89 Yeah, that’s probably a fair characterization.\n\nHaving a runtime to make abstractions like Goroutines possible is a huge boon for productivity where async operations are involved. That said, Rust has so many nice features that I’m kind of hoping that it will find an answer."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "AlexCameron89"
+      user_id = 1583546523488583680
 
 [[tweets]]
   created_at = 2018-04-29T19:56:08Z
