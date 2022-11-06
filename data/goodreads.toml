@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 52098718
+  isbn = "147670032X"
+  isbn13 = "9781476700328"
+  num_pages = 336
+  published_year = 0
+  rating = 1
+  read_at = 0001-01-01T00:00:00Z
+  review = "Klein's thesis around polarization and some of its roots is generally correct, but if you stop to think about what's being written, some of the disingenuity comes into closer focus. For example, the book starts out talking about Trump (what else), but immediately lays down the premise that the reason for Trump's rise is that the electorate is bad. Not touched upon at all is the Democratic Party putting its thumb on the scale to jam their favored candidate in place, a person with decades worth of dubious behavior in DC that practically nobody in America likes. Klein is obsessed with identity politics, or rather the idea that it doesn't exist, and if it did, it's something that everybody is doing, gaslighting by fiat that there isn't something quite toxic that the modern left has made a major part of their core platform. The book tries to appear mostly unbiased throughout, but by the back third Klein is into overt theses of \"the Democratic Party is fundamentally good and the Republic Party is fundamentally bad\", which he \"proves\" by showing that more of the mainstream media favors the Democratic Party. Just amazing."
+  review_id = 5088371657
+  title = "Why We're Polarized"
+
+  [[readings.authors]]
+    id = 4412018
+    name = "Ezra Klein"
+
+[[readings]]
   id = 50053432
   isbn = "1476785244"
   isbn13 = "9781476785240"

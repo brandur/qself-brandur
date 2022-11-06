@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-11-06T17:36:05Z
+  favorite_count = 14
+  id = 1589310667542396928
+  text = "Nice — Mastodon specifically uses the header `Idempotency-Key` to prevent duplicates while posting status updates.\n\nhttps://t.co/NbaMGBIe1l"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/mastodon/masto…"
+      expanded_url = "https://github.com/mastodon/mastodon/pull/2419"
+      url = "https://t.co/NbaMGBIe1l"
+
+[[tweets]]
   created_at = 2022-11-03T19:14:43Z
   favorite_count = 10
   id = 1588248324204679168
