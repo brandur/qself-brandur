@@ -1,5 +1,76 @@
 
 [[tweets]]
+  created_at = 2022-11-07T17:55:45Z
+  favorite_count = 6
+  id = 1589678005122928640
+  text = "Can't tell you how many ex-colleagues who've written some great stuff before who I'll look up like, \"I wonder if X has written anything since 2010 …\".\n\nUnfortunately, the answer is always \"no\", but it shouldn't be.\n\nYou should start (or continue) a blog.\n\nhttps://t.co/zm4mkOW2SF"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/simonw/status/…"
+      expanded_url = "https://twitter.com/simonw/status/1589305016099442689"
+      url = "https://t.co/zm4mkOW2SF"
+
+[[tweets]]
+  created_at = 2022-11-07T16:19:42Z
+  favorite_count = 2
+  id = 1589653833894227968
+  text = "@embano1 @IGrabill @010Shivam @CloudEventsIO • Client-side, it simplifies implementation in that adding the idempotency key can be done in some generic part of the code somewhere that's agnostic to which API operation is being called."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "embano1"
+      user_id = 122923515
+
+    [[tweets.entities.user_mentions]]
+      user = "IGrabill"
+      user_id = 127655116
+
+    [[tweets.entities.user_mentions]]
+      user = "010Shivam"
+      user_id = 701765134574817280
+
+    [[tweets.entities.user_mentions]]
+      user = "CloudEventsIO"
+      user_id = 992368635413979136
+
+  [tweets.reply]
+    status_id = 1589653733948141568
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2022-11-07T16:19:19Z
+  favorite_count = 2
+  id = 1589653733948141568
+  text = "@embano1 @IGrabill @010Shivam @CloudEventsIO I'll also add a couple more implementation advantages:\n\n• Server-side, you can implement the idempotency layer as something like a middleware that can run without having to parse the payload."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "embano1"
+      user_id = 122923515
+
+    [[tweets.entities.user_mentions]]
+      user = "IGrabill"
+      user_id = 127655116
+
+    [[tweets.entities.user_mentions]]
+      user = "010Shivam"
+      user_id = 701765134574817280
+
+    [[tweets.entities.user_mentions]]
+      user = "CloudEventsIO"
+      user_id = 992368635413979136
+
+  [tweets.reply]
+    status_id = 1589340449139195905
+    user = "embano1"
+    user_id = 122923515
+
+[[tweets]]
   created_at = 2022-11-06T17:36:05Z
   favorite_count = 25
   id = 1589310667542396928
@@ -10754,7 +10825,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2117
+  favorite_count = 2112
   id = 1182066723337293828
   retweet_count = 771
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -27100,9 +27171,9 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2590
+  favorite_count = 2586
   id = 919646432721641472
-  retweet_count = 1007
+  retweet_count = 1006
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
 
   [tweets.entities]
@@ -50978,9 +51049,9 @@
 
 [[tweets]]
   created_at = 2013-10-18T23:20:07Z
-  favorite_count = 456
+  favorite_count = 453
   id = 391342960870453248
-  retweet_count = 889
+  retweet_count = 888
   text = "RT @Th_15798035965: When Banksy comes to Gotham I’m going to buy one of his pieces for the cave, then break his arm for vandalism. I’m tough but I’m fair."
 
   [tweets.entities]
