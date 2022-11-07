@@ -1,8 +1,9 @@
 
 [[tweets]]
   created_at = 2022-11-07T17:55:45Z
-  favorite_count = 6
+  favorite_count = 17
   id = 1589678005122928640
+  retweet_count = 2
   text = "Can't tell you how many ex-colleagues who've written some great stuff before who I'll look up like, \"I wonder if X has written anything since 2010 …\".\n\nUnfortunately, the answer is always \"no\", but it shouldn't be.\n\nYou should start (or continue) a blog.\n\nhttps://t.co/zm4mkOW2SF"
 
   [tweets.entities]
@@ -27171,7 +27172,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2586
+  favorite_count = 2590
   id = 919646432721641472
   retweet_count = 1006
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -51049,7 +51050,7 @@
 
 [[tweets]]
   created_at = 2013-10-18T23:20:07Z
-  favorite_count = 453
+  favorite_count = 456
   id = 391342960870453248
   retweet_count = 888
   text = "RT @Th_15798035965: When Banksy comes to Gotham I’m going to buy one of his pieces for the cave, then break his arm for vandalism. I’m tough but I’m fair."
