@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2022-11-09T22:07:16Z
-  favorite_count = 34
+  favorite_count = 43
   id = 1590466077573918720
-  retweet_count = 1
+  retweet_count = 2
   text = "Remeasured today — Go code is ~2150 test cases and runs in < 10s uncached on my Air. Most are DB-backed, so no cheating.\n\nAt $lastJob, that was the time to run a single test case, AFTER 1000s of hours sunk into optimizations.\n\nStart lean. Keep it lean.\n\nhttps://t.co/ClsKH9HH1v"
 
   [tweets.entities]
