@@ -1,5 +1,28 @@
 
 [[tweets]]
+  created_at = 2022-11-14T18:25:59Z
+  favorite_count = 3
+  id = 1592222327651323905
+  text = "Yesterday: A little mushroom hunting (ever wondered where the Super Mario mushrooms come from?), and now posting content to a toy Spring '83 board.\n\nhttps://t.co/4KvcIhmzSf https://t.co/KRFiIDIkfF"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1592222037699080193
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fhi1geCaMAEzr3k.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1592222211456520193
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fhi1qlVaUAE8iek.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/sequences/030"
+      expanded_url = "https://brandur.org/sequences/030"
+      url = "https://t.co/4KvcIhmzSf"
+
+[[tweets]]
   created_at = 2022-11-09T22:07:16Z
   favorite_count = 49
   id = 1590466077573918720
@@ -13780,7 +13803,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 861
+  favorite_count = 864
   id = 1108525994405564417
   retweet_count = 82
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
