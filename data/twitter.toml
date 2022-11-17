@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-11-16T22:16:47Z
-  favorite_count = 2
+  favorite_count = 5
   id = 1593005184430788608
   text = "@craigkerstiens @jkakar Jamu, I was about to quip that you could simulate $lastJob's _entire_ test suite by putting a 45 second sleep before _every_ test case, but I did the math:\n\n> 3000.0 * 45 / 3600.0\n=> 37.5\n\n3000 cases * 45 sec sleep =~ 37.5 hours. Nowhere near enough."
 
@@ -27297,7 +27297,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2581
+  favorite_count = 2578
   id = 919646432721641472
   retweet_count = 1005
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
