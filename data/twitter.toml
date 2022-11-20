@@ -876,17 +876,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "HrishiTiwari87"
-      user_id = 1552907797448179712
-
-    [[tweets.entities.user_mentions]]
       user = "ankitml"
       user_id = 957286135595646976
-
-  [tweets.reply]
-    status_id = 1558815276140875780
-    user = "HrishiTiwari87"
-    user_id = 1552907797448179712
 
 [[tweets]]
   created_at = 2022-08-14T20:13:28Z
@@ -10981,7 +10972,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2096
+  favorite_count = 2100
   id = 1182066723337293828
   retweet_count = 768
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -13890,7 +13881,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 858
+  favorite_count = 861
   id = 1108525994405564417
   retweet_count = 82
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
@@ -18383,7 +18374,7 @@
 
 [[tweets]]
   created_at = 2018-07-12T17:54:40Z
-  favorite_count = 1007
+  favorite_count = 1004
   id = 1017467292932665344
   retweet_count = 295
   text = "There's nothing quite as nefarious as a technical decision made via Slack: stakeholders miss it if they're not around, points are poorly stated as they're strung across 50 half-baked thoughts, context exists across pages of jumbled noise, *and* it's time consuming.\n\nI miss email."
@@ -33645,7 +33636,7 @@
 
 [[tweets]]
   created_at = 2017-03-04T07:49:30Z
-  favorite_count = 60
+  favorite_count = 57
   id = 837933003317792770
   retweet_count = 16
   text = "RT @anildash: Another excellent recent writing on tech architecture, @brandur on idempotency: https://t.co/H4US22N4aB Lucidly explains key concepts."
