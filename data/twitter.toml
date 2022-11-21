@@ -774,8 +774,17 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "HrishiTiwari87"
+      user_id = 1552907797448179712
+
+    [[tweets.entities.user_mentions]]
       user = "ankitml"
       user_id = 957286135595646976
+
+  [tweets.reply]
+    status_id = 1559027082042097667
+    user = "HrishiTiwari87"
+    user_id = 1552907797448179712
 
 [[tweets]]
   created_at = 2022-08-16T01:08:21Z
@@ -51210,9 +51219,9 @@
 
 [[tweets]]
   created_at = 2013-10-18T23:20:07Z
-  favorite_count = 453
+  favorite_count = 450
   id = 391342960870453248
-  retweet_count = 888
+  retweet_count = 887
   text = "RT @Th_15798035965: When Banksy comes to Gotham I’m going to buy one of his pieces for the cave, then break his arm for vandalism. I’m tough but I’m fair."
 
   [tweets.entities]
