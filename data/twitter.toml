@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-11-21T03:11:00Z
-  favorite_count = 16
+  favorite_count = 19
   id = 1594528780390785024
   text = "Went to take a look at San Francisco's new Central Subway today. Never thought I'd actually see this thing.\n\nNice to finally have it though. Futuristic design, nice decor. And only a half decade behind schedule (fully open 2023) and $375M over budget, so not so bad for SF really. https://t.co/ARFALIi9QD"
 
@@ -10995,7 +10995,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2093
+  favorite_count = 2089
   id = 1182066723337293828
   retweet_count = 767
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -48652,9 +48652,9 @@
 
 [[tweets]]
   created_at = 2014-02-27T03:06:56Z
-  favorite_count = 104
+  favorite_count = 101
   id = 438872853912383489
-  retweet_count = 103
+  retweet_count = 102
   text = "RT @jxnblk: also have vim invites, hit me up"
 
   [tweets.entities]
