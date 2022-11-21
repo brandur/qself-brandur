@@ -1,5 +1,28 @@
 
 [[tweets]]
+  created_at = 2022-11-21T03:11:00Z
+  favorite_count = 5
+  id = 1594528780390785024
+  text = "Went to take a look at San Francisco's new Central Subway today. Never thought I'd actually see this thing.\n\nNice to finally have it though. Futuristic design, nice decor. And only a half decade behind schedule (fully open 2023) and $375M over budget, so not so bad for SF really. https://t.co/ARFALIi9QD"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1594526876097134592
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FiDlvuKVQAAFw8n.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1594526904853225492
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FiDlxZSUYBQ7BSK.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1594526961413812224
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FiDl0r_acAARnTW.jpg"
+
+[[tweets]]
   created_at = 2022-11-20T00:42:13Z
   favorite_count = 9
   id = 1594128948740313088
