@@ -281,7 +281,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T18:14:06Z
-  favorite_count = 786
+  favorite_count = 782
   id = 1588233068984180737
   retweet_count = 41
   text = "Stripe's prime competency isn't payments, engineering, or product — it's PR, and always was. I look on in reluctant admiration at how even layoffs are executed about as masterfully as is possible.\n\nSorry to anyone who got hit. This sucks."
@@ -774,17 +774,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "HrishiTiwari87"
-      user_id = 1552907797448179712
-
-    [[tweets.entities.user_mentions]]
       user = "ankitml"
       user_id = 957286135595646976
-
-  [tweets.reply]
-    status_id = 1559027082042097667
-    user = "HrishiTiwari87"
-    user_id = 1552907797448179712
 
 [[tweets]]
   created_at = 2022-08-16T01:08:21Z
@@ -899,8 +890,17 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "HrishiTiwari87"
+      user_id = 1552907797448179712
+
+    [[tweets.entities.user_mentions]]
       user = "ankitml"
       user_id = 957286135595646976
+
+  [tweets.reply]
+    status_id = 1558815276140875780
+    user = "HrishiTiwari87"
+    user_id = 1552907797448179712
 
 [[tweets]]
   created_at = 2022-08-14T20:13:28Z
@@ -14304,9 +14304,9 @@
 
 [[tweets]]
   created_at = 2019-02-09T16:48:16Z
-  favorite_count = 200
+  favorite_count = 197
   id = 1094276807476432896
-  retweet_count = 26
+  retweet_count = 25
   text = "Getting a patch reviewed on the Postgres hackers mailing list floors me every time — just at the next level in terms of attention to detail, effort invested, and thoughtfulness. I'm 10+ years into working in software professionally and I've never seen anything else like it."
 
 [[tweets]]
@@ -16143,7 +16143,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 575
+  favorite_count = 572
   id = 1051202041844883456
   retweet_count = 104
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
