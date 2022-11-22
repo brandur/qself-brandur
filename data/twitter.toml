@@ -1,5 +1,60 @@
 
 [[tweets]]
+  created_at = 2022-11-22T00:03:31Z
+  id = 1594843985197105152
+  text = "@blakegentry I think this might be it ;) Utilitarian, but it fits with the brutalist look of a lot of the existing stations.\n\nThey do have some nice decorations in a few places. Chinatown murals are nice, and the Powell stop has a nice rooftop piece of art — kind of a river of mirrors."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "blakegentry"
+      user_id = 92102736
+
+  [tweets.reply]
+    status_id = 1594534833128345601
+    user = "blakegentry"
+    user_id = 92102736
+
+[[tweets]]
+  created_at = 2022-11-22T00:00:15Z
+  id = 1594843164686295041
+  text = "@srinathkrishna Yeah, it's Muni, but also a subway. And yeah, when it's fully open in 2023 it'll connect the 4th St Caltrain station with BART at Powell. It's overdue, but no need to wait until 2030 at least!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "srinathkrishna"
+      user_id = 150573016
+
+  [tweets.reply]
+    status_id = 1594538548136333314
+    user = "srinathkrishna"
+    user_id = 150573016
+
+[[tweets]]
+  created_at = 2022-11-21T23:58:46Z
+  favorite_count = 1
+  id = 1594842789183119361
+  text = "Been keeping an eye out since reading this great article on the truffle industry (and how it's BS).\n\nSo far, 1 for 1. Here's a premium truffle product at an expensive SF boutique. Inspect tin, and it's tuber indicum, a cheap, tasteless truffle from China.\n\nhttps://t.co/9bZfMxlwFh https://t.co/jDwdIr4Ldb"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1594842777082208256
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FiIFDlCVIAAT3CO.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1594842777086349312
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FiIFDlDUUAAB7cm.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "tasteatlas.com/truffle-indust…"
+      expanded_url = "https://www.tasteatlas.com/truffle-industry-is-a-big-scam"
+      url = "https://t.co/9bZfMxlwFh"
+
+[[tweets]]
   created_at = 2022-11-21T03:11:00Z
   favorite_count = 19
   id = 1594528780390785024
@@ -10995,7 +11050,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2089
+  favorite_count = 2093
   id = 1182066723337293828
   retweet_count = 767
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
