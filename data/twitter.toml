@@ -1,5 +1,30 @@
 
 [[tweets]]
+  created_at = 2022-11-24T02:54:44Z
+  favorite_count = 2
+  id = 1595611848132292608
+  text = "(As I found out the hard way today.)"
+
+  [tweets.reply]
+    status_id = 1595611782697000961
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2022-11-24T02:54:28Z
+  favorite_count = 7
+  id = 1595611782697000961
+  retweet_count = 1
+  text = "Go package of the day, which verifies no goroutines are still running after a test case:\nhttps://t.co/ZZ2nz7xjip\n\nPut it in sooner rather than later because it just gets harder. It's _really_ easy for tests to accidentally leave goroutines running that no one would ever notice."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/uber-go/goleak"
+      expanded_url = "https://github.com/uber-go/goleak"
+      url = "https://t.co/ZZ2nz7xjip"
+
+[[tweets]]
   created_at = 2022-11-22T00:03:31Z
   id = 1594843985197105152
   text = "@blakegentry I think this might be it ;) Utilitarian, but it fits with the brutalist look of a lot of the existing stations.\n\nThey do have some nice decorations in a few places. Chinatown murals are nice, and the Powell stop has a nice rooftop piece of art — kind of a river of mirrors."
