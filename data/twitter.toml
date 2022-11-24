@@ -12,9 +12,9 @@
 
 [[tweets]]
   created_at = 2022-11-24T02:54:28Z
-  favorite_count = 17
+  favorite_count = 25
   id = 1595611782697000961
-  retweet_count = 1
+  retweet_count = 2
   text = "Go package of the day, which verifies no goroutines are still running after a test case:\nhttps://t.co/ZZ2nz7xjip\n\nPut it in sooner rather than later because it just gets harder. It's _really_ easy for tests to accidentally leave goroutines running that no one would ever notice."
 
   [tweets.entities]
