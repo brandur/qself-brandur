@@ -16681,9 +16681,9 @@
 
 [[tweets]]
   created_at = 2018-09-11T22:08:35Z
-  favorite_count = 116
+  favorite_count = 113
   id = 1039636849986170880
-  retweet_count = 22
+  retweet_count = 20
   text = "Mongo satirizes Mongo better than its critics ever could!\n\nThere are two paths in data architecture: use a relational database, or build a pale shadow of one in your app layer as you desperately try to shore up data integrity on your non-relational store.\n\nhttps://t.co/xrNKC7UvO4"
 
   [tweets.entities]
