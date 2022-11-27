@@ -11103,9 +11103,9 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2090
+  favorite_count = 2095
   id = 1182066723337293828
-  retweet_count = 765
+  retweet_count = 764
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
 
   [tweets.entities]
@@ -48907,9 +48907,9 @@
 
 [[tweets]]
   created_at = 2014-02-20T08:17:49Z
-  favorite_count = 133
+  favorite_count = 131
   id = 436414374853365760
-  retweet_count = 498
+  retweet_count = 495
   text = "RT @dhh: So very sad to hear about the passing of Ruby legend Jim Weirich. He taught me and many others so much. He will be dearly missed."
 
   [tweets.entities]
