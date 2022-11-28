@@ -1,5 +1,54 @@
 
 [[tweets]]
+  created_at = 2022-11-28T03:29:23Z
+  id = 1597070118927798272
+  text = "@SnarkyPixel_ Yep ... shows how dangerous hubris and complacency can be."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "SnarkyPixel_"
+      user_id = 1163270571662159872
+
+  [tweets.reply]
+    status_id = 1596984950061793280
+    user = "SnarkyPixel_"
+    user_id = 1163270571662159872
+
+[[tweets]]
+  created_at = 2022-11-28T03:27:37Z
+  id = 1597069675917369350
+  text = "@jotosmurf Yep, I admit to being a freeloader myself.\n\nThe free tier was never sustainable, and without Heroku becoming an absolutely smashing success that could cover the losses from it (still a possibility in 2012, but didn't happen), this was inevitable."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jotosmurf"
+      user_id = 319715251
+
+  [tweets.reply]
+    status_id = 1596986718322057220
+    user = "jotosmurf"
+    user_id = 319715251
+
+[[tweets]]
+  created_at = 2022-11-28T03:25:22Z
+  favorite_count = 1
+  id = 1597069111234035713
+  text = "@jm3 Google Cloud Run is pretty decent. Google's set up and IAM model are a bit of a mess TBH, but I run some small container-based apps for a few pennies a month, and I like that I'm locking into something that likely has decent longevity."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jm3"
+      user_id = 59593
+
+  [tweets.reply]
+    status_id = 1597016247874428930
+    user = "jm3"
+    user_id = 59593
+
+[[tweets]]
   created_at = 2022-11-27T21:44:36Z
   favorite_count = 20
   id = 1596983353387159553
@@ -11110,7 +11159,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2095
+  favorite_count = 2090
   id = 1182066723337293828
   retweet_count = 764
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
