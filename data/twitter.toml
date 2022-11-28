@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2022-11-28T11:51:48Z
+  id = 1597196557509529600
+  text = "@snoble I think it's a much more simple cause (parks) and effect (higher prices). Parks are basically lucky historical artifacts — except in rare circumstances, cities don't/can't build new ones (or at least none larger than a small block)."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "snoble"
+      user_id = 755779
+
+  [tweets.reply]
+    status_id = 1596927932999794689
+    user = "snoble"
+    user_id = 755779
+
+[[tweets]]
   created_at = 2022-11-28T03:29:23Z
   id = 1597070118927798272
   text = "@SnarkyPixel_ Yep ... shows how dangerous hubris and complacency can be."
@@ -11159,7 +11175,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2090
+  favorite_count = 2095
   id = 1182066723337293828
   retweet_count = 764
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -33883,7 +33899,6 @@
 
 [[tweets]]
   created_at = 2017-02-28T17:18:14Z
-  favorite_count = 1
   id = 836626577299382272
   text = "@seeteegee @paklnet Yes! A huge aspect of high productivity is consistent expectations. No sudden popups or mode changes."
 
@@ -33892,10 +33907,6 @@
     [[tweets.entities.user_mentions]]
       user = "seeteegee"
       user_id = 120867493
-
-    [[tweets.entities.user_mentions]]
-      user = "paklnet"
-      user_id = 16808467
 
   [tweets.reply]
     status_id = 835980767452868608
