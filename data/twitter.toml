@@ -2663,9 +2663,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4222
+  favorite_count = 4215
   id = 1519506737128038400
-  retweet_count = 376
+  retweet_count = 375
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
 
 [[tweets]]
@@ -3376,7 +3376,7 @@
 
 [[tweets]]
   created_at = 2022-01-18T06:31:10Z
-  favorite_count = 6
+  favorite_count = 9
   id = 1483326078194106373
   text = "Apple spaceship just barely visible in the distance. https://t.co/WBLlv5mPRC"
 
@@ -3443,7 +3443,7 @@
 
 [[tweets]]
   created_at = 2021-12-20T19:22:50Z
-  favorite_count = 21
+  favorite_count = 25
   id = 1473011026572414980
   retweet_count = 4
   text = "I'm still walking the line as to whether Slack is overall net good or bad, but one thing I'm sure of is that using it in moderation is better.\n\nOne technique we're trying: experimenting with disciplined threading to overcome total Slack-mania —\n\nhttps://t.co/QayPCBYD5E"
@@ -4277,9 +4277,9 @@
 
 [[tweets]]
   created_at = 2021-10-13T18:36:10Z
-  favorite_count = 658
+  favorite_count = 661
   id = 1448356908960661505
-  retweet_count = 44
+  retweet_count = 43
   text = "RT @micsolana: this is impossible because inflation doesn't exist but if it did exist it wouldn't be happening and if it *was* happening it would be a good thing, actually, everyone knows this. please learn econ https://t.co/JJfLKuStmx"
 
   [tweets.entities]
@@ -9015,7 +9015,7 @@
 
 [[tweets]]
   created_at = 2020-10-07T15:12:05Z
-  favorite_count = 19
+  favorite_count = 16
   id = 1313859649045590016
   retweet_count = 1
   text = "Nanoglyph 014 is about local first, diving in Indonesia, and being reminded how great software is when it runs without an internet connection. Also, for good measure, Neil Gaiman’s Sandman.\n\nhttps://t.co/JSbzGmaCoe https://t.co/YuY4wvg3uM"
@@ -11197,7 +11197,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2095
+  favorite_count = 2089
   id = 1182066723337293828
   retweet_count = 763
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -12222,9 +12222,9 @@
 
 [[tweets]]
   created_at = 2019-07-30T19:03:05Z
-  favorite_count = 103
+  favorite_count = 106
   id = 1156279061078896640
-  retweet_count = 17
+  retweet_count = 16
   text = "A favorite operational trick from Stripe —\n\nMetrics and dashboards are great, but despite its inefficiencies, logging will always have a place in operations — it gets you insight in tight spots that you'd never have otherwise.\n\nhttps://t.co/NvGlUADegr"
 
   [tweets.entities]
@@ -16345,7 +16345,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 575
+  favorite_count = 578
   id = 1051202041844883456
   retweet_count = 104
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -25765,7 +25765,7 @@
 
 [[tweets]]
   created_at = 2017-12-03T23:22:26Z
-  favorite_count = 19
+  favorite_count = 22
   id = 937462057850376192
   retweet_count = 1
   text = "This is cool: 99%+ bottles of Yebisu look like the one on the right. One in a few hundred look like the one on the left.\n\nIn these “Lucky Yebisus” the lucky god has an extra fish: look for the tail in the basket on the very left.\n\nA tiny, yet ubiquitous, easter egg. Love it. https://t.co/gRWbg5NwUg"
@@ -33962,6 +33962,17 @@
   id = 836625958782185473
   text = "@paklnet Honestly, that’s probably closer to what we should be doing today than what we’re doing."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "paklnet"
+      user_id = 16808467
+
+  [tweets.reply]
+    status_id = 835919123330695168
+    user = "paklnet"
+    user_id = 16808467
+
 [[tweets]]
   created_at = 2017-02-28T17:15:04Z
   favorite_count = 11
@@ -34005,17 +34016,6 @@
   created_at = 2017-02-26T15:50:16Z
   id = 835879665222860800
   text = "@paklnet Thanks! And I’ve heard a lot about Plan 9, but never really tried it. Seems like an interesting project."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "paklnet"
-      user_id = 16808467
-
-  [tweets.reply]
-    status_id = 835758260623855617
-    user = "paklnet"
-    user_id = 16808467
 
 [[tweets]]
   created_at = 2017-02-26T15:49:56Z
