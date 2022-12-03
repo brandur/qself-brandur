@@ -1504,22 +1504,6 @@
     name = "Gene Wolfe"
 
 [[readings]]
-  id = 271587
-  isbn = "0312863543"
-  isbn13 = "9780312863548"
-  num_pages = 384
-  published_year = 1997
-  rating = 3
-  read_at = 2019-04-09T00:00:00-07:00
-  review = ""
-  review_id = 2789229255
-  title = "The Island of Dr. Death and Other Stories and Other Stories"
-
-  [[readings.authors]]
-    id = 23069
-    name = "Gene Wolfe"
-
-[[readings]]
   id = 17800
   isbn = "0099448769"
   isbn13 = "9780099448761"
