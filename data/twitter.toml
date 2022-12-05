@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2022-12-05T03:13:18Z
+  id = 1599602789965262849
+  text = "@fractaledmind I gave it a quick try and it looks right.\n\nA potential problem depending on your use case is that since you're using hex instead of base32 for the random portion, you're losing range in that random component, or in other words, you have many fewer potential ULIDs per millisecond."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "fractaledmind"
+      user_id = 1319278286
+
+  [tweets.reply]
+    status_id = 1599488427451293696
+    user = "fractaledmind"
+    user_id = 1319278286
+
+[[tweets]]
   created_at = 2022-11-28T19:43:31Z
   id = 1597315270854352896
   text = "@snoble True, although I don't think it's too common to pave over parks for new construction. Maybe somewhere that happens, but around here even replacing a parking lot with an apartment building garners a lot of community opposition."
