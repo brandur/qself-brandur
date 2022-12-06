@@ -2692,9 +2692,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4220
+  favorite_count = 4217
   id = 1519506737128038400
-  retweet_count = 374
+  retweet_count = 375
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
 
 [[tweets]]
@@ -15657,12 +15657,6 @@
   id = 1064691707134918656
   text = "@shay_ker Yeah, same. Love the syntax, but I have to give it a hard time just based on how little progress it's made on any of its existential problems, even when measured over the last decade — e.g., concurrency, speed, typing."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "shay_ker"
-      user_id = 1599883798287638531
-
   [tweets.reply]
     status_id = 1064547434452398080
     user = "__smiz"
@@ -20547,6 +20541,12 @@
   created_at = 2018-04-27T22:36:09Z
   id = 989996649022799872
   text = "@shay_ker Totally! I was referring to a separate machine, but it could be either.\n\nThe reason I use \"node\" is that we're an AWS stack, and so we're using managed Redis on ElastiCache. They don't give you the option to build a cluster on one multi-core machine, but that would sure be nice."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "shay_ker"
+      user_id = 1599883798287638531
 
   [tweets.reply]
     status_id = 989989449021960192
@@ -38181,17 +38181,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
-
-    [[tweets.entities.user_mentions]]
       user = "keiko713"
       user_id = 137869145
-
-  [tweets.reply]
-    status_id = 743990356786634752
-    user = "_dmathieu"
-    user_id = 7134522
 
 [[tweets]]
   created_at = 2016-06-18T02:13:52Z
@@ -38567,6 +38558,12 @@
   created_at = 2016-05-05T16:19:30Z
   id = 728257825403711488
   text = "@dmathieu Happy birthday! I love that lens."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "dmathieu"
+      user_id = 1564233359391428608
 
 [[tweets]]
   created_at = 2016-04-25T23:07:11Z
@@ -42692,6 +42689,10 @@
   text = "@dmathieu @yann_ck @franckverrot Good call :) I’m relieved to say that chartreuse is generally pretty available around SF at least."
 
   [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "dmathieu"
+      user_id = 1564233359391428608
 
     [[tweets.entities.user_mentions]]
       user = "yann_ck"
