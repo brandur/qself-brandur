@@ -171,7 +171,7 @@
 
 [[tweets]]
   created_at = 2022-11-24T02:54:28Z
-  favorite_count = 78
+  favorite_count = 82
   id = 1595611782697000961
   retweet_count = 12
   text = "Go package of the day, which verifies no goroutines are still running after a test case:\nhttps://t.co/ZZ2nz7xjip\n\nPut it in sooner rather than later because it just gets harder. It's _really_ easy for tests to accidentally leave goroutines running that no one would ever notice."
@@ -491,7 +491,7 @@
 
 [[tweets]]
   created_at = 2022-11-06T17:36:05Z
-  favorite_count = 25
+  favorite_count = 22
   id = 1589310667542396928
   text = "Nice — Mastodon specifically uses the header `Idempotency-Key` to prevent duplicates while posting status updates.\n\nhttps://t.co/NbaMGBIe1l"
 
@@ -11226,7 +11226,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2092
+  favorite_count = 2085
   id = 1182066723337293828
   retweet_count = 760
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -14135,7 +14135,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 855
+  favorite_count = 858
   id = 1108525994405564417
   retweet_count = 82
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
@@ -15657,6 +15657,12 @@
   id = 1064691707134918656
   text = "@shay_ker Yeah, same. Love the syntax, but I have to give it a hard time just based on how little progress it's made on any of its existential problems, even when measured over the last decade — e.g., concurrency, speed, typing."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "shay_ker"
+      user_id = 1599883798287638531
+
   [tweets.reply]
     status_id = 1064547434452398080
     user = "__smiz"
@@ -16374,7 +16380,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 573
+  favorite_count = 570
   id = 1051202041844883456
   retweet_count = 104
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -27572,7 +27578,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2557
+  favorite_count = 2553
   id = 919646432721641472
   retweet_count = 1000
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -34126,6 +34132,12 @@
   id = 835228708898140161
   text = "@dmathieu Thank you Damien! :)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "dmathieu"
+      user_id = 1564233359391428608
+
 [[tweets]]
   created_at = 2017-02-23T16:44:40Z
   id = 834806190018170880
@@ -38533,17 +38545,6 @@
   id = 732868163583369216
   text = "@dmathieu Haha. I’m in Berlin!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
-
-  [tweets.reply]
-    status_id = 732867752675905536
-    user = "_dmathieu"
-    user_id = 7134522
-
 [[tweets]]
   created_at = 2016-05-13T17:08:59Z
   id = 731169381716123648
@@ -38566,17 +38567,6 @@
   created_at = 2016-05-05T16:19:30Z
   id = 728257825403711488
   text = "@dmathieu Happy birthday! I love that lens."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
-
-  [tweets.reply]
-    status_id = 727067633024126976
-    user = "_dmathieu"
-    user_id = 7134522
 
 [[tweets]]
   created_at = 2016-04-25T23:07:11Z
@@ -42704,21 +42694,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
-
-    [[tweets.entities.user_mentions]]
       user = "yann_ck"
       user_id = 1500986812042555400
 
     [[tweets.entities.user_mentions]]
       user = "franckverrot"
       user_id = 48102727
-
-  [tweets.reply]
-    status_id = 606387269063340032
-    user = "_dmathieu"
-    user_id = 7134522
 
 [[tweets]]
   created_at = 2015-06-04T09:14:59Z
@@ -43660,10 +43641,6 @@
     [[tweets.entities.user_mentions]]
       user = "yann_ck"
       user_id = 1500986812042555400
-
-    [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
 
 [[tweets]]
   created_at = 2015-03-07T17:41:40Z
