@@ -11260,7 +11260,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2085
+  favorite_count = 2091
   id = 1182066723337293828
   retweet_count = 760
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -20576,12 +20576,6 @@
   id = 989996649022799872
   text = "@shay_ker Totally! I was referring to a separate machine, but it could be either.\n\nThe reason I use \"node\" is that we're an AWS stack, and so we're using managed Redis on ElastiCache. They don't give you the option to build a cluster on one multi-core machine, but that would sure be nice."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "shay_ker"
-      user_id = 1599883798287638531
-
   [tweets.reply]
     status_id = 989989449021960192
     user = "__smiz"
@@ -24699,12 +24693,6 @@
   id = 948295107161161728
   text = "@dmathieu On the whole, maybe a more reliable deployment strategy than us-east-1 ;)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
-
 [[tweets]]
   created_at = 2018-01-02T03:15:39Z
   id = 948029996227891200
@@ -27606,7 +27594,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2553
+  favorite_count = 2557
   id = 919646432721641472
   retweet_count = 999
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -34160,12 +34148,6 @@
   id = 835228708898140161
   text = "@dmathieu Thank you Damien! :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
-
 [[tweets]]
   created_at = 2017-02-23T16:44:40Z
   id = 834806190018170880
@@ -38209,6 +38191,10 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "dmathieu"
+      user_id = 1564233359391428608
+
+    [[tweets.entities.user_mentions]]
       user = "keiko713"
       user_id = 137869145
 
@@ -38916,6 +38902,12 @@
   favorite_count = 1
   id = 720851280806084608
   text = "@dmathieu ”Everybody thinks they're Google.” Genius."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "dmathieu"
+      user_id = 1564233359391428608
 
 [[tweets]]
   created_at = 2016-04-15T04:48:13Z
@@ -43659,6 +43651,10 @@
     [[tweets.entities.user_mentions]]
       user = "yann_ck"
       user_id = 1500986812042555400
+
+    [[tweets.entities.user_mentions]]
+      user = "dmathieu"
+      user_id = 1564233359391428608
 
 [[tweets]]
   created_at = 2015-03-07T17:41:40Z
