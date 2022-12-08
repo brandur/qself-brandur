@@ -42696,6 +42696,10 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "dmathieu"
+      user_id = 1564233359391428608
+
+    [[tweets.entities.user_mentions]]
       user = "yann_ck"
       user_id = 1500986812042555400
 
