@@ -1,6 +1,7 @@
 
 [[tweets]]
   created_at = 2022-12-09T23:40:46Z
+  favorite_count = 3
   id = 1601361243599622145
   text = "Does your Go codebase use the \"leading name\" comment convention?\n\n// DoStuff does some stuff.\nfunc DoStuff() {\n}\n\nI've written thousands of these over the years, but even with automated tooling, they still feel like a net negative. Thinking about not doing it anymore."
 
@@ -11282,7 +11283,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2084
+  favorite_count = 2090
   id = 1182066723337293828
   retweet_count = 759
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -15712,6 +15713,12 @@
   favorite_count = 1
   id = 1064691707134918656
   text = "@shay_ker Yeah, same. Love the syntax, but I have to give it a hard time just based on how little progress it's made on any of its existential problems, even when measured over the last decade — e.g., concurrency, speed, typing."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "shay_ker"
+      user_id = 1599883798287638531
 
   [tweets.reply]
     status_id = 1064547434452398080
@@ -24174,6 +24181,10 @@
       user = "Benoit_Tgt"
       user_id = 129343129
 
+    [[tweets.entities.user_mentions]]
+      user = "DMathieu"
+      user_id = 1600914807905030160
+
   [tweets.reply]
     status_id = 953695408064143360
     user = "brandur"
@@ -24230,8 +24241,8 @@
       user_id = 129343129
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
   [tweets.reply]
     status_id = 953670436176441344
@@ -24716,6 +24727,12 @@
   created_at = 2018-01-02T20:49:06Z
   id = 948295107161161728
   text = "@dmathieu On the whole, maybe a more reliable deployment strategy than us-east-1 ;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
 [[tweets]]
   created_at = 2018-01-02T03:15:39Z
@@ -27618,7 +27635,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2556
+  favorite_count = 2552
   id = 919646432721641472
   retweet_count = 999
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -34081,6 +34098,17 @@
   id = 835879665222860800
   text = "@paklnet Thanks! And I’ve heard a lot about Plan 9, but never really tried it. Seems like an interesting project."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "paklnet"
+      user_id = 16808467
+
+  [tweets.reply]
+    status_id = 835758260623855617
+    user = "paklnet"
+    user_id = 16808467
+
 [[tweets]]
   created_at = 2017-02-26T15:49:56Z
   id = 835879582024675328
@@ -34171,6 +34199,12 @@
   created_at = 2017-02-24T20:43:36Z
   id = 835228708898140161
   text = "@dmathieu Thank you Damien! :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
 [[tweets]]
   created_at = 2017-02-23T16:44:40Z
@@ -38210,8 +38244,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
     [[tweets.entities.user_mentions]]
       user = "keiko713"
@@ -38595,8 +38629,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
 [[tweets]]
   created_at = 2016-04-25T23:07:11Z
@@ -42695,8 +42729,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
     [[tweets.entities.user_mentions]]
       user = "yann_ck"
@@ -42706,11 +42740,6 @@
       user = "franckverrot"
       user_id = 48102727
 
-  [tweets.reply]
-    status_id = 606387269063340032
-    user = "_dmathieu"
-    user_id = 7134522
-
 [[tweets]]
   created_at = 2015-06-04T09:16:59Z
   id = 606389170823557120
@@ -42719,8 +42748,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "DMathieu"
-      user_id = 1600914807905030160
+      user = "dmathieu"
+      user_id = 1564233359391428608
 
     [[tweets.entities.user_mentions]]
       user = "yann_ck"
@@ -51416,7 +51445,7 @@
   created_at = 2013-10-18T23:20:07Z
   favorite_count = 447
   id = 391342960870453248
-  retweet_count = 875
+  retweet_count = 872
   text = "RT @Th_15798035965: When Banksy comes to Gotham I’m going to buy one of his pieces for the cave, then break his arm for vandalism. I’m tough but I’m fair."
 
   [tweets.entities]
