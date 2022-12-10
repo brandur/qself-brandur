@@ -11282,7 +11282,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2090
+  favorite_count = 2084
   id = 1182066723337293828
   retweet_count = 759
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -24150,8 +24150,8 @@
       user_id = 129343129
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
   [tweets.reply]
     status_id = 953695566269054976
@@ -24174,10 +24174,6 @@
       user = "Benoit_Tgt"
       user_id = 129343129
 
-    [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
-
   [tweets.reply]
     status_id = 953695408064143360
     user = "brandur"
@@ -24197,6 +24193,10 @@
     [[tweets.entities.user_mentions]]
       user = "Benoit_Tgt"
       user_id = 129343129
+
+    [[tweets.entities.user_mentions]]
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
   [tweets.reply]
     status_id = 953686902741364737
