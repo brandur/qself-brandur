@@ -1,5 +1,10 @@
 
 [[tweets]]
+  created_at = 2022-12-09T23:40:46Z
+  id = 1601361243599622145
+  text = "Does your Go codebase use the \"leading name\" comment convention?\n\n// DoStuff does some stuff.\nfunc DoStuff() {\n}\n\nI've written thousands of these over the years, but even with automated tooling, they still feel like a net negative. Thinking about not doing it anymore."
+
+[[tweets]]
   created_at = 2022-12-09T02:34:30Z
   favorite_count = 7
   id = 1601042574361231360
