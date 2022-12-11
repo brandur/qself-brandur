@@ -26700,13 +26700,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
-
-  [tweets.reply]
-    status_id = 928980936426958848
-    user = "_dmathieu"
-    user_id = 7134522
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
 [[tweets]]
   created_at = 2017-11-10T01:47:41Z
@@ -27978,9 +27973,9 @@
 
 [[tweets]]
   created_at = 2017-10-03T19:10:27Z
-  favorite_count = 150
+  favorite_count = 147
   id = 915292985503342592
-  retweet_count = 60
+  retweet_count = 59
   text = "RT @romainhuet: So excited that @stripe now supports both the @w3c Payment Request API and Apple Pay with a single integration. 💳✨👌 https://t.co/9ISFa7jOC2"
 
   [tweets.entities]
