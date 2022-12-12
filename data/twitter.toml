@@ -24209,6 +24209,10 @@
       user = "Benoit_Tgt"
       user_id = 129343129
 
+    [[tweets.entities.user_mentions]]
+      user = "DMathieu"
+      user_id = 1600914807905030160
+
   [tweets.reply]
     status_id = 953686902741364737
     user = "appltn"
