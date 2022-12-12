@@ -15714,6 +15714,12 @@
   id = 1064691707134918656
   text = "@shay_ker Yeah, same. Love the syntax, but I have to give it a hard time just based on how little progress it's made on any of its existential problems, even when measured over the last decade — e.g., concurrency, speed, typing."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "shay_ker"
+      user_id = 1599883798287638531
+
   [tweets.reply]
     status_id = 1064547434452398080
     user = "__smiz"
@@ -38925,8 +38931,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
 [[tweets]]
   created_at = 2016-04-15T04:48:13Z
