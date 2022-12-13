@@ -43694,6 +43694,10 @@
       user = "yann_ck"
       user_id = 1500986812042555400
 
+    [[tweets.entities.user_mentions]]
+      user = "DMathieu"
+      user_id = 1600914807905030160
+
 [[tweets]]
   created_at = 2015-03-07T17:41:40Z
   id = 574263657959309312
