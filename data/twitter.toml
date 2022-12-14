@@ -1,5 +1,23 @@
 
 [[tweets]]
+  created_at = 2022-12-14T17:06:19Z
+  favorite_count = 6
+  id = 1603073915718602753
+  text = "Bankman-Fried's written testimony is a fascinating read. This is a serial liar of the highest order so don't believe a word of it, but still interesting.\n\nOne avenue he tried was to try and cancel the chapter 11 team. Good luck with that.\n\nhttps://t.co/pMehCEncB1 https://t.co/2XdWQuQhNB"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1603073909636485121
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fj9DOjSUUAEX1hz.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "assets.bwbx.io/documents/user…"
+      expanded_url = "https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rbgv1U_v6edA/v0"
+      url = "https://t.co/pMehCEncB1"
+
+[[tweets]]
   created_at = 2022-12-14T03:27:45Z
   favorite_count = 2
   id = 1602867913743945729
