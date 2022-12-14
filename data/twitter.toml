@@ -38615,6 +38615,12 @@
   id = 732868163583369216
   text = "@dmathieu Haha. I’m in Berlin!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DMathieu"
+      user_id = 1600914807905030160
+
 [[tweets]]
   created_at = 2016-05-13T17:08:59Z
   id = 731169381716123648
