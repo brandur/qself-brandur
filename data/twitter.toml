@@ -11300,7 +11300,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2081
+  favorite_count = 2087
   id = 1182066723337293828
   retweet_count = 759
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -24749,12 +24749,6 @@
   id = 948295107161161728
   text = "@dmathieu On the whole, maybe a more reliable deployment strategy than us-east-1 ;)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DMathieu"
-      user_id = 1600914807905030160
-
 [[tweets]]
   created_at = 2018-01-02T03:15:39Z
   id = 948029996227891200
@@ -26733,8 +26727,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "dmathieu"
-      user_id = 1564233359391428608
+      user = "DMathieu"
+      user_id = 1600914807905030160
 
 [[tweets]]
   created_at = 2017-11-10T01:47:41Z
@@ -27651,9 +27645,9 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2548
+  favorite_count = 2553
   id = 919646432721641472
-  retweet_count = 998
+  retweet_count = 999
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
 
   [tweets.entities]
@@ -38608,12 +38602,6 @@
   id = 732868163583369216
   text = "@dmathieu Haha. I’m in Berlin!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DMathieu"
-      user_id = 1600914807905030160
-
 [[tweets]]
   created_at = 2016-05-13T17:08:59Z
   id = 731169381716123648
@@ -42122,8 +42110,17 @@
       url = "https://t.co/Fpq07WIUwu"
 
     [[tweets.entities.user_mentions]]
+      user = "jmccartie"
+      user_id = 13678852
+
+    [[tweets.entities.user_mentions]]
       user = "neilmiddleton"
       user_id = 4143281
+
+  [tweets.reply]
+    status_id = 616647606194712576
+    user = "jmccartie"
+    user_id = 13678852
 
 [[tweets]]
   created_at = 2015-07-02T14:35:54Z
@@ -42726,8 +42723,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "DMathieu"
-      user_id = 1600914807905030160
+      user = "dmathieu"
+      user_id = 1564233359391428608
 
     [[tweets.entities.user_mentions]]
       user = "yann_ck"
