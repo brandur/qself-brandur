@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2022-12-16T15:45:13Z
+  id = 1603778281404534785
+  text = "@michelletandler 100% driven by bad policy and entirely preventable. Very weird to see Breed talking about downtown recovery after she personally destroyed it.\n\nIt the end it might be a good thing for SF though. None of this bad policy will ever be addressed unless there are real consequences."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "michelletandler"
+      user_id = 204970988
+
+  [tweets.reply]
+    status_id = 1603770890839359490
+    user = "michelletandler"
+    user_id = 204970988
+
+[[tweets]]
   created_at = 2022-12-14T17:06:19Z
   favorite_count = 9
   id = 1603073915718602753
@@ -2797,9 +2813,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4211
+  favorite_count = 4214
   id = 1519506737128038400
-  retweet_count = 373
+  retweet_count = 372
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
 
 [[tweets]]
@@ -11331,9 +11347,9 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2078
+  favorite_count = 2082
   id = 1182066723337293828
-  retweet_count = 757
+  retweet_count = 756
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
 
   [tweets.entities]
@@ -24780,12 +24796,6 @@
   id = 948295107161161728
   text = "@dmathieu On the whole, maybe a more reliable deployment strategy than us-east-1 ;)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DMathieu"
-      user_id = 1600914807905030160
-
 [[tweets]]
   created_at = 2018-01-02T03:15:39Z
   id = 948029996227891200
@@ -34177,9 +34187,15 @@
   id = 835594323974500352
   text = "@mginnard Aha, I get it now! I was wondering when Google came up empty.\n\nAnd thanks!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "mginnard"
+      user_id = 228907226
+
   [tweets.reply]
     status_id = 835559542549180416
-    user = "mginnardarchive"
+    user = "mginnard"
     user_id = 228907226
 
 [[tweets]]
@@ -38629,12 +38645,6 @@
   id = 732868163583369216
   text = "@dmathieu Haha. I’m in Berlin!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "DMathieu"
-      user_id = 1600914807905030160
-
 [[tweets]]
   created_at = 2016-05-13T17:08:59Z
   id = 731169381716123648
@@ -42112,6 +42122,17 @@
   id = 617075075724881920
   text = "@jmccartie Yep :) Carpet bombing school of movie-making. Like a sheet of perforated metal, there's no one plot hole that you can point to."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jmccartie"
+      user_id = 13678852
+
+  [tweets.reply]
+    status_id = 617073115059716096
+    user = "jmccartie"
+    user_id = 13678852
+
 [[tweets]]
   created_at = 2015-07-03T20:36:59Z
   favorite_count = 2
@@ -42132,8 +42153,17 @@
       url = "https://t.co/Fpq07WIUwu"
 
     [[tweets.entities.user_mentions]]
+      user = "jmccartie"
+      user_id = 13678852
+
+    [[tweets.entities.user_mentions]]
       user = "neilmiddleton"
       user_id = 4143281
+
+  [tweets.reply]
+    status_id = 616647606194712576
+    user = "jmccartie"
+    user_id = 13678852
 
 [[tweets]]
   created_at = 2015-07-02T14:35:54Z
@@ -42145,6 +42175,10 @@
     [[tweets.entities.user_mentions]]
       user = "neilmiddleton"
       user_id = 4143281
+
+    [[tweets.entities.user_mentions]]
+      user = "jmccartie"
+      user_id = 13678852
 
   [tweets.reply]
     status_id = 616607921464561665
