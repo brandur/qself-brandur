@@ -642,7 +642,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T18:14:06Z
-  favorite_count = 779
+  favorite_count = 776
   id = 1588233068984180737
   retweet_count = 41
   text = "Stripe's prime competency isn't payments, engineering, or product — it's PR, and always was. I look on in reluctant admiration at how even layoffs are executed about as masterfully as is possible.\n\nSorry to anyone who got hit. This sucks."
@@ -2813,7 +2813,7 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4214
+  favorite_count = 4211
   id = 1519506737128038400
   retweet_count = 372
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
@@ -24796,6 +24796,12 @@
   id = 948295107161161728
   text = "@dmathieu On the whole, maybe a more reliable deployment strategy than us-east-1 ;)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DMathieu"
+      user_id = 1600914807905030160
+
 [[tweets]]
   created_at = 2018-01-02T03:15:39Z
   id = 948029996227891200
@@ -27692,7 +27698,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2545
+  favorite_count = 2540
   id = 919646432721641472
   retweet_count = 998
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -34187,15 +34193,9 @@
   id = 835594323974500352
   text = "@mginnard Aha, I get it now! I was wondering when Google came up empty.\n\nAnd thanks!"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "mginnard"
-      user_id = 228907226
-
   [tweets.reply]
     status_id = 835559542549180416
-    user = "mginnard"
+    user = "mginnardarchive"
     user_id = 228907226
 
 [[tweets]]
@@ -36271,9 +36271,9 @@
 
 [[tweets]]
   created_at = 2016-11-26T16:36:33Z
-  favorite_count = 61
+  favorite_count = 58
   id = 802551628825927682
-  retweet_count = 24
+  retweet_count = 23
   text = "Wrote a piece on “canonical log lines”, a cool idea for operational visibility at Stripe.\n\nhttps://t.co/Fqc9hHm8Dl"
 
   [tweets.entities]
@@ -42128,17 +42128,6 @@
   id = 617075075724881920
   text = "@jmccartie Yep :) Carpet bombing school of movie-making. Like a sheet of perforated metal, there's no one plot hole that you can point to."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jmccartie"
-      user_id = 13678852
-
-  [tweets.reply]
-    status_id = 617073115059716096
-    user = "jmccartie"
-    user_id = 13678852
-
 [[tweets]]
   created_at = 2015-07-03T20:36:59Z
   favorite_count = 2
@@ -42159,17 +42148,8 @@
       url = "https://t.co/Fpq07WIUwu"
 
     [[tweets.entities.user_mentions]]
-      user = "jmccartie"
-      user_id = 13678852
-
-    [[tweets.entities.user_mentions]]
       user = "neilmiddleton"
       user_id = 4143281
-
-  [tweets.reply]
-    status_id = 616647606194712576
-    user = "jmccartie"
-    user_id = 13678852
 
 [[tweets]]
   created_at = 2015-07-02T14:35:54Z
@@ -42181,10 +42161,6 @@
     [[tweets.entities.user_mentions]]
       user = "neilmiddleton"
       user_id = 4143281
-
-    [[tweets.entities.user_mentions]]
-      user = "jmccartie"
-      user_id = 13678852
 
   [tweets.reply]
     status_id = 616607921464561665
