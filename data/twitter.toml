@@ -14663,9 +14663,9 @@
 
 [[tweets]]
   created_at = 2019-02-04T23:27:12Z
-  favorite_count = 59
+  favorite_count = 56
   id = 1092565265244540928
-  retweet_count = 17
+  retweet_count = 16
   text = "RT @PostgreSQL: Sorting is an essential feature of databases, but can also be a bottleneck. How does @PostgreSQL help to make sorts fast? @brandur describes one method called \"SortSupport\" that helps speed up @PostgreSQL Sorts in a lot of cases: https://t.co/BGx9YYzyGh"
 
   [tweets.entities]
