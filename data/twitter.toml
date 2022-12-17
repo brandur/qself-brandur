@@ -42128,17 +42128,6 @@
   id = 617075075724881920
   text = "@jmccartie Yep :) Carpet bombing school of movie-making. Like a sheet of perforated metal, there's no one plot hole that you can point to."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jmccartie"
-      user_id = 13678852
-
-  [tweets.reply]
-    status_id = 617073115059716096
-    user = "jmccartie"
-    user_id = 13678852
-
 [[tweets]]
   created_at = 2015-07-03T20:36:59Z
   favorite_count = 2
