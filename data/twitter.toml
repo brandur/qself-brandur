@@ -24796,6 +24796,12 @@
   id = 948295107161161728
   text = "@dmathieu On the whole, maybe a more reliable deployment strategy than us-east-1 ;)"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "DMathieu"
+      user_id = 1600914807905030160
+
 [[tweets]]
   created_at = 2018-01-02T03:15:39Z
   id = 948029996227891200
