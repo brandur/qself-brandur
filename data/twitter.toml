@@ -42171,10 +42171,6 @@
       user = "neilmiddleton"
       user_id = 4143281
 
-    [[tweets.entities.user_mentions]]
-      user = "jmccartie"
-      user_id = 13678852
-
   [tweets.reply]
     status_id = 616607921464561665
     user = "neilmiddleton"
