@@ -11347,7 +11347,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2078
+  favorite_count = 2071
   id = 1182066723337293828
   retweet_count = 756
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -21090,7 +21090,7 @@
 
 [[tweets]]
   created_at = 2018-04-21T17:52:25Z
-  favorite_count = 16
+  favorite_count = 13
   id = 987750921705742336
   retweet_count = 1
   text = "Inspiring Rust moment of the day: my test suite takes ~8 s to run. `time` reports \"user\" as ~46 s.\n\nWith `time`, if user > real, you're seeing time spent on multiple cores.\n\nIf user >> real, you're seeing huge parallelization. My suite, using only Rust's normal tooling, shows 9x. https://t.co/3iOWm9MMj3"
@@ -27698,7 +27698,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2543
+  favorite_count = 2538
   id = 919646432721641472
   retweet_count = 996
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -42148,17 +42148,8 @@
       url = "https://t.co/Fpq07WIUwu"
 
     [[tweets.entities.user_mentions]]
-      user = "jmccartie"
-      user_id = 13678852
-
-    [[tweets.entities.user_mentions]]
       user = "neilmiddleton"
       user_id = 4143281
-
-  [tweets.reply]
-    status_id = 616647606194712576
-    user = "jmccartie"
-    user_id = 13678852
 
 [[tweets]]
   created_at = 2015-07-02T14:35:54Z
@@ -43791,17 +43782,6 @@
   created_at = 2015-03-04T00:43:07Z
   id = 572920171528110080
   text = "@jmccartie Haha. YOU WOULDN’T."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jmccartie"
-      user_id = 13678852
-
-  [tweets.reply]
-    status_id = 572919334198067200
-    user = "jmccartie"
-    user_id = 13678852
 
 [[tweets]]
   created_at = 2015-03-04T00:36:17Z
