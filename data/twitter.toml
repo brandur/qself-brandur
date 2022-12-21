@@ -1,5 +1,36 @@
 
 [[tweets]]
+  created_at = 2022-12-20T21:04:38Z
+  favorite_count = 3
+  id = 1605308215020752896
+  text = "And RuboCop builds in great custom rspec matchers that let you easily verify pass/fail cases and check corrections. https://t.co/DmPDPJdJlX"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1605307528392216576
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FkcysRkUEAAWkoW.jpg"
+
+  [tweets.reply]
+    status_id = 1605308209215913984
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2022-12-20T21:04:36Z
+  favorite_count = 9
+  id = 1605308209215913984
+  text = "Custom linters are such a good way to sustainably keep code quality high. Wrote this one to detect user-facing messages not following convention and autocorrect.\n\nDeclarative S-expressions for matching keep lints maintainable. This would otherwise be like ten ugly conditionals. https://t.co/TcSDYBXvI9"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1605308095558664192
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FkczNSbVQAAYXyR.png"
+
+[[tweets]]
   created_at = 2022-12-20T18:14:46Z
   favorite_count = 1
   id = 1605265468205322240
@@ -24,7 +55,7 @@
 
 [[tweets]]
   created_at = 2022-12-20T18:14:45Z
-  favorite_count = 11
+  favorite_count = 14
   id = 1605265464577658880
   text = "The problem isn't that they took anything, it's that they left San Francisco _with_ its culture — one of profound obstructionism and regressivism, cynically masqueraded as \"progressive\".\n\nAnd now without the added tax to support it.\n\nhttps://t.co/hG4sCX4Xjp"
 
@@ -11383,7 +11414,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2071
+  favorite_count = 2077
   id = 1182066723337293828
   retweet_count = 756
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -27734,7 +27765,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2539
+  favorite_count = 2542
   id = 919646432721641472
   retweet_count = 996
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
