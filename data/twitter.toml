@@ -1,8 +1,9 @@
 
 [[tweets]]
   created_at = 2022-12-22T03:00:21Z
-  favorite_count = 9
+  favorite_count = 12
   id = 1605760121665073155
+  retweet_count = 1
   text = "Nice trick with `math/big` for base62 encoding in Go without bringing in an external dependency.\n\nBase62 is nice compared to base64 because it omits hyphen (`-`) which isn't always copy/paste friendly. Great for generating secrets like API keys.\n\nhttps://t.co/h8m5Pw1TEO"
 
   [tweets.entities]
@@ -723,7 +724,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T18:14:06Z
-  favorite_count = 779
+  favorite_count = 776
   id = 1588233068984180737
   retweet_count = 41
   text = "Stripe's prime competency isn't payments, engineering, or product — it's PR, and always was. I look on in reluctant admiration at how even layoffs are executed about as masterfully as is possible.\n\nSorry to anyone who got hit. This sucks."
@@ -11428,7 +11429,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2077
+  favorite_count = 2071
   id = 1182066723337293828
   retweet_count = 756
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -27779,7 +27780,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2542
+  favorite_count = 2538
   id = 919646432721641472
   retweet_count = 996
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
