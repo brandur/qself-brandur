@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-12-22T03:00:21Z
+  favorite_count = 2
+  id = 1605760121665073155
+  text = "Nice trick with `math/big` for base62 encoding in Go without bringing in an external dependency.\n\nBase62 is nice compared to base64 because it omits hyphen (`-`) which isn't always copy/paste friendly. Great for generating secrets like API keys.\n\nhttps://t.co/h8m5Pw1TEO"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "ucarion.com/go-base62"
+      expanded_url = "https://ucarion.com/go-base62"
+      url = "https://t.co/h8m5Pw1TEO"
+
+[[tweets]]
   created_at = 2022-12-20T21:04:38Z
   favorite_count = 6
   id = 1605308215020752896
