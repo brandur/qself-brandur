@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2022-12-22T03:00:21Z
-  favorite_count = 2
+  favorite_count = 9
   id = 1605760121665073155
   text = "Nice trick with `math/big` for base62 encoding in Go without bringing in an external dependency.\n\nBase62 is nice compared to base64 because it omits hyphen (`-`) which isn't always copy/paste friendly. Great for generating secrets like API keys.\n\nhttps://t.co/h8m5Pw1TEO"
 
@@ -43863,17 +43863,6 @@
   created_at = 2015-03-04T00:43:07Z
   id = 572920171528110080
   text = "@jmccartie Haha. YOU WOULDN’T."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jmccartie"
-      user_id = 13678852
-
-  [tweets.reply]
-    status_id = 572919334198067200
-    user = "jmccartie"
-    user_id = 13678852
 
 [[tweets]]
   created_at = 2015-03-04T00:36:17Z
