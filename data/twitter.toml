@@ -24998,20 +24998,8 @@
 
 [[tweets]]
   created_at = 2017-12-30T20:28:14Z
-  favorite_count = 1
   id = 947202690567639040
   text = "@apgwoz Ah, you just have to reconfigure slog to output in more traditional logfmt (or JSON). You can have a more readable output in dev/testing and a more parseable one n prod."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "apgwoz"
-      user_id = 788947
-
-  [tweets.reply]
-    status_id = 947170394468786176
-    user = "apgwoz"
-    user_id = 788947
 
 [[tweets]]
   created_at = 2017-12-30T18:18:37Z
