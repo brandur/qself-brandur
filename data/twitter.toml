@@ -35137,17 +35137,6 @@
   id = 819069528038514688
   text = "@jaredmcateer Yeah :/ We probably need better terminal UI building blocks to help keep the maintenance cost for this sort of project lower."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jaredmcateer"
-      user_id = 163469221
-
-  [tweets.reply]
-    status_id = 818874524296880128
-    user = "jaredmcateer"
-    user_id = 163469221
-
 [[tweets]]
   created_at = 2017-01-10T16:43:51Z
   favorite_count = 1
