@@ -14292,17 +14292,6 @@
   id = 1109135187055542272
   text = "@apgwoz Haha! We actually transitioned from just CLI -> Curses -> Web. I liked all three versions but there's just nothing like all the easily discoverable buttons to find and click from the web version."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "apgwoz"
-      user_id = 788947
-
-  [tweets.reply]
-    status_id = 1108552556270112768
-    user = "apgwoz"
-    user_id = 788947
-
 [[tweets]]
   created_at = 2019-03-22T16:48:39Z
   favorite_count = 3
@@ -23841,12 +23830,6 @@
   created_at = 2018-01-26T21:33:16Z
   id = 957003530144903170
   text = "@jaredmcateer *people used only one side"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jaredmcateer"
-      user_id = 163469221
 
   [tweets.reply]
     status_id = 956997736963850240
@@ -37445,17 +37428,6 @@
   created_at = 2016-08-12T23:16:01Z
   id = 764239041881526272
   text = "@jaredmcateer Check the bottom half of the screen; indentation is definitely not consistent :)"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jaredmcateer"
-      user_id = 163469221
-
-  [tweets.reply]
-    status_id = 764222336752951296
-    user = "jaredmcateer"
-    user_id = 163469221
 
 [[tweets]]
   created_at = 2016-08-12T20:09:46Z
