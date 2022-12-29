@@ -1,5 +1,37 @@
 
 [[tweets]]
+  created_at = 2022-12-29T07:40:10Z
+  id = 1608367256752525312
+  text = "@Jonathan_Blow Replies espousing that California has the best weather/produce/etc. fail to see that the outmigration is _despite_ the best weather/produce/etc.\n\nThe state is run so badly that people are choosing to go live on Mercury and the land of hurricanes to escape it. Actually amazing."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Jonathan_Blow"
+      user_id = 107336879
+
+  [tweets.reply]
+    status_id = 1608267637783515140
+    user = "Jonathan_Blow"
+    user_id = 107336879
+
+[[tweets]]
+  created_at = 2022-12-29T06:36:22Z
+  id = 1608351198977069057
+  text = "@danielwithmusic Nice!!! And hah — you and me both :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "danielwithmusic"
+      user_id = 73962161
+
+  [tweets.reply]
+    status_id = 1608002860360556546
+    user = "danielwithmusic"
+    user_id = 73962161
+
+[[tweets]]
   created_at = 2022-12-22T03:00:21Z
   favorite_count = 18
   id = 1605760121665073155
