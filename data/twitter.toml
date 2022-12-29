@@ -36794,17 +36794,6 @@
   id = 795838278138089472
   text = "@apgwoz Hah, yep.\n\nBut I didn’t mean for that to sound sarcastic. IMO you could build Go/Rust apps to fit in 64 MB today. I’m excited."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "apgwoz"
-      user_id = 788947
-
-  [tweets.reply]
-    status_id = 795769217786122240
-    user = "apgwoz"
-    user_id = 788947
-
 [[tweets]]
   created_at = 2016-11-07T22:02:17Z
   favorite_count = 1
@@ -48864,17 +48853,6 @@
   created_at = 2014-03-04T00:04:46Z
   id = 440638949019484161
   text = "@Geesu Great call, thanks! I linked back to the original repo because judging by the pulls, the parser branch is intended for merge. Cool?"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "Geesu"
-      user_id = 10172672
-
-  [tweets.reply]
-    status_id = 439148484646944768
-    user = "Geesu"
-    user_id = 10172672
 
 [[tweets]]
   created_at = 2014-03-03T23:58:20Z
