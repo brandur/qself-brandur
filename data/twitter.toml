@@ -4706,17 +4706,6 @@
   id = 1439976296147140619
   text = "@jaredmcateer Yeah, big +1. I do use it occasionally as well for that sort of stuff, but it's just so rare compared to the common case of just wanting raw content to go from A to B."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jaredmcateer"
-      user_id = 163469221
-
-  [tweets.reply]
-    status_id = 1439250889072648192
-    user = "jaredmcateer"
-    user_id = 163469221
-
 [[tweets]]
   created_at = 2021-09-20T15:33:57Z
   id = 1439976130962870275
@@ -8297,17 +8286,6 @@
   id = 1328079843766927360
   text = "@jaredmcateer Nice! Yeah, especially for large projects, styling is one of those things that I am always surprised works at all. There's a reason major sites re-design so infrequently."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jaredmcateer"
-      user_id = 163469221
-
-  [tweets.reply]
-    status_id = 1328041354232958976
-    user = "jaredmcateer"
-    user_id = 163469221
-
 [[tweets]]
   created_at = 2020-11-15T17:49:12Z
   id = 1328032318179532806
@@ -11429,7 +11407,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2077
+  favorite_count = 2072
   id = 1182066723337293828
   retweet_count = 755
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -14292,6 +14270,17 @@
   id = 1109135187055542272
   text = "@apgwoz Haha! We actually transitioned from just CLI -> Curses -> Web. I liked all three versions but there's just nothing like all the easily discoverable buttons to find and click from the web version."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "apgwoz"
+      user_id = 788947
+
+  [tweets.reply]
+    status_id = 1108552556270112768
+    user = "apgwoz"
+    user_id = 788947
+
 [[tweets]]
   created_at = 2019-03-22T16:48:39Z
   favorite_count = 3
@@ -14543,10 +14532,6 @@
     [[tweets.entities.user_mentions]]
       user = "athompso99"
       user_id = 318792186
-
-    [[tweets.entities.user_mentions]]
-      user = "acscott314"
-      user_id = 71148916
 
     [[tweets.entities.user_mentions]]
       user = "PGCon"
@@ -17430,10 +17415,6 @@
     [[tweets.entities.user_mentions]]
       user = "enriquevetere"
       user_id = 51010824
-
-    [[tweets.entities.user_mentions]]
-      user = "itraor"
-      user_id = 16465880
 
     [[tweets.entities.user_mentions]]
       user = "_JamesWard"
@@ -24984,6 +24965,17 @@
   id = 947202690567639040
   text = "@apgwoz Ah, you just have to reconfigure slog to output in more traditional logfmt (or JSON). You can have a more readable output in dev/testing and a more parseable one n prod."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "apgwoz"
+      user_id = 788947
+
+  [tweets.reply]
+    status_id = 947170394468786176
+    user = "apgwoz"
+    user_id = 788947
+
 [[tweets]]
   created_at = 2017-12-30T18:18:37Z
   favorite_count = 4
@@ -26288,17 +26280,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "apgwoz"
-      user_id = 788947
-
-    [[tweets.entities.user_mentions]]
       user = "appltn"
       user_id = 19526934
-
-  [tweets.reply]
-    status_id = 932987553510068227
-    user = "apgwoz"
-    user_id = 788947
 
 [[tweets]]
   created_at = 2017-11-22T08:12:15Z
@@ -27751,7 +27734,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2540
+  favorite_count = 2536
   id = 919646432721641472
   retweet_count = 993
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -35120,6 +35103,17 @@
   id = 819069528038514688
   text = "@jaredmcateer Yeah :/ We probably need better terminal UI building blocks to help keep the maintenance cost for this sort of project lower."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jaredmcateer"
+      user_id = 163469221
+
+  [tweets.reply]
+    status_id = 818874524296880128
+    user = "jaredmcateer"
+    user_id = 163469221
+
 [[tweets]]
   created_at = 2017-01-10T16:43:51Z
   favorite_count = 1
@@ -37003,17 +36997,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "apgwoz"
-      user_id = 788947
-
-    [[tweets.entities.user_mentions]]
       user = "mbrochh"
       user_id = 23365587
-
-  [tweets.reply]
-    status_id = 776604865447374848
-    user = "apgwoz"
-    user_id = 788947
 
 [[tweets]]
   created_at = 2016-09-20T01:39:54Z
@@ -48853,6 +48838,17 @@
   created_at = 2014-03-04T00:04:46Z
   id = 440638949019484161
   text = "@Geesu Great call, thanks! I linked back to the original repo because judging by the pulls, the parser branch is intended for merge. Cool?"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Geesu"
+      user_id = 10172672
+
+  [tweets.reply]
+    status_id = 439148484646944768
+    user = "Geesu"
+    user_id = 10172672
 
 [[tweets]]
   created_at = 2014-03-03T23:58:20Z
