@@ -17465,10 +17465,6 @@
       user_id = 51010824
 
     [[tweets.entities.user_mentions]]
-      user = "itraor"
-      user_id = 16465880
-
-    [[tweets.entities.user_mentions]]
       user = "_JamesWard"
       user_id = 799616
 
