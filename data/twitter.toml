@@ -1,5 +1,22 @@
 
 [[tweets]]
+  created_at = 2022-12-30T17:56:59Z
+  id = 1608884869899374592
+  text = "Much deferred visit to the Calgary Zoo, and a little experimentation on exporting iOS live photos as `.webm`/VP9 for use in a `<video>` tag, transcoded and cut for brevity with ffmpeg (details on that later). Komodo dragons. Amazing penguin exhibit.\n\nhttps://t.co/vYGFQd6IjA https://t.co/Ug9ghHqZrc"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1608884833220194304
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FlPoO0iacAAF0qN.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/atoms/girm632"
+      expanded_url = "https://brandur.org/atoms/girm632"
+      url = "https://t.co/vYGFQd6IjA"
+
+[[tweets]]
   created_at = 2022-12-29T07:40:10Z
   favorite_count = 3
   id = 1608367256752525312
@@ -4738,17 +4755,6 @@
   created_at = 2021-09-20T15:34:37Z
   id = 1439976296147140619
   text = "@jaredmcateer Yeah, big +1. I do use it occasionally as well for that sort of stuff, but it's just so rare compared to the common case of just wanting raw content to go from A to B."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jaredmcateer"
-      user_id = 163469221
-
-  [tweets.reply]
-    status_id = 1439250889072648192
-    user = "jaredmcateer"
-    user_id = 163469221
 
 [[tweets]]
   created_at = 2021-09-20T15:33:57Z
