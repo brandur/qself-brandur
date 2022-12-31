@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2022-12-31T18:00:30Z
+  favorite_count = 1
+  id = 1609248141819404290
+  text = "A few notes on publishing iPhone live photos through ffmpeg to WebM/VP9 and HEVC in `<video>`.\n\n(AKA how to do the work that Twitter and YouTube do automatically so no one ever has to learn anything or understand how any of this tech works.)\n\nhttps://t.co/h1CpaYV9PF"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/ios-…"
+      expanded_url = "https://brandur.org/fragments/ios-live-photos-and-ffmpeg"
+      url = "https://t.co/h1CpaYV9PF"
+
+[[tweets]]
   created_at = 2022-12-30T19:21:16Z
   favorite_count = 1
   id = 1608906082969346048
@@ -8355,17 +8368,6 @@
   id = 1328079843766927360
   text = "@jaredmcateer Nice! Yeah, especially for large projects, styling is one of those things that I am always surprised works at all. There's a reason major sites re-design so infrequently."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jaredmcateer"
-      user_id = 163469221
-
-  [tweets.reply]
-    status_id = 1328041354232958976
-    user = "jaredmcateer"
-    user_id = 163469221
-
 [[tweets]]
   created_at = 2020-11-15T17:49:12Z
   id = 1328032318179532806
@@ -11487,7 +11489,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2075
+  favorite_count = 2070
   id = 1182066723337293828
   retweet_count = 754
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -14603,10 +14605,6 @@
       user_id = 318792186
 
     [[tweets.entities.user_mentions]]
-      user = "acscott314"
-      user_id = 71148916
-
-    [[tweets.entities.user_mentions]]
       user = "PGCon"
       user_id = 277691977
 
@@ -17488,10 +17486,6 @@
     [[tweets.entities.user_mentions]]
       user = "enriquevetere"
       user_id = 51010824
-
-    [[tweets.entities.user_mentions]]
-      user = "itraor"
-      user_id = 16465880
 
     [[tweets.entities.user_mentions]]
       user = "_JamesWard"
@@ -23909,6 +23903,17 @@
   id = 956997736963850240
   text = "@jaredmcateer I saw a story on London's underground, but the longer waits were specifically because used only one side of the escalator so that the other could be used for walking.\n\nI have a hard time believing that if everyone was walking it would be slower, but I'll take a look at a link."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jaredmcateer"
+      user_id = 163469221
+
+  [tweets.reply]
+    status_id = 956996301069066240
+    user = "jaredmcateer"
+    user_id = 163469221
+
 [[tweets]]
   created_at = 2018-01-26T18:05:44Z
   favorite_count = 19
@@ -25030,6 +25035,17 @@
   created_at = 2017-12-30T20:28:14Z
   id = 947202690567639040
   text = "@apgwoz Ah, you just have to reconfigure slog to output in more traditional logfmt (or JSON). You can have a more readable output in dev/testing and a more parseable one n prod."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "apgwoz"
+      user_id = 788947
+
+  [tweets.reply]
+    status_id = 947170394468786176
+    user = "apgwoz"
+    user_id = 788947
 
 [[tweets]]
   created_at = 2017-12-30T18:18:37Z
@@ -27789,7 +27805,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2541
+  favorite_count = 2537
   id = 919646432721641472
   retweet_count = 992
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -34284,9 +34300,15 @@
   id = 835594323974500352
   text = "@mginnard Aha, I get it now! I was wondering when Google came up empty.\n\nAnd thanks!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "mginnard"
+      user_id = 228907226
+
   [tweets.reply]
     status_id = 835559542549180416
-    user = "mginnardarchive"
+    user = "mginnard"
     user_id = 228907226
 
 [[tweets]]
@@ -34314,16 +34336,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "mginnard"
-      user_id = 228907226
-
-    [[tweets.entities.user_mentions]]
       user = "johnsheehan"
       user_id = 11381522
 
   [tweets.reply]
     status_id = 835283891745255424
-    user = "mginnard"
+    user = "mginnardarchive"
     user_id = 228907226
 
 [[tweets]]
@@ -37045,17 +37063,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "apgwoz"
-      user_id = 788947
-
-    [[tweets.entities.user_mentions]]
       user = "mbrochh"
       user_id = 23365587
-
-  [tweets.reply]
-    status_id = 776604865447374848
-    user = "apgwoz"
-    user_id = 788947
 
 [[tweets]]
   created_at = 2016-09-20T01:39:54Z
@@ -48875,6 +48884,17 @@
   created_at = 2014-03-04T00:04:46Z
   id = 440638949019484161
   text = "@Geesu Great call, thanks! I linked back to the original repo because judging by the pulls, the parser branch is intended for merge. Cool?"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Geesu"
+      user_id = 10172672
+
+  [tweets.reply]
+    status_id = 439148484646944768
+    user = "Geesu"
+    user_id = 10172672
 
 [[tweets]]
   created_at = 2014-03-03T23:58:20Z
