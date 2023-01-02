@@ -34290,9 +34290,15 @@
   id = 835594323974500352
   text = "@mginnard Aha, I get it now! I was wondering when Google came up empty.\n\nAnd thanks!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "mginnard"
+      user_id = 228907226
+
   [tweets.reply]
     status_id = 835559542549180416
-    user = "mginnardarchive"
+    user = "mginnard"
     user_id = 228907226
 
 [[tweets]]
