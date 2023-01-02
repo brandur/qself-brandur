@@ -1,5 +1,40 @@
 
 [[tweets]]
+  created_at = 2023-01-02T20:07:04Z
+  id = 1610004773037805569
+  text = "@kirshatrov North America could stand to learn from the likes of Finland and Japan on sauna and onsen culture.\n\nThe one decent place in SF is up to $45/visit now, which is just too ridiculous even for SF."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "kirshatrov"
+      user_id = 287242565
+
+  [tweets.reply]
+    status_id = 1609977345439326208
+    user = "kirshatrov"
+    user_id = 287242565
+
+[[tweets]]
+  created_at = 2023-01-02T20:04:11Z
+  favorite_count = 7
+  id = 1610004046081036289
+  retweet_count = 1
+  text = "It's fun looking at old snapshots of some great web design of the 2000s era.\n\nAn irony is that people used to put text in images to look better than crappy browser-rendered text, but now that font rendering is so good, the text images now look much worse.\n\nhttps://t.co/GGv96Zxlui https://t.co/j27JJoYEku"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1610003872378138624
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Flfh_eQaMAAxoJP.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/atoms/gitc3ts"
+      expanded_url = "https://brandur.org/atoms/gitc3ts"
+      url = "https://t.co/GGv96Zxlui"
+
+[[tweets]]
   created_at = 2023-01-02T06:42:59Z
   favorite_count = 12
   id = 1609802415389446149
