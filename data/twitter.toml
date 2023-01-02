@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2023-01-02T06:42:59Z
+  favorite_count = 4
+  id = 1609802415389446149
+  text = "CSS TIL, a non-block element like a <span> will silently ignore a `line-height` like it never happened.\n\n20 years of CSS and I'm still running into these gotchas. I can all but guarantee the spec authors themselves spend significant chunks of time googling how to do things."
+
+[[tweets]]
   created_at = 2022-12-31T18:39:40Z
   favorite_count = 9
   id = 1609258001759866882
