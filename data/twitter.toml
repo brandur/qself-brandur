@@ -17,9 +17,9 @@
 
 [[tweets]]
   created_at = 2023-01-02T20:04:11Z
-  favorite_count = 7
+  favorite_count = 12
   id = 1610004046081036289
-  retweet_count = 1
+  retweet_count = 2
   text = "It's fun looking at old snapshots of some great web design of the 2000s era.\n\nAn irony is that people used to put text in images to look better than crappy browser-rendered text, but now that font rendering is so good, the text images now look much worse.\n\nhttps://t.co/GGv96Zxlui https://t.co/j27JJoYEku"
 
   [tweets.entities]
