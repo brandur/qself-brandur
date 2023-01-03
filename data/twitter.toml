@@ -8415,17 +8415,6 @@
   id = 1328079843766927360
   text = "@jaredmcateer Nice! Yeah, especially for large projects, styling is one of those things that I am always surprised works at all. There's a reason major sites re-design so infrequently."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jaredmcateer"
-      user_id = 163469221
-
-  [tweets.reply]
-    status_id = 1328041354232958976
-    user = "jaredmcateer"
-    user_id = 163469221
-
 [[tweets]]
   created_at = 2020-11-15T17:49:12Z
   id = 1328032318179532806
