@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2023-01-04T20:02:53Z
+  favorite_count = 8
+  id = 1610728495189233664
+  text = "Benioff's an opportunist who makes claims he knows play well with \"progressive\" outlets that'll write nice things about him. Later, when he does the opposite, it'll barely make the press cycle. Applies to layoffs, \"committing to\" San Francisco, Prop C, etc.\n\nSmart. Very cynical. https://t.co/xba6kH868f"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1610727431748608000
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Flp0EK9aYAAVZhh.jpg"
+
+[[tweets]]
   created_at = 2023-01-03T18:05:49Z
   favorite_count = 39
   id = 1610336646742016000
@@ -8428,17 +8441,6 @@
   created_at = 2020-11-15T20:58:03Z
   id = 1328079843766927360
   text = "@jaredmcateer Nice! Yeah, especially for large projects, styling is one of those things that I am always surprised works at all. There's a reason major sites re-design so infrequently."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "jaredmcateer"
-      user_id = 163469221
-
-  [tweets.reply]
-    status_id = 1328041354232958976
-    user = "jaredmcateer"
-    user_id = 163469221
 
 [[tweets]]
   created_at = 2020-11-15T17:49:12Z
