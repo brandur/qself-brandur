@@ -1,8 +1,22 @@
 
 [[tweets]]
+  created_at = 2023-01-07T17:58:35Z
+  favorite_count = 3
+  id = 1611784377729712128
+  text = "A ChatGPT-generated article hit the front page of HN this morning. Some notes.\n\nAI is scary as hell, just not in the way that we thought it would be. Very soon we're going to be drowning in the empty calories of AI-recycled content.\n\nhttps://t.co/9pAiTKhHZC"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/chat…"
+      expanded_url = "https://brandur.org/fragments/chatgpt-front-pages"
+      url = "https://t.co/9pAiTKhHZC"
+
+[[tweets]]
   created_at = 2023-01-06T19:34:30Z
-  favorite_count = 22
+  favorite_count = 25
   id = 1611446127316045824
+  retweet_count = 1
   text = "In coding, resist the lowest common denominator.\n\ne.g. If you happen upon someone else's crappy codebase with no comments or testing, you don't have to copy the bad convention, it's still okay to add your own comments and testing, even if 95% of programmers won't."
 
 [[tweets]]
