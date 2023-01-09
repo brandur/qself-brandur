@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-09T17:29:58Z
-  favorite_count = 9
+  favorite_count = 36
   id = 1612501950817513472
-  retweet_count = 1
+  retweet_count = 2
   text = "My old man programmer take of the day: any metaprogramming DSL can be replaced with an API involving normal function calls and closures which might be maybe 10% less fluid to read, but is 10x more obvious and 10x as LSP friendly."
 
 [[tweets]]
@@ -11698,7 +11698,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2071
+  favorite_count = 2076
   id = 1182066723337293828
   retweet_count = 753
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -16826,7 +16826,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 566
+  favorite_count = 569
   id = 1051202041844883456
   retweet_count = 104
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -27981,7 +27981,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2534
+  favorite_count = 2538
   id = 919646432721641472
   retweet_count = 991
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
