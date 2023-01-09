@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-08T20:14:32Z
-  favorite_count = 8
+  favorite_count = 11
   id = 1612180976972754944
-  retweet_count = 1
+  retweet_count = 2
   text = "Love this.\n\nApps that scale horizontally on commodity hardware are the obvious present and future of instrastructure. But even so, who among us _doesn't_ love the idea of a mainframe? So cool.\n\nAnd Fermi estimates galore. Great example of showing work.\n\nhttps://t.co/Gc7E8jN5S7 https://t.co/dMoOWH9ShF"
 
   [tweets.entities]
