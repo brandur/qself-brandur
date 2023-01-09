@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-08T20:14:32Z
-  favorite_count = 11
+  favorite_count = 14
   id = 1612180976972754944
-  retweet_count = 2
+  retweet_count = 3
   text = "Love this.\n\nApps that scale horizontally on commodity hardware are the obvious present and future of instrastructure. But even so, who among us _doesn't_ love the idea of a mainframe? So cool.\n\nAnd Fermi estimates galore. Great example of showing work.\n\nhttps://t.co/Gc7E8jN5S7 https://t.co/dMoOWH9ShF"
 
   [tweets.entities]
@@ -27974,7 +27974,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2534
+  favorite_count = 2538
   id = 919646432721641472
   retweet_count = 991
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
