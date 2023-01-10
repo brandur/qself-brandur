@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-01-09T17:29:58Z
-  favorite_count = 36
+  favorite_count = 50
   id = 1612501950817513472
-  retweet_count = 2
+  retweet_count = 5
   text = "My old man programmer take of the day: any metaprogramming DSL can be replaced with an API involving normal function calls and closures which might be maybe 10% less fluid to read, but is 10x more obvious and 10x as LSP friendly."
 
 [[tweets]]
