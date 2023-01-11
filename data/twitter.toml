@@ -255,7 +255,7 @@
 
 [[tweets]]
   created_at = 2022-12-30T19:21:16Z
-  favorite_count = 1
+  favorite_count = 4
   id = 1608906082969346048
   text = "@webdevMason You don't need dark Elon Musk fantasies to explain CHSR — it'll fail (or be 50y late / 10x overbudget) for the same reason as all California projects: overregulation, no accountability, grift.\n\nI'm used to it now, but this dishonesty of these guys still impresses me occasionally."
 
@@ -3218,7 +3218,7 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4193
+  favorite_count = 4197
   id = 1519506737128038400
   retweet_count = 371
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
@@ -11730,7 +11730,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2076
+  favorite_count = 2071
   id = 1182066723337293828
   retweet_count = 753
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -16858,7 +16858,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 569
+  favorite_count = 566
   id = 1051202041844883456
   retweet_count = 104
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -19108,7 +19108,7 @@
 
 [[tweets]]
   created_at = 2018-07-12T17:54:40Z
-  favorite_count = 985
+  favorite_count = 988
   id = 1017467292932665344
   retweet_count = 286
   text = "There's nothing quite as nefarious as a technical decision made via Slack: stakeholders miss it if they're not around, points are poorly stated as they're strung across 50 half-baked thoughts, context exists across pages of jumbled noise, *and* it's time consuming.\n\nI miss email."
@@ -28013,7 +28013,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2538
+  favorite_count = 2535
   id = 919646432721641472
   retweet_count = 991
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
