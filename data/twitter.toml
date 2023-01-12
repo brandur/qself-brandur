@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2023-01-12T19:11:45Z
+  id = 1613614727086903301
+  text = "@rnmp Haha, totally. A little graphic, but the ongoing communist vs. Marxist vs. capitalist debate over the PA while it's all going on was pure genius."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "rnmp"
+      user_id = 38537486
+
+  [tweets.reply]
+    status_id = 1613413077839405056
+    user = "rnmp"
+    user_id = 38537486
+
+[[tweets]]
   created_at = 2023-01-12T03:22:50Z
   favorite_count = 4
   id = 1613375924359266305
