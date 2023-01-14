@@ -49111,6 +49111,12 @@
   id = 440678877724438528
   text = "@Geesu Ah, good call! Maybe try bumping that PR?"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "geesu"
+      user_id = 1613784393356836864
+
 [[tweets]]
   created_at = 2014-03-04T00:05:01Z
   id = 440639008905781248
