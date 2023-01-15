@@ -6044,7 +6044,7 @@
   created_at = 2021-04-15T15:48:39Z
   favorite_count = 63
   id = 1382722547964289024
-  retweet_count = 12
+  retweet_count = 9
   text = "Inspired move by Patagonia — no more customized products with corporate logos because products with logos are more likely to end up in landfills.\n\nCompanies should embrace this and keep going Patagonia for swag. Brand T-shirts if you have to.\n\nhttps://t.co/kIwVthDhOR"
 
   [tweets.entities]
@@ -48602,17 +48602,6 @@
   created_at = 2014-03-17T16:34:40Z
   id = 445599105104879616
   text = "@johnsheehan Thanks!"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 445597953466441728
-    user = "johnsheehan"
-    user_id = 11381522
 
 [[tweets]]
   created_at = 2014-03-17T15:05:13Z
