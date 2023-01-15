@@ -36452,17 +36452,6 @@
   id = 806524419673755648
   text = "@johnsheehan Heroku + Spotify."
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 806209416836108288
-    user = "johnsheehan"
-    user_id = 11381522
-
 [[tweets]]
   created_at = 2016-12-05T18:59:26Z
   favorite_count = 7
@@ -40602,17 +40591,6 @@
   created_at = 2015-10-31T00:24:46Z
   id = 660251028185460737
   text = "@johnsheehan Haha, yep. That’s the real tragedy here: OS X punishes you for developing good screen locking habits!"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 660250434326556673
-    user = "johnsheehan"
-    user_id = 11381522
 
 [[tweets]]
   created_at = 2015-10-30T23:58:01Z
