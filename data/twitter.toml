@@ -6185,24 +6185,14 @@
 
 [[tweets]]
   created_at = 2021-04-12T01:20:10Z
-  favorite_count = 1
   id = 1381416821857734658
   text = "@johnsheehan @craigkerstiens Yikes ... that's crazy."
 
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-    [[tweets.entities.user_mentions]]
       user = "craigkerstiens"
       user_id = 12473952
-
-  [tweets.reply]
-    status_id = 1381414973205790727
-    user = "johnsheehan"
-    user_id = 11381522
 
 [[tweets]]
   created_at = 2021-04-12T01:01:12Z
@@ -11759,7 +11749,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2070
+  favorite_count = 2075
   id = 1182066723337293828
   retweet_count = 749
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -14657,7 +14647,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 856
+  favorite_count = 852
   id = 1108525994405564417
   retweet_count = 81
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
@@ -16887,7 +16877,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 566
+  favorite_count = 569
   id = 1051202041844883456
   retweet_count = 104
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -18179,9 +18169,9 @@
 
 [[tweets]]
   created_at = 2018-08-15T16:33:44Z
-  favorite_count = 24
+  favorite_count = 21
   id = 1029768111489073152
-  retweet_count = 4
+  retweet_count = 3
   text = "The only path to high software quality is a strong ownership model with maintainers who have full veto over changes — not to be exercised indiscriminately, but used definitively when necessary. The best open source projects get this right."
 
   [tweets.reply]
@@ -25597,7 +25587,7 @@
 
 [[tweets]]
   created_at = 2017-12-23T19:01:07Z
-  favorite_count = 22
+  favorite_count = 19
   id = 944644053693378560
   text = "Mongo zealot on HN: “It’s nice that Postgres supports JSON, but I’d like to see it come with a custom, non-standard form of JSON with timestamps like Mongo’s BSON.”\n\nI’ll explain the concept of data types and typed schemas right after I’m through explaining the concept of irony."
 
@@ -28003,10 +27993,6 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "blutarp"
-      user_id = 3403619219
-
-    [[tweets.entities.user_mentions]]
       user = "panhenomium"
       user_id = 1100287471
 
@@ -28037,7 +28023,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2533
+  favorite_count = 2537
   id = 919646432721641472
   retweet_count = 988
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -29164,13 +29150,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 907298389913632768
-    user = "johnsheehan"
-    user_id = 11381522
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
 [[tweets]]
   created_at = 2017-09-11T17:39:23Z
@@ -29180,13 +29161,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 907292300388290561
-    user = "johnsheehan"
-    user_id = 11381522
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
 [[tweets]]
   created_at = 2017-09-11T17:38:12Z
@@ -33184,8 +33160,13 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "JohnSheehan"
-      user_id = 1614766830979006466
+      user = "johnsheehan"
+      user_id = 11381522
+
+  [tweets.reply]
+    status_id = 851514769500753921
+    user = "johnsheehan"
+    user_id = 11381522
 
 [[tweets]]
   created_at = 2017-04-08T17:39:29Z
@@ -34567,8 +34548,8 @@
       user_id = 228907226
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
   [tweets.reply]
     status_id = 835283891745255424
@@ -36451,12 +36432,6 @@
   created_at = 2016-12-07T15:43:00Z
   id = 806524419673755648
   text = "@johnsheehan Heroku + Spotify."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "JohnSheehan"
-      user_id = 1614766830979006466
 
 [[tweets]]
   created_at = 2016-12-05T18:59:26Z
@@ -40598,6 +40573,12 @@
   id = 660251028185460737
   text = "@johnsheehan Haha, yep. That’s the real tragedy here: OS X punishes you for developing good screen locking habits!"
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
+
 [[tweets]]
   created_at = 2015-10-30T23:58:01Z
   favorite_count = 6
@@ -41173,17 +41154,6 @@
   created_at = 2015-09-15T00:57:07Z
   id = 643589327021150209
   text = "@johnsheehan Haha, I wish! :) All of that's owed to people much smarter than myself."
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 643586770953633792
-    user = "johnsheehan"
-    user_id = 11381522
 
 [[tweets]]
   created_at = 2015-09-15T00:22:44Z
@@ -43680,6 +43650,17 @@
   created_at = 2015-04-20T05:57:23Z
   id = 590031488457932802
   text = "@johnsheehan Great question! Fort Mason I guess (seriously, besides Moscone it may be the last large-ish venue left)."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "johnsheehan"
+      user_id = 11381522
+
+  [tweets.reply]
+    status_id = 590031075818082307
+    user = "johnsheehan"
+    user_id = 11381522
 
 [[tweets]]
   created_at = 2015-04-20T05:53:40Z
@@ -48558,13 +48539,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 445597953466441728
-    user = "johnsheehan"
-    user_id = 11381522
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
 [[tweets]]
   created_at = 2014-03-17T15:05:13Z
@@ -48574,8 +48550,17 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
+      user = "johnsheehan"
+      user_id = 11381522
+
+    [[tweets.entities.user_mentions]]
       user = "smarx"
       user_id = 12449312
+
+  [tweets.reply]
+    status_id = 445270724849065984
+    user = "johnsheehan"
+    user_id = 11381522
 
 [[tweets]]
   created_at = 2014-03-17T06:09:11Z
@@ -49298,10 +49283,6 @@
       user_id = 12449312
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-    [[tweets.entities.user_mentions]]
       user = "TrafficAndWx"
       user_id = 988002464
 
@@ -49566,8 +49547,13 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "JohnSheehan"
-      user_id = 1614766830979006466
+      user = "johnsheehan"
+      user_id = 11381522
+
+  [tweets.reply]
+    status_id = 433841373024772096
+    user = "johnsheehan"
+    user_id = 11381522
 
 [[tweets]]
   created_at = 2014-02-13T04:13:36Z
@@ -49761,6 +49747,17 @@
   created_at = 2014-02-04T21:59:23Z
   id = 430822923683647488
   text = "@johnsheehan Hah! Thanks for the call out. I do listen, and have been waiting for that next episode by the way ... ;)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "johnsheehan"
+      user_id = 11381522
+
+  [tweets.reply]
+    status_id = 430815838514327552
+    user = "johnsheehan"
+    user_id = 11381522
 
 [[tweets]]
   created_at = 2014-02-04T18:42:50Z
