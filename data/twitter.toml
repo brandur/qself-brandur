@@ -36465,13 +36465,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 806209416836108288
-    user = "johnsheehan"
-    user_id = 11381522
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
 [[tweets]]
   created_at = 2016-12-05T18:59:26Z
