@@ -38777,6 +38777,12 @@
   id = 738457007011700736
   text = "@johnsheehan Nailed it."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
+
 [[tweets]]
   created_at = 2016-06-01T16:39:05Z
   favorite_count = 11
@@ -49098,9 +49104,9 @@
 
 [[tweets]]
   created_at = 2014-02-27T03:06:56Z
-  favorite_count = 101
+  favorite_count = 100
   id = 438872853912383489
-  retweet_count = 99
+  retweet_count = 96
   text = "RT @jxnblk: also have vim invites, hit me up"
 
   [tweets.entities]
