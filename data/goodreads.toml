@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 144873
+  isbn = "0446392308"
+  isbn13 = "9780446392303"
+  num_pages = 208
+  published_year = 1991
+  rating = 2
+  read_at = 0001-01-01T00:00:00Z
+  review = "I got a strong recommendation on this book that I found credible, but came out finding the claims pretty hard to believe. Lots of anonymous anecdotes included, but it strongly defies sense and intuition. Also a surprising lack of actionable content given the title of the book."
+  review_id = 5270889585
+  title = "Healing Back Pain: The Mind-Body Connection"
+
+  [[readings.authors]]
+    id = 75116
+    name = "John E. Sarno"
+
+[[readings]]
   id = 52098718
   isbn = "147670032X"
   isbn13 = "9781476700328"

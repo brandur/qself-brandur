@@ -41813,9 +41813,9 @@
 
 [[tweets]]
   created_at = 2015-08-10T01:52:33Z
-  favorite_count = 33
+  favorite_count = 32
   id = 630557314450194432
-  retweet_count = 40
+  retweet_count = 37
   text = "The next version of iTerm2 can display images! https://t.co/fkIPf9ev1k http://t.co/1kN5YMpHn1"
 
   [tweets.entities]
