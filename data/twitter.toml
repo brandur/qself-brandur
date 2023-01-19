@@ -34549,8 +34549,8 @@
       user_id = 228907226
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
   [tweets.reply]
     status_id = 835283891745255424
@@ -42837,17 +42837,6 @@
   favorite_count = 1
   id = 610612949066104832
   text = "@muyfine Artisan Hacker Group!"
-
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "muyfine"
-      user_id = 154038132
-
-  [tweets.reply]
-    status_id = 610599841110986752
-    user = "muyfine"
-    user_id = 154038132
 
 [[tweets]]
   created_at = 2015-06-13T16:06:52Z
