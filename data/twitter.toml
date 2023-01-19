@@ -49308,8 +49308,8 @@
       user_id = 12449312
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
   [tweets.reply]
     status_id = 435476585836068864
