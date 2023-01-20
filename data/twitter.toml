@@ -1,5 +1,12 @@
 
 [[tweets]]
+  created_at = 2023-01-20T20:22:44Z
+  favorite_count = 38
+  id = 1616531695502786560
+  retweet_count = 4
+  text = "Today, saw a person sit at a table in a cafe and read a book for three hours. Didn't pull out their phone or laptop or distract themselves in any other way.\n\nPractically a superhuman feat in the contemporary age. I bet < 1% of humanity still has the capacity to do this."
+
+[[tweets]]
   created_at = 2023-01-12T19:11:45Z
   id = 1613614727086903301
   text = "@rnmp Haha, totally. A little graphic, but the ongoing communist vs. Marxist vs. capitalist debate over the PA while it's all going on was pure genius."
@@ -271,7 +278,7 @@
 
 [[tweets]]
   created_at = 2022-12-31T18:00:30Z
-  favorite_count = 8
+  favorite_count = 11
   id = 1609248141819404290
   text = "A few notes on publishing iPhone live photos through ffmpeg to WebM/VP9 and HEVC in `<video>`.\n\n(AKA how to do the work that Twitter and YouTube do automatically so no one ever has to learn anything or understand how any of this tech works.)\n\nhttps://t.co/h1CpaYV9PF"
 
