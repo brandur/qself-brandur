@@ -1,9 +1,94 @@
 
 [[tweets]]
+  created_at = 2023-01-20T22:29:15Z
+  favorite_count = 4
+  id = 1616563535412363264
+  retweet_count = 1
+  text = "Wrote a Friday whine-piece on data loading in Go.\n\nThe ORM + object dynamism and its near-infinite flexibility has to be one of the most powerful developments in the last decades for building things fast. What are all you people doing in Go??\n\nhttps://t.co/bDopIbprPG"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/atoms/gj7keok"
+      expanded_url = "https://brandur.org/atoms/gj7keok"
+      url = "https://t.co/bDopIbprPG"
+
+[[tweets]]
+  created_at = 2023-01-20T22:07:31Z
+  favorite_count = 2
+  id = 1616558062869049344
+  text = "@alangrow @jqtrde Hah. Nah it was too far to see — it was a technical book though like a textbook or comp sci related which made the feat even more impressive."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "alangrow"
+      user_id = 171622319
+
+    [[tweets.entities.user_mentions]]
+      user = "jqtrde"
+      user_id = 1942318010
+
+  [tweets.reply]
+    status_id = 1616552000220721152
+    user = "alangrow"
+    user_id = 171622319
+
+[[tweets]]
+  created_at = 2023-01-20T22:06:48Z
+  favorite_count = 1
+  id = 1616557885269610496
+  text = "@JoeSciarrino Hah! TBH something political or one of those 300-pager NYT best sellers would be most likely. This was a technical book which made it even more impressive."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "JoeSciarrino"
+      user_id = 14577588
+
+  [tweets.reply]
+    status_id = 1616537978096226304
+    user = "JoeSciarrino"
+    user_id = 14577588
+
+[[tweets]]
+  created_at = 2023-01-20T22:05:07Z
+  id = 1616557459560337409
+  text = "@_mukunda With no task switching? :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "_mukunda"
+      user_id = 69630017
+
+  [tweets.reply]
+    status_id = 1616532465824239616
+    user = "_mukunda"
+    user_id = 69630017
+
+[[tweets]]
+  created_at = 2023-01-20T22:04:42Z
+  favorite_count = 1
+  id = 1616557356581785601
+  text = "@bitsandhops lmao. Nice."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "bitsandhops"
+      user_id = 372479872
+
+  [tweets.reply]
+    status_id = 1616545130332442624
+    user = "bitsandhops"
+    user_id = 372479872
+
+[[tweets]]
   created_at = 2023-01-20T20:22:44Z
-  favorite_count = 38
+  favorite_count = 83
   id = 1616531695502786560
-  retweet_count = 4
+  retweet_count = 5
   text = "Today, saw a person sit at a table in a cafe and read a book for three hours. Didn't pull out their phone or laptop or distract themselves in any other way.\n\nPractically a superhuman feat in the contemporary age. I bet < 1% of humanity still has the capacity to do this."
 
 [[tweets]]
@@ -6191,6 +6276,10 @@
   text = "@johnsheehan @craigkerstiens Yikes ... that's crazy."
 
   [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
     [[tweets.entities.user_mentions]]
       user = "craigkerstiens"
@@ -49309,6 +49398,10 @@
       display_url = "meetup.com/API-Craft-San-…"
       expanded_url = "http://www.meetup.com/API-Craft-San-Francisco/events/165416912/"
       url = "http://t.co/0ZFl9pklE1"
+
+    [[tweets.entities.user_mentions]]
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
     [[tweets.entities.user_mentions]]
       user = "smarx"
