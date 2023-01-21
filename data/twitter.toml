@@ -86,9 +86,9 @@
 
 [[tweets]]
   created_at = 2023-01-20T20:22:44Z
-  favorite_count = 135
+  favorite_count = 143
   id = 1616531695502786560
-  retweet_count = 7
+  retweet_count = 8
   text = "Today, saw a person sit at a table in a cafe and read a book for three hours. Didn't pull out their phone or laptop or distract themselves in any other way.\n\nPractically a superhuman feat in the contemporary age. I bet < 1% of humanity still has the capacity to do this."
 
 [[tweets]]
@@ -40581,13 +40581,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 663894070658379777
-    user = "johnsheehan"
-    user_id = 11381522
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
 [[tweets]]
   created_at = 2015-11-09T18:59:10Z
@@ -40602,10 +40597,6 @@
       display_url = "gigamonkeys.com/flowers/"
       expanded_url = "http://www.gigamonkeys.com/flowers/"
       url = "https://t.co/DHgB3JrWmS"
-
-    [[tweets.entities.user_mentions]]
-      user = "muyfine"
-      user_id = 154038132
 
 [[tweets]]
   created_at = 2015-11-06T00:53:57Z
@@ -41229,6 +41220,12 @@
   id = 643589327021150209
   text = "@johnsheehan Haha, I wish! :) All of that's owed to people much smarter than myself."
 
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
+
 [[tweets]]
   created_at = 2015-09-15T00:22:44Z
   favorite_count = 8
@@ -41281,6 +41278,10 @@
     [[tweets.entities.user_mentions]]
       user = "_raulb_"
       user_id = 1269159922136166401
+
+    [[tweets.entities.user_mentions]]
+      user = "muyfine"
+      user_id = 154038132
 
 [[tweets]]
   created_at = 2015-09-10T21:05:30Z
