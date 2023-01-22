@@ -49312,6 +49312,10 @@
       user_id = 12449312
 
     [[tweets.entities.user_mentions]]
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
+
+    [[tweets.entities.user_mentions]]
       user = "TrafficAndWx"
       user_id = 988002464
 
