@@ -11841,7 +11841,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2075
+  favorite_count = 2070
   id = 1182066723337293828
   retweet_count = 745
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -11930,13 +11930,8 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "johnsheehan"
-      user_id = 11381522
-
-  [tweets.reply]
-    status_id = 1177370899009429504
-    user = "johnsheehan"
-    user_id = 11381522
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
 [[tweets]]
   created_at = 2019-09-22T00:34:54Z
@@ -14735,7 +14730,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 852
+  favorite_count = 855
   id = 1108525994405564417
   retweet_count = 81
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
@@ -25399,6 +25394,10 @@
       user = "danfarina"
       user_id = 31303509
 
+    [[tweets.entities.user_mentions]]
+      user = "muyfine"
+      user_id = 154038132
+
   [tweets.reply]
     status_id = 946846118364585984
     user = "danfarina"
@@ -28097,7 +28096,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2535
+  favorite_count = 2531
   id = 919646432721641472
   retweet_count = 987
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -40595,10 +40594,6 @@
       expanded_url = "http://www.gigamonkeys.com/flowers/"
       url = "https://t.co/DHgB3JrWmS"
 
-    [[tweets.entities.user_mentions]]
-      user = "muyfine"
-      user_id = 154038132
-
 [[tweets]]
   created_at = 2015-11-06T00:53:57Z
   favorite_count = 1
@@ -41220,6 +41215,12 @@
   created_at = 2015-09-15T00:57:07Z
   id = 643589327021150209
   text = "@johnsheehan Haha, I wish! :) All of that's owed to people much smarter than myself."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "JohnSheehan"
+      user_id = 1614766830979006466
 
 [[tweets]]
   created_at = 2015-09-15T00:22:44Z
