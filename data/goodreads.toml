@@ -483,8 +483,8 @@
   id = 25682407
   isbn = "0062394037"
   isbn13 = "9780062394033"
-  num_pages = 352
-  published_year = 2015
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2021-11-15T00:00:00-08:00
   review = "Very much of the Japan travel food genre which is its own trope nowadays, but solid writing and well built."
@@ -948,7 +948,7 @@
   isbn = "0060530928"
   isbn13 = "9780060530921"
   num_pages = 312
-  published_year = 2008
+  published_year = 0
   rating = 4
   read_at = 2020-06-12T23:51:38-07:00
   review = "Another draft from Gaiman's seemingly bottomless well of creativity. Novel premise and great characterization in a thoroughly spooky world. Quite an enjoyable tale."
@@ -2580,7 +2580,7 @@
   isbn = "0062300547"
   isbn13 = "9780062300546"
   num_pages = 264
-  published_year = 2016
+  published_year = 0
   rating = 4
   read_at = 2017-01-04T00:00:00-08:00
   review = "Well written and a good (and non-fictional) story about growing up in poverty. It's not tremendously broadly applicable or deeply insightful, but it's worth the read."
@@ -4851,8 +4851,8 @@
   id = 900
   isbn = "0060554738"
   isbn13 = "9780060554736"
-  num_pages = 464
-  published_year = 2005
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2008-08-24T00:00:00-07:00
   review = "Story of Strauss' (known as Style) time becoming and living as a pickup artist. Characters in the book are well known PUAs such as Mystery and David DeAngelo. Claims to be a true story."
@@ -4948,7 +4948,7 @@
   isbn = "0307277453"
   isbn13 = "9780307277459"
   num_pages = 237
-  published_year = 2009
+  published_year = 0
   rating = 4
   read_at = 2008-09-28T00:00:00-07:00
   review = "Discusses the relation of the human race to fish and reptiles and the very early evolution of human life."
@@ -5108,7 +5108,7 @@
   isbn = "0307465357"
   isbn13 = "9780307465351"
   num_pages = 396
-  published_year = 2009
+  published_year = 0
   rating = 2
   read_at = 2011-06-15T00:00:00-07:00
   review = "Has some interesting ideas, one of the foremost that I liked being the concept of a mini-retirement. Unfortunately, most of the advice is unusable, and reading this book will never allow you to get down to a 4-hour work week. Ferriss' foremost skill is not building 4-hour work week businesses, but selling the idea to others."
