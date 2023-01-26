@@ -3,8 +3,8 @@
   id = 144873
   isbn = "0446392308"
   isbn13 = "9780446392303"
-  num_pages = 208
-  published_year = 1991
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 0001-01-01T00:00:00Z
   review = "I got a strong recommendation on this book that I found credible, but came out finding the claims pretty hard to believe. Lots of anonymous anecdotes included, but it strongly defies sense and intuition. Also a surprising lack of actionable content given the title of the book."
@@ -12,8 +12,8 @@
   title = "Healing Back Pain: The Mind-Body Connection"
 
   [[readings.authors]]
-    id = 75116
-    name = "John E. Sarno"
+    id = 24946840
+    name = "John E. Sarno MD"
 
 [[readings]]
   id = 52098718
@@ -436,7 +436,7 @@
   isbn = "0743235274"
   isbn13 = "9780743235273"
   num_pages = 247
-  published_year = 2006
+  published_year = 0
   rating = 2
   read_at = 2022-01-03T23:36:23-08:00
   review = "Large collection of anecdotes about creativity, but the overall message is abstract and so non-specific as to be mostly non-actionable. The best couple entries were at the beginning, on forming habits and building a conducive working environment."
@@ -932,7 +932,7 @@
   isbn = "0374514429"
   isbn13 = "9780374514426"
   num_pages = 157
-  published_year = 1978
+  published_year = 0
   rating = 4
   read_at = 2020-06-16T23:56:12-07:00
   review = "Nice write up on New Jersey's Pine Barrens that interleaves hard facts with encounters with the area's colourful characters. It was a little too obviously hyper-romanticized to be taken seriously, but McPhee's razor sharp writing makes for nice reading, and is great material to learn from."
@@ -940,8 +940,8 @@
   title = "The Pine Barrens"
 
   [[readings.authors]]
-    id = 40
-    name = "John McPhee"
+    id = 2941208
+    name = "James Graves"
 
 [[readings]]
   id = 2213661
@@ -964,12 +964,12 @@
   isbn = "0525521143"
   isbn13 = "9780525521143"
   num_pages = 302
-  published_year = 2020
+  published_year = 0
   rating = 4
   read_at = 2020-06-01T00:00:00-07:00
   review = "Tremendously good fiction. In all honesty, I didn't find the premise (cantering around a Madoff-like financier) super interesting when it was briefly described to me, but upon reading, found that the novel builds a very compelling character-driven narrative. Emily has a unique writing style that's fluid and artfully elegant. The final chapter is especially beautiful."
   review_id = 3369802838
-  title = "The Glass Hotel"
+  title = "The Glass Hotel: A novel"
 
   [[readings.authors]]
     id = 2786093
@@ -1540,7 +1540,7 @@
   isbn = "1501135910"
   isbn13 = "9781501135910"
   num_pages = 400
-  published_year = 2016
+  published_year = 0
   rating = 3
   read_at = 2019-03-10T00:00:00-08:00
   review = ""
@@ -2404,7 +2404,7 @@
   isbn = "1455586692"
   isbn13 = "9781455586691"
   num_pages = 296
-  published_year = 2016
+  published_year = 0
   rating = 4
   read_at = 2017-08-11T00:00:00-07:00
   review = "The conclusions here are dead on — spend more time working deeply, and less on busywork. In the age of Slack, social media, and email it's a lesson that all of us could use. His recommendations aren't going to be easy to follow, but at least they're mostly actionable.\n\nMy only critique is that the book probably would have been a lot more impactful at half the length, but it's still a pretty accessible read."
@@ -2836,7 +2836,7 @@
   isbn = "0060589469"
   isbn13 = "9780060589462"
   num_pages = 540
-  published_year = 2006
+  published_year = 0
   rating = 2
   read_at = 2018-06-08T00:00:00-07:00
   review = "Contrary to expectations, this one didn't really do much for me — it seems to require a much deeper appreciation of philosophy, or at least willingness to suspend disbelief and take large bodies of invented concepts as objective truth.\n\nThe core idea of the book is one of \"quality\", which is a normal word that the author has adopted, counterintuitively redefined as a metaphysical concept that's impossible for science to measure (see a rundown at [1]), and then dives into at great length, building layer upon layer of new invented ideas and concreting them as philosophical absolutes. I suspect for most analytical minds, a lot of what's written here will be somewhat difficult to accept at face value.\n\n[1] https://en.wikipedia.org/wiki/Pirsig%27s_metaphysics_of_Quality"
@@ -2948,7 +2948,7 @@
   isbn = "0375706682"
   isbn13 = "9780375706684"
   num_pages = 801
-  published_year = 2001
+  published_year = 0
   rating = 1
   read_at = 2018-05-16T00:00:00-07:00
   review = "Dhalgren has the special distinction of being the worst book I've ever read — and not even by a little bit, but by a lot. Twenty pages in I could tell that I wanted to quit, but kept going. Fifty pages in I was bored. A hundred pages in, my stomach was churning. Two hundred pages in, I was disgusted. Five hundred pages in, I'd reached a state of zen wherein my eyes skimmed hundreds of words per minute of the most contemptible prose ever committed to paper, while still maintaining some semblance of mental integrity.\n\nDhalgren is proof that no matter how bad a book is, there will be self-proclaimed aficionados who will champion it as great literature only because it's so dense that it's inaccessible to the majority of the population. It's not about the quality of text, it's about how being in an appreciating minority unlocks access to a feeling of exclusive superiority. Dhalgren doesn't have a single redeeming quality — there's no cohesive plot, no moment of awe at it comes to a conclusion, not a single interesting character, and the only word that can be accurately applied to describe the dialog throughout is \"garbage\".\n\nHere's some of the most practical good advice that you'll get in your lifetime: read the plot synopsis in Wikipedia, and stop there. It's actually a little on the long side because every one of the book's original ideas can be easily summed up in three sentences. Use the dozens of hours you saved yourself from slogging through 800+ pages of one of the worst books ever written to do literally anything else: make love, write your novel, run a marathon, go to the gym. Or not. Spend the time playing video games, curating your bottle cap collection, watching mind-numbing reality TV, or just staring up at the sky and likening the shape of clouds to Simpsons characters, and it will still have been put to use infinitely more wisely than reading Dhalgren."
@@ -3204,7 +3204,7 @@
   isbn = "0201835959"
   isbn13 = "9780201835953"
   num_pages = 322
-  published_year = 1995
+  published_year = 0
   rating = 2
   read_at = 2016-12-21T00:00:00-08:00
   review = "I really wanted to like this one. His original premise was very good (i.e. that productivity doesn't scale linearly with personnel), but unfortunately a huge amount of less valuable information in the form of boilerplate essays has been tacked on to get this up to book length. Worse yet, the majority of this material hasn't aged well as it tends to go into obsolete specifics. For example, at one point it's recommended that project's manual be moved over to microfiche.\n\nThe Mythical Man-Month would have made a couple of very high quality blog posts, but I wouldn't recommend the whole thing in its released form."
@@ -3444,7 +3444,7 @@
   isbn = "0812993012"
   isbn13 = "9780812993011"
   num_pages = 368
-  published_year = 2014
+  published_year = 0
   rating = 4
   read_at = 2015-08-29T00:00:00-07:00
   review = "A personal account of the birth of Pixar and its story up to and including its eventual sale to Disney. Of particular interest is the chapter and some of the color lent to Steve Jobs, inside information on what happened during some of Pixar's popular movies (and also on others that didn't even ship), and the history surrounding their rocky start and eventual blossoming as one of the darlings of the industry.\n\nA large section of the book involves standard post-success justification which Catmull generally attributes to their innovative management and hiring techniques. It's worth being a little bit skeptical here because a lot of it reads like typical executive motivational rhetoric straight out of the 80s and 90s, and of course that it's not actually possible to actually prove this causation."
@@ -3907,8 +3907,8 @@
   id = 8558613
   isbn = "0847834182"
   isbn13 = "9780847834181"
-  num_pages = 224
-  published_year = 2010
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2014-02-14T00:00:00-08:00
   review = ""
@@ -4596,7 +4596,7 @@
   isbn = "0307279464"
   isbn13 = "9780307279460"
   num_pages = 397
-  published_year = 2006
+  published_year = 0
   rating = 2
   read_at = 2012-02-18T19:07:21-08:00
   review = "Exaggerated account of a partial hike along the Appalachian Trail devoid of events of any real consequence. Among other things, Bryson convinces himself that he ran into two bears outside his tent (indistinct eyes in the dark even with a headlamp), and that he started to develop hypothermia hiking through a fog. Subtle humor is found throughout which I wanted to like, but couldn't get into.\n\nBest parts were the descriptions of some of the parks and area that the trail runs through, the historical background of various regions, and narrative on the decline of some of America's most unique natural history."
@@ -4644,7 +4644,7 @@
   isbn = "0345409469"
   isbn13 = "9780345409461"
   num_pages = 459
-  published_year = 1997
+  published_year = 0
   rating = 4
   read_at = 2011-12-06T00:00:00-08:00
   review = "Thought provoking and very important material. Unfortunately, the ideas contained within are not necessarily all that new anymore for the most part are very widespread online."
