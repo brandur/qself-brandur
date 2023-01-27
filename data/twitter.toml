@@ -25394,10 +25394,6 @@
       user = "danfarina"
       user_id = 31303509
 
-    [[tweets.entities.user_mentions]]
-      user = "muyfine"
-      user_id = 154038132
-
   [tweets.reply]
     status_id = 946846118364585984
     user = "danfarina"
