@@ -1,5 +1,63 @@
 
 [[tweets]]
+  created_at = 2023-02-05T20:10:49Z
+  id = 1622326904048197632
+  text = "@PhilipGreenspun @ianmSC A sad story. And let me guess — no regrets of having wasted three good years of life living in a bunker? It \"had to be done\" and was \"all for the greater good\" etc. despite no evidence of it having moved the needle an iota?"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "PhilipGreenspun"
+      user_id = 21321949
+
+    [[tweets.entities.user_mentions]]
+      user = "ianmSC"
+      user_id = 16813044
+
+  [tweets.reply]
+    status_id = 1622314071138701314
+    user = "PhilipGreenspun"
+    user_id = 21321949
+
+[[tweets]]
+  created_at = 2023-02-05T20:07:52Z
+  favorite_count = 1
+  id = 1622326157696962560
+  text = "@ygrenzinger Email: brandur@<domain>\n\nCheck out this 2nd Quadrant article: https://t.co/LBxv7Dy1bl\n\nI'm not sure they give exact numbers for their small/medium/large datasets, but their small is on the order of GB/hr, and at that level, choice of PK type doesn't make a huge difference."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "2ndquadrant.com/en/blog/sequen…"
+      expanded_url = "https://www.2ndquadrant.com/en/blog/sequential-uuid-generators/"
+      url = "https://t.co/LBxv7Dy1bl"
+
+    [[tweets.entities.user_mentions]]
+      user = "ygrenzinger"
+      user_id = 28535233
+
+  [tweets.reply]
+    status_id = 1621897572393656323
+    user = "ygrenzinger"
+    user_id = 28535233
+
+[[tweets]]
+  created_at = 2023-02-05T20:02:27Z
+  id = 1622324795307327488
+  text = "@danielwithmusic Yeah :(\n\nI love Leica's stuff, but those prices are just beyond the pale. I think I could get there if everything was just a few thousand bucks cheaper (still leaving plenty of thousands), which I guess is the idea — it's priced right at the maximum bound enthusiasts can pay."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "danielwithmusic"
+      user_id = 73962161
+
+  [tweets.reply]
+    status_id = 1622041115221430272
+    user = "danielwithmusic"
+    user_id = 73962161
+
+[[tweets]]
   created_at = 2023-02-05T00:30:41Z
   favorite_count = 2
   id = 1622029909970554880
@@ -3369,7 +3427,7 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4187
+  favorite_count = 4191
   id = 1519506737128038400
   retweet_count = 371
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
@@ -11871,7 +11929,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2065
+  favorite_count = 2070
   id = 1182066723337293828
   retweet_count = 743
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
