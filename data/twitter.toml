@@ -1,5 +1,38 @@
 
 [[tweets]]
+  created_at = 2023-02-06T04:29:26Z
+  id = 1622452384680054787
+  text = "@bitsandhops This article convinced me that all you need is one machine TBH: https://t.co/Gc7E8jMy2z\n\nAnd that's Twitter. I think we could get all our stuff onto a Raspberry Pi? We shall call it the macromicroservice."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "thume.ca/2023/01/02/one…"
+      expanded_url = "https://thume.ca/2023/01/02/one-machine-twitter/"
+      url = "https://t.co/Gc7E8jMy2z"
+
+    [[tweets.entities.user_mentions]]
+      user = "bitsandhops"
+      user_id = 372479872
+
+  [tweets.reply]
+    status_id = 1622398364922056705
+    user = "bitsandhops"
+    user_id = 372479872
+
+[[tweets]]
+  created_at = 2023-02-06T04:25:38Z
+  id = 1622451427506520065
+  text = "The \"True Faith\" (New Order) cover from the end of Last of Us e04 is the Lotte Kestner cover which also makes an appearance in the second game.\n\nGreat cover of one of the greatest songs of all time.\n\nhttps://t.co/yVNuSm0hTH"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "youtube.com/watch?v=27ZMHU…"
+      expanded_url = "https://www.youtube.com/watch?v=27ZMHUtIeNA"
+      url = "https://t.co/yVNuSm0hTH"
+
+[[tweets]]
   created_at = 2023-02-05T22:30:37Z
   favorite_count = 8
   id = 1622362083986927616
