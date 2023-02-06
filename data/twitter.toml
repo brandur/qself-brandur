@@ -1,5 +1,66 @@
 
 [[tweets]]
+  created_at = 2023-02-05T22:30:37Z
+  favorite_count = 4
+  id = 1622362083986927616
+  retweet_count = 1
+  text = "Wrote about a Go test assertion we've been playing around with called `PartialEqual` meant to solve long blocks of ugly one-off asserts. Not a strong recommendation, but rationale for the pattern here: https://t.co/r5IuPA3Mui\n\nPrototype implementation: https://t.co/B5V9Q9sqhE"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/fragments/part…"
+      expanded_url = "https://brandur.org/fragments/partial-equal"
+      url = "https://t.co/r5IuPA3Mui"
+
+    [[tweets.entities.urls]]
+      display_url = "gist.github.com/brandur/7b459a…"
+      expanded_url = "https://gist.github.com/brandur/7b459a1ed81bfd041fabf05dc34265e3"
+      url = "https://t.co/B5V9Q9sqhE"
+
+[[tweets]]
+  created_at = 2023-02-05T22:23:41Z
+  id = 1622360339018022913
+  text = "@StevenACoffman Yeah, sure. Here it is in a runnable form:\nhttps://t.co/B5V9Q9sqhE\n\nI'm not sure my implementation is anything to write home about though. I'm sure it'd be just as good if you did your own version of it."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "gist.github.com/brandur/7b459a…"
+      expanded_url = "https://gist.github.com/brandur/7b459a1ed81bfd041fabf05dc34265e3"
+      url = "https://t.co/B5V9Q9sqhE"
+
+    [[tweets.entities.user_mentions]]
+      user = "StevenACoffman"
+      user_id = 2846854827
+
+  [tweets.reply]
+    status_id = 1622355636385189888
+    user = "StevenACoffman"
+    user_id = 2846854827
+
+[[tweets]]
+  created_at = 2023-02-05T21:22:45Z
+  favorite_count = 1
+  id = 1622345006257438720
+  text = "@PhilipGreenspun @ianmSC It's a pattern you see again and again — when 2016 rolled around, these people lost their minds, and once that emergency had been dealt with, they found new ones.\n\nIf the last 7 years tell us anything, it's that a college degree provides no inoculation against propaganda."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "PhilipGreenspun"
+      user_id = 21321949
+
+    [[tweets.entities.user_mentions]]
+      user = "ianmSC"
+      user_id = 16813044
+
+  [tweets.reply]
+    status_id = 1622331303520518145
+    user = "PhilipGreenspun"
+    user_id = 21321949
+
+[[tweets]]
   created_at = 2023-02-05T20:10:49Z
   id = 1622326904048197632
   text = "@PhilipGreenspun @ianmSC A sad story. And let me guess — no regrets of having wasted three good years of life living in a bunker? It \"had to be done\" and was \"all for the greater good\" etc. despite no evidence of it having moved the needle an iota?"
@@ -28180,7 +28241,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2533
+  favorite_count = 2536
   id = 919646432721641472
   retweet_count = 986
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
