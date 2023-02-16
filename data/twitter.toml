@@ -39784,7 +39784,7 @@
   created_at = 2016-04-10T22:34:10Z
   favorite_count = 8
   id = 719292416109350912
-  retweet_count = 7
+  retweet_count = 4
   text = "If you’re in SF, you should considering coming to join us next Saturday at GitHub to talk about APIs!\n\nhttps://t.co/82vPjr7zUR"
 
   [tweets.entities]
@@ -43457,7 +43457,7 @@
   created_at = 2015-05-30T15:53:28Z
   favorite_count = 1
   id = 604677011152338944
-  retweet_count = 4
+  retweet_count = 1
   text = "Selfie sticks are banned from events and places as diverse as Coachella, Wimbledon, WWDC, and Rome’s Colosseum. http://t.co/tQk6viy2eB"
 
   [tweets.entities]
