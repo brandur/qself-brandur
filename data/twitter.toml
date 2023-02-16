@@ -1415,7 +1415,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T18:14:06Z
-  favorite_count = 769
+  favorite_count = 773
   id = 1588233068984180737
   retweet_count = 40
   text = "Stripe's prime competency isn't payments, engineering, or product — it's PR, and always was. I look on in reluctant admiration at how even layoffs are executed about as masterfully as is possible.\n\nSorry to anyone who got hit. This sucks."
@@ -2789,7 +2789,7 @@
 
 [[tweets]]
   created_at = 2022-07-19T18:23:27Z
-  favorite_count = 206
+  favorite_count = 209
   id = 1549459920751251456
   retweet_count = 45
   text = "Continuing my streak of totally-popular-with-everyone database opinions, here's one on why soft deletion (`deleted_at` columns) is a net negative, and what to do instead.\n\nhttps://t.co/YV2vzGXCYD"
@@ -3586,9 +3586,9 @@
 
 [[tweets]]
   created_at = 2022-04-28T02:40:11Z
-  favorite_count = 4173
+  favorite_count = 4193
   id = 1519506737128038400
-  retweet_count = 374
+  retweet_count = 375
   text = "PayPal evacuating SF June 3rd. That's everyone in payments gone — Block (Square), Stripe, Brex, Credit Karma, etc. I'm sure just a coincidence —  no relation to Prop C.\n\nOnce again, San Franciscans get what they ostensibly want. We'll see how long this train can stay on the rail."
 
 [[tweets]]
@@ -12076,7 +12076,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2062
+  favorite_count = 2067
   id = 1182066723337293828
   retweet_count = 742
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -17195,7 +17195,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 565
+  favorite_count = 568
   id = 1051202041844883456
   retweet_count = 104
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -28327,9 +28327,9 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2527
+  favorite_count = 2534
   id = 919646432721641472
-  retweet_count = 987
+  retweet_count = 986
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
 
   [tweets.entities]
@@ -32940,9 +32940,9 @@
 
 [[tweets]]
   created_at = 2017-05-10T23:47:49Z
-  favorite_count = 18
+  favorite_count = 15
   id = 862454158372163584
-  retweet_count = 8
+  retweet_count = 7
   text = "Postgres is now available with HA on all three major clouds. No excuses left for using questionable databases.\n\nhttps://t.co/aznWs0o694"
 
   [tweets.entities]
@@ -38153,9 +38153,9 @@
 
 [[tweets]]
   created_at = 2016-08-02T20:54:42Z
-  favorite_count = 103
+  favorite_count = 102
   id = 760579601110175744
-  retweet_count = 98
+  retweet_count = 101
   text = "RT @leinweber: Problem: I want to add/drop/change a column or index on a live db https://t.co/IObTrMLmVU"
 
   [tweets.entities]
@@ -39417,9 +39417,9 @@
 
 [[tweets]]
   created_at = 2016-04-19T01:41:46Z
-  favorite_count = 23
+  favorite_count = 22
   id = 722238730921054213
-  retweet_count = 5
+  retweet_count = 9
   text = "Head over to https://t.co/J6Yq2vHzmV and bask in its newly ~instantaneous load time.\n\nBrought to you by @michaelvillar and @romainhuet."
 
   [tweets.entities]
@@ -39782,9 +39782,9 @@
 
 [[tweets]]
   created_at = 2016-04-10T22:34:10Z
-  favorite_count = 8
+  favorite_count = 7
   id = 719292416109350912
-  retweet_count = 4
+  retweet_count = 8
   text = "If you’re in SF, you should considering coming to join us next Saturday at GitHub to talk about APIs!\n\nhttps://t.co/82vPjr7zUR"
 
   [tweets.entities]
@@ -43457,7 +43457,7 @@
   created_at = 2015-05-30T15:53:28Z
   favorite_count = 1
   id = 604677011152338944
-  retweet_count = 1
+  retweet_count = 5
   text = "Selfie sticks are banned from events and places as diverse as Coachella, Wimbledon, WWDC, and Rome’s Colosseum. http://t.co/tQk6viy2eB"
 
   [tweets.entities]
@@ -47092,9 +47092,9 @@
 
 [[tweets]]
   created_at = 2014-07-02T21:37:03Z
-  favorite_count = 5
+  favorite_count = 4
   id = 484450704254181379
-  retweet_count = 5
+  retweet_count = 9
   text = "One day there will be a major design trend to drop interface animations in favor of instant feedback, and it's going to look revolutionary."
 
 [[tweets]]
