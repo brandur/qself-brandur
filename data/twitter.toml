@@ -1,5 +1,79 @@
 
 [[tweets]]
+  created_at = 2023-02-17T23:29:20Z
+  favorite_count = 3
+  id = 1626725513241980928
+  text = "@craigkerstiens @lstoll @crunchydata Without going into too much boring detail, we had some dependencies that needed to be burned down first. Think time-to-MFA is finally something we can measure in weeks instead of months."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "craigkerstiens"
+      user_id = 12473952
+
+    [[tweets.entities.user_mentions]]
+      user = "lstoll"
+      user_id = 59282163
+
+    [[tweets.entities.user_mentions]]
+      user = "crunchydata"
+      user_id = 1657873424
+
+  [tweets.reply]
+    status_id = 1626646311708790790
+    user = "craigkerstiens"
+    user_id = 12473952
+
+[[tweets]]
+  created_at = 2023-02-17T23:26:43Z
+  id = 1626724855700934656
+  text = "@Jonathan_Blow (And TBC, I don't think the argument is entirely good faith. Buybacks are one of the many things cited by that camp as proof that businesses are bad which means taxes should be higher and government should be bigger, which conveniently, is the result they'd like to see anyway.)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Jonathan_Blow"
+      user_id = 107336879
+
+  [tweets.reply]
+    status_id = 1626722488049893378
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2023-02-17T23:17:18Z
+  id = 1626722488049893378
+  text = "@Jonathan_Blow True, but to represent her as accurately as possible, Krystal's almost exclusively concerned with blue-collar jobs AKA labor AKA people without stock options. So it'd be more like the baristas at Starbucks or factory workers at John Deere for example."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Jonathan_Blow"
+      user_id = 107336879
+
+  [tweets.reply]
+    status_id = 1626720723317460992
+    user = "Jonathan_Blow"
+    user_id = 107336879
+
+[[tweets]]
+  created_at = 2023-02-17T23:09:27Z
+  favorite_count = 1
+  id = 1626720512067145728
+  text = "@Jonathan_Blow I listen to Breaking Points and Krystal's rationale is that if companies don't spend $ on buybacks, then it'll be used to (a) pay employees more, or (b) charge less.\n\nIt ignores markets, companies being profit-seeking engines, and a lot of things, but that's the idea."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "Jonathan_Blow"
+      user_id = 107336879
+
+  [tweets.reply]
+    status_id = 1626715780288253952
+    user = "Jonathan_Blow"
+    user_id = 107336879
+
+[[tweets]]
   created_at = 2023-02-13T21:49:28Z
   favorite_count = 1
   id = 1625250832563445760
