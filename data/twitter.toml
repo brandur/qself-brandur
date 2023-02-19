@@ -1,5 +1,51 @@
 
 [[tweets]]
+  created_at = 2023-02-19T20:46:52Z
+  id = 1627409404046999552
+  text = "@jkakar Hah, I wish I could remember the exact specs on ours. Pretty sure the first \"serious\" upgrade we did was to about ~450 MB. I think we might have had something like a 20 MBer before that, but can't claim that for certain."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jkakar"
+      user_id = 19925224
+
+  [tweets.reply]
+    status_id = 1626777385139081218
+    user = "jkakar"
+    user_id = 19925224
+
+[[tweets]]
+  created_at = 2023-02-19T20:44:50Z
+  favorite_count = 1
+  id = 1627408892929146880
+  text = "@launchany Haha. Overly serious answer: we did have an HD-less computer in the house when I was a kid, but I can't claim to have ever actually been doing anything interesting with it, so measuring against the first computer I was actually computing on."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "launchany"
+      user_id = 41441295
+
+  [tweets.reply]
+    status_id = 1626765370634665986
+    user = "launchany"
+    user_id = 41441295
+
+[[tweets]]
+  created_at = 2023-02-19T20:41:10Z
+  favorite_count = 7
+  id = 1627407970366791680
+  text = "Nice historical tidbit on GitHub + Postgres.\n\nImagine the counterfactual where reengineering of Postgres was necessary for GitHub's scale. We might have only gotten a K/V store on RDMS like at Uber, but we might've gotten a Vitess-like layer for Postgres\n\nhttps://t.co/GFOMJh7Ovs"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/defunkt/status…"
+      expanded_url = "https://twitter.com/defunkt/status/1623395363708346368"
+      url = "https://t.co/GFOMJh7Ovs"
+
+[[tweets]]
   created_at = 2023-02-19T04:53:37Z
   favorite_count = 1
   id = 1627169510276071426
@@ -18,14 +64,14 @@
 
 [[tweets]]
   created_at = 2023-02-19T02:32:26Z
-  favorite_count = 30
+  favorite_count = 33
   id = 1627133980708585472
-  retweet_count = 2
+  retweet_count = 3
   text = "Derangement from the usual crowd over retiring SMS 2FA—which for ten years has been a well-documented liability that no one should use—is a new level. Jack himself was simjacked as recently as 2019 because he used this garbage.\n\nScary to think what they'll come up with next TBH."
 
 [[tweets]]
   created_at = 2023-02-18T01:31:27Z
-  favorite_count = 166
+  favorite_count = 169
   id = 1626756247252000768
   retweet_count = 3
   text = "Honestly, even as bad as all this JavaScript stuff has gotten, I can barely believe this. Bigger than my first computer's entire hard drive. https://t.co/CR91qMEuNb"
