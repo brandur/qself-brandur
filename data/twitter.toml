@@ -1,13 +1,31 @@
 
 [[tweets]]
+  created_at = 2023-02-19T04:53:37Z
+  favorite_count = 1
+  id = 1627169510276071426
+  text = "@deontologician I kind of suspect that it's being done as a cost saving measure (I'm sure their SMS volume is expensive). For sure though, it's got a few oddities, but yes, nothing of this has anything to do with why people are mad. They're mad because they were told to be."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "deontologician"
+      user_id = 297590129
+
+  [tweets.reply]
+    status_id = 1627143834630225922
+    user = "deontologician"
+    user_id = 297590129
+
+[[tweets]]
   created_at = 2023-02-19T02:32:26Z
-  favorite_count = 10
+  favorite_count = 24
   id = 1627133980708585472
+  retweet_count = 2
   text = "Derangement from the usual crowd over retiring SMS 2FA—which for ten years has been a well-documented liability that no one should use—is a new level. Jack himself was simjacked as recently as 2019 because he used this garbage.\n\nScary to think what they'll come up with next TBH."
 
 [[tweets]]
   created_at = 2023-02-18T01:31:27Z
-  favorite_count = 132
+  favorite_count = 137
   id = 1626756247252000768
   retweet_count = 2
   text = "Honestly, even as bad as all this JavaScript stuff has gotten, I can barely believe this. Bigger than my first computer's entire hard drive. https://t.co/CR91qMEuNb"
@@ -12170,7 +12188,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2068
+  favorite_count = 2063
   id = 1182066723337293828
   retweet_count = 742
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -28421,7 +28439,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2535
+  favorite_count = 2531
   id = 919646432721641472
   retweet_count = 986
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
