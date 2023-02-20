@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2023-02-20T19:07:20Z
+  favorite_count = 6
+  id = 1627746744779014145
+  text = "And follow up from yesterday — Shopify was a near miss from being a Postgres stack too.\n\nhttps://t.co/jzWJmmnQ3A"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/tobi/status/16…"
+      expanded_url = "https://twitter.com/tobi/status/1627512397803008001"
+      url = "https://t.co/jzWJmmnQ3A"
+
+[[tweets]]
   created_at = 2023-02-19T20:46:52Z
   id = 1627409404046999552
   text = "@jkakar Hah, I wish I could remember the exact specs on ours. Pretty sure the first \"serious\" upgrade we did was to about ~450 MB. I think we might have had something like a 20 MBer before that, but can't claim that for certain."
