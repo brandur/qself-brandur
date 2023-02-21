@@ -5875,8 +5875,8 @@
   id = 83633
   isbn = "0802142494"
   isbn13 = "9780802142498"
-  num_pages = 336
-  published_year = 2006
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2011-01-31T00:00:00-08:00
   review = "A thought-inspiring book about the end of the oil age, and what comes after. Talks a lot about how we owe most of our modern feats to cheap oil. Unfortunately, the inaccuracy of some important facts and figures (often numbers are off by orders of magnitude) damages the point that the book tries to make. Most of these figures are due to the book being published years ago, but some are not."
