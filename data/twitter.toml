@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2023-02-20T19:07:20Z
-  favorite_count = 6
+  favorite_count = 11
   id = 1627746744779014145
   text = "And follow up from yesterday — Shopify was a near miss from being a Postgres stack too.\n\nhttps://t.co/jzWJmmnQ3A"
 
@@ -47,9 +47,9 @@
 
 [[tweets]]
   created_at = 2023-02-19T20:41:10Z
-  favorite_count = 32
+  favorite_count = 35
   id = 1627407970366791680
-  retweet_count = 1
+  retweet_count = 2
   text = "Nice historical tidbit on GitHub + Postgres.\n\nImagine the counterfactual where reengineering of Postgres was necessary for GitHub's scale. We might have only gotten a K/V store on RDMS like at Uber, but we might've gotten a Vitess-like layer for Postgres\n\nhttps://t.co/GFOMJh7Ovs"
 
   [tweets.entities]
