@@ -1,5 +1,54 @@
 
 [[tweets]]
+  created_at = 2023-02-22T20:15:23Z
+  id = 1628488643806662656
+  text = "@bitsandhops (j/k. Luckily blast radius contained to my test account.)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "bitsandhops"
+      user_id = 372479872
+
+  [tweets.reply]
+    status_id = 1628488540882636800
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2023-02-22T20:14:58Z
+  id = 1628488540882636800
+  text = "@bitsandhops You'll find out when you get back!"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "bitsandhops"
+      user_id = 372479872
+
+  [tweets.reply]
+    status_id = 1628236547593232384
+    user = "bitsandhops"
+    user_id = 372479872
+
+[[tweets]]
+  created_at = 2023-02-22T20:14:34Z
+  favorite_count = 1
+  id = 1628488438566752256
+  text = "@alangrow You got it :)"
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "alangrow"
+      user_id = 171622319
+
+  [tweets.reply]
+    status_id = 1628192596484046848
+    user = "alangrow"
+    user_id = 171622319
+
+[[tweets]]
   created_at = 2023-02-22T00:34:12Z
   favorite_count = 8
   id = 1628191390718119936
