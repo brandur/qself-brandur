@@ -3763,8 +3763,8 @@
   id = 6304389
   isbn = "1846140390"
   isbn13 = "9781846140396"
-  num_pages = 330
-  published_year = 2009
+  num_pages = 0
+  published_year = 0
   rating = 5
   read_at = 2013-09-09T00:00:00-07:00
   review = "Major insights into how wealth inequality ends up causing problems for all of society. Highly recommended."
@@ -5891,8 +5891,8 @@
   id = 1078880
   isbn = "0676978584"
   isbn13 = "9780676978582"
-  num_pages = 336
-  published_year = 2007
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2011-02-07T00:00:00-08:00
   review = "A collection of case studies that give insight into how the brain works that we often overlook. The author does a fantastic job of writing and presenting the material, but some of the experiments give a stark reminder as to why psychology is not a hard science."
