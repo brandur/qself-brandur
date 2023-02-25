@@ -17,7 +17,7 @@
 
 [[tweets]]
   created_at = 2023-02-25T03:43:54Z
-  favorite_count = 13
+  favorite_count = 16
   id = 1629326291727183874
   retweet_count = 1
   text = "Follow up: it pays to install Signal via Homebrew (`brew install --cask signal`).\n\nSignal's download page will direct you to the universal Mac binary, but brew will know how to find an Apple Silicon-only version, light-as-a-feather at a mere 379 MB.\n\nhttps://t.co/FRXKrHgonH"
@@ -42,7 +42,7 @@
 
 [[tweets]]
   created_at = 2023-02-25T03:21:43Z
-  favorite_count = 7
+  favorite_count = 10
   id = 1629320710954057728
   text = "Every time I try to scp a file with a space in the name, I fall a little more out of love with command line interfaces."
 
@@ -12408,7 +12408,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2068
+  favorite_count = 2064
   id = 1182066723337293828
   retweet_count = 742
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -28659,7 +28659,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2534
+  favorite_count = 2531
   id = 919646432721641472
   retweet_count = 984
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
