@@ -19206,10 +19206,10 @@
 
 [[tweets]]
   created_at = 2018-08-02T18:24:21Z
-  favorite_count = 85
+  favorite_count = 84
   id = 1025084908220243968
   retweet_count = 30
-  text = "RT @tambryantbutow: \"Nothing operates flawlessly once it hits production. Every component in the stack is a candidate for failure, and with sufficient scale, something will be failing all the time.\" #neverforget -- @brandur https://t.co/CltH0iQoOb"
+  text = "RT @tammybutow: \"Nothing operates flawlessly once it hits production. Every component in the stack is a candidate for failure, and with sufficient scale, something will be failing all the time.\" #neverforget -- @brandur https://t.co/CltH0iQoOb"
 
   [tweets.entities]
 
@@ -19228,7 +19228,7 @@
 
   [tweets.retweet]
     status_id = 1025039883256193024
-    user = "tambryantbutow"
+    user = "tammybutow"
     user_id = 44897207
 
 [[tweets]]
