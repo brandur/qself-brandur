@@ -17,7 +17,7 @@
 
 [[tweets]]
   created_at = 2023-02-25T03:43:54Z
-  favorite_count = 9
+  favorite_count = 13
   id = 1629326291727183874
   retweet_count = 1
   text = "Follow up: it pays to install Signal via Homebrew (`brew install --cask signal`).\n\nSignal's download page will direct you to the universal Mac binary, but brew will know how to find an Apple Silicon-only version, light-as-a-feather at a mere 379 MB.\n\nhttps://t.co/FRXKrHgonH"
@@ -48,7 +48,7 @@
 
 [[tweets]]
   created_at = 2023-02-24T16:27:23Z
-  favorite_count = 29
+  favorite_count = 33
   id = 1629156043778560000
   retweet_count = 1
   text = "@ShellenbergerMD @LondonBreed I doubt the extra officers would do much. It's incredibly rare to see a police officer outside their vehicle in SF. The whole force has quit quietly — still collecting paychecks, but not providing any real function.\n\nIt needs a ground up rebuild. Very hard, but necessary."
@@ -12408,7 +12408,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2064
+  favorite_count = 2068
   id = 1182066723337293828
   retweet_count = 742
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -28659,7 +28659,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2531
+  favorite_count = 2534
   id = 919646432721641472
   retweet_count = 984
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
