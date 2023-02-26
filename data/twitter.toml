@@ -1,5 +1,34 @@
 
 [[tweets]]
+  created_at = 2023-02-26T20:26:42Z
+  favorite_count = 2
+  id = 1629941046280073216
+  text = "@micsolana And notably, this misrepresentation is only one layer in many of lost credibility.\n\nThe next is the predictable lack of correction, retraction, apology, or introspection, as with Russiagate, as with Hunter Biden, as with false pharmaceutical propaganda, etc."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "micsolana"
+      user_id = 18989355
+
+  [tweets.reply]
+    status_id = 1629930102724374529
+    user = "micsolana"
+    user_id = 18989355
+
+[[tweets]]
+  created_at = 2023-02-26T20:14:22Z
+  id = 1629937941408788480
+  text = "Hip Seattle-themed store at the airport sells cassette tapes, apparently unironically.\n\nI sort of love it, but important question, does the technology to play these even exist anymore? https://t.co/hvQcHJH8O5"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1629937922802860032
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fp6z566aQAA4_Dl.jpg"
+
+[[tweets]]
   created_at = 2023-02-26T15:15:14Z
   favorite_count = 2
   id = 1629862662304858112
