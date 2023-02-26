@@ -1,5 +1,39 @@
 
 [[tweets]]
+  created_at = 2023-02-26T05:00:18Z
+  favorite_count = 4
+  id = 1629707907200860160
+  text = "Turns out, the worst civic policy/politics in the history of modern civilization do have consequences. They're just delayed."
+
+  [tweets.reply]
+    status_id = 1629707768092561408
+    user = "brandur"
+    user_id = 22980330
+
+[[tweets]]
+  created_at = 2023-02-26T04:59:45Z
+  favorite_count = 1
+  id = 1629707768092561408
+  text = "SF report: 60% of DT jobs and $1.2B/y gone.\n\nConfirms forecasts showing \"only\" a $728M deficit over 2y were fantasy. Property taxes $82M/y and business tax $139M/y lower than projected.\n\n$1B deficit wasn't expected until 2026. It'll be here by 2024 or 25.\n\nhttps://t.co/rXLKGtCK0x https://t.co/0g9IcFgnzh"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1629705445458980866
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fp3gd9UaMAI9UNQ.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1629705696462897153
+      type = "photo"
+      url = "https://pbs.twimg.com/media/Fp3gskYaAAENBqZ.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "sfbos.org/sites/default/…"
+      expanded_url = "https://sfbos.org/sites/default/files/BLA.DowntownSF.Economy%20Tax.022423.pdf"
+      url = "https://t.co/rXLKGtCK0x"
+
+[[tweets]]
   created_at = 2023-02-25T21:35:33Z
   favorite_count = 4
   id = 1629595982836150272
