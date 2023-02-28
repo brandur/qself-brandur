@@ -131,8 +131,8 @@
   id = 56269270
   isbn = "0374602573"
   isbn13 = "9780374602574"
-  num_pages = 224
-  published_year = 2021
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2022-07-23T18:26:42-07:00
   review = "Very fast little read — 200 pages, but most of them are partially filled and with a lot of whitespace. An accounting of a fictional repair shop full of quirky characters passionate about Apple products in particular, and with a few sprinkles of Apple history thrown in. A neat experiment in the format, but not hugely substantive."
@@ -2244,7 +2244,7 @@
   isbn = "0345496574"
   isbn13 = "9780345496577"
   num_pages = 694
-  published_year = 2010
+  published_year = 0
   rating = 4
   read_at = 2018-07-08T00:00:00-07:00
   review = ""
