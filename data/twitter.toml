@@ -1611,7 +1611,6 @@
 
 [[tweets]]
   created_at = 2022-11-20T00:42:13Z
-  favorite_count = 9
   id = 1594128948740313088
   text = "Making my way through God of War Ragnarok, and damn, I'd forgotten how good the 2018 game was (which carries over as the gameplay is very similar).\n\nThis is a must play for anyone into Norse mythology. Everywhere you go is so beautiful, and every character is fleshed out so well."
 
@@ -2753,7 +2752,6 @@
 
 [[tweets]]
   created_at = 2022-08-09T16:51:46Z
-  favorite_count = 19
   id = 1557046995306459138
   text = "Major tool sharpening projects that I've been procrastinating on for at least two years:\n\n• Convert to Neovim. (And reboot RC file.)\n• Convert to Fish shell. (And reboot RC file.)\n• Convert to Tailwind CSS.\n\nFinally getting to at least one of these today (Tailwind)."
 
@@ -3028,9 +3026,8 @@
 
 [[tweets]]
   created_at = 2022-07-26T19:32:00Z
-  favorite_count = 22
+  favorite_count = 21
   id = 1552013889302253568
-  retweet_count = 5
   text = "What do Go people do to operate prod without a REPL?\n\nWe've been playing with a BG worker that looks for DB flags from operators. Surprised you don't have more people sharing techniques like this because REPL-less life makes even trivial ops a headache.\n\nhttps://t.co/T98F1NBo92"
 
   [tweets.entities]
@@ -14797,7 +14794,6 @@
 
 [[tweets]]
   created_at = 2019-04-14T20:32:59Z
-  favorite_count = 5
   id = 1117526183938154496
   retweet_count = 2
   text = "@ota42y Nice Committee call out in case you missed it!\n\nhttps://t.co/DKGY6ar80q"
@@ -17797,9 +17793,8 @@
 
 [[tweets]]
   created_at = 2018-10-05T16:28:44Z
-  favorite_count = 19
+  favorite_count = 17
   id = 1048248632334405633
-  retweet_count = 6
   text = "Great take on the excellence of Go's concurrency model (and my sentiments exactly).\n\nGreen threads might not be as fast as a perfectly implemented async model, and they need a runtime, but they're still the right compromise between speed and usability.\n\nhttps://t.co/foEF9VD49j"
 
   [tweets.entities]
@@ -17846,9 +17841,8 @@
 
 [[tweets]]
   created_at = 2018-10-05T03:23:56Z
-  favorite_count = 48
+  favorite_count = 47
   id = 1048051131761344513
-  retweet_count = 10
   text = "I have never been so afraid for GitHub in my life.\n\nMore integrations is generally good, but Jira is the exception. When software is this irredeemably bad, don't integrate with it, replace it. Remember GitHub Projects? Good idea. Now finish the other 50%.\n\nhttps://t.co/h8ANe4ekYT"
 
   [tweets.entities]
@@ -24452,7 +24446,6 @@
 
 [[tweets]]
   created_at = 2018-02-06T01:00:00Z
-  favorite_count = 18
   id = 960679433752387585
   retweet_count = 6
   text = "Impressed that Google Cloud will give you a 2-node HA Postgres cluster for ~$15/mo; the same as the cheapest single-node RDB.\n\nSustained use pricing is also more user-friendly than reserved instances — true elastic computing minus capital costs and math.\n\nhttps://t.co/oMm5yCvmlR"
@@ -25237,7 +25230,6 @@
 
 [[tweets]]
   created_at = 2018-01-22T23:50:57Z
-  favorite_count = 15
   id = 955588627525808128
   text = "Recently got access to Safari, and was baffled to find that O'Reilly has eliminated downloadable formats for its books — it's hard to imagine a more hostile (distracting, poor ergonomics, etc.) reading environment than a web browser on a laptop."
 
@@ -31780,7 +31772,6 @@
 
 [[tweets]]
   created_at = 2017-08-02T15:49:41Z
-  favorite_count = 4
   id = 892774410465226757
   text = "And on that note, I’m going to start sending a very occasional newsletter. Go here if you’d like to receive it :)\n\nhttps://t.co/Q4Z0AQYChd"
 
@@ -33424,7 +33415,6 @@
 
 [[tweets]]
   created_at = 2017-05-10T14:07:29Z
-  favorite_count = 4
   id = 862308113826824192
   text = "Fun walk up Mount Diablo last weekend. Looking forward to returning for tarantula season.\n\nhttps://t.co/4kFbMH4RSO"
 
@@ -35310,7 +35300,6 @@
 
 [[tweets]]
   created_at = 2017-02-25T14:27:09Z
-  favorite_count = 15
   id = 835496361298546688
   text = "On the rare days that I wake up at 4 and experience the hour’s calm and clarity, I realize how stupid it is not to do it every day."
 
@@ -44912,7 +44901,6 @@
   created_at = 2015-02-13T17:41:40Z
   favorite_count = 4
   id = 566291126722633728
-  retweet_count = 3
   text = "Overcoming the instinct to over-engineer and go all in on speculative technology. Every developer should read this. http://t.co/T1j3Avr9jO"
 
   [tweets.entities]
@@ -46048,7 +46036,6 @@
 
 [[tweets]]
   created_at = 2014-09-28T18:25:34Z
-  favorite_count = 3
   id = 516292647351103488
   text = "A small article on shell exit statuses: http://t.co/ND8vXMY7Za"
 
