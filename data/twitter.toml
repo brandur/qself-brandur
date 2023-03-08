@@ -2062,7 +2062,6 @@
 
 [[tweets]]
   created_at = 2022-10-18T05:59:48Z
-  favorite_count = 3
   id = 1582250070409621505
   text = "The post-credits scene of the latest Rick and Morty — absolute mastery of the comedy medium. Like, the pinnacle. We can all just give it up and go home now. https://t.co/BxUx27HwnB"
 
@@ -3897,7 +3896,6 @@
 
 [[tweets]]
   created_at = 2022-04-29T01:19:11Z
-  favorite_count = 54
   id = 1519848739443077120
   text = "@goodinvesting1 IMO: Benioff's a PR guy, saw an opportunity to be the \"good billionaire\" who supported it which Twitter would say nice things about, and went for it.\n\nIronically though, SFDC's also dropped 325k+ sqft in SF since then. Ostensibly because of WFH, but he'll also be paying less tax."
 
@@ -4174,9 +4172,8 @@
 
 [[tweets]]
   created_at = 2022-04-06T19:04:56Z
-  favorite_count = 11
+  favorite_count = 10
   id = 1511782023676907521
-  retweet_count = 3
   text = "Brilliant.\n\nhttps://t.co/7GfUgSlWyS https://t.co/JMPij83NX9"
 
   [tweets.entities]
@@ -4535,7 +4532,6 @@
 
 [[tweets]]
   created_at = 2022-02-16T19:06:08Z
-  favorite_count = 9
   id = 1494025317647745027
   text = "Examining that code path, turns out that the missing time was signing our requests to that service, and we had a bug where we were reinitializing the signer over and over again.\n\nFixed the bug and added a new span for it (see 17 ms `internalService: signToken`), saving ~60 ms. https://t.co/Jfu6jAYMPw"
 
@@ -4911,7 +4907,6 @@
 
 [[tweets]]
   created_at = 2021-12-18T17:17:04Z
-  favorite_count = 13
   id = 1472254598945509377
   text = "30 / 60. Finally — half. way.\n\n200 to 300 reviews a day for 400+ consecutive days now. 983 kanji down. ~1 year left. It's a miracle anyone ever has learned this writing system, but inching closer. https://t.co/MPS8Kt3EH9"
 
@@ -7746,9 +7741,8 @@
 
 [[tweets]]
   created_at = 2021-03-04T16:44:31Z
-  favorite_count = 3
   id = 1367516314714075138
-  retweet_count = 2
+  retweet_count = 3
   text = "Impressive video on electric buses in Shenzhen. Imagine buses going from the loudest vehicles on the street to the quietest.\n\nWe’ve all internalized that big infrastructure upgrades are impossible, but remember some places in the world still make them.\n\nhttps://t.co/YRPZ0LXPxn"
 
   [tweets.entities]
@@ -8603,7 +8597,6 @@
 
 [[tweets]]
   created_at = 2021-01-07T21:18:09Z
-  favorite_count = 8
   id = 1347291457934172161
   text = "RE WhatsApp Facebook-itzation: Baffled by the number of claims of “I left WhatsApp by “just” switching me and every person I know over to Signal!”\n\nVery hard to believe, but they seem to believe what they’re saying. Not sure where the disconnect is, but installed Signal anyway."
 
@@ -9515,9 +9508,8 @@
 
 [[tweets]]
   created_at = 2020-10-26T15:12:05Z
-  favorite_count = 23
   id = 1320745018231980035
-  retweet_count = 4
+  retweet_count = 5
   text = "Important development in web technology that'd be easy to miss: Very soon there will be no performance advantage to cross-site resource sharing via CDN.\n\nPrivacy aside, I like the idea of sites hosting their own assets — just seems simpler.\n\nhttps://t.co/DJnctgFzih"
 
   [tweets.entities]
@@ -11324,7 +11316,6 @@
 
 [[tweets]]
   created_at = 2020-04-24T16:52:34Z
-  favorite_count = 10
   id = 1253728550592450561
   retweet_count = 2
   text = "(On regression in GUI design.)\n\nhttps://t.co/6bblHlJdJi\n\nWe've trended for two decades towards UIs that are prettier, but less powerful/discoverable. Even seemingly benign patterns like lavish whitespace, now present in ~every app, aren't good — information density matters."
@@ -13414,7 +13405,6 @@
 
 [[tweets]]
   created_at = 2019-08-12T15:53:46Z
-  favorite_count = 16
   id = 1160942461025308672
   retweet_count = 2
   text = "Real-world code being converted from futures to async/await in Rust. Beautiful.\n\nAnd in case you missed it: await was implemented postfix (`x.await` instead of `await(x)`) for chainability. Contentious at the time, but so obviously the right decision now.\n\nhttps://t.co/RkvAKjGMte"
@@ -26089,7 +26079,6 @@
 
 [[tweets]]
   created_at = 2017-12-29T20:27:32Z
-  favorite_count = 7
   id = 946840127023693824
   text = "(Also, I've sunk so many hours into Rust this holiday season that its error messages around moves/borrows/lifetimes are actually starting to make sense. God help me.)"
 
@@ -27203,7 +27192,6 @@
 
 [[tweets]]
   created_at = 2017-11-24T23:20:46Z
-  favorite_count = 6
   id = 934200147176599552
   text = "I _just_ realized that iOS 11’s Control Center is customizable and includes a low power mode toggle and quick launch for alarms.\n\n(Tweeting just in case I’m not the only one because I’ve been wanting this for years.) https://t.co/g87IC92KmS"
 
@@ -28780,7 +28768,6 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2534
   id = 919646432721641472
   retweet_count = 983
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
@@ -28799,7 +28786,6 @@
 
 [[tweets]]
   created_at = 2017-10-15T18:51:05Z
-  favorite_count = 11
   id = 919636765782056961
   text = "A boring story: For years my laptop had an SD card reader and I forgot it was there. I finally started using it a few months ago and it was great. Then I upgraded to a new MBP and that fleeting moment of convenience was gone.\n\nToday, I use a dongle like Ives Himself intended."
 
@@ -29038,9 +29024,8 @@
 
 [[tweets]]
   created_at = 2017-10-06T20:02:04Z
-  favorite_count = 19
+  favorite_count = 18
   id = 916393138574336002
-  retweet_count = 3
   text = "The terrifying things even smart people will do when inheritance is available is consistently amazing; e.g. ancestry ~10 levels deep. Multiple inheritance is worse, but only by a step.\n\nAbolishing all inheritance is a hallmark of a great modern language. Nice one Go and Rust :)"
 
 [[tweets]]
@@ -32751,7 +32736,6 @@
   created_at = 2017-05-31T16:40:50Z
   favorite_count = 36
   id = 869956849902080001
-  retweet_count = 18
   text = "RT @craigkerstiens: Awesome summary of modern advanced cloud database: https://t.co/9C3722cBdC"
 
   [tweets.entities]
@@ -32772,7 +32756,6 @@
 
 [[tweets]]
   created_at = 2017-05-31T16:12:48Z
-  favorite_count = 6
   id = 869949795711860737
   text = "And when I say “can’t” I mean “shouldn’t”.\n\nTurns out the people talking about database atomicity in the 70s were onto something."
 
@@ -35515,7 +35498,6 @@
   created_at = 2017-02-22T18:19:07Z
   favorite_count = 30
   id = 834467573840306176
-  retweet_count = 9
   text = "Idempotency keys in particular are a favorite HTTP API innovation from Stripe.\n\nhttps://t.co/ZalECrqFG3"
 
   [tweets.entities]
@@ -37910,7 +37892,6 @@
 
 [[tweets]]
   created_at = 2016-10-25T00:49:47Z
-  favorite_count = 4
   id = 790716956055703552
   retweet_count = 2
   text = "Great seeing Rust take fast edit-compile-debug seriously. Of paramount importance day-to-day, but so often ignored.\n\nhttps://t.co/tHNPlG5H9s"
@@ -42450,7 +42431,6 @@
 
 [[tweets]]
   created_at = 2015-08-12T15:57:44Z
-  favorite_count = 4
   id = 631494789117149185
   text = "Monodraw's diagrams look better than any text to SVG programs that I've tried. Plain text continues to dominate. http://t.co/zmNGr1ATSS"
 
