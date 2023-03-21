@@ -1,5 +1,48 @@
 
 [[tweets]]
+  created_at = 2023-03-21T01:14:44Z
+  favorite_count = 1
+  id = 1637986065264033794
+  text = "@maxchehab Yep, Sentry's perf tracing. Good eye."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "maxchehab"
+      user_id = 3303065330
+
+  [tweets.reply]
+    status_id = 1637936641762533378
+    user = "maxchehab"
+    user_id = 3303065330
+
+[[tweets]]
+  created_at = 2023-03-21T01:14:08Z
+  favorite_count = 1
+  id = 1637985911320494082
+  text = "@kureikain @rhyselsmore Nah, it might depend on the language somewhat, but if you dig into the source, all dispatches back to Sentry's API are done asynchronously, and the in-band overhead is roughly negligible:\n\nhttps://t.co/Tzm0Q286Tz\n\nI'd expect most tracing SDKs to be written this way."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "github.com/getsentry/sent…"
+      expanded_url = "https://github.com/getsentry/sentry-go/blob/dc573d7883e7f547bdc7f1e91465e831d9764de2/tracing.go#L100"
+      url = "https://t.co/Tzm0Q286Tz"
+
+    [[tweets.entities.user_mentions]]
+      user = "kureikain"
+      user_id = 15533855
+
+    [[tweets.entities.user_mentions]]
+      user = "rhyselsmore"
+      user_id = 300183219
+
+  [tweets.reply]
+    status_id = 1637963808181460994
+    user = "kureikain"
+    user_id = 15533855
+
+[[tweets]]
   created_at = 2023-03-20T23:08:25Z
   id = 1637954275866476544
   text = "@rhyselsmore We're using Sentry's performance monitoring/transactions:\n\nhttps://t.co/MAHlkYouk5"
