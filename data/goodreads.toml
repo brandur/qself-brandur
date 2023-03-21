@@ -436,7 +436,7 @@
   isbn = "0593318072"
   isbn13 = "9780593318072"
   num_pages = 245
-  published_year = 2021
+  published_year = 0
   rating = 3
   read_at = 2021-12-28T10:05:48-08:00
   review = "A couple nice little Murakami narratives. There's not much of an overarching theme, but it's a great short little book to knock out over a couple holiday evenings."
@@ -444,8 +444,8 @@
   title = "First Person Singular: Stories"
 
   [[readings.authors]]
-    id = 3354
-    name = "Haruki Murakami"
+    id = 403782
+    name = "Philip Gabriel"
 
 [[readings]]
   id = 254799
