@@ -66,8 +66,9 @@
 
 [[tweets]]
   created_at = 2023-03-20T21:54:40Z
-  favorite_count = 36
+  favorite_count = 39
   id = 1637935714909425664
+  retweet_count = 1
   text = "Install a solid framework for producing distributed traces, and you never get tired of looking at these things.\n\nAuth/ACL -> procure temp SSH key -> SSH -> connect Postgres via SSH channel -> execute remote query on Postgres. Operations that can be parallelized are parallelized. https://t.co/LercauyeRU"
 
   [tweets.entities]
