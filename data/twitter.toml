@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2023-03-22T19:36:49Z
+  favorite_count = 1
+  id = 1638625799787134977
+  text = "And amusingly, an incident caused by the unassailable gravity of Hyrum's Law. Deployed a fix for a bug, but since its inception our Frontend had started using a related API parameter in a way that was allowed, but not intended, breaking integration.\n\nhttps://t.co/do2hl36wnC"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "twitter.com/craigkerstiens…"
+      expanded_url = "https://twitter.com/craigkerstiens/status/1638618374761779200"
+      url = "https://t.co/do2hl36wnC"
+
+[[tweets]]
   created_at = 2023-03-21T01:14:44Z
   favorite_count = 1
   id = 1637986065264033794
@@ -12765,7 +12778,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2067
+  favorite_count = 2062
   id = 1182066723337293828
   retweet_count = 741
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -29016,7 +29029,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2529
+  favorite_count = 2525
   id = 919646432721641472
   retweet_count = 983
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
