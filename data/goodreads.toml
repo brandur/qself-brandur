@@ -4035,8 +4035,8 @@
   id = 2034402
   isbn = "303778105X"
   isbn13 = "9783037781050"
-  num_pages = 467
-  published_year = 2007
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2018-09-08T00:00:00-07:00
   review = "Almost certainly the most beautifully assembled book I've ever seen. I didn't find anything truly revolutionary in its pages, but there's detail on lots of great art projects, and some interesting deliberation on the nature, history, and future of design closer to the end."
