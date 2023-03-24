@@ -1,5 +1,26 @@
 
 [[tweets]]
+  created_at = 2023-03-24T01:34:07Z
+  id = 1639078104168800258
+  text = "@the_lightheart Huh, interesting. Font is Cardo which I always kind of liked. What's the font style on the right?\n\nMy plan is to jettison all that current design sooner rather than later (see https://t.co/2TYnB5MCWV for newer style). Unfortunately, the redesign is moving at a snail's pace."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/atoms"
+      expanded_url = "https://brandur.org/atoms"
+      url = "https://t.co/2TYnB5MCWV"
+
+    [[tweets.entities.user_mentions]]
+      user = "the_lightheart"
+      user_id = 1443647903831150598
+
+  [tweets.reply]
+    status_id = 1638861701146615808
+    user = "the_lightheart"
+    user_id = 1443647903831150598
+
+[[tweets]]
   created_at = 2023-03-22T19:36:49Z
   favorite_count = 4
   id = 1638625799787134977

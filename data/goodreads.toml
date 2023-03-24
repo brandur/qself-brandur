@@ -740,7 +740,7 @@
   isbn = "0143119788"
   isbn13 = "9780143119784"
   num_pages = 381
-  published_year = 2011
+  published_year = 0
   rating = 2
   read_at = 2021-04-07T00:00:00-07:00
   review = "I'm not sure what I'm missing with le Carré — I spent six months reading this one off and on hoping that it would eventually pick up, but it never did. Prose that's dense to the point of obfuscation, spy craft as riveting as organizing your W-2s in April, and the most pinnacle moments of the book compressed to short paragraphs barely worthy of note. I watched the Alec Guinness series and read the Wikipedia summary while I was reading and still had a very hard time understanding what was going on."
@@ -2404,7 +2404,7 @@
   isbn = "0385353308"
   isbn13 = "9780385353304"
   num_pages = 333
-  published_year = 2014
+  published_year = 0
   rating = 4
   read_at = 2017-09-18T00:00:00-07:00
   review = "A really fresh take on post-apocalyptic fiction. I loved how the interleaving stories flitted with each other before definitively resolving. Very nice work."
