@@ -1636,7 +1636,7 @@
   isbn = "0307269191"
   isbn13 = "9780307269195"
   num_pages = 188
-  published_year = 2008
+  published_year = 0
   rating = 3
   read_at = 2019-02-04T00:00:00-08:00
   review = ""
@@ -2468,7 +2468,7 @@
   isbn = "1484785541"
   isbn13 = "9781484785546"
   num_pages = 160
-  published_year = 2016
+  published_year = 0
   rating = 1
   read_at = 2017-07-16T00:00:00-07:00
   review = ""
