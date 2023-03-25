@@ -5894,7 +5894,7 @@
   created_at = 2021-10-21T21:23:01Z
   favorite_count = 14
   id = 1451297998269399041
-  retweet_count = 10
+  retweet_count = 7
   text = "RT @sebrindom: Have written a blog post about how we implemented idempotency keys in @medusajs. I first read about the concept on @brandur's blog and have obsessed over it ever since 😁\n\n#opensource #javascript #programming\nhttps://t.co/6vEjy00FYn"
 
   [tweets.entities]
