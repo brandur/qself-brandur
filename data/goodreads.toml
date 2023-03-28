@@ -387,8 +387,8 @@
   id = 404437
   isbn = "0924486848"
   isbn13 = "9780924486845"
-  num_pages = 256
-  published_year = 1995
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2022-03-19T10:25:00-07:00
   review = "A chronicle by Bernard Moitessier, most notable for almost certainly having been the undisputed winner of the 1968 _Sunday Times_ Golden Globe Race (the first non-stop round-the-world solo yacht race) ... had he not decided to just keep sailing around the world instead of finishing. As far as the book is concerned — it's a great historical artifact, but is largely made up of freeform entries from Moitessier's journal, and is pretty long-winded and undirected. Still interesting as it reveals the purity of his spirit, and the post-book material on the technical specifics of his boat set up / sail diagrams / knot details / supply list / food recipes is pretty neat."
@@ -396,8 +396,8 @@
   title = "The Long Way"
 
   [[readings.authors]]
-    id = 229247
-    name = "Bernard Moitessier"
+    id = 85928
+    name = "William Rodarmor"
 
 [[readings]]
   id = 12591698
@@ -3076,7 +3076,7 @@
   isbn = "0804137382"
   isbn13 = "9780804137386"
   num_pages = 260
-  published_year = 2014
+  published_year = 0
   rating = 4
   read_at = 2016-04-20T00:00:00-07:00
   review = "Just like any other self-improvement book, it's mostly full of personal anecdotes and hard-to-verify assertions. That said, I enjoyed the content and really do think that he's on to something in that many of us are living lives of non-essentialism in that we're focused on the wrong things, have our attention fractured in dozens of different directions, and aren't taking the time to consider what's important. Certainly food for thought."
@@ -3204,7 +3204,7 @@
   isbn = "0804139296"
   isbn13 = "9780804139298"
   num_pages = 195
-  published_year = 2014
+  published_year = 0
   rating = 3
   read_at = 2015-08-11T00:00:00-07:00
   review = "Contains a wealth of anecdotes and general information — some of it about startups, and some not. It's a fast enough to make it worth your time, but like many books in its genre, most of the revealed information is not very actionable. At times it deviates pretty far off course too, talking about many general information subjects that are only tangentially related to startups like the unabomber, Kurzweil's singularity, and Howard Hughes."
@@ -3604,7 +3604,7 @@
   isbn = "0394720245"
   isbn13 = "9780394720241"
   num_pages = 1246
-  published_year = 1975
+  published_year = 0
   rating = 4
   read_at = 2018-08-12T00:00:00-07:00
   review = ""
@@ -4324,7 +4324,7 @@
   isbn = "015626224X"
   isbn13 = "9780156262248"
   num_pages = 213
-  published_year = 1972
+  published_year = 0
   rating = 3
   read_at = 2012-01-31T23:01:05-08:00
   review = "Detailed account of what it's like to be poor and at the lowest rungs of society. Orwell himself did experiment with this first hand, but not to the same extent that the book seems to indicate.\n\nOf particular note were the contrasts between between poor in France versus England (in many ways France was more conducive to the lifestyle), and the narrative closer to the end of the book on being a tramp."
@@ -5347,7 +5347,7 @@
   id = 2623
   isbn = "0192833596"
   isbn13 = "9780192833594"
-  num_pages = 544
+  num_pages = 0
   published_year = 1998
   rating = 2
   read_at = 2009-07-01T00:00:00-07:00
@@ -5635,8 +5635,8 @@
   id = 33297
   isbn = "0385334303"
   isbn13 = "9780385334303"
-  num_pages = 256
-  published_year = 1999
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2010-05-27T00:00:00-07:00
   review = "A book written about humans from a zoologist's perspective, with lots of comparisons to other animals. Interesting info bits like the fact that humans have the largest penis out of any ape. A few parts are a bit dated but still reads very well considering it was published in 1967."
