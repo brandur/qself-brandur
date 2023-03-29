@@ -372,7 +372,7 @@
   isbn = "0812517725"
   isbn13 = "9780812517729"
   num_pages = 705
-  published_year = 1991
+  published_year = 0
   rating = 5
   read_at = 2022-01-19T00:00:00-08:00
   review = "Wow. I read most of this series when I was a kid, and although I liked it at the time, I never fully appreciated just how much better Wheel of Time is compared to almost every other comparable fantasy series (or even beyond those too) — the writing, world-building, and characterization are just incredible, and don't fall into any of the pulp tropes that you find in so many other places. The Great Hunt in particular is one of the early-series book that packs in lots of action, lots of cool One Power stuff, and lots of new exploration of WoT's expansive world."
@@ -2980,7 +2980,7 @@
   isbn = "0393343448"
   isbn13 = "9780393343441"
   num_pages = 218
-  published_year = 2012
+  published_year = 0
   rating = 5
   read_at = 2016-05-12T00:00:00-07:00
   review = "Aside from a few overly broad generalizations about the people of particular nationalities, this is an amazing book that covers specific monetary crises in various countries around the world. It goes to show that there is at least one thing common to all peoples on Earth: greed."
@@ -4084,7 +4084,7 @@
   isbn = "0812515285"
   isbn13 = "9780812515282"
   num_pages = 613
-  published_year = 1993
+  published_year = 0
   rating = 4
   read_at = 2020-05-15T10:22:00-07:00
   review = "Some of the best science fiction I've read in a while. Very innovative premise, incredibly imaginative alien species, and compelling characters (good and bad). It even has a universal interplanetary communication medium that looks like Usenet — can't go wrong!"
