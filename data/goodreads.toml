@@ -2835,7 +2835,7 @@
   id = 6545608
   isbn = "0393337014"
   isbn13 = "9780393337013"
-  num_pages = 248
+  num_pages = 0
   published_year = 2009
   rating = 3
   read_at = 2016-10-01T00:00:00-07:00
@@ -3556,7 +3556,7 @@
   isbn = "0679734163"
   isbn13 = "9780679734161"
   num_pages = 251
-  published_year = 1992
+  published_year = 0
   rating = 3
   read_at = 2014-04-19T16:34:45-07:00
   review = "Contains a number of interesting case studies centered on the engineering world around large scale failures. The book is starting to show its age, but is surprisingly resilient to time thanks to its focus on the slightly-more-stable discipline of civil engineering."
