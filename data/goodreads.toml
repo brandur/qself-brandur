@@ -2473,7 +2473,7 @@
   read_at = 2017-07-16T00:00:00-07:00
   review = ""
   review_id = 2045155274
-  title = "For Magnus Chase: Hotel Valhalla, Guide to the Norse Worlds"
+  title = "Hotel Valhalla, Guide to the Norse Worlds"
 
   [[readings.authors]]
     id = 15872
@@ -5027,8 +5027,8 @@
   id = 3081563
   isbn = "0374288518"
   isbn13 = "9780374288518"
-  num_pages = 198
-  published_year = 2008
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2008-11-10T00:00:00-08:00
   review = "Investigating the nature of life in the age of synthetic biology. Speculates on the characteristics of life and history in genetic advancements."
@@ -5748,7 +5748,7 @@
   isbn = "0765322161"
   isbn13 = "9780765322166"
   num_pages = 477
-  published_year = 2010
+  published_year = 0
   rating = 3
   read_at = 2010-07-18T00:00:00-07:00
   review = "A story about different factions of gold farmers and other MMO game workers who band together to unionize their profession. Contains some really inspirational ideas, but not a very engaging writing style."
