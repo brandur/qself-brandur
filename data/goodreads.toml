@@ -1652,7 +1652,7 @@
   isbn = "0449912558"
   isbn13 = "9780449912553"
   num_pages = 419
-  published_year = 1997
+  published_year = 0
   rating = 4
   read_at = 2019-03-16T09:42:29-07:00
   review = ""
@@ -2259,8 +2259,8 @@
   id = 10258481
   isbn = "4805311290"
   isbn13 = "9784805311295"
-  num_pages = 160
-  published_year = 2011
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2018-03-30T00:00:00-07:00
   review = "This is more of a guide than a book, but it was well researched and well assembled. There was a lot of information codified here that I'd only found out about painstakingly by other means. Recommended read as a travel guide to anyone thinking about visiting."
