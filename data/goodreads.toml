@@ -1156,7 +1156,7 @@
   isbn = "014200068X"
   isbn13 = "9780142000687"
   num_pages = 181
-  published_year = 2002
+  published_year = 0
   rating = 3
   read_at = 2020-02-20T00:00:00-08:00
   review = ""
@@ -1748,7 +1748,7 @@
   isbn = "1501139150"
   isbn13 = "9781501139154"
   num_pages = 600
-  published_year = 2017
+  published_year = 0
   rating = 5
   read_at = 2019-01-09T00:00:00-08:00
   review = ""
@@ -2196,7 +2196,7 @@
   isbn = "1400079276"
   isbn13 = "9781400079278"
   num_pages = 467
-  published_year = 2006
+  published_year = 0
   rating = 3
   read_at = 2018-08-04T00:00:00-07:00
   review = ""
@@ -5884,8 +5884,8 @@
   title = "Meditations"
 
   [[readings.authors]]
-    id = 17212
-    name = "Marcus Aurelius"
+    id = 446070
+    name = "Martin Hammond"
 
 [[readings]]
   id = 83633
