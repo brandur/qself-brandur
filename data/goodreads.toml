@@ -444,8 +444,8 @@
   title = "First Person Singular: Stories"
 
   [[readings.authors]]
-    id = 403782
-    name = "Philip Gabriel"
+    id = 3354
+    name = "Haruki Murakami"
 
 [[readings]]
   id = 254799
@@ -2473,7 +2473,7 @@
   read_at = 2017-07-16T00:00:00-07:00
   review = ""
   review_id = 2045155274
-  title = "Hotel Valhalla, Guide to the Norse Worlds"
+  title = "Hotel Valhalla Guide to the Norse Worlds"
 
   [[readings.authors]]
     id = 15872
@@ -2915,8 +2915,8 @@
   id = 25897871
   isbn = "0544634497"
   isbn13 = "9780544634497"
-  num_pages = 288
-  published_year = 2016
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2016-07-17T00:00:00-07:00
   review = "I was a little worried when the first section of the book was powered purely by anecdotes about speakers that had come to TED, but about midway through it starts to get into some pretty concrete advice on how to give a talk. There's no silver bullet when it comes to doing a talk, but this is a compilation of as good of advice as you're likely to find."
