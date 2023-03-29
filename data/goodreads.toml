@@ -243,8 +243,8 @@
   id = 26030703
   isbn = "0316306088"
   isbn13 = "9780316306089"
-  num_pages = 272
-  published_year = 2016
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2022-05-21T10:29:00-07:00
   review = "An early example of the genre of \"tech journalist hates industry he reports on\" (but isn't beyond taking a paycheck from it) which would become especially widespread in the later 2010s. I'm sure there are some legitimate complaints in here and there's no question that some tech cultural practices got pretty absurd, but the whole book reeks of exaggeration and oversimplification for dramatic effect, and doesn't spend even a moment pandering to anything even resembling objectivity."
@@ -532,12 +532,12 @@
   isbn = "038554121X"
   isbn13 = "9780385541213"
   num_pages = 498
-  published_year = 2019
+  published_year = 0
   rating = 2
   read_at = 2021-10-11T10:01:20-07:00
   review = "Love all the themes that this book is going for — old libraries, masquerade parties, ancient harbors, and appreciated the nods to gaming, blogging, and pop culture, but this is very pulp-y stuff. The characters are so single-dimensional that it was hard to care about what happened to any of them, and almost every last one a trope — OP female friend, old librarian, refined high society new lover, etc. The protagonist sleepwalks through a story that doesn't offer much by way of conflict or plot — the characters meander through Alice In Wonderland environments until eventually it resolves, but not by virtue of anything that anyone did. A lot of the prose is genuinely clever, and the conceit of alternative chapters that tell fables is intriguing (although overplayed), but not enough so to redeem it."
   review_id = 4283153179
-  title = "The Starless Sea"
+  title = "The Starless Sea: A Novel"
 
   [[readings.authors]]
     id = 4370565
@@ -562,9 +562,9 @@
 [[readings]]
   id = 424598
   isbn = "0071414290"
-  isbn13 = "0639785802594"
+  isbn13 = "9780071414296"
   num_pages = 275
-  published_year = 2003
+  published_year = 0
   rating = 4
   read_at = 2021-09-01T00:00:00-07:00
   review = "The Donald Crowhurst story simultaneously quite mundane (a man who after being forced into a tough situation, starts cheating) and incredibly fantastic (just how elaborate the scheme turns out to be, some of the downright strange coincidences that forced the final outcome). The effort and research that went into reconstructing Crowhurt's voyage based on misleading radio messages and a combination of partially complete and doctored ship logs is amazing. The book is not only thorough, but also very objective — Crowhurst's ultimate fate can't be known with perfect certainty, but the authors establish what they think is the most reasonable conclusion and exhaustively list the supporting evidence for it. Other possibilities are considered as well, with each one dismissed with sound reasoning. The one negative I'll say is that the book might be a little _too_ thorough — I found myself wishing that they'd packed the story into half the length or so."
@@ -2900,7 +2900,7 @@
   isbn = "039335315X"
   isbn13 = "9780393353150"
   num_pages = 291
-  published_year = 2015
+  published_year = 0
   rating = 5
   read_at = 2016-06-14T14:16:32-07:00
   review = "Excellent book that's manages to be an educational experience while staying very succinct. Humanizes a major event that might seem inscrutable from the outside and turns it into a compelling story. The complex financial instruments involved in the scandal are never simplified or glossed over; instead they are deconstructed and explained in a straightforward way that's easy to grok for the layman."
@@ -3812,7 +3812,7 @@
   isbn = "0553380966"
   isbn13 = "9780553380965"
   num_pages = 499
-  published_year = 2000
+  published_year = 0
   rating = 4
   read_at = 2013-05-08T00:00:00-07:00
   review = "Great read with a very novel and imaginative view of the future. Lots of easter eggs for your average geek. In my opinion, easily Stephenson's best.\n\nOnly four starts because the intersections between all the different narratives start getting very tenuous by the end."
@@ -5396,7 +5396,7 @@
   isbn = "0547225490"
   isbn13 = "9780547225494"
   num_pages = 150
-  published_year = 2009
+  published_year = 0
   rating = 3
   read_at = 2009-08-15T00:00:00-07:00
   review = "A novella describing the rise of AI over humanity, told from the point of view of an advanced race in the distant future. Short, and to the point."
