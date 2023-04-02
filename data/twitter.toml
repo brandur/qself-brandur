@@ -1,7 +1,28 @@
 
 [[tweets]]
+  created_at = 2023-04-02T19:56:43Z
+  id = 1642617074362236928
+  text = "@kornelius_jo A wrote up a few words on the subject here:\n\nhttps://t.co/IyEjuqrHEt\n\nWe ended up building auth features in house as I had some experience doing that already, but I'd contend that modern protocols like OIDC and APIs like WebAuthn have made that reasonably tractable."
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/atoms/gkoxmy2"
+      expanded_url = "https://brandur.org/atoms/gkoxmy2"
+      url = "https://t.co/IyEjuqrHEt"
+
+    [[tweets.entities.user_mentions]]
+      user = "kornelius_jo"
+      user_id = 571626787
+
+  [tweets.reply]
+    status_id = 1641173409735364608
+    user = "kornelius_jo"
+    user_id = 571626787
+
+[[tweets]]
   created_at = 2023-04-02T16:27:53Z
-  favorite_count = 11
+  favorite_count = 16
   id = 1642564518894252033
   text = "Finally a good running week after many, many bad ones.\n\nI keep having to relearn the hard way (usually after gradually gaining 30 lbs. lol) that unless exercise is baked right into the schedule, it's not going to reliably happen. https://t.co/SfaGCWNpCC"
 
