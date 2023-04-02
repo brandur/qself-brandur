@@ -1,5 +1,18 @@
 
 [[tweets]]
+  created_at = 2023-04-02T16:27:53Z
+  favorite_count = 11
+  id = 1642564518894252033
+  text = "Finally a good running week after many, many bad ones.\n\nI keep having to relearn the hard way (usually after gradually gaining 30 lbs. lol) that unless exercise is baked right into the schedule, it's not going to reliably happen. https://t.co/SfaGCWNpCC"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1642564515710779392
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FsuPuW-aQAAHrM-.jpg"
+
+[[tweets]]
   created_at = 2023-03-24T01:34:07Z
   id = 1639078104168800258
   text = "@the_lightheart Huh, interesting. Font is Cardo which I always kind of liked. What's the font style on the right?\n\nMy plan is to jettison all that current design sooner rather than later (see https://t.co/2TYnB5MCWV for newer style). Unfortunately, the redesign is moving at a snail's pace."
