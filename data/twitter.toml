@@ -22,7 +22,7 @@
 
 [[tweets]]
   created_at = 2023-04-02T16:27:53Z
-  favorite_count = 19
+  favorite_count = 22
   id = 1642564518894252033
   text = "Finally a good running week after many, many bad ones.\n\nI keep having to relearn the hard way (usually after gradually gaining 30 lbs. lol) that unless exercise is baked right into the schedule, it's not going to reliably happen. https://t.co/SfaGCWNpCC"
 
@@ -12833,7 +12833,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2059
+  favorite_count = 2064
   id = 1182066723337293828
   retweet_count = 741
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -15722,7 +15722,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 854
+  favorite_count = 851
   id = 1108525994405564417
   retweet_count = 81
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
@@ -17952,7 +17952,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 562
+  favorite_count = 566
   id = 1051202041844883456
   retweet_count = 103
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -29084,7 +29084,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2520
+  favorite_count = 2524
   id = 919646432721641472
   retweet_count = 983
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
