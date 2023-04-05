@@ -1107,8 +1107,8 @@
   id = 44667183
   isbn = "1635579988"
   isbn13 = "9781635579987"
-  num_pages = 288
-  published_year = 2019
+  num_pages = 0
+  published_year = 0
   rating = 5
   read_at = 2020-03-03T00:00:00-08:00
   review = ""
