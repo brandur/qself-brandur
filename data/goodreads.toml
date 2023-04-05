@@ -1828,7 +1828,7 @@
   isbn = "0765326353"
   isbn13 = "9780765326355"
   num_pages = 1007
-  published_year = 2010
+  published_year = 0
   rating = 2
   read_at = 2018-11-10T00:00:00-08:00
   review = ""
@@ -2564,7 +2564,7 @@
   isbn = "0316257443"
   isbn13 = "9780316257442"
   num_pages = 550
-  published_year = 2016
+  published_year = 0
   rating = 4
   read_at = 2017-07-18T00:00:00-07:00
   review = "A good and unbiased biography of George Lucas and some of the prehistory of Star Wars. Recommended if this stuff interests you."
@@ -3171,8 +3171,8 @@
   id = 25159057
   isbn = "0465059732"
   isbn13 = "9780465059737"
-  num_pages = 296
-  published_year = 2015
+  num_pages = 0
+  published_year = 0
   rating = 5
   read_at = 2016-05-07T07:01:05-07:00
   review = "Ametora is an amazing book that is very informational while managing to stay easy to read and quite succinct. All its stories, from the rise of Ivy style, to the domination of international streetwear with A Bathing Ape, to the obsession and mastery with first finding vintage American denim, and then later with its production, are enthralling. A perfect example on how the history of fashion can be interesting."
@@ -3347,13 +3347,13 @@
   id = 6452798
   isbn = "1594202273"
   isbn13 = "9781594202278"
-  num_pages = 656
-  published_year = 2013
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2019-05-14T00:00:00-07:00
   review = ""
   review_id = 1199953260
-  title = "Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety"
+  title = "Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety (ALA Notable Books for Adults)"
 
   [[readings.authors]]
     id = 380
