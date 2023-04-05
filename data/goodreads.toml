@@ -4452,7 +4452,7 @@
   isbn = "1400049628"
   isbn13 = "9781400049622"
   num_pages = 272
-  published_year = 2003
+  published_year = 0
   rating = 2
   read_at = 2011-11-08T00:00:00-08:00
   review = "Written as an interesting parallel to the real world, but didn't really grab my attention in any way. I couldn't wait to get it over with."
@@ -5732,12 +5732,12 @@
   isbn = "0743212118"
   isbn13 = "9780743212113"
   num_pages = 0
-  published_year = 2001
+  published_year = 0
   rating = 4
   read_at = 2010-06-24T00:00:00-07:00
   review = "Details of the investigation into a paleontological site in Patagonia called Auca Mahuevo containing thousands of dinosaur eggs. Very interesting."
   review_id = 190688415
-  title = "Walking On Eggs: The Astonishing Discovery Of Thousands Of Dinosaur Eggs In The Badlands Of Patagonia"
+  title = "Walking on Eggs: The Astonishing Discovery of Thousands of Dinosaur Eggs in the Badlands of Patagonia"
 
   [[readings.authors]]
     id = 304794
