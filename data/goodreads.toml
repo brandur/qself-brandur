@@ -329,7 +329,7 @@
   read_at = 2022-04-22T10:27:00-07:00
   review = "Quite good, and the overall premise is interesting, but didn't quite feel as cohesive as Mandel's other books. The ambient, low-key narration is great when applied to more informal narratives found in other novels, but doesn't fit as well when talking about a massive time-traveling organization that controls the flow of history."
   review_id = 4700099210
-  title = "Sea of Tranquility"
+  title = "Sea of Tranquility: A novel"
 
   [[readings.authors]]
     id = 2786093
@@ -1876,12 +1876,12 @@
   isbn = "052552004X"
   isbn13 = "9780525520047"
   num_pages = 704
-  published_year = 2018
+  published_year = 0
   rating = 4
   read_at = 2018-10-27T00:00:00-07:00
   review = "The plot is total nonsense, but reading Murakami's prose is a meditative experience."
   review_id = 2574654658
-  title = "Killing Commendatore"
+  title = "Killing Commendatore: A novel"
 
   [[readings.authors]]
     id = 3354
@@ -2132,7 +2132,7 @@
   isbn = "1594203474"
   isbn13 = "9781594203473"
   num_pages = 447
-  published_year = 2015
+  published_year = 0
   rating = 4
   read_at = 2018-04-30T00:00:00-07:00
   review = "A nice account of a life well-spent (and with a lot of surfing). I was impressed by how much of the book really is about the technical aspects and day-to-day experiences while surfing — often for books in its the genre it's just used as a pretext to tell other stories and talk about its culture."
@@ -2804,7 +2804,7 @@
   isbn = "014311638X"
   isbn13 = "9780143116387"
   num_pages = 152
-  published_year = 2009
+  published_year = 0
   rating = 4
   read_at = 2016-06-22T00:00:00-07:00
   review = "Excellent set of succinct rules on _what_ and _how_ to eat. You'll find yourself nodding your head while reading because most of it is common sense once given appropriate thought, but even so, it's useful to have a list of best practices codified in this manner. Good nutrition is far from the default in our society because every aspect of its framework incentives the opposite.\n\nI'd rate this 5/5, except that it's very short (I read it in about 30 minutes at a modest pace). It's probably worth the sticker price, but may not be good value relative to other works of well researched non-fiction in longer form."
@@ -4756,7 +4756,7 @@
   isbn = "0307463745"
   isbn13 = "9780307463746"
   num_pages = 279
-  published_year = 2010
+  published_year = 0
   rating = 4
   read_at = 2011-10-10T00:00:00-07:00
   review = "Overall I enjoyed Rework, a compilation of very high-level advice to start a company without making the same mistakes as the supercorporations of the last century.\n\nSome of the advice is a little questiontable, e.g. \"Badmouth your competitors to get people on your side.\" This is definitely something 37signals does, but isn't good advice for everyone."
@@ -5459,8 +5459,8 @@
   id = 3360822
   isbn = "0307407187"
   isbn13 = "9780307407184"
-  num_pages = 224
-  published_year = 2008
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2009-09-17T00:00:00-07:00
   review = "A handbook written in a joking sense about how to move to Mars and be successful in everything you do there. Zubrin backs up his fictional stories with a lot of scientific figures."
