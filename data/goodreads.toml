@@ -1763,8 +1763,8 @@
   id = 38900866
   isbn = "0062874780"
   isbn13 = "9780062874788"
-  num_pages = 240
-  published_year = 2018
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2018-12-19T00:00:00-08:00
   review = "Similar to previous Basecamp books — interesting, and with some very inspirational and thought-provoking ideas, but also mixed with some advice that's more dubious (sweeping generalizations for something that may be either not repeatable or not broadly applicable).\n\nStill, Fried and DHH seem to be some of the few corporate leaders in the world who are trying to build a company that aims to be efficient and sustainable. Most others seem to be chasing much more questionable values like maintaining an illusion of work that's really just frantic busy-ness, or hyper-growth-at-all-costs which leads to a top-heavy pyramid that's 95% communication and 5% productive progress. I, for one, appreciate that."
