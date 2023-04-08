@@ -3475,8 +3475,8 @@
   id = 104745
   isbn = "0131429019"
   isbn13 = "9780131429017"
-  num_pages = 560
-  published_year = 2003
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2014-06-30T14:14:43-07:00
   review = "Great insights into some of the historical roots of Unix and its successors, as well as some deep dives into the design of many classic Unix programs. My only complaints were that there was a lot of attribution of elegance to interfaces which, in my opinion, are not very elegant (take the make system or fetchmail configuration for example), and that large sections of the book are dedicated to technologies which are a bit outdated these days. Otherwise, this is a very interesting read."
