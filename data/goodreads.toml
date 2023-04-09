@@ -2611,8 +2611,8 @@
   id = 26193026
   isbn = "1594206422"
   isbn13 = "9781594206429"
-  num_pages = 416
-  published_year = 2016
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2016-10-11T00:00:00-07:00
   review = "Amusing set of memoirs that coincidentally also act as a shallow history of the New York club and rave scene in the late 80s and early 90s. Most of the book didn't do all that much for me though."
