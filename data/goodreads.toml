@@ -724,7 +724,7 @@
   isbn = "0316198838"
   isbn13 = "9780316198837"
   num_pages = 663
-  published_year = 2013
+  published_year = 0
   rating = 3
   read_at = 2021-04-01T00:00:00-07:00
   review = "A tough one to rate because it's got a lot of ups and a lot downs. The good: interesting mountaineering, compelling characters, good overall story arc with a satisfying conclusion. The bad: a little run on, the mixture of real/fake people and events comes off as a little disingenuous, and it just seems like a bad trope at this point that Nazis are involved in a book about climbing a mountain just so there are convenient black-and-white bad guys. Still, the Goodreads ratings for this one are misleading — there are thousands of _far_ worse books with much higher ratings. Check out Simmons' other books first, but not a bad read."
@@ -2771,13 +2771,13 @@
   id = 61619
   isbn = "1593270070"
   isbn13 = "9781593270070"
-  num_pages = 241
-  published_year = 2004
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2016-07-06T16:58:29-07:00
   review = "A solid book that people of all experience levels will learn at least something from. I found it especially useful for solidifying some of my network and assembly fundamentals.\n\nOne thing to note is that the exploits in the book are generally not very useful in the modern world, most of them are only useful for attacking C/C++-based programs, or programs on old versions of the Linux kernel, or wireless encryption systems that no one uses anymore, but they can still be treated as useful building blocks."
   review_id = 1678958741
-  title = "Hacking: The Art of Exploitation"
+  title = "Hacking: The Art of Exploitation w/CD"
 
   [[readings.authors]]
     id = 34725
@@ -4852,7 +4852,7 @@
   isbn = "0786942614"
   isbn13 = "9780786942619"
   num_pages = 594
-  published_year = 2007
+  published_year = 0
   rating = 3
   read_at = 2008-08-16T00:00:00-07:00
   review = "The companions travel to Skullcap and Thorbadin after defeating Verminaard to find sanctuary for the refugees with them and obtain the Hammer of Kharas."
