@@ -3523,8 +3523,8 @@
   id = 13538752
   isbn = "0312681232"
   isbn13 = "9780312681234"
-  num_pages = 384
-  published_year = 2012
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2016-01-05T00:00:00-08:00
   review = "A book which gives good information on Cato without being so overbearing as to present him in an overly biased way. The period of Roman history covered is largely the final years of the Republic through which Cato lived and had an active role (and for readers less familiar with the time, these also happen to be some of the most interesting years in the entirety of Roman history), and culminating with Julius Caesar's ascension.\n\nThere were a few parts of the book that worded slightly oddly (Cato's death was quite abrupt for example), but other than that I have no complaints. Recommended!"
@@ -4297,7 +4297,7 @@
   read_at = 2012-02-07T00:00:00-08:00
   review = "Witty. Funny. Adventurous (and even somewhat educational). Top tier travel book."
   review_id = 275164310
-  title = "Tequila Oil"
+  title = "Tequila Oil: Getting Lost in Mexico"
 
   [[readings.authors]]
     id = 64127
