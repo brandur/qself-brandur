@@ -1188,7 +1188,7 @@
   isbn = "0743264738"
   isbn13 = "9780743264730"
   num_pages = 675
-  published_year = 2007
+  published_year = 0
   rating = 5
   read_at = 2020-01-20T00:00:00-08:00
   review = ""
@@ -4291,8 +4291,8 @@
   id = 7690214
   isbn = "0753826941"
   isbn13 = "9780753826942"
-  num_pages = 240
-  published_year = 2010
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2012-02-07T00:00:00-08:00
   review = "Witty. Funny. Adventurous (and even somewhat educational). Top tier travel book."
