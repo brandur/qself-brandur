@@ -2644,7 +2644,7 @@
   isbn = "0374214913"
   isbn13 = "9780374214913"
   num_pages = 288
-  published_year = 2012
+  published_year = 0
   rating = 3
   read_at = 2016-08-05T00:00:00-07:00
   review = "A good story about the search for a long-held secret including secret societies and a nice San Francisco setting. The writing is succinct and clever, but perhaps overly glib most of the time. Very reminiscent of Doctorow's work."
@@ -3059,8 +3059,8 @@
   id = 21535451
   isbn = "0981484654"
   isbn13 = "9780981484655"
-  num_pages = 96
-  published_year = 2015
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2016-02-03T11:22:31-08:00
   review = "Some interesting philosophical views and a dabbling of Japanese aesthetic, but nothing life changing. A very short read that may be better characterized as an essay."
