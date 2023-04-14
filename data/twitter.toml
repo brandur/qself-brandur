@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2023-04-14T16:02:16Z
+  favorite_count = 9
+  id = 1646906726057398273
+  text = "My reaction to someone saying they'll use GPT to write a book: so, I'll use GPT to summarize your book?\n\nGenerative AI has changed the world to make the supply of derivative content infinite. The inevitable result will be be more of it than anyone can, or would care to, consume."
+
+[[tweets]]
   created_at = 2023-04-13T13:15:41Z
   id = 1646502416203005954
   text = "@danielwithmusic Yeah, you still pay dynamic pricing for what you use, it's just dynamic pricing on top of a big new fixed expense. So you live in a studio, use little energy, and never turn your heat on, you still pay $100+/month."
@@ -522,7 +528,7 @@
 
 [[tweets]]
   created_at = 2023-02-24T16:27:23Z
-  favorite_count = 35
+  favorite_count = 36
   id = 1629156043778560000
   retweet_count = 1
   text = "@ShellenbergerMD @LondonBreed I doubt the extra officers would do much. It's incredibly rare to see a police officer outside their vehicle in SF. The whole force has quit quietly — still collecting paychecks, but not providing any real function.\n\nIt needs a ground up rebuild. Very hard, but necessary."
@@ -530,16 +536,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "ShellenbergerMD"
-      user_id = 2474749586
-
-    [[tweets.entities.user_mentions]]
       user = "LondonBreed"
       user_id = 2927379996
 
   [tweets.reply]
     status_id = 1629141999860469760
-    user = "ShellenbergerMD"
+    user = "shellenberger"
     user_id = 2474749586
 
 [[tweets]]
@@ -18000,7 +18002,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 563
+  favorite_count = 566
   id = 1051202041844883456
   retweet_count = 103
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -29132,7 +29134,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2517
+  favorite_count = 2521
   id = 919646432721641472
   retweet_count = 982
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
