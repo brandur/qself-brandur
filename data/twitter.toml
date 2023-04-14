@@ -530,16 +530,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "ShellenbergerMD"
-      user_id = 2474749586
-
-    [[tweets.entities.user_mentions]]
       user = "LondonBreed"
       user_id = 2927379996
 
   [tweets.reply]
     status_id = 1629141999860469760
-    user = "ShellenbergerMD"
+    user = "shellenberger"
     user_id = 2474749586
 
 [[tweets]]
