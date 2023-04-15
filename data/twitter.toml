@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2023-04-15T00:30:48Z
+  id = 1647034702870765568
+  text = "@jesperfj Honestly, assuming the input prompt is reasonably close to the output summary, it might be pretty close. All the words shuffled around for a second round of course, but not meaningfully different."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jesperfj"
+      user_id = 9813502
+
+  [tweets.reply]
+    status_id = 1646979547320160256
+    user = "jesperfj"
+    user_id = 9813502
+
+[[tweets]]
   created_at = 2023-04-14T16:02:16Z
   favorite_count = 9
   id = 1646906726057398273
