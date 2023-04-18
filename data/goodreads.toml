@@ -1059,8 +1059,8 @@
   id = 406575
   isbn = "0812966147"
   isbn13 = "9780812966145"
-  num_pages = 336
-  published_year = 2002
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2020-04-03T00:00:00-07:00
   review = "Although the prose (and heavy nautical jargon) is a little difficult to follow at times, _The Riddle of the Sands_ is interesting for its premise, but far more interesting for its historical context — not only is it one of the earliest written spy thrillers that booted John Le Carre et all, but it turns out to have been extraordinarily prescient of WWI. Compared to modern entries in the same genre, I found it amazing how little there was in the way of direct action/explosions/overwrought drama, and how much deals with the collection of facts and good old fashioned reasoning ."
@@ -2212,7 +2212,7 @@
   isbn = "037571894X"
   isbn13 = "9780375718946"
   num_pages = 353
-  published_year = 2002
+  published_year = 0
   rating = 3
   read_at = 2018-06-19T00:00:00-07:00
   review = ""
@@ -5475,7 +5475,7 @@
   id = 68428
   isbn = ""
   isbn13 = "9780765311788"
-  num_pages = 541
+  num_pages = 537
   published_year = 2006
   rating = 3
   read_at = 2009-09-20T00:00:00-07:00
