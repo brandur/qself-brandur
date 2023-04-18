@@ -1,5 +1,100 @@
 
 [[tweets]]
+  created_at = 2023-04-17T23:51:41Z
+  id = 1648112024403214340
+  text = "@jakubnesetril It's cool, but gimmicky: (1) titanium, (2) managed by app, (3) color-shifting iconery based on expenditures, and (4) it's less from Apple, and more Goldman Sachs by way of Apple.\n\nAs a credit card it's B- reward-wise. I have it because I buy way too much Apple stuff (@ 3% :)."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jakubnesetril"
+      user_id = 15248051
+
+  [tweets.reply]
+    status_id = 1648110332051861504
+    user = "jakubnesetril"
+    user_id = 15248051
+
+[[tweets]]
+  created_at = 2023-04-17T23:47:16Z
+  id = 1648110912501583872
+  text = "@elgaree Yep. It's not taking your deposits? I transferred some money to test it out and it seemed to have worked."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "elgaree"
+      user_id = 860659886
+
+  [tweets.reply]
+    status_id = 1648110329224912899
+    user = "elgaree"
+    user_id = 860659886
+
+[[tweets]]
+  created_at = 2023-04-17T23:46:24Z
+  favorite_count = 1
+  id = 1648110693923831808
+  text = "@jesperfj Interesting idea. I've been using Etrade to buy T-bills secondary. I made a TreasuryDirect account, but the interface was so dire that I was afraid to use it.\n\nI almost locked myself out by using a 1P-generated password and then being greeted on login by the virtual keyboard lol."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jesperfj"
+      user_id = 9813502
+
+  [tweets.reply]
+    status_id = 1648109541748543488
+    user = "jesperfj"
+    user_id = 9813502
+
+[[tweets]]
+  created_at = 2023-04-17T23:42:23Z
+  favorite_count = 1
+  id = 1648109684052873216
+  text = "@jesperfj Yep, have a hard feeling any sympathy for these guys. They're basically 100% insulated from any downside by the powers that be, are able to privatize all their upside, and yet somehow still manage to screw it up."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jesperfj"
+      user_id = 9813502
+
+  [tweets.reply]
+    status_id = 1648108780369096706
+    user = "jesperfj"
+    user_id = 9813502
+
+[[tweets]]
+  created_at = 2023-04-17T23:34:54Z
+  favorite_count = 4
+  id = 1648107798675472384
+  text = "The Apple Card is a bit of a gimmick, but the new 4.15% account is a good reminder to check rates.\n\nI keep some cash for liquidity, and was amazed to find my credit union's \"high-yield savings account\" is paying a magnanimous 0.02% APY as of April 2023.\n\nhttps://t.co/02HD8Z01e7"
+
+  [tweets.entities]
+
+    [[tweets.entities.urls]]
+      display_url = "apple.com/newsroom/2023/…"
+      expanded_url = "https://www.apple.com/newsroom/2023/04/apple-cards-new-high-yield-savings-account-is-now-available-offering-a-4-point-15-percent-apy/"
+      url = "https://t.co/02HD8Z01e7"
+
+[[tweets]]
+  created_at = 2023-04-17T21:50:27Z
+  id = 1648081514067017728
+  text = "@jakubnesetril Yeah, hotels in the US are totally preposterous too.\n\nI guess it's all a supply/demand thing at the end of the day. Lots of post-Covid demand and new hotels don't come online that quickly. Still, there must be vast swathes of the population priced out of travel these days."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jakubnesetril"
+      user_id = 15248051
+
+  [tweets.reply]
+    status_id = 1647905230787588097
+    user = "jakubnesetril"
+    user_id = 15248051
+
+[[tweets]]
   created_at = 2023-04-16T18:29:09Z
   favorite_count = 14
   id = 1647668466655322112
@@ -29163,7 +29258,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2521
+  favorite_count = 2517
   id = 919646432721641472
   retweet_count = 982
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
