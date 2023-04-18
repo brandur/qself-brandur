@@ -2364,8 +2364,8 @@
   title = "The Three-Body Problem (Remembrance of Earth’s Past, #1)"
 
   [[readings.authors]]
-    id = 5780686
-    name = "Liu Cixin"
+    id = 18455699
+    name = "Cixin Liu"
 
 [[readings]]
   id = 18774981
@@ -3363,7 +3363,7 @@
   id = 2657
   isbn = ""
   isbn13 = ""
-  num_pages = 336
+  num_pages = 323
   published_year = 2006
   rating = 4
   read_at = 2015-02-06T08:47:33-08:00
