@@ -5236,7 +5236,7 @@
   isbn = "0812972155"
   isbn13 = "9780812972153"
   num_pages = 339
-  published_year = 2004
+  published_year = 0
   rating = 5
   read_at = 2009-02-07T00:00:00-08:00
   review = "The narrative of John Romero and John Carmack (among others) building the PC gaming industry, starting with primitive top down games, then moving to Commander Keen, Wolfenstein 3-D, Doom, and finally Quake. Describes the genius of these people, as well as their character flaws, and infighting which eventually led to Romero's departure from id."
