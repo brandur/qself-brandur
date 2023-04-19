@@ -339,8 +339,8 @@
   id = 58949003
   isbn = "1982186984"
   isbn13 = "9781982186982"
-  num_pages = 320
-  published_year = 2022
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2022-04-15T10:26:00-07:00
   review = "Good insight into Tony Hsieh's meteoric rise and even more sudden crash. Although Tony's later year projects may have been more questionable, I'd contend that his work to revitalize downtown Vegas as to produce a vital urban community may be one of the better things a billionaire (or near billionaire in his case) has ever spent their money on. There's the obvious story of substance abuse, but there's a subplot here of how Covid-related lockdowns were extremely harmful to people prone to abuse — Hsieh's case is one that'll have a book written about it, but it makes you wonder of the untold millions for whom nothing will ever be said."
@@ -995,13 +995,13 @@
   id = 42676
   isbn = "0864423705"
   isbn13 = "9780864423702"
-  num_pages = 269
+  num_pages = 0
   published_year = 2002
   rating = 4
   read_at = 2020-05-23T23:02:56-07:00
   review = "Although a little meandering at times, I found the context in this book incredibly compelling as Kerr lived in Japan decades before it became more popular/possible to do so. Many of the things that most of us have come to see as the cornerstones and charm of Japan — neon lights, exposed power lines, cultivated forests — he explicitly dislikes, arguing that the country's traditional beauty and practices are being lost. There are many, many books written about Japan these days, but this one offers rare, contrarian, and refreshing history and perspective."
   review_id = 3369796442
-  title = "Lost Japan"
+  title = "Lonely Planet Journeys: Lost Japan"
 
   [[readings.authors]]
     id = 24014
