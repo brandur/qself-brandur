@@ -1700,7 +1700,7 @@
   isbn = "076532637X"
   isbn13 = "9780765326379"
   num_pages = 1248
-  published_year = 2017
+  published_year = 0
   rating = 1
   read_at = 2019-01-24T00:00:00-08:00
   review = ""
@@ -2435,8 +2435,8 @@
   id = 30139664
   isbn = "0765392763"
   isbn13 = "9780765392763"
-  num_pages = 384
-  published_year = 2017
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2017-08-02T00:00:00-07:00
   review = "\"Walkaway\" is further proof that nobody thinks about the future like Cory Doctorow does. The imagined future isn't just possible, but feels within reach, and is modeled on a trajectory that originates from the author's keen sense of technology today. Many of its elements are pulled directly from ideas that we have today like wikis, anonymizers, version control, gamification, etc. and extended to produce an impressive vista that manages to be both utopian and dystopian at the same time.\n\nI'm giving it a lower rating mostly because all the characters are so insufferable. The highly embellished banter gets tiring to read after a while, and you just find yourself wishing that Cory would pick up a few habits from Cormac McCarthy. The book is also heavy handed on political statements: everyone's on the LGBT spectrum, and every female character is a Mary Sue incarnate. It's not the worst thing in the world, but it all comes off quite contrived."
