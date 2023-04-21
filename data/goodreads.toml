@@ -2371,8 +2371,8 @@
   id = 18774981
   isbn = "1451636016"
   isbn13 = "9781451636017"
-  num_pages = 256
-  published_year = 2014
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2017-11-04T00:00:00-07:00
   review = "Certainly a very important book: Harris describes the important concept that it's possible to tease the practical gems out of religions that also prescribe a lot of anti-intellectual mumbo jumbo. Meditation is discussed in depth, along with what we understand about how it affects the brain. There's a short part at the end where he talks about his experiences with LSD, and this sort of content always interesting.\n\nMy only complaint about the book is that a fair bit of material that didn't really need to be in there was added so that it could hit the 200-page mark. It probably would have been more impacting as 50 pages worth of thematically-related essays."
@@ -2505,7 +2505,7 @@
   read_at = 2017-06-12T00:00:00-07:00
   review = "Not my favorite by McCarthy. The book beats you over the head with the theme that the world is violent and brutal, but after a while it just feels senseless, and there doesn't seem to be any deeper takeaway to be had. I normally love his prose, but here it's so hopelessly obfuscated that I was following along with Wikipedia to make sure I caught everything. On the upside, the kid and the judge are both very interesting characters."
   review_id = 2029441666
-  title = "Blood Meridian, or the Evening Redness in the West"
+  title = "Blood Meridian, or, the Evening Redness in the West"
 
   [[readings.authors]]
     id = 4178
