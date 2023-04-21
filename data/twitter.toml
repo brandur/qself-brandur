@@ -1,9 +1,25 @@
 
 [[tweets]]
+  created_at = 2023-04-21T12:35:44Z
+  id = 1649391467931238406
+  text = "@jesperfj Apple / Goldman Savings account winning lol."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "jesperfj"
+      user_id = 9813502
+
+  [tweets.reply]
+    status_id = 1649155081886113794
+    user = "jesperfj"
+    user_id = 9813502
+
+[[tweets]]
   created_at = 2023-04-20T19:09:39Z
-  favorite_count = 17
+  favorite_count = 20
   id = 1649128209722785793
-  retweet_count = 3
+  retweet_count = 4
   text = "RT @craigkerstiens: .@brandur has done a bit of talking about our team, stack, practices. This summarizes well...\n\nWhen asked how we can compete with a big cloud or others, really comes down to execution and this is part. https://t.co/OMg2bKRYoD"
 
   [tweets.entities]
