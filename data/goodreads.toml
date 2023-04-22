@@ -1139,8 +1139,8 @@
   id = 13539191
   isbn = "0765333104"
   isbn13 = "9780765333100"
-  num_pages = 336
-  published_year = 2012
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2020-02-29T00:00:00-08:00
   review = ""
