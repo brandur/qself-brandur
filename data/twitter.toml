@@ -1,5 +1,27 @@
 
 [[tweets]]
+  created_at = 2023-04-22T03:15:59Z
+  favorite_count = 7
+  id = 1649612989929242630
+  text = "@leinweber See you in a week and a half. BTW, you know that we're going to have to follow up on this multi-decade art project. It's a statutory requirement. https://t.co/f7v0w9rHXx"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1649611691632766977
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FuSZF_EaMAErJYq.jpg"
+
+    [[tweets.entities.medias]]
+      id = 1649611704295366657
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FuSZGuPaIAEou1j.jpg"
+
+    [[tweets.entities.user_mentions]]
+      user = "leinweber"
+      user_id = 7524442
+
+[[tweets]]
   created_at = 2023-04-22T02:27:06Z
   id = 1649600685468704768
   text = "@danfarina @jacob_coblentz @mayavada That said, I'll say uncharacteristically: this comes in at a mere $710k? That's couch money compared to anything in SF's budget. Less than a half of one bathroom.\n\nAssuming that no actually good solution will even be suggested (and of course none will), I'm kind of for it lol."
