@@ -1881,7 +1881,7 @@
   read_at = 2018-10-27T00:00:00-07:00
   review = "The plot is total nonsense, but reading Murakami's prose is a meditative experience."
   review_id = 2574654658
-  title = "Killing Commendatore: A novel"
+  title = "Killing Commendatore"
 
   [[readings.authors]]
     id = 3354
@@ -5923,8 +5923,8 @@
   id = 2018455
   isbn = "1553652401"
   isbn13 = "9781553652403"
-  num_pages = 288
-  published_year = 2007
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2011-02-09T00:00:00-08:00
   review = "A dramatization of a woman's adventure on the Camino de Santiago across Spain. Jane is a very quirky and engaging writer, but the hyperbole gets extreme at some points."
