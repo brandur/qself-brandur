@@ -1,5 +1,21 @@
 
 [[tweets]]
+  created_at = 2023-04-24T12:17:30Z
+  id = 1650474042736930817
+  text = "@hone02 Yeah it's great."
+
+  [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "hone02"
+      user_id = 15317640
+
+  [tweets.reply]
+    status_id = 1650311405487239168
+    user = "hone02"
+    user_id = 15317640
+
+[[tweets]]
   created_at = 2023-04-23T22:58:46Z
   favorite_count = 5
   id = 1650273032093462533
