@@ -1411,8 +1411,8 @@
   id = 171242
   isbn = "1568361874"
   isbn13 = "9781568361871"
-  num_pages = 304
-  published_year = 1997
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2019-08-01T00:00:00-07:00
   review = "An older perspective on Japan than you get from most travelogues, which were written much more recently. Thorough and a unique brand of humor."

@@ -1,5 +1,23 @@
 
 [[tweets]]
+  created_at = 2023-04-23T22:58:46Z
+  favorite_count = 2
+  id = 1650273032093462533
+  text = "A whale shark at the Georgia Aquarium. In landlocked Atlanta, but the world's largest aquarium until 2012. Cool place.\n\nhttps://t.co/oogXBDpUC9 https://t.co/i2lT8XAEXZ"
+
+  [tweets.entities]
+
+    [[tweets.entities.medias]]
+      id = 1650272990016184320
+      type = "photo"
+      url = "https://pbs.twimg.com/media/FubyinhWIAAmeHe.jpg"
+
+    [[tweets.entities.urls]]
+      display_url = "brandur.org/sequences/046"
+      expanded_url = "https://brandur.org/sequences/046"
+      url = "https://t.co/oogXBDpUC9"
+
+[[tweets]]
   created_at = 2023-04-22T03:15:59Z
   favorite_count = 10
   id = 1649612989929242630
@@ -13180,9 +13198,9 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2062
+  favorite_count = 2056
   id = 1182066723337293828
-  retweet_count = 743
+  retweet_count = 742
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
 
   [tweets.entities]
