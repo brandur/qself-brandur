@@ -3699,8 +3699,8 @@
   id = 13330433
   isbn = "081299356X"
   isbn13 = "9780812993561"
-  num_pages = 352
-  published_year = 2013
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2014-04-26T00:00:00-07:00
   review = ""
