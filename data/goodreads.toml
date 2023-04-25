@@ -1268,7 +1268,7 @@
   isbn = "1250237238"
   isbn13 = "9781250237231"
   num_pages = 339
-  published_year = 2019
+  published_year = 0
   rating = 5
   read_at = 2019-11-13T00:00:00-08:00
   review = ""
@@ -4692,7 +4692,7 @@
   isbn = "1439150311"
   isbn13 = "9781439150313"
   num_pages = 237
-  published_year = 2011
+  published_year = 0
   rating = 5
   read_at = 2011-09-03T00:00:00-07:00
   review = "Extremely comprehensive resource with regards to the history of Rapa Nui (Easter Island), but also reasonable in length so that your attention is captured for the book's entire duration. A worthwhile read for anyone interested in history."
