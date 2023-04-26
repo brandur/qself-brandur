@@ -1348,7 +1348,7 @@
   isbn = "1400067057"
   isbn13 = "9781400067053"
   num_pages = 370
-  published_year = 2010
+  published_year = 0
   rating = 5
   read_at = 2019-10-03T10:38:00-07:00
   review = ""
@@ -3908,7 +3908,7 @@
   isbn = "0765319853"
   isbn13 = "9780765319852"
   num_pages = 382
-  published_year = 2008
+  published_year = 0
   rating = 4
   read_at = 2013-02-26T08:59:41-08:00
   review = "A little cliche, and written with hyperbolically, but a somewhat realistic portrayal of one possibility of the kind of police state the US would become after another large scale terrorist attack, making it an important read."
