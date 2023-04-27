@@ -3139,8 +3139,8 @@
   id = 1121565
   isbn = "1558218769"
   isbn13 = "9781558218765"
-  num_pages = 248
-  published_year = 1999
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2016-01-08T10:04:24-08:00
   review = "Great climbing adventure story from the early days of mountaineering. The content is good and the prose carries a particular charm."
