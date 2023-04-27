@@ -1284,7 +1284,7 @@
   isbn = "0385528779"
   isbn13 = "9780385528771"
   num_pages = 431
-  published_year = 2009
+  published_year = 0
   rating = 2
   read_at = 2019-10-26T00:00:00-07:00
   review = ""
@@ -3890,9 +3890,9 @@
 [[readings]]
   id = 13642936
   isbn = "0307986071"
-  isbn13 = "9780307986078"
+  isbn13 = "9780804141147"
   num_pages = 258
-  published_year = 2013
+  published_year = 0
   rating = 4
   read_at = 2013-03-10T00:00:00-08:00
   review = "A few passages were somewhat hard to believe (and unreferenced), but very thought provoking in general. I especially liked the global perspective detailed in the book, as almost every continent gets a mention and analysis."
@@ -4483,13 +4483,13 @@
   id = 855559
   isbn = "0618367519"
   isbn13 = "9780618367511"
-  num_pages = 320
-  published_year = 2004
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2013-05-26T00:00:00-07:00
   review = ""
   review_id = 227052955
-  title = "Lords and Lemurs: Mad Scientists, Kings With Spears, and the Survival of Diversity in Madagascar"
+  title = "Lords and Lemurs: Mad Scientists, Kings with Spears, and the Survival of Diversity in Madagascar"
 
   [[readings.authors]]
     id = 442952
@@ -5667,13 +5667,13 @@
   id = 5966123
   isbn = "0765322897"
   isbn13 = "9780765322890"
-  num_pages = 336
-  published_year = 2009
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2010-05-30T00:00:00-07:00
   review = "A novel about the arrival of an alien species on Earth. With the help of a local paleontologist, they determine that across three major alien worlds there have been simultaneous extinction events that helped guide the evolution of sentient beings. This, along with the fact that universal constants that appear to be tweaked exactly right seem to indicate the presence of God.\n\nWell-written, but hard to figure out what point Sawyer was trying to make with the book (if any)."
   review_id = 190690622
-  title = "Calculating God"
+  title = "Calculating God: A Novel"
 
   [[readings.authors]]
     id = 25883
