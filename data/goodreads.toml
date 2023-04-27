@@ -3396,7 +3396,7 @@
   isbn = "0765375869"
   isbn13 = "9780765375865"
   num_pages = 336
-  published_year = 2014
+  published_year = 0
   rating = 2
   read_at = 2015-01-01T00:00:00-08:00
   review = "Not terrible, but too formulaic for my taste. Manages to simultaneously do the science-fiction thing of exploring every new (and predictable) facet of the non-existent technology that the book is based on, while simultaneously hitting every detective novel trope out there. Characters generally felt two-dimensional and were rarely ever in the dark for long before using their family connections, super-scientist roommate buddy, or magical Haden abilities to slice through the fog."
@@ -5108,7 +5108,7 @@
   isbn = "0765318172"
   isbn13 = "9780765318176"
   num_pages = 350
-  published_year = 2008
+  published_year = 0
   rating = 3
   read_at = 2008-12-30T00:00:00-08:00
   review = "Various factions view for control of a prehuman artifact which is manipulating itself back to the Rift in order to be with its own kind."
