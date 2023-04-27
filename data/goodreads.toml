@@ -1427,8 +1427,8 @@
   id = 35749434
   isbn = "1101981415"
   isbn13 = "9781101981412"
-  num_pages = 256
-  published_year = 2018
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2019-07-24T00:00:00-07:00
   review = ""
@@ -2739,8 +2739,8 @@
   id = 400064
   isbn = "0670037974"
   isbn13 = "9780670037971"
-  num_pages = 329
-  published_year = 2006
+  num_pages = 0
+  published_year = 0
   rating = 5
   read_at = 2016-08-01T00:00:00-07:00
   review = "Great book that covers the history of Alexandria from its founding by Alexander the Great all the way through its downfall in later Roman and Islamic rule, and covers the major thinkers and rulers who occupied the city throughout. Fans of Roman history will appreciate how its great figures are woven in throughout, but don't steal the spotlight, leaving a different and less frequently covered historical perspective from the side of the Egyptians."
@@ -4932,7 +4932,7 @@
   isbn = "159315481X"
   isbn13 = "9781593154813"
   num_pages = 352
-  published_year = 2008
+  published_year = 0
   rating = 4
   read_at = 2008-09-12T00:00:00-07:00
   review = "Evidence and a case for the prosecution of President George W. Bush for murder based on his actions in Iraq. Bugliosi is a lawyer who had a successful career at the L.A. County District Attorney's office. The arguments that are presented are quite convincing."
