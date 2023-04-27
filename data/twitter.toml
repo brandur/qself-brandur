@@ -2554,7 +2554,7 @@
 
 [[tweets]]
   created_at = 2022-11-03T18:14:06Z
-  favorite_count = 764
+  favorite_count = 767
   id = 1588233068984180737
   retweet_count = 39
   text = "Stripe's prime competency isn't payments, engineering, or product — it's PR, and always was. I look on in reluctant admiration at how even layoffs are executed about as masterfully as is possible.\n\nSorry to anyone who got hit. This sucks."
@@ -16102,7 +16102,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 850
+  favorite_count = 847
   id = 1108525994405564417
   retweet_count = 81
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
