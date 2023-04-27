@@ -2292,7 +2292,7 @@
   isbn = "0517415283"
   isbn13 = "9780517415283"
   num_pages = 192
-  published_year = 1988
+  published_year = 0
   rating = 2
   read_at = 2018-02-15T00:00:00-08:00
   review = ""
@@ -2996,7 +2996,7 @@
   isbn = "0763669733"
   isbn13 = "9780763669737"
   num_pages = 324
-  published_year = 2015
+  published_year = 0
   rating = 3
   read_at = 2016-05-10T01:04:18-07:00
   review = ""
@@ -3876,7 +3876,7 @@
   isbn = "0525952241"
   isbn13 = "9780525952244"
   num_pages = 333
-  published_year = 2011
+  published_year = 0
   rating = 4
   read_at = 2013-03-24T16:25:47-07:00
   review = "Great travel adventure including memorable characters and great humor combined with good historical fact and a summary of relevant current events."
