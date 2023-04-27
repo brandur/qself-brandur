@@ -4899,8 +4899,8 @@
   id = 221059
   isbn = "1596911050"
   isbn13 = "9781596911055"
-  num_pages = 448
-  published_year = 2007
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2008-08-31T00:00:00-07:00
   review = "About a game programmer and his quirky team, pot-dealing mother, wannabe-actor father, and strangely enough, Douglas Coupland himself. The book is interlaced with weird games and geek visuals."
