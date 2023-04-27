@@ -2099,8 +2099,8 @@
   id = 34323539
   isbn = "0062697439"
   isbn13 = "9780062697431"
-  num_pages = 160
-  published_year = 2017
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2018-05-25T00:00:00-07:00
   review = "A well-written overview on why the current brand of liberalism are failing America and leading to more division instead of cooperation. Maybe the most interesting insight is that like some other societal mistakes in the past, identity politics is built around a policy of individualism that encourages abdication from any responsibility towards helping to create a greater good for all of a country's citizens."
