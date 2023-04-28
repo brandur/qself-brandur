@@ -4244,12 +4244,12 @@
   isbn = "0399157298"
   isbn13 = "9780399157295"
   num_pages = 579
-  published_year = 2011
+  published_year = 0
   rating = 5
   read_at = 2012-07-06T00:00:00-07:00
   review = "Huge historical insight as well as insight into both Kennedy and Krushchev and explanations for why they did what they did. The research put into this book is phenomenal. Highly recommended."
   review_id = 363546255
-  title = "Berlin 1961: Kennedy, Khrushchev, and the Most Dangerous Place on Earth"
+  title = "Berlin 1961"
 
   [[readings.authors]]
     id = 554976
@@ -5811,13 +5811,13 @@
   id = 8026503
   isbn = "1586487892"
   isbn13 = "9781586487898"
-  num_pages = 394
-  published_year = 2010
+  num_pages = 0
+  published_year = 0
   rating = 5
   read_at = 2010-11-12T00:00:00-08:00
   review = "Excellent book detailing the current state of power in the world, specifically the United States. It showcases nuclear energy prominently as the future of power, and explains why gas and coal will likely always play an important role in the grid (proponent of N2N, \"natural gas to nuclear\"). Green energy is covered in detail and shown to mostly be good meaning, but ultimately not practical for the real world. Conjectures are supported by hard facts and numbers throughout."
   review_id = 190685750
-  title = "Power Hungry: The Myths of \"Green\" Energy and the Real Fuels of the Future"
+  title = "Power Hungry: The Myths of \"\"Green\"\" Energy and the Real Fuels of the Future"
 
   [[readings.authors]]
     id = 7094
