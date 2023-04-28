@@ -3955,7 +3955,7 @@
   id = 13578175
   isbn = "1616960922"
   isbn13 = "9781616960926"
-  num_pages = 175
+  num_pages = 192
   published_year = 2012
   rating = 4
   read_at = 2014-06-14T14:08:57-07:00
@@ -5219,8 +5219,8 @@
   id = 2414574
   isbn = "0765317095"
   isbn13 = "9780765317094"
-  num_pages = 384
-  published_year = 2008
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2009-02-03T00:00:00-08:00
   review = "The steampunk story of a young girl looking for guidance in a world that reflects an alternate possibility of the Imperialist days of Britain. The world itself is the mechanical creation of God and is split in two by a giant wall, it contains brass men, airships, Chinese submarines, secret societies and monstrous gods. Good premise, but finishes a little weak with many plots not properly wrapped up."
