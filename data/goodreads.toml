@@ -579,7 +579,7 @@
   id = 171241
   isbn = "1568361483"
   isbn13 = "9781568361482"
-  num_pages = 389
+  num_pages = 0
   published_year = 1996
   rating = 3
   read_at = 2021-08-28T00:00:00-07:00
