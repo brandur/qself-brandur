@@ -4707,13 +4707,13 @@
   id = 10336721
   isbn = "0887627390"
   isbn13 = "9780887627392"
-  num_pages = 256
-  published_year = 2011
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2011-09-10T00:00:00-07:00
   review = "Very interesting biography on Billy Bishop, with great insight into how pilots operated during World War I."
   review_id = 202726771
-  title = "The Courage of the Early Morning: A Biography of the Great Ace of World War I"
+  title = "Courage of the Early Morning"
 
   [[readings.authors]]
     id = 551738
@@ -5316,7 +5316,7 @@
   isbn = "0670020338"
   isbn13 = "9780670020331"
   num_pages = 294
-  published_year = 2008
+  published_year = 0
   rating = 5
   read_at = 2009-05-02T00:00:00-07:00
   review = "A brief history fusion research starting with the invention of fusion weapons, progressing to attempts at creating sustainable hot fusion, then moving onto the cold fusion scams."
