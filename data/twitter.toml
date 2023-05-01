@@ -47396,12 +47396,12 @@
   [tweets.entities]
 
     [[tweets.entities.user_mentions]]
-      user = "theandym"
+      user = "theANDYM"
       user_id = 15391861
 
   [tweets.reply]
     status_id = 506996055347458049
-    user = "theandym"
+    user = "theANDYM"
     user_id = 15391861
 
 [[tweets]]

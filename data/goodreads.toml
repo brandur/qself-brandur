@@ -3107,13 +3107,13 @@
   id = 42190
   isbn = "1880656124"
   isbn13 = "9781880656129"
-  num_pages = 95
+  num_pages = 0
   published_year = 1994
   rating = 3
   read_at = 2016-02-07T00:00:00-08:00
   review = ""
   review_id = 1523942464
-  title = "Wabi-Sabi: For Artists, Designers, Poets & Philosophers"
+  title = "Wabi-Sabi: for Artists, Designers, Poets & Philosophers"
 
   [[readings.authors]]
     id = 23733
@@ -4004,7 +4004,7 @@
   isbn = "067002080X"
   isbn13 = "9780670020805"
   num_pages = 395
-  published_year = 2009
+  published_year = 0
   rating = 5
   read_at = 2013-01-23T09:13:57-08:00
   review = "Amazing and concise description of both Greek naval technology, and in particular the naval history of the sea power of Athens throughout the various wars in the region. Highly recommended."
