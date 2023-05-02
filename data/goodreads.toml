@@ -1891,8 +1891,8 @@
   id = 234225
   isbn = "0340839937"
   isbn13 = "9780340839935"
-  num_pages = 604
-  published_year = 2006
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2018-10-24T00:00:00-07:00
   review = ""
