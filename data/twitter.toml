@@ -13241,7 +13241,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2056
+  favorite_count = 2061
   id = 1182066723337293828
   retweet_count = 741
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -16130,7 +16130,7 @@
 
 [[tweets]]
   created_at = 2019-03-21T00:29:27Z
-  favorite_count = 850
+  favorite_count = 847
   id = 1108525994405564417
   retweet_count = 81
   text = "At Stripe we switched to a GUI-driven deploy process for services.\n\nI'm a die-hard terminal person for life, but it's so much better. Especially during the duress of an incident, there's nothing like being able to click boxes to resolution instead of looking up obscure CLI flags."
@@ -29481,7 +29481,7 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2517
+  favorite_count = 2520
   id = 919646432721641472
   retweet_count = 981
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
