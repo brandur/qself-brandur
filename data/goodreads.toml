@@ -5859,8 +5859,8 @@
   id = 3207178
   isbn = "1590200845"
   isbn13 = "9781590200841"
-  num_pages = 144
-  published_year = 2008
+  num_pages = 0
+  published_year = 0
   rating = 5
   read_at = 2010-12-04T00:00:00-08:00
   review = "Concise and well-written book investigating the economics behind climate change and the current approaches governments have deemed necessary to mitigate the problem. He concerns himself with the uncertainties of long-term forecasting, and the lack of real cost-effectiveness analysis on recommended policies.\n\nLawson generally agrees with the warming trend, but goes on to discuss the actual IPCC findings and breaks down common arguments for the future using knowledge, back-of-the-envelope calculations, and common sense. Valid end notes and references are provided for each chapter."
