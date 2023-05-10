@@ -1,5 +1,11 @@
 
 [[tweets]]
+  created_at = 2023-05-10T09:16:44Z
+  favorite_count = 6
+  id = 1656226755827343360
+  text = "The next time a British person gives you a hard time about queueing in your country, ask them what side of the sidewalk one should walk on.\n\nNever before seen such grossly unnecessary confusion and chaos as on UK footpaths, and in the ostensible cradle of civilization no less."
+
+[[tweets]]
   created_at = 2023-04-29T02:07:11Z
   id = 1652132391534866432
   text = "@shayonj @heyjoshwood @crunchydata @PostgreSQL Indeed. The very definition of a great hallway track conversation."
