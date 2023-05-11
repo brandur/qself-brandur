@@ -5443,8 +5443,8 @@
   id = 4135863
   isbn = "1594202117"
   isbn13 = "9781594202117"
-  num_pages = 278
-  published_year = 2009
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2009-09-06T00:00:00-07:00
   review = "Steampunk detective story. Very surreal style that eventually expands into the metaphysical plane (dream detection and stuff). Story is well thought out and atmosphere is well-written."
