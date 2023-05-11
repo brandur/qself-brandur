@@ -6371,7 +6371,7 @@
 
 [[tweets]]
   created_at = 2021-10-13T18:36:10Z
-  favorite_count = 653
+  favorite_count = 650
   id = 1448356908960661505
   retweet_count = 43
   text = "RT @micsolana: this is impossible because inflation doesn't exist but if it did exist it wouldn't be happening and if it *was* happening it would be a good thing, actually, everyone knows this. please learn econ https://t.co/JJfLKuStmx"
@@ -13247,7 +13247,7 @@
 
 [[tweets]]
   created_at = 2019-10-09T22:54:03Z
-  favorite_count = 2061
+  favorite_count = 2056
   id = 1182066723337293828
   retweet_count = 740
   text = "Git tip I wish I'd discovered ten years ago: if you `git config --global diff.noprefix true` it removes the silly `a/` and `b/` prefixes so that when you double-click select one to copy, you get a usable filename instead of a mangled path. https://t.co/8COLkcClv6"
@@ -18366,7 +18366,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 565
+  favorite_count = 562
   id = 1051202041844883456
   retweet_count = 103
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
