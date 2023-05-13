@@ -1,9 +1,9 @@
 
 [[tweets]]
   created_at = 2023-05-12T17:17:25Z
-  favorite_count = 31
+  favorite_count = 34
   id = 1657072498897190913
-  retweet_count = 6
+  retweet_count = 7
   text = "Did what I thought I'd never do again, and started draining structured logs to Postgres.\n\nPrecautions: (1) canonical lines only, (2) ephemeral database, (3) partitioned tables, and (4) efficient, batch upserts. With those in place, reasonable operational insight without Splunk. https://t.co/M6Q3d3lXe2"
 
   [tweets.entities]
