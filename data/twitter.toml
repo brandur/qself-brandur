@@ -8827,12 +8827,6 @@
   id = 1359696302997659649
   text = "@jsgjames Glad that it may still be somewhat useful. I wrote that almost ten years ago, so I would've expected it to be grossly out of date by now! :)"
 
-  [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "JSGJames"
-      user_id = 1567216464264065024
-
 [[tweets]]
   created_at = 2021-02-11T02:49:08Z
   favorite_count = 1
