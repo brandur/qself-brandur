@@ -2755,8 +2755,8 @@
   id = 1525462
   isbn = "0804838399"
   isbn13 = "9780804838399"
-  num_pages = 208
-  published_year = 2007
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2016-07-05T00:00:00-07:00
   review = "A fun photo tour of some of the well-known inns built around hot springs in Japan. Looking through the book and admiring the beauty of these locations is a truly serene experience, but a word of warning: cross-referencing inn names with prices on hotels.com can have the opposite effect.\n\nThe book is about what you'd expect. It's only marred by a few pages where some low resolution photography has been blown up beyond its usable limits to create some very grainy landscapes."
