@@ -1731,8 +1731,8 @@
   id = 6545885
   isbn = "3037781831"
   isbn13 = "9783037781838"
-  num_pages = 80
-  published_year = 2009
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2019-01-12T12:33:55-08:00
   review = ""
