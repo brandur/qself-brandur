@@ -4516,7 +4516,7 @@
   isbn = "0307589102"
   isbn13 = "9780307589101"
   num_pages = 254
-  published_year = 2011
+  published_year = 0
   rating = 3
   read_at = 2011-09-13T00:00:00-07:00
   review = "Fast read that describes many up coming technologies developed by the MIT Media Lab. Some parts, such as the next steps in medical diagnosis and technology, were extremely interesting. On the whole, it seemed like some of MIT Lab's contributions to modern technology and life were slightly exaggerated, but this should be expected to some degree."
