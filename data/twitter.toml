@@ -1879,7 +1879,7 @@
 
 [[tweets]]
   created_at = 2022-12-22T03:00:21Z
-  favorite_count = 21
+  favorite_count = 18
   id = 1605760121665073155
   retweet_count = 1
   text = "Nice trick with `math/big` for base62 encoding in Go without bringing in an external dependency.\n\nBase62 is nice compared to base64 because it omits hyphen (`-`) which isn't always copy/paste friendly. Great for generating secrets like API keys.\n\nhttps://t.co/h8m5Pw1TEO"
