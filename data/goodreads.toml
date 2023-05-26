@@ -4019,8 +4019,8 @@
   id = 9897152
   isbn = "159420277X"
   isbn13 = "9781594202773"
-  num_pages = 352
-  published_year = 2011
+  num_pages = 0
+  published_year = 0
   rating = 5
   read_at = 2013-03-07T00:00:00-08:00
   review = ""
