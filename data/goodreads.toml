@@ -3155,8 +3155,8 @@
   id = 23164961
   isbn = "110187015X"
   isbn13 = "9781101870150"
-  num_pages = 288
-  published_year = 2015
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2015-12-23T00:00:00-08:00
   review = "Kind of an unusual stream of consciousness style of prose that touches shallowly upon a variety of different subjects and that's good for light and mildly interesting reading. Contains very little depth, structure, or cohesive narrative, and doesn't cover much about flies for that matter either."
