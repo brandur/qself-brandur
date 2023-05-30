@@ -4627,8 +4627,8 @@
   id = 5958783
   isbn = "0306817586"
   isbn13 = "9780306817588"
-  num_pages = 249
-  published_year = 2009
+  num_pages = 0
+  published_year = 0
   rating = 5
   read_at = 2011-09-05T00:00:00-07:00
   review = "Very concise and easy to understand read describing some of the greatest fundamentals of physics: special relativity, the Standard Model of particle physics, and finally special relativity. The result is a very fast read that keeps your interest up, and at the same time helps you to understand some of the deep mysteries of the universe."
