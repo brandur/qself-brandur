@@ -4915,8 +4915,8 @@
   id = 1998185
   isbn = "1594201536"
   isbn13 = "9781594201530"
-  num_pages = 327
-  published_year = 2008
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2008-09-03T00:00:00-07:00
   review = "How technology has enabled humanity to organize into ad-hoc groups without organizations to do it for us."
