@@ -8991,7 +8991,6 @@
 
 [[tweets]]
   created_at = 2021-01-23T04:31:53Z
-  favorite_count = 7
   id = 1352836425624915968
   text = "This is pretty niche, but I wrote Go API bindings for WaniKani.\n\nhttps://t.co/HTKhI9h1Ty\n\nIntegrated the good parts of stripe-go, and left out the bad (global state, Java-esque iterators).\n\nWaniKani is a microcosm of good API design. More details: https://t.co/4iYiJXEuVx"
 
@@ -14273,7 +14272,6 @@
   created_at = 2019-08-07T18:19:57Z
   favorite_count = 40
   id = 1159167307400318976
-  retweet_count = 6
   text = "This was a delightful Postgres mini-project.\n\nWorking in high-level languages almost all the time, it's been a _really_ long time since I had to think about pointer widths and re-arranging bits with shifts and masks.\n\nhttps://t.co/OfregAz7Ht"
 
   [tweets.entities]
@@ -14552,7 +14550,6 @@
 
 [[tweets]]
   created_at = 2019-06-27T19:33:03Z
-  favorite_count = 8
   id = 1144327801668947968
   text = "Great content on building a fast rule engine for ad blocking. Even better: it's in Rust.\n\nOriginal implementation assumed that most requests aren't blocked, but found that on 250k reqs across top 500 domains, _39%_ were. Almost half going to ads/tracking!\n\nhttps://t.co/0BIo5vE11m"
 
@@ -14635,7 +14632,6 @@
 
 [[tweets]]
   created_at = 2019-06-14T17:01:35Z
-  favorite_count = 16
   id = 1139578642403606528
   text = "Amazing parks and trails in Leipzig. Head far enough south and you find yourself on old roads through old forest, shockingly devoid of people. It all smells heavily of wild garlic.\n\nhttps://t.co/qNdh1bI44S https://t.co/mvHshkJqe3"
 
@@ -18416,7 +18412,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 562
+  favorite_count = 565
   id = 1051202041844883456
   retweet_count = 103
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -35370,7 +35366,6 @@
 
 [[tweets]]
   created_at = 2017-03-27T18:56:27Z
-  favorite_count = 10
   id = 846435766938976256
   retweet_count = 6
   text = "cURL’s author claimed that C wasn’t the cause of past security vulnerabilities.\n\nBut then someone fact checked.\n\nhttps://t.co/7cHqOyUXNv"
@@ -40531,7 +40526,6 @@
 
 [[tweets]]
   created_at = 2016-04-23T19:35:20Z
-  favorite_count = 4
   id = 723958454549762051
   retweet_count = 2
   text = "A 2300-word document on how to build a 2-phase commit in Mongo to get consistency beyond the document level. https://t.co/IooUEjY297"
@@ -44080,7 +44074,6 @@
 
 [[tweets]]
   created_at = 2015-06-21T16:57:59Z
-  favorite_count = 10
   id = 612665780514197504
   text = "We talk about REST and Hypermedia a lot, but something like GraphQL may be closer to a future of more powerful APIs. http://t.co/0AmW858HGX"
 
