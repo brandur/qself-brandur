@@ -953,12 +953,16 @@
 
 [[tweets]]
   created_at = 2023-02-24T16:27:23Z
-  favorite_count = 36
+  favorite_count = 35
   id = 1629156043778560000
   retweet_count = 1
   text = "@ShellenbergerMD @LondonBreed I doubt the extra officers would do much. It's incredibly rare to see a police officer outside their vehicle in SF. The whole force has quit quietly — still collecting paychecks, but not providing any real function.\n\nIt needs a ground up rebuild. Very hard, but necessary."
 
   [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "ShellenbergerMD"
+      user_id = 1227370482208473088
 
     [[tweets.entities.user_mentions]]
       user = "LondonBreed"
@@ -5409,7 +5413,7 @@
 
 [[tweets]]
   created_at = 2022-02-03T19:55:08Z
-  favorite_count = 18
+  favorite_count = 15
   id = 1489326609869852672
   text = "I am totally YOLOing all JS I write now: for ... of / const / IntersectionObserver / => / async / clipboard API / Map — all 95%+ support.\n\nNo build pipeline. Direct debugging. Only way to live. What's a polyfill again?"
 
@@ -18432,7 +18436,7 @@
 
 [[tweets]]
   created_at = 2018-10-13T20:04:31Z
-  favorite_count = 565
+  favorite_count = 562
   id = 1051202041844883456
   retweet_count = 103
   text = "RT @sdw: One of the best photo collections I've seen in years of an overland trip traversing the old Silk Road. Suddenly very eager to visit Uzbekistan. https://t.co/Os1hhKUIST https://t.co/ATKJQQggCm"
@@ -20174,7 +20178,7 @@
 
 [[tweets]]
   created_at = 2018-08-01T17:06:48Z
-  favorite_count = 80
+  favorite_count = 77
   id = 1024703003318611968
   retweet_count = 15
   text = "Happy to report https://t.co/w3DDfRggKE now supports HTTP/2 after dropping support for old crypto unlocked an upgrade path for us.\n\nGo integrations on 1.6+ will start using HTTP/2 automatically. Upgrade stripe-php to get it. Support in other languages is more complex, but coming."
@@ -29553,9 +29557,9 @@
 
 [[tweets]]
   created_at = 2017-10-15T19:29:30Z
-  favorite_count = 2514
+  favorite_count = 2510
   id = 919646432721641472
-  retweet_count = 977
+  retweet_count = 976
   text = "A neat public art installation in Glen Park in SF: A lens focuses the sun to burn a line in a redwood log. It's advanced every day, creating a new line.\n\nAfter a year, it's moved to a new log. When complete, the trio will be an archive of three years of sun and weather. https://t.co/ttaNIG4Ot3"
 
   [tweets.entities]
