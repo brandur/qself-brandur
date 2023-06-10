@@ -355,8 +355,8 @@
   id = 34897
   isbn = "0765305119"
   isbn13 = "9780765305114"
-  num_pages = 624
-  published_year = 2002
+  num_pages = 0
+  published_year = 0
   rating = 5
   read_at = 2022-02-19T00:00:00-08:00
   review = ""
