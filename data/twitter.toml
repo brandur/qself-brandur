@@ -977,16 +977,12 @@
 
 [[tweets]]
   created_at = 2023-02-24T16:27:23Z
-  favorite_count = 35
+  favorite_count = 36
   id = 1629156043778560000
   retweet_count = 1
   text = "@ShellenbergerMD @LondonBreed I doubt the extra officers would do much. It's incredibly rare to see a police officer outside their vehicle in SF. The whole force has quit quietly — still collecting paychecks, but not providing any real function.\n\nIt needs a ground up rebuild. Very hard, but necessary."
 
   [tweets.entities]
-
-    [[tweets.entities.user_mentions]]
-      user = "ShellenbergerMD"
-      user_id = 1227370482208473088
 
     [[tweets.entities.user_mentions]]
       user = "LondonBreed"
