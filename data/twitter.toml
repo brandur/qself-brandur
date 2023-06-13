@@ -1,7 +1,7 @@
 
 [[tweets]]
   created_at = 2023-06-13T00:52:48Z
-  favorite_count = 5
+  favorite_count = 9
   id = 1668421124785606657
   retweet_count = 1
   text = "Huge. If the lender stops operating, there will be ~no retail left along this corridor. If IKEA opens, it's the lone ant being cooked by magnifying glass and sun. It won't last a year.\n\nSF voters won their war on business & tech. Now, we see what's next.\n\nhttps://t.co/7InwOaBiHw"
@@ -991,12 +991,16 @@
 
 [[tweets]]
   created_at = 2023-02-24T16:27:23Z
-  favorite_count = 36
+  favorite_count = 35
   id = 1629156043778560000
   retweet_count = 1
   text = "@ShellenbergerMD @LondonBreed I doubt the extra officers would do much. It's incredibly rare to see a police officer outside their vehicle in SF. The whole force has quit quietly — still collecting paychecks, but not providing any real function.\n\nIt needs a ground up rebuild. Very hard, but necessary."
 
   [tweets.entities]
+
+    [[tweets.entities.user_mentions]]
+      user = "ShellenbergerMD"
+      user_id = 1227370482208473088
 
     [[tweets.entities.user_mentions]]
       user = "LondonBreed"
