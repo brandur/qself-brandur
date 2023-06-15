@@ -23,15 +23,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Sync all
-        run: $(go env GOPATH)/bin/qself sync-all --goodreads-path data/goodreads.toml --twitter-path data/twitter.toml
+        run: $(go env GOPATH)/bin/qself sync-all --goodreads-path data/goodreads.toml
         env:
           GOODREADS_ID: 5896508
           GOODREADS_KEY: ${{ secrets.GOODREADS_KEY }}
-          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
-          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-          TWITTER_USER: brandur
 
       - name: Commit and push (if changed)
         run: |-
