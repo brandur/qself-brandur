@@ -1380,7 +1380,7 @@
   isbn = "1400030064"
   isbn13 = "9781400030064"
   num_pages = 188
-  published_year = 2005
+  published_year = 0
   rating = 2
   read_at = 2019-09-26T00:00:00-07:00
   review = "Lots of interesting ideas, but not one of Philip K. Dick's better works. Inconsistent pacing, lacks a fully coherent plot, and resolves poorly."
@@ -1924,7 +1924,7 @@
   isbn = "0618346260"
   isbn13 = "9780618346264"
   num_pages = 322
-  published_year = 2003
+  published_year = 0
   rating = 4
   read_at = 2018-09-26T00:00:00-07:00
   review = ""
@@ -2388,7 +2388,7 @@
   isbn = "037571927X"
   isbn13 = "9780375719271"
   num_pages = 255
-  published_year = 2002
+  published_year = 0
   rating = 5
   read_at = 2017-09-12T00:00:00-07:00
   review = "Brilliant. Love the dialog. Love the twists. Love the sheer creativity."
@@ -3299,8 +3299,8 @@
   id = 28862
   isbn = "0937832383"
   isbn13 = "9780937832387"
-  num_pages = 140
-  published_year = 2003
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2015-04-01T00:00:00-07:00
   review = ""
@@ -3540,7 +3540,7 @@
   isbn = "0345496531"
   isbn13 = "9780345496539"
   num_pages = 630
-  published_year = 2008
+  published_year = 0
   rating = 4
   read_at = 2016-06-01T09:47:48-07:00
   review = "Very imaginative with a lot of intertwining plots and colorful characters. Recommended as a great space opera."
@@ -3715,13 +3715,13 @@
   id = 13132039
   isbn = "1449306578"
   isbn13 = "9781449306571"
-  num_pages = 244
-  published_year = 2011
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2013-08-04T00:00:00-07:00
   review = ""
   review_id = 686567042
-  title = "Building Hypermedia APIs with HTML5 and Node"
+  title = "Building Hypermedia APIs with HTML5 and Node: Creating Evolvable Hypermedia Applications"
 
   [[readings.authors]]
     id = 176637
@@ -3940,7 +3940,7 @@
   isbn = "0316043915"
   isbn13 = "9780316043915"
   num_pages = 427
-  published_year = 2010
+  published_year = 0
   rating = 2
   read_at = 2013-02-21T00:00:00-08:00
   review = "Twilight, but with gods."
@@ -5492,7 +5492,7 @@
   isbn = "0312378777"
   isbn13 = "9780312378776"
   num_pages = 344
-  published_year = 2009
+  published_year = 0
   rating = 4
   read_at = 2009-09-27T00:00:00-07:00
   review = "Story of a woman (Freya) of Icelandic descent who grows up with her plain mother and crazy aunt. A great highlight of her life is being kidnapped by her aunt and brought to Iceland in search of letters written by her dead grandfather, who had been a famous Canadian-Iceland poet. Freya later discovers that her aunt had had a child and leaves to Iceland in search of him/her. This \"cousin\" later turns out to be herself, having been given up for adoption by her biological mother to her sister."
