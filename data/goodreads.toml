@@ -5059,8 +5059,8 @@
   id = 581125
   isbn = "0375421874"
   isbn13 = "9780375421877"
-  num_pages = 103
-  published_year = 2002
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2008-11-25T00:00:00-08:00
   review = "A story where a man running a law enforcement department based on precog, is himself targeted as a suspect."
