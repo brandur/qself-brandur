@@ -4883,8 +4883,8 @@
   id = 6328495
   isbn = "1846880483"
   isbn13 = "9781846880483"
-  num_pages = 218
-  published_year = 2007
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2008-08-27T00:00:00-07:00
   review = "Snippets from a philosophy professor's time in Japan as a visiting professor at the University of Tokyo."
