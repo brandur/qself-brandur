@@ -3027,8 +3027,8 @@
   id = 627994
   isbn = "1903083249"
   isbn13 = "9781903083246"
-  num_pages = 272
-  published_year = 2002
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2016-03-28T00:00:00-07:00
   review = "An interesting history of the early Internet and culture of psychedelics (if a tad disjointed at times). It also had some good information on how these early cultures related to the Bay Area specifically, and talked about some of the early (and long since extinct) cyber clubs in SOMA. I would've liked to see even more information on that."
