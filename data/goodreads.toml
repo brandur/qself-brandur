@@ -5763,8 +5763,8 @@
   id = 6422238
   isbn = "0765312794"
   isbn13 = "9780765312792"
-  num_pages = 416
-  published_year = 2009
+  num_pages = 0
+  published_year = 0
   rating = 2
   read_at = 2010-08-04T00:00:00-07:00
   review = "A story about a tinkerer revolution that comes to America. It eventually leads to questions over IP and general openness as the main characters side an international set of museum-like \"rides\". Some good ideas were present but the book is very long-winded."
