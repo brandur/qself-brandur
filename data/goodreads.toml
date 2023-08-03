@@ -4979,8 +4979,8 @@
   id = 1297985
   isbn = "0676979785"
   isbn13 = "9780676979787"
-  num_pages = 400
-  published_year = 2007
+  num_pages = 0
+  published_year = 0
   rating = 4
   read_at = 2008-10-03T00:00:00-07:00
   review = "Recounts the story of a large range of special medical cases that involve music. These cases range from people with Parkinson's disease, who find music thereputic for controlling the timing of their movement, to musical savants who have perfect pitch and thousands of operas memorized."
