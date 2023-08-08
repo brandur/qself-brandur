@@ -3043,8 +3043,8 @@
   id = 23848607
   isbn = "0765383187"
   isbn13 = "9780765383181"
-  num_pages = 464
-  published_year = 2015
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2016-02-06T00:00:00-08:00
   review = "A good story, but a little on the formulaic side for the genre, and with a little too much charging around the world without good reason. One dimensional villains whose abilities are never well explored, but as is typical with antagonist inflation, are made clear to be even bigger and badder than the last ultimate bad guy."
