@@ -2323,7 +2323,7 @@
   id = 7668
   isbn = "0606298231"
   isbn13 = "9780606298230"
-  num_pages = 399
+  num_pages = 0
   published_year = 2004
   rating = 4
   read_at = 2017-12-16T00:00:00-08:00
