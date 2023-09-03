@@ -2467,13 +2467,13 @@
   id = 28857930
   isbn = "1484785541"
   isbn13 = "9781484785546"
-  num_pages = 160
+  num_pages = 176
   published_year = 0
   rating = 1
   read_at = 2017-07-16T00:00:00-07:00
   review = ""
   review_id = 2045155274
-  title = "Hotel Valhalla Guide to the Norse Worlds"
+  title = "Hotel Valhalla Guide to the Norse Worlds: Your Introduction to Deities, Mythical Beings & Fantastic Creatures"
 
   [[readings.authors]]
     id = 15872
