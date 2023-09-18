@@ -6,7 +6,7 @@
   num_pages = 0
   published_year = 0
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2023-02-08T00:00:00-08:00
   review = "I was a huge fan of the author's last book _Ametora_ and dove into this one with zeal, but to my great surprise, almost didn't finish. Even by the end, I still didn't really understand what this book is about. It's the world's most preeminent collection of little anecdotes of music, movies, and culture, weaved together into an encyclopedic canvas of impressive breadth, but despite the litany of factoids, there's no purpose to the whole thing. No conclusion, no thesis, no raison d'être, just cultural references ad nauseam with an implication that there's some great wisdom below the surface. Recommendation: try _Ametora_ instead."
   review_id = 5364136236
   title = "Status and Culture: How Our Desire for Social Rank Creates Taste, Identity, Art, Fashion, and Constant Change"
@@ -22,7 +22,7 @@
   num_pages = 0
   published_year = 0
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2023-01-02T00:00:00-08:00
   review = "I got a strong recommendation on this book that I found credible, but came out finding the claims pretty hard to believe. Lots of anonymous anecdotes included, but it strongly defies sense and intuition. Also a surprising lack of actionable content given the title of the book."
   review_id = 5270889585
   title = "Healing Back Pain: The Mind-Body Connection"
@@ -38,7 +38,7 @@
   num_pages = 336
   published_year = 0
   rating = 1
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2022-11-05T00:00:00-07:00
   review = "Klein's thesis around polarization and some of its roots is generally correct, but if you stop to think about what's being written, some of the disingenuity comes into closer focus. For example, the book starts out talking about Trump (what else), but immediately lays down the premise that the reason for Trump's rise is that the electorate is bad. Not touched upon at all is the Democratic Party putting its thumb on the scale to jam their favored candidate in place, a person with decades worth of dubious behavior in DC that practically nobody in America likes. Klein is obsessed with identity politics, or rather the idea that it doesn't exist, and if it did, it's something that everybody is doing, gaslighting by fiat that there isn't something quite toxic that the modern left has made a major part of their core platform. The book tries to appear mostly unbiased throughout, but by the back third Klein is into overt theses of \"the Democratic Party is fundamentally good and the Republic Party is fundamentally bad\", which he \"proves\" by showing that more of the mainstream media favors the Democratic Party. Just amazing."
   review_id = 5088371657
   title = "Why We're Polarized"
@@ -54,7 +54,7 @@
   num_pages = 0
   published_year = 0
   rating = 5
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2022-11-01T00:00:00-07:00
   review = "One of the scariest, and most important books of the contemporary age — Douthat makes the case that rich societies have entered a plateau similar to one seen at the end of the Roman Empire, wherein they stay quite rich, but have lost their edge in innovation, creativity, and even the ability to sustain themselves biologically. He argues these points very convincingly, and indeed, I find it hard to believe that anyone could read this book with something akin to an open mind and not have to acknowledge that Douthat's analysis is correct, even if reluctantly. Its review bombing is telling — if the book's thesis is indeed right, then we as a civilization are in serious crisis, and without a lot of compelling options for extricating ourselves from it. That is absolutely _terrifying_. Hitting the book with a two-star review over sentiment rather than content is one of the few forms of cope that's readily available."
   review_id = 5080939162
   title = "The Decadent Society: How We Became the Victims of Our Own Success"
@@ -70,7 +70,7 @@
   num_pages = 307
   published_year = 1976
   rating = 2
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2022-10-18T00:00:00-07:00
   review = "Read this as I was trying to understand this whole \"Beat Generation\" phenomena, but am still having a lot of trouble getting it. In a nutshell, it's a travel/life memoir rewritten as fiction apparently to avoid legal problems, which has the side effect that there's not much in the way of overaching story to speak of, and although the travel experiences are a window into a period of American history that isn't coming back, they're not exactly enthralling either. I'd contend that although this was a shocking and memorable book for its age, it wouldn't stand up to basic scrutiny if rewritten in a more contemporary age."
   review_id = 5075317423
   title = "On the Road"
@@ -86,7 +86,7 @@
   num_pages = 0
   published_year = 0
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2022-09-15T00:00:00-07:00
   review = "I'm not a total die-hard Joy Division fan, but still found this history quite enjoyable. It gives you a glimpse into just how gritty the punk/post-unk scene of the 70s was, and makes you think about how different society by comparison is today, and not necessarily in a good way. The Audible version is narrated by the author himself (Peter Hook), and his working class Manchester accent makes the book."
   review_id = 5075311131
   title = "Unknown Pleasures: Inside Joy Division"
@@ -102,7 +102,7 @@
   num_pages = 2
   published_year = 2021
   rating = 1
-  read_at = 2022-08-24T08:53:00-07:00
+  read_at = 2022-08-24T00:00:00-07:00
   review = "I think this would've had a chance had it been rebuilt around a theme that wasn't Covid, but Duchovny's very coastal and very partisan lockdown perspectives ruined this one, and without going to heavy on spoilers, is especially ironic given where he goes with the ending."
   review_id = 4950077198
   title = "The Reservoir"
@@ -118,7 +118,7 @@
   num_pages = 709
   published_year = 1998
   rating = 3
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2022-07-31T00:00:00-07:00
   review = "Epic like the first three books in the series, but definitely the weakest entry amongst them. All the Hyperion books indulge in some amount of deus ex machina, but here it's cranked up to 11, with the characters divining themselves out of every problem throughout. I'm generally a fan of \"slice of life\" storytelling where you have some free moments to get to know characters better, but at 700+ pages, it overstays its welcome, and it took me a couple extra weeks to get through the whole thing. All that said, the ending is still great as all the story threads come to a head, so it's certainly still worth the read."
   review_id = 4886567641
   title = "The Rise of Endymion (Hyperion Cantos, #4)"
@@ -134,7 +134,7 @@
   num_pages = 0
   published_year = 0
   rating = 2
-  read_at = 2022-07-23T18:26:42-07:00
+  read_at = 2022-07-23T00:00:00-07:00
   review = "Very fast little read — 200 pages, but most of them are partially filled and with a lot of whitespace. An accounting of a fictional repair shop full of quirky characters passionate about Apple products in particular, and with a few sprinkles of Apple history thrown in. A neat experiment in the format, but not hugely substantive."
   review_id = 4868319819
   title = "LaserWriter II"
@@ -150,7 +150,7 @@
   num_pages = 357
   published_year = 0
   rating = 3
-  read_at = 2022-07-08T18:27:00-07:00
+  read_at = 2022-07-08T00:00:00-07:00
   review = "Certainly a worthwhile read — the author makes a strong argument that our attention economy has been objectively shrinking over time (it's not just perception), and a big part of that is how the apps we're using are a central caused as they're designed to maximize time-on-app. This is of course true, and it's nice to see the someone make the case to show it as objectively as possible. Also interesting is that he presents a somewhat nihilist take in some parts where he admits to not having an easy one-size-fits-all solution to the problem as we're in the position of having to try and fight off our own bad instincts. The book's weakness is that it very likely could've been an essay instead of a book — by the end of it he's wandered pretty far off track (for example, he finishes with a long segment on climate change), which you get the feeling is there to flesh out the page numbers."
   review_id = 4833461596
   title = "Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again"
@@ -166,7 +166,7 @@
   num_pages = 0
   published_year = 2022
   rating = 5
-  read_at = 2022-07-04T18:27:00-07:00
+  read_at = 2022-07-04T00:00:00-07:00
   review = "Excellent - Leonard's writing is easily digestible without an advanced econ degree, while also tackling and unwinding the fanciful Fed language that's often used to obscure their decision-making. The book sticks to the facts and manages to stay quite neutral, but you come out of it with a strong impression that the Fed's been the most important contributor to practically every economic crisis in the past thirty years, and like many federal institutions, has fallen victim to short-term wishful thinking over planning for longer term, well-distributed prosperity and stability. For example, while the Fed wasn't any of the directly precipitating factors that led to the 2008 financial crisis (e.g. they weren't selling risky repackaged ARMs), by keeping interest rates close to zero and providing cheap money for so long, they were the major reason that banks were pushed so far down the risk curve in search of higher returns. My one missive is that the book was written too early to cover our latest 2022 developments of high inflation and the Fed finally engaging in non-trivial rate hikes (0.75) for the first time in modern history — wouldn't been interesting to get Leonard's take on this."
   review_id = 4825592234
   title = "The Lords of Easy Money: How the Federal Reserve Broke the American Economy"
@@ -182,7 +182,7 @@
   num_pages = 563
   published_year = 1996
   rating = 5
-  read_at = 2022-07-02T11:58:49-07:00
+  read_at = 2022-07-02T00:00:00-07:00
   review = "Epic story that has you on the edge of your seat throughout. I love how the latter two books are a completely different breed of story compared to the first two, and yet work just as well in their own right. For technophiles, excellent thought-provoking ideas of future and far-future conceptual technology throughout. I first read this book over a decade ago, and without spoilers, the high-cost way the _Raphael_ and its passengers uses to travel between stars is something that's stuck with me throughout and which I still think about every so often."
   review_id = 4821055652
   title = "Endymion (Hyperion Cantos, #3)"
@@ -198,7 +198,7 @@
   num_pages = 517
   published_year = 1995
   rating = 5
-  read_at = 2022-06-24T10:31:00-07:00
+  read_at = 2022-06-24T00:00:00-07:00
   review = "Builds to an absolute crescendo — about as epic as it gets — and still leaves room for further exploration of the Hyperion universe."
   review_id = 4804999376
   title = "The Fall of Hyperion (Hyperion Cantos, #2)"
@@ -214,7 +214,7 @@
   num_pages = 308
   published_year = 0
   rating = 5
-  read_at = 2022-06-15T10:30:00-07:00
+  read_at = 2022-06-15T00:00:00-07:00
   review = "Reading this book is absolutely crazy-making in that it shines stark light on just how unhinged, malicious, and unfortunately, widespread, the modern illiberal activist movement has become, but there's no better person to document it than Murray. As with his other books, incredibly articulate, witty, well-constructed, and immaculately sourced."
   review_id = 4791838858
   title = "The War on the West"
@@ -230,7 +230,7 @@
   num_pages = 286
   published_year = 0
   rating = 4
-  read_at = 2022-06-06T10:30:00-07:00
+  read_at = 2022-06-06T00:00:00-07:00
   review = "Read this 25+ years after publication, and this was admittedly largely a intellectual exercise since there's not a whole lot of practical information in here anymore, but I was shocked how prescient many of Gates' predictions were — he got everything from smartphones, video streaming like Netflix, digital wallets/contactless payment, the growth of online marketplaces, biometrics-driven device protection, all the way to personalized media echo chambers (although he thought this would be a good thing on the whole). A good track record, although as a radical optimist, he was about 0 for 100 on any the bad stuff."
   review_id = 4768737322
   title = "The Road Ahead"
@@ -246,7 +246,7 @@
   num_pages = 0
   published_year = 0
   rating = 2
-  read_at = 2022-05-21T10:29:00-07:00
+  read_at = 2022-05-21T00:00:00-07:00
   review = "An early example of the genre of \"tech journalist hates industry he reports on\" (but isn't beyond taking a paycheck from it) which would become especially widespread in the later 2010s. I'm sure there are some legitimate complaints in here and there's no question that some tech cultural practices got pretty absurd, but the whole book reeks of exaggeration and oversimplification for dramatic effect, and doesn't spend even a moment pandering to anything even resembling objectivity."
   review_id = 4736641751
   title = "Disrupted: My Misadventure in the Start-Up Bubble"
@@ -262,7 +262,7 @@
   num_pages = 0
   published_year = 0
   rating = 4
-  read_at = 2022-07-23T18:28:21-07:00
+  read_at = 2022-07-23T00:00:00-07:00
   review = "Wow, what a read — let me just say that if Zeihan is right, we're all in a whole lot of trouble (or at least the kids we're not having are). To really boil things all the way down, Zeihan's two core theses are that (1) having failed to sustain healthy demographic distributions (largely thanks to industrialization), almost every country on Earth is facing impending demographic collapse as there are not nearly enough young to support the old, and we're well passed the point that anything could be done about the problem; and (2) the US will withdraw as the protector of the world's waterways, which will sharply curb world trade. This will leave countries more inward facing to source the resources and production they need to sustain their 21st century lifestyles, but most countries don't have anything close to there wherewithal to do so, with the result being that the quality of live they got used to under under globalism will become sharply diminished.\n\nHe's bullish on the United States and a couple other countries like France, and notably extremely bearish on China, who he believes is in for a reckoning as the aftereffects of decades worth of one-child policy come due in the form of a catastrophic demographic implosion (along with a host of other problems they're facing). I have to say that even six months ago I would've been highly dubious as China's trajectory didn't seem be moving in any direction except up, but between the trouble they've had in their financial and housing markets over the last few months, combined with a truly insane Covid Zero policy that seems to indicate that Xi's fired every smart person who might've contradicted him, these days I'm inclined to believe Zeihan's claims.\n\nThe whole thing is meticulously researched, and there aren't any obvious holes to be poked in the vast majority of suppositions (as concerning as that is). The one big one that smelled a little off to me is the claim that America's navy is what acts as essentially the sole guarantor for global shipping safety, a macro thesis on which many of the other claims in the book are contingent. He does cite a lot of information about the naval fleets of other countries including China aren't up to job, but I'll still be looking for some second opinions. But other than that, I suspect all the references check out."
   review_id = 4736050349
   title = "The End of the World Is Just the Beginning: Mapping the Collapse of Globalization"
@@ -662,7 +662,7 @@
   num_pages = 384
   published_year = 2021
   rating = 4
-  read_at = 2021-05-22T11:11:32-07:00
+  read_at = 2021-05-22T00:00:00-07:00
   review = "A nice memoir of an interesting life spent in Japan. For those of us a little younger than Whiting, it's also a historical record, as many of the scenes described are set squarely in a Tokyo of the past that are hardly imaginable today. I have little interest in baseball, and so lost the thread a little in those sections, but even for a non-enthusiast understanding the country's relationship with this particular sport is interesting."
   review_id = 4015602774
   title = "Tokyo Junkie: 60 Years of Bright Lights and Back Alleys . . . and Baseball"
@@ -710,7 +710,7 @@
   num_pages = 0
   published_year = 0
   rating = 4
-  read_at = 2021-04-11T16:20:00-07:00
+  read_at = 2021-04-11T00:00:00-07:00
   review = "Most of the ideas in the book are what you just call just common sense, but they're all examined thoughtfully, and it's helpful to hear someone articulate them well, then boil them down to specific actionable items. I'm planning on trying a few of the suggested techniques to see if I can build new, healthy practices."
   review_id = 3948962275
   title = "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
@@ -774,7 +774,7 @@
   num_pages = 288
   published_year = 2019
   rating = 3
-  read_at = 2020-12-23T09:36:30-08:00
+  read_at = 2020-12-23T00:00:00-08:00
   review = "First hand account of the Mongol Derby, the longest horse race in the world, occurring across the Mongol steppes, some of the world's most unforgiving terrain, and a region producing the greatest riders in world history. The race itself is a little odd in its apparent informality and big random x-factors, and the book's race year's finish a little anti-climactic, but this is a well-written account that had me laugh out loud at various points. Had never even heard of the Derby's existence before starting the book, but found it quite fascinating by the end."
   review_id = 3711489601
   title = "Rough Magic: Riding the World's Loneliest Horse Race"
@@ -790,7 +790,7 @@
   num_pages = 346
   published_year = 2017
   rating = 4
-  read_at = 2020-12-16T14:22:25-08:00
+  read_at = 2020-12-16T00:00:00-08:00
   review = "Well written and entertaining, Cork Dork does a great job of simultaneously highlighting some of the really neat things about wine, while also being willing to poke fun at how ridiculous and pseudo-scientific the sommelier community is. The book won't teach you as much about wine itself as it will about the people and practices that surround it."
   review_id = 3698939890
   title = "Cork Dork: A Wine-Fueled Adventure Among the Obsessive Sommeliers, Big Bottle Hunters, and Rogue Scientists Who Taught Me to Live for Taste"
@@ -806,7 +806,7 @@
   num_pages = 944
   published_year = 2020
   rating = 4
-  read_at = 2020-11-23T14:02:00-08:00
+  read_at = 2020-11-23T00:00:00-08:00
   review = "Not really my genre, but read out of curiosity to see if there was any merit to the death threats the left is throwing Rowling's way. There isn't. Troubled Blood is a solid mystery that's much more procedural than your traditional \"genius\" detective genre, with a lot of it being through-the-paces talking to people, studying material, and trying at length to connect dots. It's also about the detectives themselves, and their relationship with each other. It comes together well at the end, but I found it a little more prolonged than it had to be."
   review_id = 3698915507
   title = "Troubled Blood (Cormoran Strike, #5)"
@@ -822,7 +822,7 @@
   num_pages = 368
   published_year = 2019
   rating = 4
-  read_at = 2020-11-01T13:58:00-08:00
+  read_at = 2020-11-01T00:00:00-07:00
   review = "Good overview of the recent history of cyber espionage. I was surprised to learn that we've actually had good success in understanding the origins of previously mysterious groups and malware like Fancy Bear and Stuxnet by way of detailed technological forensics. Covers broad territory while staying succinct enough to get through quickly — recommended."
   review_id = 3698908941
   title = "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers"
@@ -886,7 +886,7 @@
   num_pages = 608
   published_year = 2015
   rating = 4
-  read_at = 2020-08-18T08:04:33-07:00
+  read_at = 2020-08-18T00:00:00-07:00
   review = "The generation ship at the book's core, traveling across vast expanses of space and time, is a pretty classic sci-fi element, but there's a whole lot of fresh ideas mixed in around it, and Tchaikovsky's insights on what the thought and society of a divergent biology might look like are profound and convincing. The stakes feel high throughout, and the ending is satisfying. Rock solid science-fiction."
   review_id = 3464680185
   title = "Children of Time (Children of Time, #1)"
@@ -1382,7 +1382,7 @@
   num_pages = 188
   published_year = 0
   rating = 2
-  read_at = 2019-09-26T00:00:00-07:00
+  read_at = 2022-12-02T00:00:00-08:00
   review = "Lots of interesting ideas, but not one of Philip K. Dick's better works. Inconsistent pacing, lacks a fully coherent plot, and resolves poorly."
   review_id = 2996002181
   title = "The Crack in Space"
@@ -2630,7 +2630,7 @@
   num_pages = 16
   published_year = 2010
   rating = 3
-  read_at = 2016-10-06T10:26:40-07:00
+  read_at = 2016-10-06T00:00:00-07:00
   review = "Definitely a book that I had no idea what to expect out of next, although many of the turns of events are not as satisfying as one might hope. Still, the characters were well developed and there are very few cliches to be found, which is all quite refreshing."
   review_id = 1777440020
   title = "The Man From Bejing"
@@ -2662,7 +2662,7 @@
   num_pages = 304
   published_year = 2010
   rating = 2
-  read_at = 2016-08-22T00:04:41-07:00
+  read_at = 2016-08-22T00:00:00-07:00
   review = "A story of two intertwined and interesting lives, which is probably very much worth reading for major fans. Unfortunately, while the narrative is worthwhile, there's not much in terms of life lessons or insights between these covers, and the writing is somewhat awkward throughout (I'm not sure if this is accidental or a stylistic decision)"
   review_id = 1719772619
   title = "Just Kids"
@@ -2774,7 +2774,7 @@
   num_pages = 0
   published_year = 0
   rating = 4
-  read_at = 2016-07-06T16:58:29-07:00
+  read_at = 2016-07-06T00:00:00-07:00
   review = "A solid book that people of all experience levels will learn at least something from. I found it especially useful for solidifying some of my network and assembly fundamentals.\n\nOne thing to note is that the exploits in the book are generally not very useful in the modern world, most of them are only useful for attacking C/C++-based programs, or programs on old versions of the Linux kernel, or wireless encryption systems that no one uses anymore, but they can still be treated as useful building blocks."
   review_id = 1678958741
   title = "Hacking: The Art of Exploitation w/CD"
@@ -2790,7 +2790,7 @@
   num_pages = 208
   published_year = 0
   rating = 3
-  read_at = 2016-06-24T15:09:01-07:00
+  read_at = 2016-06-24T00:00:00-07:00
   review = "A useful read, but a little repetitive in some places (e.g. a definition of “mindfulness” that was thousands of words long but was so abstract that it managed to say very little) and light in content in others (e.g. what to actually do and focus on during a meditation session).\n\nI was also little turned off by how mystical it got in a few places. For example, a passage in the opening chapter instructs the reader not to worry about it too much if they accidentally stumble across images from past lives; those techniques will be explored later as the disciple gains more experience in the art.\n\nOther than that though, I found it constructive to think about some of the ideas it introduced, and will try to integrate some of them as I continue to try and develop this good habit."
   review_id = 1676685594
   title = "Mindfulness in Plain English"
@@ -2870,7 +2870,7 @@
   num_pages = 297
   published_year = 0
   rating = 3
-  read_at = 2016-06-22T16:59:07-07:00
+  read_at = 2016-06-22T00:00:00-07:00
   review = "A pretty good story written by an author who was obviously knowledgeable on a wide number of different topics in literature, history, and psychology, and who wasn't shy to write many of them into the book. The reveal at the end wasn't particularly surprising, but was plausible enough to be satisfactory.\n\nIts major weaknesses are that it doesn't come out anywhere near as philosophically important as the author would have liked it to be, and many of the tropes that are used unironically are almost comically overplayed (for example, the Bond-esque \"let me tell you all about my master plan\" villain)."
   review_id = 1673468575
   title = "Genocidal Organ"
@@ -2886,7 +2886,7 @@
   num_pages = 746
   published_year = 2008
   rating = 4
-  read_at = 2016-06-19T16:01:12-07:00
+  read_at = 2016-06-19T00:00:00-07:00
   review = "Very much in the same vein as its predecessor, but I enjoyed the Temporal Void even more. Once again Hamilton weaves a rich universe seen from the perspective of many different characters with _very_ different interests. This one focuses largely on Edeard's story, which I might otherwise have thought somewhat wasteful, but it pays off as we see the steady growth of his character all the way up until the end. Some of the best science-fiction that I've read in years."
   review_id = 1673463809
   title = "The Temporal Void (Void #2)"
@@ -2902,7 +2902,7 @@
   num_pages = 291
   published_year = 0
   rating = 5
-  read_at = 2016-06-14T14:16:32-07:00
+  read_at = 2016-06-14T00:00:00-07:00
   review = "Excellent book that's manages to be an educational experience while staying very succinct. Humanizes a major event that might seem inscrutable from the outside and turns it into a compelling story. The complex financial instruments involved in the scandal are never simplified or glossed over; instead they are deconstructed and explained in a straightforward way that's easy to grok for the layman."
   review_id = 1668674533
   title = "The Big Short: Inside the Doomsday Machine"
@@ -2998,7 +2998,7 @@
   num_pages = 324
   published_year = 0
   rating = 3
-  read_at = 2016-05-10T01:04:18-07:00
+  read_at = 2016-05-10T00:00:00-07:00
   review = ""
   review_id = 1633944888
   title = "The Emperor of Any Place"
@@ -3062,7 +3062,7 @@
   num_pages = 0
   published_year = 0
   rating = 3
-  read_at = 2016-02-03T11:22:31-08:00
+  read_at = 2016-02-03T00:00:00-08:00
   review = "Some interesting philosophical views and a dabbling of Japanese aesthetic, but nothing life changing. A very short read that may be better characterized as an essay."
   review_id = 1536205057
   title = "Wabi-Sabi: Further Thoughts"
@@ -3094,7 +3094,7 @@
   num_pages = 373
   published_year = 2015
   rating = 3
-  read_at = 2016-02-03T09:08:57-08:00
+  read_at = 2016-02-03T00:00:00-08:00
   review = "Some pretty fantastic ideas premised around the idea that traveling to Earths in other dimensions is trivial. Mixes in some science-fiction elements a bit later on too. My only complaint is that some of the backstory and exposition was pretty heavily built up, but then didn't really amount to much."
   review_id = 1536060830
   title = "The Long Utopia (The Long Earth #4)"
@@ -3126,7 +3126,7 @@
   num_pages = 201
   published_year = 1972
   rating = 2
-  read_at = 2016-01-11T09:54:17-08:00
+  read_at = 2016-01-11T00:00:00-08:00
   review = "An amusing story that's a quick and worthwhile read if only for the history behind it. I'd have rated it higher, but it doesn't seem like there's much more depth to it than what meets the eye; looking around online, even the major literary circles are mostly grasping at straws when it comes to finding any kind of meaningful philosophic commentary. Themes like morality, sympathy, transformation, isolation, and family are all obviously present, but are mostly not spoken to beyond what's present on the surface level."
   review_id = 1505526950
   title = "The Metamorphosis"
@@ -3142,7 +3142,7 @@
   num_pages = 0
   published_year = 0
   rating = 4
-  read_at = 2016-01-08T10:04:24-08:00
+  read_at = 2016-01-08T00:00:00-08:00
   review = "Great climbing adventure story from the early days of mountaineering. The content is good and the prose carries a particular charm."
   review_id = 1501219089
   title = "No Picnic on Mount Kenya: A Daring Escape, A Perilous Climb"
@@ -3174,7 +3174,7 @@
   num_pages = 0
   published_year = 0
   rating = 5
-  read_at = 2016-05-07T07:01:05-07:00
+  read_at = 2016-05-07T00:00:00-07:00
   review = "Ametora is an amazing book that is very informational while managing to stay easy to read and quite succinct. All its stories, from the rise of Ivy style, to the domination of international streetwear with A Bathing Ape, to the obsession and mastery with first finding vintage American denim, and then later with its production, are enthralling. A perfect example on how the history of fashion can be interesting."
   review_id = 1473991055
   title = "Ametora: How Japan Saved American Style"
@@ -3190,7 +3190,7 @@
   num_pages = 168
   published_year = 0
   rating = 4
-  read_at = 2015-11-17T10:51:31-08:00
+  read_at = 2015-11-17T00:00:00-08:00
   review = "Typical Philip K. Dick — incredibly imaginative and a little strange with some clever prose and dialogue."
   review_id = 1445094492
   title = "The Man Who Japed"
@@ -3254,7 +3254,7 @@
   num_pages = 0
   published_year = 0
   rating = 3
-  read_at = 2015-08-02T10:22:07-07:00
+  read_at = 2015-08-02T00:00:00-07:00
   review = "Entertaining read that imparts general knowledge on a large variety of different topics all the way from executing a firm handshake to marketing yourself on Twitter. The use of the word \"enchantment\" in the book is heavily overloaded to mean a great deal of different things, but mostly often it can be translated fairly accurately to \"manipulation\" to varying degrees.\n\nThe strongest part of the book was the section on public speaking. It gives a few pieces of advice that interesting and not in the array of broadly distributed knowledge on the subject.\n\nNear the end of a book built entirely on subjective advice and anecdote, Kawasaki's added a section on how to avoid being overly enchanted by anecdotes. The irony of this situation wasn't acknowledged, and unfortunately may have been lost.\n\nIt's a fast read that's pretty fun. If you came to read a book on building great products, look elsewhere."
   review_id = 1352532981
   title = "Enchantment: The Art of Changing Hearts, Minds, and Actions"
@@ -3334,7 +3334,7 @@
   num_pages = 384
   published_year = 0
   rating = 5
-  read_at = 2015-08-09T11:05:13-07:00
+  read_at = 2015-08-09T00:00:00-07:00
   review = "This is one top-notch book: great information, interesting insights, well-structured, and very engaging as to make for fluid reading. It walks the line of a biography perfectly in that there isn't too much bias in either direction towards Amazon and/or Bezos. Highly recommended."
   review_id = 1207462844
   title = "The Everything Store: Jeff Bezos and the Age of Amazon"
@@ -3366,7 +3366,7 @@
   num_pages = 323
   published_year = 2006
   rating = 4
-  read_at = 2015-02-06T08:47:33-08:00
+  read_at = 2015-02-06T00:00:00-08:00
   review = ""
   review_id = 1192620738
   title = "To Kill a Mockingbird"
@@ -3478,7 +3478,7 @@
   num_pages = 0
   published_year = 0
   rating = 3
-  read_at = 2014-06-30T14:14:43-07:00
+  read_at = 2014-06-30T00:00:00-07:00
   review = "Great insights into some of the historical roots of Unix and its successors, as well as some deep dives into the design of many classic Unix programs. My only complaints were that there was a lot of attribution of elegance to interfaces which, in my opinion, are not very elegant (take the make system or fetchmail configuration for example), and that large sections of the book are dedicated to technologies which are a bit outdated these days. Otherwise, this is a very interesting read."
   review_id = 982357031
   title = "The Art of UNIX Programming"
@@ -3494,7 +3494,7 @@
   num_pages = 179
   published_year = 1999
   rating = 5
-  read_at = 2014-06-16T08:11:49-07:00
+  read_at = 2014-06-16T00:00:00-07:00
   review = "One part brilliant writing, one part of thematic relevancy, and one part utter absurdity. Books like this just aren't written anymore, and I'd certainly recommend checking it out."
   review_id = 968813330
   title = "Cat's Cradle"
@@ -3510,7 +3510,7 @@
   num_pages = 400
   published_year = 2013
   rating = 4
-  read_at = 2014-05-04T22:39:33-07:00
+  read_at = 2014-05-04T00:00:00-07:00
   review = "Great book that allowed me to revisit everything from the basics of computer networking to building higher level applications. The in-depth yet approachable explanations of TCP and TLS were especially good.\n\nMy only complaint is that the subject matter covered seemed to be somewhat arbitrary -- a huge portion of the book was devoted to describing various types of wireless standards, but without really making it into that much depth on wireless communication. It was still quite interesting though -- I finally understand the difference between 3GPP and 3GPP2 standards and how they're related to each other."
   review_id = 927619826
   title = "High Performance Browser Networking: What Every Web Developer Should Know about Networking and Web Performance"
@@ -3542,7 +3542,7 @@
   num_pages = 630
   published_year = 0
   rating = 4
-  read_at = 2016-06-01T09:47:48-07:00
+  read_at = 2016-06-01T00:00:00-07:00
   review = "Very imaginative with a lot of intertwining plots and colorful characters. Recommended as a great space opera."
   review_id = 914908825
   title = "The Dreaming Void (Void, #1)"
@@ -3558,7 +3558,7 @@
   num_pages = 251
   published_year = 0
   rating = 3
-  read_at = 2014-04-19T16:34:45-07:00
+  read_at = 2014-04-19T00:00:00-07:00
   review = "Contains a number of interesting case studies centered on the engineering world around large scale failures. The book is starting to show its age, but is surprisingly resilient to time thanks to its focus on the slightly-more-stable discipline of civil engineering."
   review_id = 914905470
   title = "To Engineer Is Human: The Role of Failure in Successful Design"
@@ -3590,7 +3590,7 @@
   num_pages = 500
   published_year = 1990
   rating = 5
-  read_at = 2014-04-03T00:00:00-07:00
+  read_at = 2022-06-18T00:00:00-07:00
   review = "Having read what must be a hundred plus sci-fi novels in my life, I keep coming back to Dan Simmons for some of the most masterful examples of the genre in existence. The Hyperion series may be unparalleled in its imagination, expanse, and mystery, with this first book being an anthology of sorts, containing a variety of stories from a cast of characters whose backstories are progressively revealed. A favorite aspect of this book is how Simmons drops you in hot with minimal explanation, and you're left to build up a comprehensive view of the universe over the course of the novel — it's easy to get this wrong by over-explaining or not explaining enough, but Hyperion strikes a perfect balance."
   review_id = 900478796
   title = "Hyperion (Hyperion Cantos, #1)"
@@ -3622,7 +3622,7 @@
   num_pages = 275
   published_year = 0
   rating = 4
-  read_at = 2014-01-23T09:10:52-08:00
+  read_at = 2014-01-23T00:00:00-08:00
   review = "Disjointed, but with some great prose."
   review_id = 832244187
   title = "Slaughterhouse-Five"
@@ -3670,7 +3670,7 @@
   num_pages = 400
   published_year = 2003
   rating = 4
-  read_at = 2016-05-24T14:52:06-07:00
+  read_at = 2016-05-24T00:00:00-07:00
   review = "Somewhat bizarre, but very good."
   review_id = 726773001
   title = "Hard-Boiled Wonderland and the End of the World"
@@ -3686,7 +3686,7 @@
   num_pages = 489
   published_year = 2003
   rating = 5
-  read_at = 2016-02-07T11:31:57-08:00
+  read_at = 2016-02-07T00:00:00-08:00
   review = "Admittedly, I had a few false starts on this one; the prose is incredibly dense and the English archaic enough in places that it can be difficult to get into the flow of the book. But after finishing it, the genius of the work is pulled into sharp relief: a masterful story, profound depth, an unpredictable and nuanced story rarely found in anything written this century, and all painted with incredible wordplay.\n\nI'd recommend following the synopsis on Wikipedia as you're reading it so that you don't miss anything; as noted above the writing style can be challenging."
   review_id = 721276754
   title = "A Tale of Two Cities"
@@ -3958,7 +3958,7 @@
   num_pages = 192
   published_year = 2012
   rating = 4
-  read_at = 2014-06-14T14:08:57-07:00
+  read_at = 2014-06-14T00:00:00-07:00
   review = "Solid novella by Sanderson. You're not going to find better value per word read."
   review_id = 531378468
   title = "The Emperor's Soul"
@@ -4070,7 +4070,7 @@
   num_pages = 192
   published_year = 2012
   rating = 4
-  read_at = 2018-10-21T00:00:00-07:00
+  read_at = 2021-08-03T00:00:00-07:00
   review = "Interesting perspective on Paris in an earlier age that includes a number of stories told in Hemingway's signature prose. A great book for imagining another era."
   review_id = 433958905
   title = "A Moveable Feast"
@@ -4278,7 +4278,7 @@
   num_pages = 480
   published_year = 1993
   rating = 2
-  read_at = 2016-05-21T08:54:50-07:00
+  read_at = 2016-05-21T00:00:00-07:00
   review = "Stunted prose, snarky dialogue, shallow and unbelievably competent characters that black out a lot for narrative purposes, and gratuitous action scenes. It's set in an interesting universe, but you won't see any of it in depth. It's a cheap scifi action movie in book format, and is good for that purpose, but don't expect much more."
   review_id = 288099177
   title = "Against a Dark Background"
@@ -4294,7 +4294,7 @@
   num_pages = 0
   published_year = 0
   rating = 4
-  read_at = 2012-02-07T00:00:00-08:00
+  read_at = 2022-08-06T00:00:00-07:00
   review = "Witty. Funny. Adventurous (and even somewhat educational). Top tier travel book."
   review_id = 275164310
   title = "Tequila Oil: Getting Lost in Mexico"
