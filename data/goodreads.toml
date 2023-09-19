@@ -278,7 +278,7 @@
   num_pages = 539
   published_year = 0
   rating = 3
-  read_at = 2022-05-01T10:29:00-07:00
+  read_at = 2022-05-01T00:00:00-07:00
   review = "Very in-line with the first two books. I like how The Expanse's universe keeps expanding, and neat how many new characters are introduced in each book. I'm sort of glad I watched the TV season first because many of the characters would've landed flat (especially Holden) if I hadn't, but also sort of disappointed I did because it would've been neat to imagine things like The Behemoth without having seen them already."
   review_id = 4701038869
   title = "Abaddon's Gate (The Expanse, #3)"
@@ -294,7 +294,7 @@
   num_pages = 912
   published_year = 1994
   rating = 5
-  read_at = 2022-04-26T10:28:00-07:00
+  read_at = 2022-04-26T00:00:00-07:00
   review = "Excellent."
   review_id = 4700124297
   title = "The Fires of Heaven (The Wheel of Time, #5)"
@@ -310,7 +310,7 @@
   num_pages = 1007
   published_year = 0
   rating = 5
-  read_at = 2022-04-11T10:28:00-07:00
+  read_at = 2022-04-11T00:00:00-07:00
   review = "Another one that's right in that set of the very best _The Wheel of Time_ books, and in re-reading all these years later, just head and shoulders of other fantasy series."
   review_id = 4700118285
   title = "The Shadow Rising (The Wheel of Time, #4)"
@@ -326,7 +326,7 @@
   num_pages = 259
   published_year = 2022
   rating = 3
-  read_at = 2022-04-22T10:27:00-07:00
+  read_at = 2022-04-22T00:00:00-07:00
   review = "Quite good, and the overall premise is interesting, but didn't quite feel as cohesive as Mandel's other books. The ambient, low-key narration is great when applied to more informal narratives found in other novels, but doesn't fit as well when talking about a massive time-traveling organization that controls the flow of history."
   review_id = 4700099210
   title = "Sea of Tranquility"
@@ -342,7 +342,7 @@
   num_pages = 0
   published_year = 0
   rating = 4
-  read_at = 2022-04-15T10:26:00-07:00
+  read_at = 2022-04-15T00:00:00-07:00
   review = "Good insight into Tony Hsieh's meteoric rise and even more sudden crash. Although Tony's later year projects may have been more questionable, I'd contend that his work to revitalize downtown Vegas as to produce a vital urban community may be one of the better things a billionaire (or near billionaire in his case) has ever spent their money on. There's the obvious story of substance abuse, but there's a subplot here of how Covid-related lockdowns were extremely harmful to people prone to abuse — Hsieh's case is one that'll have a book written about it, but it makes you wonder of the untold millions for whom nothing will ever be said."
   review_id = 4700079778
   title = "Happy at Any Cost: The Revolutionary Vision and Fatal Quest of Zappos CEO Tony Hsieh"
@@ -390,7 +390,7 @@
   num_pages = 0
   published_year = 0
   rating = 3
-  read_at = 2022-03-19T10:25:00-07:00
+  read_at = 2022-03-19T00:00:00-07:00
   review = "A chronicle by Bernard Moitessier, most notable for almost certainly having been the undisputed winner of the 1968 _Sunday Times_ Golden Globe Race (the first non-stop round-the-world solo yacht race) ... had he not decided to just keep sailing around the world instead of finishing. As far as the book is concerned — it's a great historical artifact, but is largely made up of freeform entries from Moitessier's journal, and is pretty long-winded and undirected. Still interesting as it reveals the purity of his spirit, and the post-book material on the technical specifics of his boat set up / sail diagrams / knot details / supply list / food recipes is pretty neat."
   review_id = 4618050333
   title = "The Long Way"
@@ -422,7 +422,7 @@
   num_pages = 592
   published_year = 2011
   rating = 4
-  read_at = 2021-12-30T10:42:26-08:00
+  read_at = 2021-12-30T00:00:00-08:00
   review = "Well-imagined sci-fi. In retrospect, made me realize how good of a job of realizing the book the TV creators have done (or at least for season 1/book 1) compared to many interpretations of book series."
   review_id = 4423913796
   title = "Leviathan Wakes (The Expanse, #1)"
@@ -438,7 +438,7 @@
   num_pages = 245
   published_year = 0
   rating = 3
-  read_at = 2021-12-28T10:05:48-08:00
+  read_at = 2021-12-28T00:00:00-08:00
   review = "A couple nice little Murakami narratives. There's not much of an overarching theme, but it's a great short little book to knock out over a couple holiday evenings."
   review_id = 4417444182
   title = "First Person Singular: Stories"
@@ -454,7 +454,7 @@
   num_pages = 247
   published_year = 0
   rating = 2
-  read_at = 2022-01-03T23:36:23-08:00
+  read_at = 2022-01-03T00:00:00-08:00
   review = "Large collection of anecdotes about creativity, but the overall message is abstract and so non-specific as to be mostly non-actionable. The best couple entries were at the beginning, on forming habits and building a conducive working environment."
   review_id = 4414860522
   title = "The Creative Habit: Learn It and Use It for Life"
@@ -470,7 +470,7 @@
   num_pages = 218
   published_year = 2021
   rating = 0
-  read_at = 2021-12-25T12:21:13-08:00
+  read_at = 2021-12-25T00:00:00-08:00
   review = "Nice little travelogue of a journey across the Pacific. Potential readers may want to keep in mind that it's quite a raw journal feed collated into book format, but fairly succinct and enjoyable."
   review_id = 4409455671
   title = "Busy Doing Nothing"
@@ -518,7 +518,7 @@
   num_pages = 0
   published_year = 2018
   rating = 4
-  read_at = 2021-10-21T13:04:10-07:00
+  read_at = 2021-10-21T00:00:00-07:00
   review = "Good stuff — a number of collected essays on a wide array of subjects including Mavericks (the wave), Mount Rainier, lawsuits and the demise of Chouinard Equipment (Patagonia's sister company), and cave spelunking. Krakauer does a nice job of opening his pieces with an interesting personal story (whether one of his own or told from another's person's point of view) to get you hooked, and then zooming out to a broader view of the topic at hand and getting into detail. Keep in mind that the collection is phoning it in a little bit — there's not much of a common theme here, but rather a bunch of loose work smashed together."
   review_id = 4299769261
   title = "Classic Krakauer: After the Fall, Mark Foo's Last Ride and Other Essays from the Vault"
@@ -534,7 +534,7 @@
   num_pages = 498
   published_year = 0
   rating = 2
-  read_at = 2021-10-11T10:01:20-07:00
+  read_at = 2021-10-11T00:00:00-07:00
   review = "Love all the themes that this book is going for — old libraries, masquerade parties, ancient harbors, and appreciated the nods to gaming, blogging, and pop culture, but this is very pulp-y stuff. The characters are so single-dimensional that it was hard to care about what happened to any of them, and almost every last one a trope — OP female friend, old librarian, refined high society new lover, etc. The protagonist sleepwalks through a story that doesn't offer much by way of conflict or plot — the characters meander through Alice In Wonderland environments until eventually it resolves, but not by virtue of anything that anyone did. A lot of the prose is genuinely clever, and the conceit of alternative chapters that tell fables is intriguing (although overplayed), but not enough so to redeem it."
   review_id = 4283153179
   title = "The Starless Sea"
@@ -870,7 +870,7 @@
   num_pages = 143
   published_year = 2017
   rating = 4
-  read_at = 2020-08-01T16:43:21-07:00
+  read_at = 2020-08-01T00:00:00-07:00
   review = "Very interesting mini-story built around Simon's incredible artwork. It gives us a window into a techno-dystopian future and a young girl's travels through it. It hits the sweet spot between good narrative and mystery — the entire time you're reading, you're racking your brain trying to figure out what's going on as the text segments never quite convey enough information. By the end, you're constructed a view of the story and the world that's partially complete, but with gaps that are purposely left unknown and up to the reader's interpretation. As with other works by Stålenhag, I'm rating this one well because it's excellent for what it is, but keep in mind it's a fairly short work, with a reading time of ~1 hour."
   review_id = 3473895622
   title = "The Electric State"
@@ -902,7 +902,7 @@
   num_pages = 128
   published_year = 2015
   rating = 4
-  read_at = 2020-07-25T11:17:44-07:00
+  read_at = 2020-07-25T00:00:00-07:00
   review = "A compilation of Stålenhag's artwork with a few paragraphs of back story applied to much of the imagery. This is class A inspirational material — staring at the pictures of beautiful Swedish countryside with a sci-fi twist, the mind can't help but wander to other places. Rating a 4 because the art is amazing and the prose is disproportionately impactful given that it's all told in just a few paragraphs, but bear in mind there isn't a _huge_ amount of content here (~100 pages all in; I finished in ~an hour)."
   review_id = 3461423491
   title = "Tales from the Loop"
@@ -934,7 +934,7 @@
   num_pages = 256
   published_year = 1999
   rating = 3
-  read_at = 2020-06-18T07:09:47-07:00
+  read_at = 2020-06-18T00:00:00-07:00
   review = "Really enjoyed the themes around loneliness and isolation — the mere idea of such would be extremely unusual by today's standards. The last third of the book gets truly David Lynch-ian, although unfortunately like Lynch, there is far more implied meaning than there is actual meaning. Still, interesting read."
   review_id = 3398523129
   title = "Steppenwolf"
@@ -950,7 +950,7 @@
   num_pages = 157
   published_year = 0
   rating = 4
-  read_at = 2020-06-16T23:56:12-07:00
+  read_at = 2020-06-16T00:00:00-07:00
   review = "Nice write up on New Jersey's Pine Barrens that interleaves hard facts with encounters with the area's colourful characters. It was a little too obviously hyper-romanticized to be taken seriously, but McPhee's razor sharp writing makes for nice reading, and is great material to learn from."
   review_id = 3398140033
   title = "The Pine Barrens"
@@ -966,7 +966,7 @@
   num_pages = 312
   published_year = 0
   rating = 4
-  read_at = 2020-06-12T23:51:38-07:00
+  read_at = 2020-06-12T00:00:00-07:00
   review = "Another draft from Gaiman's seemingly bottomless well of creativity. Novel premise and great characterization in a thoroughly spooky world. Quite an enjoyable tale."
   review_id = 3398136584
   title = "The Graveyard Book"
@@ -998,7 +998,7 @@
   num_pages = 0
   published_year = 2002
   rating = 4
-  read_at = 2020-05-23T23:02:56-07:00
+  read_at = 2020-05-23T00:00:00-07:00
   review = "Although a little meandering at times, I found the context in this book incredibly compelling as Kerr lived in Japan decades before it became more popular/possible to do so. Many of the things that most of us have come to see as the cornerstones and charm of Japan — neon lights, exposed power lines, cultivated forests — he explicitly dislikes, arguing that the country's traditional beauty and practices are being lost. There are many, many books written about Japan these days, but this one offers rare, contrarian, and refreshing history and perspective."
   review_id = 3369796442
   title = "Lonely Planet Journeys: Lost Japan"
@@ -1174,7 +1174,7 @@
   num_pages = 769
   published_year = 0
   rating = 4
-  read_at = 2020-02-02T10:40:39-08:00
+  read_at = 2020-02-02T00:00:00-08:00
   review = ""
   review_id = 3172754679
   title = "The Terror"
@@ -1334,7 +1334,7 @@
   num_pages = 912
   published_year = 2004
   rating = 5
-  read_at = 2019-11-02T10:38:00-07:00
+  read_at = 2019-11-02T00:00:00-07:00
   review = ""
   review_id = 3036888636
   title = "Harry Potter and the Order of the Phoenix (Harry Potter, #5)"
@@ -1350,7 +1350,7 @@
   num_pages = 370
   published_year = 0
   rating = 5
-  read_at = 2019-10-03T10:38:00-07:00
+  read_at = 2019-10-03T00:00:00-07:00
   review = ""
   review_id = 2999530514
   title = "The Most Powerful Idea in the World: A Story of Steam, Industry, and Invention"
@@ -1414,7 +1414,7 @@
   num_pages = 0
   published_year = 0
   rating = 4
-  read_at = 2019-08-01T00:00:00-07:00
+  read_at = 2021-12-02T00:00:00-08:00
   review = "An older perspective on Japan than you get from most travelogues, which were written much more recently. Thorough and a unique brand of humor."
   review_id = 2919971970
   title = "The Roads to Sata: A 2000-Mile Walk Through Japan"
@@ -1446,7 +1446,7 @@
   num_pages = 428
   published_year = 1999
   rating = 4
-  read_at = 2019-07-23T00:00:00-07:00
+  read_at = 2021-10-08T00:00:00-07:00
   review = "Reread this book and bumping my original three up to a four. Very comprehensive travelogue that provides a glimpse into a window of a broad slice of America that's probably already disappeared. The humor is very (VERY) mild, but a lot of the wordplay and turns of phrase are inspired."
   review_id = 2917714238
   title = "Blue Highways"
@@ -1510,7 +1510,7 @@
   num_pages = 291
   published_year = 2018
   rating = 3
-  read_at = 2019-05-03T08:31:39-07:00
+  read_at = 2019-05-03T00:00:00-07:00
   review = ""
   review_id = 2807893541
   title = "Severance"
@@ -1654,7 +1654,7 @@
   num_pages = 419
   published_year = 0
   rating = 4
-  read_at = 2019-03-16T09:42:29-07:00
+  read_at = 2019-03-16T00:00:00-07:00
   review = ""
   review_id = 2702440310
   title = "The Sparrow (The Sparrow, #1)"
@@ -1670,7 +1670,7 @@
   num_pages = 327
   published_year = 2017
   rating = 3
-  read_at = 2019-01-31T05:35:22-08:00
+  read_at = 2019-01-31T00:00:00-08:00
   review = ""
   review_id = 2696791151
   title = "The Storm Before the Storm: The Beginning of the End of the Roman Republic"
@@ -1718,7 +1718,7 @@
   num_pages = 596
   published_year = 2011
   rating = 4
-  read_at = 2019-07-30T16:29:51-07:00
+  read_at = 2019-07-30T00:00:00-07:00
   review = ""
   review_id = 2672441645
   title = "The Mote in God's Eye (Moties, #1)"
@@ -1734,7 +1734,7 @@
   num_pages = 0
   published_year = 0
   rating = 3
-  read_at = 2019-01-12T12:33:55-08:00
+  read_at = 2019-01-12T00:00:00-08:00
   review = ""
   review_id = 2670671463
   title = "White"
@@ -1958,7 +1958,7 @@
   num_pages = 359
   published_year = 2014
   rating = 4
-  read_at = 2019-10-01T00:00:00-07:00
+  read_at = 2020-04-24T00:00:00-07:00
   review = "Thoroughly enjoyed this account of a guy hiking solo to every temple on Shikoku. Most travel adventure books are a mixed bag of mildly amusing anecdotes or situations that have been exaggerated to the point of fiction for dramatic effect, but Paul's narrative is light on that, and his quirky encounters are legitimately funny. There's enough books about travel in Japan that for all intents and purpose they're their own genre at this point, and if that's the case, this is one of the best I've read therein."
   review_id = 2539728117
   title = "Fighting Monks and Burning Mountains"
@@ -3382,7 +3382,7 @@
   num_pages = 485
   published_year = 0
   rating = 3
-  read_at = 2020-08-07T13:18:25-07:00
+  read_at = 2020-08-07T00:00:00-07:00
   review = "Between invented terminology that's not explained until hundreds of pages later (the record by my casual read being \"homes\", defined on page 350), dense prose, and dialog that seems to suggest that the characters are deliberately trying to confuse each other, this book is quite difficult to read. The first 100 pages are practically incomprehensible, although it gets somewhat easier to understand after. Everyone inexplicably loves the novel's heroine despite the fact that the majority of her phrases are 1-3 words long, and mostly just her swearing at people/things. She coasts through every situation not really doing much of anything, but with convenient ease thanks to gears being greased behind the scenes by improbably powerful and competent people on her side. All that said, the core premise is interesting, and with lots of novel Gibson-esque concepts mixed in around it."
   review_id = 1112905576
   title = "The Peripheral (Jackpot #1)"
@@ -3750,7 +3750,7 @@
   num_pages = 181
   published_year = 2013
   rating = 3
-  read_at = 2013-07-21T11:38:52-07:00
+  read_at = 2013-07-21T00:00:00-07:00
   review = "Solid Neil Gaiman magic, and it won't disappoint long-time fans. The story is nice and quaint, but it's solid deus ex machina all the way down."
   review_id = 673433102
   title = "The Ocean at the End of the Lane"
@@ -3830,7 +3830,7 @@
   num_pages = 218
   published_year = 2005
   rating = 4
-  read_at = 2013-05-05T12:16:50-07:00
+  read_at = 2013-05-05T00:00:00-07:00
   review = "Good story with a very fresh style of narration. Enjoyment could be somewhat compromised if you've already seen the movie, as a huge number of scenes and phrases were lifted verbatim."
   review_id = 607774867
   title = "Fight Club"
@@ -3878,7 +3878,7 @@
   num_pages = 333
   published_year = 0
   rating = 4
-  read_at = 2013-03-24T16:25:47-07:00
+  read_at = 2013-03-24T00:00:00-07:00
   review = "Great travel adventure including memorable characters and great humor combined with good historical fact and a summary of relevant current events."
   review_id = 569995388
   title = "Turn Right at Machu Picchu: Rediscovering the Lost City One Step at a Time"
@@ -3910,7 +3910,7 @@
   num_pages = 382
   published_year = 0
   rating = 4
-  read_at = 2013-02-26T08:59:41-08:00
+  read_at = 2013-02-26T00:00:00-08:00
   review = "A little cliche, and written with hyperbolically, but a somewhat realistic portrayal of one possibility of the kind of police state the US would become after another large scale terrorist attack, making it an important read."
   review_id = 546849294
   title = "Little Brother (Little Brother, #1)"
@@ -3974,7 +3974,7 @@
   num_pages = 912
   published_year = 2013
   rating = 4
-  read_at = 2013-02-09T11:37:03-08:00
+  read_at = 2013-02-09T00:00:00-08:00
   review = "A very-well written book that delivers the finale that the series deserves. Sanderson's accomplishment of picking up on all divergent characters and plots and steering them back toward a satisfying ending is a truly impressive technical feat.\n\nSanderson isn't as technical of an author as Jordan was, and many of the characters that had nearly limitless subtle depth in Jordan's books, come through as loud caricatures of themselves in Sanderson's WoT books. That said, Jordan's tendency toward ever increasing complexity in his final books is a red flag that he may never have been able to finish them, or at least have required 5+ more books to do so."
   review_id = 531162161
   title = "A Memory of Light (The Wheel of Time, #14)"
@@ -4006,7 +4006,7 @@
   num_pages = 395
   published_year = 0
   rating = 5
-  read_at = 2013-01-23T09:13:57-08:00
+  read_at = 2013-01-23T00:00:00-08:00
   review = "Amazing and concise description of both Greek naval technology, and in particular the naval history of the sea power of Athens throughout the various wars in the region. Highly recommended."
   review_id = 514829318
   title = "Lords of the Sea: The Epic Story of the Athenian Navy and the Birth of Democracy"
@@ -4086,7 +4086,7 @@
   num_pages = 613
   published_year = 0
   rating = 4
-  read_at = 2020-05-15T10:22:00-07:00
+  read_at = 2020-05-15T00:00:00-07:00
   review = "Some of the best science fiction I've read in a while. Very innovative premise, incredibly imaginative alien species, and compelling characters (good and bad). It even has a universal interplanetary communication medium that looks like Usenet — can't go wrong!"
   review_id = 429515356
   title = "A Fire Upon the Deep (Zones of Thought, #1)"
@@ -4134,7 +4134,7 @@
   num_pages = 710
   published_year = 2003
   rating = 3
-  read_at = 2012-12-28T12:54:32-08:00
+  read_at = 2012-12-28T00:00:00-08:00
   review = "Does a great job of illustrating a grungy steampunk-like city that pulls you into its embrace. Its major issues are that it runs on for too long and the characters are generally unrelatable."
   review_id = 410041234
   title = "Perdido Street Station (New Crobuzon, #1)"
@@ -4166,7 +4166,7 @@
   num_pages = 404
   published_year = 1992
   rating = 2
-  read_at = 2012-08-20T09:19:19-07:00
+  read_at = 2012-08-20T00:00:00-07:00
   review = "Didn't do it for me the way Star Wars books used to. Prose seemed stunted and all characters are too good to be true, especially the newest Mary Sue, Mara Jade."
   review_id = 396200276
   title = "Heir to the Empire (Star Wars: The Thrawn Trilogy, #1)"
@@ -4198,7 +4198,7 @@
   num_pages = 390
   published_year = 2010
   rating = 2
-  read_at = 2012-07-22T13:22:59-07:00
+  read_at = 2012-07-22T00:00:00-07:00
   review = "It's a book about a massive revolution in a future time. It sounds as exciting as possible, but in reality the protagonist is little involved in major events and makes many decisions (which luckily turn out to the right ones) based on very little."
   review_id = 374485040
   title = "Mockingjay (The Hunger Games, #3)"
@@ -4326,7 +4326,7 @@
   num_pages = 213
   published_year = 0
   rating = 3
-  read_at = 2012-01-31T23:01:05-08:00
+  read_at = 2012-01-31T00:00:00-08:00
   review = "Detailed account of what it's like to be poor and at the lowest rungs of society. Orwell himself did experiment with this first hand, but not to the same extent that the book seems to indicate.\n\nOf particular note were the contrasts between between poor in France versus England (in many ways France was more conducive to the lifestyle), and the narrative closer to the end of the book on being a tramp."
   review_id = 270711384
   title = "Down and Out in Paris and London"
@@ -4342,7 +4342,7 @@
   num_pages = 357
   published_year = 0
   rating = 1
-  read_at = 2012-03-01T09:12:14-08:00
+  read_at = 2012-03-01T00:00:00-08:00
   review = "Clearly Carriger's recipe for this book was Pride and Prejudice mixed with Twilight and a little steampunk thrown in to make the setting a tad more original. Final product makes Twilight look a literary accomplishment.\n\nThe author spends so much time describing how characters are stereotypes through statements, rather than have those characters actually behave in that way. e.g. \"The love interest is super manly,\" \"the vampire friend is so gay,\" \"the second-in-command of the wolf pack is that tweed jacket professor type,\" \"Tarabotti is SUCH a witty conversationalist that no one messes with her,\" \"the American scientist is a weak man.\" It's tiring to read.\n\nThe romance is in a league of its own. The love interest is rich, an earl, big and strong, head of the werewolf pack, head of the government's supernatural division, Scottish, gruff, and the over-idealized definition of manly in every respect. His interest in the heroine is apparently that she is such a clever conversationalist (again, stated many times, but never proved through dialog) and isn't afraid to challenge and question himself, or anyone, including the Queen of England. Pulp romance at its best.\n\nThis novel by itself was enough to convince me to completely ignore Goodreads' ratings for choosing books to read. At just under 4 stars, this book is rated significantly better than tens of thousands of far superior works."
   review_id = 251389207
   title = "Soulless (Parasol Protectorate, #1)"
@@ -4374,7 +4374,7 @@
   num_pages = 471
   published_year = 1995
   rating = 4
-  read_at = 2012-02-05T23:16:09-08:00
+  read_at = 2012-02-05T00:00:00-08:00
   review = "Great story, great ending, and very detailed characters throughout. Written in Hemingway's classic style."
   review_id = 250613858
   title = "For Whom the Bell Tolls"
@@ -4470,7 +4470,7 @@
   num_pages = 630
   published_year = 2011
   rating = 5
-  read_at = 2011-11-04T00:00:00-07:00
+  read_at = 2019-12-12T00:00:00-08:00
   review = "Truly outstanding book that takes insight to a new level. I can't even count the number of aha moments I had while reading this.\n\nIsaacson was the perfect man for the job. The book doesn't read like a marketing spiel at all, almost the opposite in fact, presenting jobs as a deeply flawed human being."
   review_id = 231076230
   title = "Steve Jobs"
@@ -4582,7 +4582,7 @@
   num_pages = 239
   published_year = 0
   rating = 3
-  read_at = 2012-02-10T20:34:27-08:00
+  read_at = 2012-02-10T00:00:00-08:00
   review = "Interesting and very funny account of the author's life moving from Washington to Vanuatu and Fiji. Especially worth reading are the chapters on corruption in Vanuatu, and on centipedes."
   review_id = 204921968
   title = "Getting Stoned with Savages: A Trip Through the Islands of Fiji and Vanuatu"
@@ -4614,7 +4614,7 @@
   num_pages = 397
   published_year = 0
   rating = 2
-  read_at = 2012-02-18T19:07:21-08:00
+  read_at = 2012-02-18T00:00:00-08:00
   review = "Exaggerated account of a partial hike along the Appalachian Trail devoid of events of any real consequence. Among other things, Bryson convinces himself that he ran into two bears outside his tent (indistinct eyes in the dark even with a headlamp), and that he started to develop hypothermia hiking through a fog. Subtle humor is found throughout which I wanted to like, but couldn't get into.\n\nBest parts were the descriptions of some of the parks and area that the trail runs through, the historical background of various regions, and narrative on the decline of some of America's most unique natural history."
   review_id = 204921393
   title = "A Walk in the Woods: Rediscovering America on the Appalachian Trail"
@@ -4678,7 +4678,7 @@
   num_pages = 254
   published_year = 2011
   rating = 4
-  read_at = 2012-03-04T22:16:39-08:00
+  read_at = 2012-03-04T00:00:00-08:00
   review = "Interesting compilation of stories, anecdotes, and thoughts of one of the most world's foremost magician, atheist, and libertarian. Many chapters read like rambling, but generally the flow and pace of the book are good.\n\nMost important part of the book was right at the end where Penn states simply, \"we need to stop glorifying faith.\""
   review_id = 202727278
   title = "God, No! Signs You May Already Be an Atheist and Other Magical Tales"
@@ -5238,7 +5238,7 @@
   num_pages = 339
   published_year = 0
   rating = 5
-  read_at = 2009-02-07T00:00:00-08:00
+  read_at = 2018-10-28T00:00:00-07:00
   review = "The narrative of John Romero and John Carmack (among others) building the PC gaming industry, starting with primitive top down games, then moving to Commander Keen, Wolfenstein 3-D, Doom, and finally Quake. Describes the genius of these people, as well as their character flaws, and infighting which eventually led to Romero's departure from id."
   review_id = 190702978
   title = "Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture"
