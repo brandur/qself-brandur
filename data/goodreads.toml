@@ -1235,13 +1235,13 @@
   id = 1
   isbn = ""
   isbn13 = ""
-  num_pages = 652
-  published_year = 2006
+  num_pages = 0
+  published_year = 0
   rating = 4
-  read_at = 2019-12-20T00:00:00-08:00
+  read_at = 0001-01-01T00:00:00Z
   review = ""
   review_id = 3102951602
-  title = "Harry Potter and the Half-Blood Prince (Harry Potter, #6)"
+  title = "Harry Potter and the Half-Blood Prince (Harry Potter #6)"
 
   [[readings.authors]]
     id = 1077326
@@ -4819,8 +4819,8 @@
   id = 7125
   isbn = "0812565681"
   isbn13 = "9780812565683"
-  num_pages = 580
-  published_year = 1998
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2008-07-31T00:00:00-07:00
   review = "Edmond Dantès is wrongfully sent to prison, and later escapes to take revenge. He doesn't reclaim his former love Mercédès, but finds it in his former slave Haydée."
@@ -5139,7 +5139,7 @@
   id = 7673
   isbn = "0060891564"
   isbn13 = "9780060891565"
-  num_pages = 304
+  num_pages = 0
   published_year = 0
   rating = 3
   read_at = 2011-05-15T00:00:00-07:00
