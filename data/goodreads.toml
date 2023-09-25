@@ -1123,8 +1123,8 @@
   id = 20592879
   isbn = "1484166108"
   isbn13 = "9781484166109"
-  num_pages = 108
-  published_year = 2013
+  num_pages = 0
+  published_year = 0
   rating = 3
   read_at = 2020-03-03T00:00:00-08:00
   review = ""
