@@ -1238,7 +1238,7 @@
   num_pages = 0
   published_year = 0
   rating = 4
-  read_at = 0001-01-01T00:00:00Z
+  read_at = 2019-12-26T00:00:00-08:00
   review = ""
   review_id = 3102951602
   title = "Harry Potter and the Half-Blood Prince (Harry Potter, #6)"
