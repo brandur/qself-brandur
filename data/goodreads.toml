@@ -1,5 +1,69 @@
 
 [[readings]]
+  id = 139399948
+  isbn = "0316572101"
+  isbn13 = "9780316572101"
+  num_pages = 960
+  published_year = 0
+  rating = 4
+  read_at = 2023-12-07T00:00:00-08:00
+  review = "Rowling's an obnoxiously talented writer. I rarely read mysteries, but keep finding myself gravitating back to these Cormoran Strike books. They're long, but the length gives the story time to examine the mystery in play from all angles, and develop characters into believable people. Like other series entries, the resolution is an epic crescendo of converging clues and storylines, magically orchestrated. _Running Grave_'s subject is a cult, and anyone passingly familiar with like organizations in real life recognizes its background and practices as highly believable."
+  review_id = 6083922834
+  title = "The Running Grave (Cormoran Strike, #7)"
+
+  [[readings.authors]]
+    id = 383606
+    name = "Robert Galbraith"
+
+[[readings]]
+  id = 7665
+  isbn = "0060509058"
+  isbn13 = "9780060509057"
+  num_pages = 0
+  published_year = 0
+  rating = 2
+  read_at = 2023-12-16T00:00:00-08:00
+  review = "As a big Crichton fan, I was surprised not to have found this book before. The title is a bit of a misnomer – travelogues make up maybe a third of the book with the rest of it being able Crichton’s couple years practicing medicine, thoughts on paranormal phenomena, and vignettes from his life in LA.\n\nThe psychic stuff feels quite odd to read today, but makes sense in context as it would’ve been very en vogue during the 80s when the book was written. Crichton’s obviously a thoughtful guy, so there are a few stories that really make you wonder. For example, like when Crichton attended a spoon bending party (in the style of Uri Geller) and claimed that everyone there was able to bend spoons with their minds by the end of the night. He wasn’t lying about it, but rather had managed to convince himself that it was real, and a contemporary reader is left wondering simply: what happened there?\n\nThe stories are entertaining enough and it’s worth a quick read, but it’s not a heavy hitter like a lot of Crichton’s other work."
+  review_id = 6083895183
+  title = "Travels"
+
+  [[readings.authors]]
+    id = 5194
+    name = "Michael Crichton"
+
+[[readings]]
+  id = 52824295
+  isbn = "0578627310"
+  isbn13 = "9780578627311"
+  num_pages = 336
+  published_year = 0
+  rating = 3
+  read_at = 2023-12-23T00:00:00-08:00
+  review = "The idea of reading republished journals sounds like a tiresome concept, but it works with editing and attention to detail. Jordan’s journal entries are succinct and offer a fascinating window into the early era of game development, with his well-traveled life acting as seasoning for the story. Beautifully curated media assets and other accompanying materials are sprinkled througout to keep it even more engaging.\n\nI’d never played the original game when I was young so after finishing the book I went to try it on a DOS emulator. Games have come a long way and you have to grade them according to their time, but still, wow, absolutely terrible. Stick to the book."
+  review_id = 6083824043
+  title = "The Making of Prince of Persia: Journals 1985-1993"
+
+  [[readings.authors]]
+    id = 1525772
+    name = "Jordan Mechner"
+
+[[readings]]
+  id = 126128174
+  isbn = "1914168208"
+  isbn13 = "9781914168208"
+  num_pages = 0
+  published_year = 0
+  rating = 2
+  read_at = 2023-12-25T00:00:00-08:00
+  review = "A tiny pocket book that’s the perfect format for carrying about and skimming in a session or two. It’s quite short, and no tips in here will change your life, but I found the book a helpful reminder to get out and do things and to publish what you did.\n\nThere’s a couple sequences where he (or someone being quoted) glorifies lockdowns (and how they were so conducive to being interesting), which drives me up the wall, but the content is reasonably good beyond that."
+  review_id = 6083806310
+  title = "Do Interesting: Notice. Collect. Share. (Do Books, 36)"
+
+  [[readings.authors]]
+    id = 242540
+    name = "Russell Davies"
+
+[[readings]]
   id = 62122504
   isbn = ""
   isbn13 = ""
