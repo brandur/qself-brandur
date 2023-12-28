@@ -1,5 +1,69 @@
 
 [[readings]]
+  id = 102146148
+  isbn = ""
+  isbn13 = ""
+  num_pages = 746
+  published_year = 0
+  rating = 4
+  read_at = 2023-08-16T00:00:00-07:00
+  review = "I don't love how we're at the point where our attention spans are so fractured that we need comic aids to help readers get through a book, but Urban's writing is the closest thing to a real shot at getting the west out of its self-destructive civilizational funk. Careful to stay meticulously nonpartisan, he describes the trouble we have in careful detail, and articulates a framework to help pull out of it."
+  review_id = 6088038637
+  title = "What's Our Problem?: A Self-Help Book for Societies"
+
+  [[readings.authors]]
+    id = 8404041
+    name = "Tim Urban"
+
+[[readings]]
+  id = 12287209
+  isbn = ""
+  isbn13 = ""
+  num_pages = 594
+  published_year = 2011
+  rating = 3
+  read_at = 2023-08-25T00:00:00-07:00
+  review = "This whole series is well worth the read. Reasonably short with a lot of interesting ideas, I tore through the trilogy almost one after the other. It's far from perfect -- the characters in particular feel quite one dimensional, and for once I was glad to have watched the first season of the TV series first so I had something concrete to help imagine them -- but well worth it overall."
+  review_id = 6088023693
+  title = "Wool (Wool, #1)"
+
+  [[readings.authors]]
+    id = 3064305
+    name = "Hugh Howey"
+
+[[readings]]
+  id = 51261489
+  isbn = "0008200378"
+  isbn13 = "9780008200374"
+  num_pages = 482
+  published_year = 2020
+  rating = 2
+  read_at = 2023-09-04T00:00:00-07:00
+  review = "Page after page this book declares how amazing and how secretive and how great Lachlan Kite and Box 88 are. Not shows -- _declares_, reading in its entirety like a high effort wish fulfillment fantasy. There's a proximate plot, but with a lead character who's infallible in every way, there's no doubt throughout how it'll end."
+  review_id = 6088006142
+  title = "BOX 88 (BOX 88, #1)"
+
+  [[readings.authors]]
+    id = 306659
+    name = "Charles Cumming"
+
+[[readings]]
+  id = 17306293
+  isbn = ""
+  isbn13 = ""
+  num_pages = 579
+  published_year = 2013
+  rating = 3
+  read_at = 2023-09-10T00:00:00-07:00
+  review = "After witnessing the creation of a world in a book as in _Wool_, it's always nice to dive into its origins, and _Shift_ goes deep. Good book and one that I found easy to plow through. Slight critiques on how long it puts the main storyline on pause for, and that the rationale behind how and why the dystopian world came about was disappointingly hard to believe."
+  review_id = 6087985600
+  title = "Shift (Silo, #2)"
+
+  [[readings.authors]]
+    id = 3064305
+    name = "Hugh Howey"
+
+[[readings]]
   id = 17855756
   isbn = "1490904387"
   isbn13 = "9781490904382"
