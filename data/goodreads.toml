@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 33313
+  isbn = "0060899220"
+  isbn13 = "9780060899226"
+  num_pages = 312
+  published_year = 0
+  rating = 3
+  read_at = 2023-12-30T00:00:00-08:00
+  review = "Good stuff. You get a sense throughout of dramaticized exaggeration (normal for this kind of book), but Bourdain’s perspective is unique and interesting, and there are many passages that are nigh perfectly wordsmithed."
+  review_id = 6098101820
+  title = "Kitchen Confidential: Adventures in the Culinary Underbelly"
+
+  [[readings.authors]]
+    id = 1124
+    name = "Anthony Bourdain"
+
+[[readings]]
   id = 102146148
   isbn = ""
   isbn13 = ""
