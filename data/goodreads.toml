@@ -1,5 +1,21 @@
 
 [[readings]]
+  id = 773701
+  isbn = "0060953616"
+  isbn13 = "9780060953614"
+  num_pages = 0
+  published_year = 0
+  rating = 2
+  read_at = 0001-01-01T00:00:00Z
+  review = "Nominally interesting read given it's a perspective on the most famous Everest tragedy of all time, but suffers from quality problems: uneven stream of consciousness journal-style entries don't produce a cohesive narrative, author is self-centered to the exclusion of almost everything else, and the prose is quite disjointed and not fluid to read (translation problem?). The pacing is uneven — all the action takes place in the last 50 pages, so those can be skimmed to efficiently extract the majority of the book's worthwhile content quickly."
+  review_id = 6152053814
+  title = "Climbing High: A Woman's Account of Surviving the Everest Tragedy"
+
+  [[readings.authors]]
+    id = 407198
+    name = "Lene Gammelgaard"
+
+[[readings]]
   id = 43301353
   isbn = ""
   isbn13 = ""
