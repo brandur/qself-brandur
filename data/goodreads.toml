@@ -3945,11 +3945,11 @@
   read_at = 2013-08-04T00:00:00-07:00
   review = ""
   review_id = 686567042
-  title = "Building Hypermedia APIs with HTML5 and Node: Creating Evolvable Hypermedia Applications"
+  title = "Building Hypermedia APIs with Html5 and Node: Creating Evolvable Hypermedia Applications"
 
   [[readings.authors]]
-    id = 176637
-    name = "Mike Amundsen"
+    id = 47824258
+    name = "Amundsen Mike"
 
 [[readings]]
   id = 16160797
