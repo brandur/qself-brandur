@@ -1,5 +1,37 @@
 
 [[readings]]
+  id = 35875241
+  isbn = "1988298156"
+  isbn13 = "9781988298153"
+  num_pages = 0
+  published_year = 2017
+  rating = 0
+  read_at = 2024-01-28T00:00:00-08:00
+  review = "An eclectic art book telling the story of a family with an aging parent and mental illness in a brother led to a complex interpersonal situation and interaction with the health care system. A sobering tale, it will remind its reader of their own morality, and how precipitous the health of our minds and bodies really are."
+  review_id = 6213138759
+  title = "The Unravelling: How our caregiving safety net came unstrung and we were left grasping at threads, struggling to plait a new one"
+
+  [[readings.authors]]
+    id = 487308
+    name = "Clem Martini"
+
+[[readings]]
+  id = 22635841
+  isbn = "0062259520"
+  isbn13 = "9780062259523"
+  num_pages = 0
+  published_year = 0
+  rating = 4
+  read_at = 2024-01-22T00:00:00-08:00
+  review = "Excellent book, containing many fascinating stories from Paul's time in the Amazon. Covers encounters with everything from caimans to anteaters to poachers to anacondas, and slips in some natural history and needed championship for the area's conservation."
+  review_id = 6213115866
+  title = "Mother of God: An Extraordinary Journey into the Uncharted Tributaries of the Western Amazon"
+
+  [[readings.authors]]
+    id = 7127284
+    name = "Paul Rosolie"
+
+[[readings]]
   id = 773701
   isbn = "0060953616"
   isbn13 = "9780060953614"
