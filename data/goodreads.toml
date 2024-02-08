@@ -425,7 +425,7 @@
   read_at = 2022-07-08T00:00:00-07:00
   review = "Certainly a worthwhile read — the author makes a strong argument that our attention economy has been objectively shrinking over time (it's not just perception), and a big part of that is how the apps we're using are a central caused as they're designed to maximize time-on-app. This is of course true, and it's nice to see the someone make the case to show it as objectively as possible. Also interesting is that he presents a somewhat nihilist take in some parts where he admits to not having an easy one-size-fits-all solution to the problem as we're in the position of having to try and fight off our own bad instincts. The book's weakness is that it very likely could've been an essay instead of a book — by the end of it he's wandered pretty far off track (for example, he finishes with a long segment on climate change), which you get the feeling is there to flesh out the page numbers."
   review_id = 4833461596
-  title = "Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again"
+  title = "Stolen Focus: Why You Can't Pay Attention— and How to Think Deeply Again"
 
   [[readings.authors]]
     id = 321601
@@ -3625,7 +3625,7 @@
   read_at = 2019-05-14T00:00:00-07:00
   review = ""
   review_id = 1199953260
-  title = "Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety (ALA Notable Books for Adults)"
+  title = "Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety"
 
   [[readings.authors]]
     id = 380
