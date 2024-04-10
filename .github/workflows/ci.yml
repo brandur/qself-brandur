@@ -4,8 +4,9 @@ on:
   pull_request:
   push:
   schedule:
+    # Disabled now that all these APIs are dead and none of this really works anymore.
     # Once every 3 hours.
-    - cron: "0 */3 * * *"
+    # - cron: "0 */3 * * *"
 
 jobs:
   build:
